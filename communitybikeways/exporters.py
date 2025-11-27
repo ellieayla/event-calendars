@@ -32,6 +32,9 @@ class ICalItemExporter(BaseItemExporter):
 
         e.add("dtstart", icalendar.vDatetime(item['start_datetime']))
         e.add("dtend", icalendar.vDatetime(item['end_datetime']))
+        e.add("dtstamp", icalendar.vDatetime(item['updated_at']))
+
+        e.add("location", icalendar.vText(item['location']))
 
         e.add("description", icalendar.vText(item['description']))
 

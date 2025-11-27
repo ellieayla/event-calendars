@@ -31,7 +31,10 @@ class EventsSpider(scrapy.Spider):
 
         content = response.css(".events-item .html-block")
 
-        description = html2text(content.get())
+        try:
+            description = html2text(content.get())
+        except AttributeError:
+            description = ""
 
         yield scrapy.Request(
             response.urljoin(ics_url),
@@ -47,9 +50,10 @@ class EventsSpider(scrapy.Spider):
         
         base_event = base_calendar.walk('vevent')[0]
 
-        location = base_event.decoded("location").decode()
+        location = base_event.decoded("location", default="")
         start_time = base_event.decoded('dtstart')
         end_time = base_event.decoded('dtend')
+        dtstamp_updated_at_datetime = base_event.decoded('dtstamp')
         url = base_event.decoded('url', default="")
         summary = base_event.decoded('summary').decode()
 
@@ -62,9 +66,10 @@ class EventsSpider(scrapy.Spider):
 
             start_datetime = start_time,
             end_datetime = end_time,
+            updated_at = dtstamp_updated_at_datetime,
 
             location = location,
             description = description,
         )
-        #print(f"{e=}")
+        print(f"{e=} has {location=}")
         yield e
