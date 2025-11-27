@@ -2,6 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//communitybikewaysto.ca//verselogic.net//
 METHOD:PUBLISH
+X-WR-CALNAME:Toronto Community Bikeways
+BEGIN:VEVENT
+SUMMARY:Rally & Ride
+DTSTART:20241023T210000Z
+DTEND:20241024T000000Z
+DTSTAMP:20241115T222135Z
+UID:2d48d53e-97b0-5a62-a6fd-c1eb2f8e7559
+DESCRIPTION:Join us for a community ride promoting road safety and bike la
+ nes in Toronto!\n\n**Sign up** for the rally on Wednesday\, October 23\n[h
+ ere](https://www.eventbrite.ca/e/rally-ride-for-road-safety-\ntickets-1045
+ 417761667).\n\nMore info at <https://www.jessicabellmpp.ca/rally_ride>.\n\
+ n
+LOCATION:Queens Park\, Toronto\, ON\, M5S\, Canada
+URL:https://www.communitybikewaysto.ca/events/rally-ride
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fight for Bikes Rally
 DTSTART:20241109T190000Z
@@ -16,18 +31,15 @@ LOCATION:Christie Pits\, 750 Bloor Street West\, Toronto\, ON\, M6G 3K4\,
 URL:https://www.communitybikewaysto.ca/events/fight-for-bikes-rally
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rally & Ride
-DTSTART:20241023T210000Z
-DTEND:20241024T000000Z
-DTSTAMP:20241115T222135Z
-UID:2d48d53e-97b0-5a62-a6fd-c1eb2f8e7559
-DESCRIPTION:Join us for a community ride promoting road safety and bike la
- nes in Toronto!\n\n**Sign up** for the rally on Wednesday\, October 23\n[h
- ere](https://www.eventbrite.ca/e/rally-ride-for-road-safety-\ntickets-1045
- 417761667).\n\nMore info at <https://www.jessicabellmpp.ca/rally_ride>.\n\
- n
-LOCATION:Queens Park\, Toronto\, ON\, M5S\, Canada
-URL:https://www.communitybikewaysto.ca/events/rally-ride
+SUMMARY:Pedal Protest: East End Vs. Bill 212
+DTSTART:20241117T203000Z
+DTEND:20241117T233000Z
+DTSTAMP:20241115T220853Z
+UID:aff50049-1e31-5279-95f2-cb37b615bf64
+DESCRIPTION:Join our Pedal Protest against Bill 212!\n\n
+LOCATION:Alexander the Great Plaza\, Toronto\, ON\, M4K 3E4\, Canada
+URL:https://www.communitybikewaysto.ca/events/pedal-protest-east-end-vs-bi
+ ll-212
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:World Day of Remembrance
@@ -58,17 +70,6 @@ DESCRIPTION:An informal get-together at a coffee shop or diner in The King
  .Toronto@gmail.com](mailto:Community.Bikeways.Toronto@gmail.com)\n\n
 LOCATION:
 URL:https://www.communitybikewaysto.ca/events/koffee-on-the-kingsway
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Critical Mass Ride
-DTSTART:20241129T233000Z
-DTEND:20241130T023000Z
-DTSTAMP:20241130T201242Z
-UID:da418312-eaf5-5e61-9e6c-43a76082f807
-DESCRIPTION:Join us in High Park for the Critical Mass Ride to fight for o
- ur bike lanes!\n\n
-LOCATION:1873 Bloor St W\, Toronto\, ON\, M6R 2Z3\, Canada
-URL:https://www.communitybikewaysto.ca/events/critical-mass-high-park
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Koffee On The Kingsway (Biweekly)
@@ -294,6 +295,17 @@ URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
  rj-hes9w-d6lmx-bgrkn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Critical Mass Ride
+DTSTART:20241129T233000Z
+DTEND:20241130T023000Z
+DTSTAMP:20241130T201242Z
+UID:da418312-eaf5-5e61-9e6c-43a76082f807
+DESCRIPTION:Join us in High Park for the Critical Mass Ride to fight for o
+ ur bike lanes!\n\n
+LOCATION:1873 Bloor St W\, Toronto\, ON\, M6R 2Z3\, Canada
+URL:https://www.communitybikewaysto.ca/events/critical-mass-high-park
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Koffee On The Kingsway (Biweekly)
 DTSTART:20250725T113000Z
 DTEND:20250725T131500Z
@@ -311,17 +323,6 @@ LOCATION:Creme de la Creme Cafe\, 2991 Bloor Street West\, Toronto\, ON\,
  M8X 1C1\, Canada
 URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
  rj-hes9w-d6lmx-bgrkn-s9nbd
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pedal Protest: East End Vs. Bill 212
-DTSTART:20241117T203000Z
-DTEND:20241117T233000Z
-DTSTAMP:20241115T220853Z
-UID:aff50049-1e31-5279-95f2-cb37b615bf64
-DESCRIPTION:Join our Pedal Protest against Bill 212!\n\n
-LOCATION:Alexander the Great Plaza\, Toronto\, ON\, M4K 3E4\, Canada
-URL:https://www.communitybikewaysto.ca/events/pedal-protest-east-end-vs-bi
- ll-212
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Koffee On The Kingsway (Biweekly)
@@ -343,17 +344,6 @@ URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
  rj-hes9w-d6lmx-4ewd5-7dj84
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Islington Bike Day
-DTSTART:20250921T140000Z
-DTEND:20250921T170000Z
-DTSTAMP:20250912T185535Z
-UID:88c8ceac-0d2e-5345-9324-f66fc24376b1
-DESCRIPTION:
-LOCATION:Mabelle Park\, 38 Mabelle Avenue\, Toronto\, ON\, M9A 5B1\, Canad
- a
-URL:https://www.communitybikewaysto.ca/events/islington-bike-day
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Back To School Bike Tune-Up
 DTSTART:20250830T140000Z
 DTEND:20250830T163000Z
@@ -364,6 +354,17 @@ LOCATION:Mabelle Park\, 38 Mabelle Avenue\, Toronto\, ON\, M9A 5B1\, Canad
  a
 URL:https://www.communitybikewaysto.ca/events/15kp6zmbynm56abvrgeom2q3e5g3
  jy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Islington Bike Day
+DTSTART:20250921T140000Z
+DTEND:20250921T170000Z
+DTSTAMP:20250912T185535Z
+UID:88c8ceac-0d2e-5345-9324-f66fc24376b1
+DESCRIPTION:
+LOCATION:Mabelle Park\, 38 Mabelle Avenue\, Toronto\, ON\, M9A 5B1\, Canad
+ a
+URL:https://www.communitybikewaysto.ca/events/islington-bike-day
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parents against speeding TO
