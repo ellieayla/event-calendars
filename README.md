@@ -7,4 +7,4 @@ This project grabs the iCalendar files for public events and combines them into 
 
 ## Events
 
- * [dates.ical](webcal://github.com/ellieayla/communitybikeways-events-ical/raw/refs/heads/main/dates.ical)
+ * [dates.ical](https://github.com/ellieayla/communitybikeways-events-ical/raw/refs/heads/main/dates.ical)
