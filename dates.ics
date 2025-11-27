@@ -3,46 +3,6 @@ VERSION:2.0
 PRODID:-//communitybikewaysto.ca//verselogic.net//
 METHOD:PUBLISH
 BEGIN:VEVENT
-SUMMARY:Fight for Bikes Rally
-DTSTART:20241109T190000Z
-DTEND:20241109T220000Z
-UID:a3ca7cd3-532f-5814-8ae5-65f8a0dfa7fb
-DESCRIPTION:Rally with us to protect our bike lanes on Bloor\, Yonge and U
- niversity.\n\nMore info here <https://www.fightforbikes.org/past-events>\n
- \n
-URL:https://www.communitybikewaysto.ca/events/fight-for-bikes-rally
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pedal Protest: East End Vs. Bill 212
-DTSTART:20241117T203000Z
-DTEND:20241117T233000Z
-UID:aff50049-1e31-5279-95f2-cb37b615bf64
-DESCRIPTION:Join our Pedal Protest against Bill 212!\n\n
-URL:https://www.communitybikewaysto.ca/events/pedal-protest-east-end-vs-bi
- ll-212
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:World Day of Remembrance
-DTSTART:20241117T213000Z
-DTEND:20241118T003000Z
-UID:c7b05da3-2711-564d-9e2e-48fc967dcb87
-DESCRIPTION:Join Friends and Families for Safe Streets at Queen’s Park a
- t 4:30 p.m. for a\n5 p.m. start time.\n\nMore info at <https://avenueroads
- afetycoalition.ca/world-day-of-remembrance-\nfor-road-traffic-\nvictims/#:
- ~:text=Queen's%20Park%2C%20Toronto\,lit%20march%20around%20Queen's%20Park>
- \n\n
-URL:https://www.communitybikewaysto.ca/events/world-day-of-remembrance
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Critical Mass Ride
-DTSTART:20241129T233000Z
-DTEND:20241130T023000Z
-UID:da418312-eaf5-5e61-9e6c-43a76082f807
-DESCRIPTION:Join us in High Park for the Critical Mass Ride to fight for o
- ur bike lanes!\n\n
-URL:https://www.communitybikewaysto.ca/events/critical-mass-high-park
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Koffee On The Kingsway (Biweekly)
 DTSTART:20241206T123000Z
 DTEND:20241206T141500Z
@@ -57,18 +17,6 @@ DESCRIPTION:Join us at Café de Flore on December 6th!\n\nKoffee on the Ki
  oronto@gmail.com](mailto:Community.Bikeways.Toronto@gmail.com)\n\n
 URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
  rj
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rally & Ride
-DTSTART:20241023T210000Z
-DTEND:20241024T000000Z
-UID:2d48d53e-97b0-5a62-a6fd-c1eb2f8e7559
-DESCRIPTION:Join us for a community ride promoting road safety and bike la
- nes in Toronto!\n\n**Sign up** for the rally on Wednesday\, October 23\n[h
- ere](https://www.eventbrite.ca/e/rally-ride-for-road-safety-\ntickets-1045
- 417761667).\n\nMore info at <https://www.jessicabellmpp.ca/rally_ride>.\n\
- n
-URL:https://www.communitybikewaysto.ca/events/rally-ride
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Koffee On The Kingsway (Biweekly) 
@@ -87,20 +35,14 @@ URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
  rj-hes9w
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Koffee On The Kingsway (Biweekly) 
-DTSTART:20250228T123000Z
-DTEND:20250228T141500Z
-UID:57841b10-301d-529d-99ab-da754bb3edb6
-DESCRIPTION:Join us at Café de Flore on December 20th!\n\nKoffee on the K
- ingsway is an informal get-together at a coffee shop or diner\nin The King
- sway area of Bloor West. Email us for specific details about the\ndate (ev
- ery second Friday) and location of the event\, which usually runs\nbetween
-  7:30 and 9:15am. We rotate between local coffee shops\, including Hot\nOv
- en Bakery\, Rouge Café\, Toast on Bloor\, Creme de la Creme\, Coffee Tree
- \nRoastery (Bloor W Village)\, and Café de Flore.\n\n[Community.Bikeways.
- Toronto@gmail.com](mailto:Community.Bikeways.Toronto@gmail.com)\n\n
-URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
- rj-hes9w-d6lmx
+SUMMARY:Fridays for Future
+DTSTART:20241207T190000Z
+DTEND:20241207T220000Z
+UID:b19537d4-c9f5-5b47-b7f1-e0c4ff0e7c69
+DESCRIPTION:Join us in High Park to support the Fridays for Future protest
+  in support of\nbike lanes in Toronto.\n\n
+URL:https://www.communitybikewaysto.ca/events/nkkg0u6vc88va9g7rjhd1jeoc7nx
+ 0b
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Earth Day Ride in North York
@@ -119,16 +61,20 @@ DESCRIPTION:Join us for a leisurely 9km ride around North York to explore
 URL:https://www.communitybikewaysto.ca/events/earth-day-ride-in-north-york
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bike Lanes (or lack thereof): the Pedestrian Experience
-DTSTART:20250503T190000Z
-DTEND:20250503T203000Z
-UID:aa34a99d-dadd-524c-958b-82ac696bb444
-DESCRIPTION:Jane's Walk event. Saturday\, May 3\, starting at 3pm (and end
- ing at about\n4:30pm). Chester Station on Danforth Avenue. With Albert Koe
- hl\, Lee Scott\, and\nDylan Reid. [Details here.](https://www.janeswalkfes
- tivalto.com/saturday-\nmay-3-2025/bike-lanes-pedestrian-experience)\n\n
-URL:https://www.communitybikewaysto.ca/events/bike-lanes-or-lack-thereof-t
- he-pedestrian-experience
+SUMMARY:Koffee On The Kingsway (Biweekly) 
+DTSTART:20250228T123000Z
+DTEND:20250228T141500Z
+UID:57841b10-301d-529d-99ab-da754bb3edb6
+DESCRIPTION:Join us at Café de Flore on December 20th!\n\nKoffee on the K
+ ingsway is an informal get-together at a coffee shop or diner\nin The King
+ sway area of Bloor West. Email us for specific details about the\ndate (ev
+ ery second Friday) and location of the event\, which usually runs\nbetween
+  7:30 and 9:15am. We rotate between local coffee shops\, including Hot\nOv
+ en Bakery\, Rouge Café\, Toast on Bloor\, Creme de la Creme\, Coffee Tree
+ \nRoastery (Bloor W Village)\, and Café de Flore.\n\n[Community.Bikeways.
+ Toronto@gmail.com](mailto:Community.Bikeways.Toronto@gmail.com)\n\n
+URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
+ rj-hes9w-d6lmx
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bikes\, Bikes\, and E-Bikes
@@ -171,14 +117,16 @@ URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
  rj-hes9w-d6lmx-4ewd5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fridays for Future
-DTSTART:20241207T190000Z
-DTEND:20241207T220000Z
-UID:b19537d4-c9f5-5b47-b7f1-e0c4ff0e7c69
-DESCRIPTION:Join us in High Park to support the Fridays for Future protest
-  in support of\nbike lanes in Toronto.\n\n
-URL:https://www.communitybikewaysto.ca/events/nkkg0u6vc88va9g7rjhd1jeoc7nx
- 0b
+SUMMARY:Bike Lanes (or lack thereof): the Pedestrian Experience
+DTSTART:20250503T190000Z
+DTEND:20250503T203000Z
+UID:aa34a99d-dadd-524c-958b-82ac696bb444
+DESCRIPTION:Jane's Walk event. Saturday\, May 3\, starting at 3pm (and end
+ ing at about\n4:30pm). Chester Station on Danforth Avenue. With Albert Koe
+ hl\, Lee Scott\, and\nDylan Reid. [Details here.](https://www.janeswalkfes
+ tivalto.com/saturday-\nmay-3-2025/bike-lanes-pedestrian-experience)\n\n
+URL:https://www.communitybikewaysto.ca/events/bike-lanes-or-lack-thereof-t
+ he-pedestrian-experience
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chalk My Walk
@@ -238,6 +186,58 @@ DESCRIPTION:Koffee on the Kingsway is an informal get-together at a coffee
  ronto@gmail.com)\n\n
 URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
  rj-hes9w-d6lmx-4ewd5-7dj84
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rally & Ride
+DTSTART:20241023T210000Z
+DTEND:20241024T000000Z
+UID:2d48d53e-97b0-5a62-a6fd-c1eb2f8e7559
+DESCRIPTION:Join us for a community ride promoting road safety and bike la
+ nes in Toronto!\n\n**Sign up** for the rally on Wednesday\, October 23\n[h
+ ere](https://www.eventbrite.ca/e/rally-ride-for-road-safety-\ntickets-1045
+ 417761667).\n\nMore info at <https://www.jessicabellmpp.ca/rally_ride>.\n\
+ n
+URL:https://www.communitybikewaysto.ca/events/rally-ride
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fight for Bikes Rally
+DTSTART:20241109T190000Z
+DTEND:20241109T220000Z
+UID:a3ca7cd3-532f-5814-8ae5-65f8a0dfa7fb
+DESCRIPTION:Rally with us to protect our bike lanes on Bloor\, Yonge and U
+ niversity.\n\nMore info here <https://www.fightforbikes.org/past-events>\n
+ \n
+URL:https://www.communitybikewaysto.ca/events/fight-for-bikes-rally
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pedal Protest: East End Vs. Bill 212
+DTSTART:20241117T203000Z
+DTEND:20241117T233000Z
+UID:aff50049-1e31-5279-95f2-cb37b615bf64
+DESCRIPTION:Join our Pedal Protest against Bill 212!\n\n
+URL:https://www.communitybikewaysto.ca/events/pedal-protest-east-end-vs-bi
+ ll-212
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:World Day of Remembrance
+DTSTART:20241117T213000Z
+DTEND:20241118T003000Z
+UID:c7b05da3-2711-564d-9e2e-48fc967dcb87
+DESCRIPTION:Join Friends and Families for Safe Streets at Queen’s Park a
+ t 4:30 p.m. for a\n5 p.m. start time.\n\nMore info at <https://avenueroads
+ afetycoalition.ca/world-day-of-remembrance-\nfor-road-traffic-\nvictims/#:
+ ~:text=Queen's%20Park%2C%20Toronto\,lit%20march%20around%20Queen's%20Park>
+ \n\n
+URL:https://www.communitybikewaysto.ca/events/world-day-of-remembrance
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Critical Mass Ride
+DTSTART:20241129T233000Z
+DTEND:20241130T023000Z
+UID:da418312-eaf5-5e61-9e6c-43a76082f807
+DESCRIPTION:Join us in High Park for the Critical Mass Ride to fight for o
+ ur bike lanes!\n\n
+URL:https://www.communitybikewaysto.ca/events/critical-mass-high-park
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Koffee On The Kingsway (Biweekly)
