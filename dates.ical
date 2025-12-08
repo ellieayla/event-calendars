@@ -42,6 +42,20 @@ URL:https://www.communitybikewaysto.ca/events/pedal-protest-east-end-vs-bi
  ll-212
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:World Day of Remembrance
+DTSTART:20241117T213000Z
+DTEND:20241118T003000Z
+DTSTAMP:20241115T222212Z
+UID:c7b05da3-2711-564d-9e2e-48fc967dcb87
+DESCRIPTION:Join Friends and Families for Safe Streets at Queen’s Park a
+ t 4:30 p.m. for a\n5 p.m. start time.\n\nMore info at <https://avenueroads
+ afetycoalition.ca/world-day-of-remembrance-\nfor-road-traffic-\nvictims/#:
+ ~:text=Queen's%20Park%2C%20Toronto\,lit%20march%20around%20Queen's%20Park>
+ \n\n
+LOCATION:Queens Park\, Queens Park\, Toronto\, ON\, M5S\, Canada
+URL:https://www.communitybikewaysto.ca/events/world-day-of-remembrance
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Koffee On The Kingsway (Biweekly)
 DTSTART:20241122T123000Z
 DTEND:20241122T141500Z
@@ -164,25 +178,6 @@ URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
  rj-hes9w-d6lmx
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Earth Day Ride in North York
-DTSTART:20250426T140000Z
-DTEND:20250426T153000Z
-DTSTAMP:20250424T210048Z
-UID:02531c17-c594-5665-adf4-894676eeeb0a
-DESCRIPTION:Join us for a leisurely 9km ride around North York to explore 
- some local\nstreets and the unfolding story about planned changes to make 
- Yonge Street\nmore people-friendly. Meet at the parkette at the corner of 
- Yonge Street and\nPark Home Avenue (in front of Aroma Espresso\, one block
-  north of the North\nYork Civic Centre). If arriving from outside North Yo
- rk\, consider taking the\nTTC and renting a Bike Share bike nearby. [Detai
- ls\nhere](https://www.facebook.com/events/526071400571287/?post_id=5284082
- 33670937&view=permalink&notif_id=1745329422975867&notif_t=feedback_reactio
- n_generic&ref=notif).\n\n
-LOCATION:Aroma Espresso Bar\, 8 Park Home Avenue\, Toronto\, ON\, M2N 0J4\
- , Canada
-URL:https://www.communitybikewaysto.ca/events/earth-day-ride-in-north-york
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bike Lanes (or lack thereof): the Pedestrian Experience
 DTSTART:20250503T190000Z
 DTEND:20250503T203000Z
@@ -247,6 +242,25 @@ URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
  rj-hes9w-d6lmx-4ewd5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Earth Day Ride in North York
+DTSTART:20250426T140000Z
+DTEND:20250426T153000Z
+DTSTAMP:20250424T210048Z
+UID:02531c17-c594-5665-adf4-894676eeeb0a
+DESCRIPTION:Join us for a leisurely 9km ride around North York to explore 
+ some local\nstreets and the unfolding story about planned changes to make 
+ Yonge Street\nmore people-friendly. Meet at the parkette at the corner of 
+ Yonge Street and\nPark Home Avenue (in front of Aroma Espresso\, one block
+  north of the North\nYork Civic Centre). If arriving from outside North Yo
+ rk\, consider taking the\nTTC and renting a Bike Share bike nearby. [Detai
+ ls\nhere](https://www.facebook.com/events/526071400571287/?post_id=5284082
+ 33670937&view=permalink&notif_id=1745329422975867&notif_t=feedback_reactio
+ n_generic&ref=notif).\n\n
+LOCATION:Aroma Espresso Bar\, 8 Park Home Avenue\, Toronto\, ON\, M2N 0J4\
+ , Canada
+URL:https://www.communitybikewaysto.ca/events/earth-day-ride-in-north-york
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chalk My Walk
 DTSTART:20250607T180000Z
 DTEND:20250607T210000Z
@@ -259,20 +273,6 @@ DESCRIPTION:Join us at our table at the Chalk My Walk event on June 7th fr
 LOCATION:Mount Dennis\, Eglinton Ave West and Weston Road\, Toronto\, ON\,
   M6M 4P4\, Canada
 URL:https://www.communitybikewaysto.ca/events/chalk-my-walk
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:World Day of Remembrance
-DTSTART:20241117T213000Z
-DTEND:20241118T003000Z
-DTSTAMP:20241115T222212Z
-UID:c7b05da3-2711-564d-9e2e-48fc967dcb87
-DESCRIPTION:Join Friends and Families for Safe Streets at Queen’s Park a
- t 4:30 p.m. for a\n5 p.m. start time.\n\nMore info at <https://avenueroads
- afetycoalition.ca/world-day-of-remembrance-\nfor-road-traffic-\nvictims/#:
- ~:text=Queen's%20Park%2C%20Toronto\,lit%20march%20around%20Queen's%20Park>
- \n\n
-LOCATION:Queens Park\, Queens Park\, Toronto\, ON\, M5S\, Canada
-URL:https://www.communitybikewaysto.ca/events/world-day-of-remembrance
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Evergreen Brickworks Ride
