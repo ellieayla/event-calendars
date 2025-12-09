@@ -4,20 +4,6 @@ PRODID:-//communitybikewaysto.ca//verselogic.net//
 METHOD:PUBLISH
 X-WR-CALNAME:Toronto Community Bikeways
 BEGIN:VEVENT
-SUMMARY:Rally & Ride
-DTSTART:20241023T210000Z
-DTEND:20241024T000000Z
-DTSTAMP:20241115T222135Z
-UID:2d48d53e-97b0-5a62-a6fd-c1eb2f8e7559
-DESCRIPTION:Join us for a community ride promoting road safety and bike la
- nes in Toronto!\n\n**Sign up** for the rally on Wednesday\, October 23\n[h
- ere](https://www.eventbrite.ca/e/rally-ride-for-road-safety-\ntickets-1045
- 417761667).\n\nMore info at <https://www.jessicabellmpp.ca/rally_ride>.\n\
- n
-LOCATION:Queens Park\, Toronto\, ON\, M5S\, Canada
-URL:https://www.communitybikewaysto.ca/events/rally-ride
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fight for Bikes Rally
 DTSTART:20241109T190000Z
 DTEND:20241109T220000Z
@@ -178,6 +164,25 @@ URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
  rj-hes9w-d6lmx
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Earth Day Ride in North York
+DTSTART:20250426T140000Z
+DTEND:20250426T153000Z
+DTSTAMP:20250424T210048Z
+UID:02531c17-c594-5665-adf4-894676eeeb0a
+DESCRIPTION:Join us for a leisurely 9km ride around North York to explore 
+ some local\nstreets and the unfolding story about planned changes to make 
+ Yonge Street\nmore people-friendly. Meet at the parkette at the corner of 
+ Yonge Street and\nPark Home Avenue (in front of Aroma Espresso\, one block
+  north of the North\nYork Civic Centre). If arriving from outside North Yo
+ rk\, consider taking the\nTTC and renting a Bike Share bike nearby. [Detai
+ ls\nhere](https://www.facebook.com/events/526071400571287/?post_id=5284082
+ 33670937&view=permalink&notif_id=1745329422975867&notif_t=feedback_reactio
+ n_generic&ref=notif).\n\n
+LOCATION:Aroma Espresso Bar\, 8 Park Home Avenue\, Toronto\, ON\, M2N 0J4\
+ , Canada
+URL:https://www.communitybikewaysto.ca/events/earth-day-ride-in-north-york
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bike Lanes (or lack thereof): the Pedestrian Experience
 DTSTART:20250503T190000Z
 DTEND:20250503T203000Z
@@ -240,25 +245,6 @@ LOCATION:Café Rouge\, 2898 Bloor Street West\, Toronto\, ON\, M8X 1B5\, C
  anada
 URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
  rj-hes9w-d6lmx-4ewd5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Earth Day Ride in North York
-DTSTART:20250426T140000Z
-DTEND:20250426T153000Z
-DTSTAMP:20250424T210048Z
-UID:02531c17-c594-5665-adf4-894676eeeb0a
-DESCRIPTION:Join us for a leisurely 9km ride around North York to explore 
- some local\nstreets and the unfolding story about planned changes to make 
- Yonge Street\nmore people-friendly. Meet at the parkette at the corner of 
- Yonge Street and\nPark Home Avenue (in front of Aroma Espresso\, one block
-  north of the North\nYork Civic Centre). If arriving from outside North Yo
- rk\, consider taking the\nTTC and renting a Bike Share bike nearby. [Detai
- ls\nhere](https://www.facebook.com/events/526071400571287/?post_id=5284082
- 33670937&view=permalink&notif_id=1745329422975867&notif_t=feedback_reactio
- n_generic&ref=notif).\n\n
-LOCATION:Aroma Espresso Bar\, 8 Park Home Avenue\, Toronto\, ON\, M2N 0J4\
- , Canada
-URL:https://www.communitybikewaysto.ca/events/earth-day-ride-in-north-york
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chalk My Walk
