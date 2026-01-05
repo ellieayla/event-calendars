@@ -17,6 +17,17 @@ LOCATION:Christie Pits\, 750 Bloor Street West\, Toronto\, ON\, M6G 3K4\,
 URL:https://www.communitybikewaysto.ca/events/fight-for-bikes-rally
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pedal Protest: East End Vs. Bill 212
+DTSTART:20241117T203000Z
+DTEND:20241117T233000Z
+DTSTAMP:20241115T220853Z
+UID:aff50049-1e31-5279-95f2-cb37b615bf64
+DESCRIPTION:Join our Pedal Protest against Bill 212!\n\n
+LOCATION:Alexander the Great Plaza\, Toronto\, ON\, M4K 3E4\, Canada
+URL:https://www.communitybikewaysto.ca/events/pedal-protest-east-end-vs-bi
+ ll-212
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:World Day of Remembrance
 DTSTART:20241117T213000Z
 DTEND:20241118T003000Z
@@ -45,17 +56,6 @@ DESCRIPTION:An informal get-together at a coffee shop or diner in The King
  .Toronto@gmail.com](mailto:Community.Bikeways.Toronto@gmail.com)\n\n
 LOCATION:
 URL:https://www.communitybikewaysto.ca/events/koffee-on-the-kingsway
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Critical Mass Ride
-DTSTART:20241129T233000Z
-DTEND:20241130T023000Z
-DTSTAMP:20241130T201242Z
-UID:da418312-eaf5-5e61-9e6c-43a76082f807
-DESCRIPTION:Join us in High Park for the Critical Mass Ride to fight for o
- ur bike lanes!\n\n
-LOCATION:1873 Bloor St W\, Toronto\, ON\, M6R 2Z3\, Canada
-URL:https://www.communitybikewaysto.ca/events/critical-mass-high-park
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Koffee On The Kingsway (Biweekly)
@@ -172,34 +172,6 @@ LOCATION:Aroma Espresso Bar\, 8 Park Home Avenue\, Toronto\, ON\, M2N 0J4\
 URL:https://www.communitybikewaysto.ca/events/earth-day-ride-in-north-york
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pedal Protest: East End Vs. Bill 212
-DTSTART:20241117T203000Z
-DTEND:20241117T233000Z
-DTSTAMP:20241115T220853Z
-UID:aff50049-1e31-5279-95f2-cb37b615bf64
-DESCRIPTION:Join our Pedal Protest against Bill 212!\n\n
-LOCATION:Alexander the Great Plaza\, Toronto\, ON\, M4K 3E4\, Canada
-URL:https://www.communitybikewaysto.ca/events/pedal-protest-east-end-vs-bi
- ll-212
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bikes\, Bikes\, and E-Bikes
-DTSTART:20250504T140000Z
-DTEND:20250504T153000Z
-DTSTAMP:20250426T001614Z
-UID:ce7858b4-8853-5987-a6c1-34270e9e30a9
-DESCRIPTION:Jane's Walk event on Sunday\, May 4 at 10am (ending at about 1
- 1:30am). Start\npoint NE corner of Bloor Street and Brunswick Ave. Total w
- alk distance: 1.5km.\nHosted by Eric Kamphof\, Pedaal Coffee + Bikes and A
- lbert Koehl\, Coordinator\,\nCommunity Bikeways. Learn about the desirable
-  proliferation of e-bikes on city\nstreets\, and work that needs to be don
- e by governments to regulate the growing\nsize\, weight and power of some 
- e-bikes. Free. Family-friendly. No registration\nrequired.\n\n
-LOCATION:NE corner of Bloor Street West and Brunswick Avenue\, Toronto\, O
- N\, M5S 1X4\, Canada
-URL:https://www.communitybikewaysto.ca/events/bikes-bikes-and-e-bikes
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bike Lanes (or lack thereof): the Pedestrian Experience
 DTSTART:20250503T190000Z
 DTEND:20250503T203000Z
@@ -213,6 +185,30 @@ LOCATION:Chester Station\, 22 Chester Avenue\, Toronto\, ON\, M4K 2Z9\, Ca
  nada
 URL:https://www.communitybikewaysto.ca/events/bike-lanes-or-lack-thereof-t
  he-pedestrian-experience
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Critical Mass Ride
+DTSTART:20241129T233000Z
+DTEND:20241130T023000Z
+DTSTAMP:20241130T201242Z
+UID:da418312-eaf5-5e61-9e6c-43a76082f807
+DESCRIPTION:Join us in High Park for the Critical Mass Ride to fight for o
+ ur bike lanes!\n\n
+LOCATION:1873 Bloor St W\, Toronto\, ON\, M6R 2Z3\, Canada
+URL:https://www.communitybikewaysto.ca/events/critical-mass-high-park
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 Spring Bike Tune-up *NEW DATE!*
+DTSTART:20250531T133000Z
+DTEND:20250531T170000Z
+DTSTAMP:20250517T174806Z
+UID:7c11329e-b2d8-586d-b0f7-74b3388233ff
+DESCRIPTION:Join us for a free bike tune-up\, now on May 31st! The origina
+ l date was\npostponed due to rain.\n\n
+LOCATION:All Saints Kingsway parking lot (corner of Bloor St. W. and Princ
+ e Edward Dr. N.)\, All Saints\, Toronto\, ON\, M8X 1B5\, Canada
+URL:https://www.communitybikewaysto.ca/events/w1qnw328gdyg0b25v5hvp5i25v57
+ t8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Koffee On The Kingsway (Biweekly) 
@@ -248,6 +244,23 @@ LOCATION:Mount Dennis\, Eglinton Ave West and Weston Road\, Toronto\, ON\,
 URL:https://www.communitybikewaysto.ca/events/chalk-my-walk
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bikes\, Bikes\, and E-Bikes
+DTSTART:20250504T140000Z
+DTEND:20250504T153000Z
+DTSTAMP:20250426T001614Z
+UID:ce7858b4-8853-5987-a6c1-34270e9e30a9
+DESCRIPTION:Jane's Walk event on Sunday\, May 4 at 10am (ending at about 1
+ 1:30am). Start\npoint NE corner of Bloor Street and Brunswick Ave. Total w
+ alk distance: 1.5km.\nHosted by Eric Kamphof\, Pedaal Coffee + Bikes and A
+ lbert Koehl\, Coordinator\,\nCommunity Bikeways. Learn about the desirable
+  proliferation of e-bikes on city\nstreets\, and work that needs to be don
+ e by governments to regulate the growing\nsize\, weight and power of some 
+ e-bikes. Free. Family-friendly. No registration\nrequired.\n\n
+LOCATION:NE corner of Bloor Street West and Brunswick Avenue\, Toronto\, O
+ N\, M5S 1X4\, Canada
+URL:https://www.communitybikewaysto.ca/events/bikes-bikes-and-e-bikes
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Evergreen Brickworks Ride
 DTSTART:20250621T140000Z
 DTEND:20250621T163000Z
@@ -258,19 +271,6 @@ LOCATION:AccessPoint on Danforth\, 3079 Danforth Avenue\, Toronto\, ON\, M
  1L 1A8\, Canada
 URL:https://www.communitybikewaysto.ca/events/klfvxl1v98me51qgoi5jv82v14pa
  l0
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2025 Spring Bike Tune-up *NEW DATE!*
-DTSTART:20250531T133000Z
-DTEND:20250531T170000Z
-DTSTAMP:20250517T174806Z
-UID:7c11329e-b2d8-586d-b0f7-74b3388233ff
-DESCRIPTION:Join us for a free bike tune-up\, now on May 31st! The origina
- l date was\npostponed due to rain.\n\n
-LOCATION:All Saints Kingsway parking lot (corner of Bloor St. W. and Princ
- e Edward Dr. N.)\, All Saints\, Toronto\, ON\, M8X 1B5\, Canada
-URL:https://www.communitybikewaysto.ca/events/w1qnw328gdyg0b25v5hvp5i25v57
- t8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Koffee On The Kingsway (Biweekly) 
