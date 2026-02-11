@@ -244,19 +244,6 @@ URL:https://www.communitybikewaysto.ca/events/87cj2keh2z8tk4ayu32jdpzjys2x
  7l
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fight for Bikes Rally
-DTSTART:20241109T190000Z
-DTEND:20241109T220000Z
-DTSTAMP:20241115T222159Z
-UID:a3ca7cd3-532f-5814-8ae5-65f8a0dfa7fb
-DESCRIPTION:Rally with us to protect our bike lanes on Bloor\, Yonge and U
- niversity.\n\nMore info here <https://www.fightforbikes.org/past-events>\n
- \n
-LOCATION:Christie Pits\, 750 Bloor Street West\, Toronto\, ON\, M6G 3K4\, 
- Canada
-URL:https://www.communitybikewaysto.ca/events/fight-for-bikes-rally
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bike Lanes (or lack thereof): the Pedestrian Experience
 DTSTART:20250503T190000Z
 DTEND:20250503T203000Z
