@@ -1,6 +1,6 @@
 [project]
 name = "communitybikeways-events-ical"
-version = "0.1.0"
+version = "1.0.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
@@ -14,5 +14,4 @@ dependencies = [
 [dependency-groups]
 dev = [
     "pytest>=9.0.2",
-    "types-icalendar==6.3.2.20251222",
 ]
