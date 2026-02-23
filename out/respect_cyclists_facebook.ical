@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost Bike Ride For Jean Louis
 DTSTART;TZID=US/Eastern:20251101T140000
 DTEND;TZID=US/Eastern:20251101T153000
-DTSTAMP:20260223T054054Z
+DTSTAMP:20260223T060156Z
 UID:2aeb2798-b16e-5847-8cef-2243fb7287ee
 DESCRIPTION:On Friday\,  17 October 2025\, Jean Louis\, a 66-year-old male
  \, was cycling on Appleby Line and Harvester Road in Burlington. At approx
@@ -88,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:Critical Mask Halloween Bike Ride 
 DTSTART;TZID=US/Eastern:20251031T180000
 DTEND;TZID=US/Eastern:20251031T200000
-DTSTAMP:20260223T054053Z
+DTSTAMP:20260223T060156Z
 UID:5765bffd-5e02-53a4-a58d-e468cf451089
 DESCRIPTION:a monthly group bicycle ride that takes place in many cities w
  orldwide\, occurring on the last Friday of each month. It serves as both a
@@ -103,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost Bike Ride For Dave: Oakville
 DTSTART;TZID=US/Eastern:20251025T141500
 DTEND;TZID=US/Eastern:20251025T160000
-DTSTAMP:20260223T054052Z
+DTSTAMP:20260223T060156Z
 UID:7e211437-3194-5326-9896-5ab304595d69
 DESCRIPTION:On Tuesday\,  19 August 2025\, David Niblett\, a 67-year-old m
  ale\, was cycling westbound on Rebbecca Street\, near Third Line in Oakvil
