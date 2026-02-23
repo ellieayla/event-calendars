@@ -1,9 +1,6 @@
 import scrapy
 from scrapy.http import Response, HtmlResponse, Request
 
-from dateutil.tz import gettz
-
-
 from ..items import Event
 
 from event_calendars.fb_graphql import extract_prefetched_events_from_inline_json
@@ -12,7 +9,8 @@ from event_calendars.fb_graphql import Event as FBEvent
 from event_calendars.fb_graphql import RelayPrefetchedStreamCache_Result
 
 import json
-from datetime import datetime, timedelta, time
+from datetime import datetime, timedelta, time, timezone
+from zoneinfo import ZoneInfo
 from typing import Iterator
 
 class RespectCyclistsFacebookEvents(scrapy.Spider):
@@ -85,7 +83,11 @@ class RespectCyclistsFacebookEvents(scrapy.Spider):
                 if r.graph_method_name == 'PublicEventCometAboutRootQuery':
                     result = RelayPrefetchedStreamCache_Result.from_bbox(r.bbox)
                     if result.path == ["event"] and 'start_timestamp' in result.data:
-                        tzinfo = gettz(result.data["tz_display_name"])
+                        if result.data["tz_display_name"] in ('EST', 'EDT'):
+                            tzinfo = ZoneInfo("US/Eastern")
+                        else:
+                            raise ValueError(f"Unknown timezone {result.data['tz_display_name']}")
+                            tzinfo = ZoneInfo(result.data["tz_display_name"])
                         start_datetime = datetime.fromtimestamp(result.data["start_timestamp"], tzinfo)
                         end_datetime = datetime.fromtimestamp(result.data["end_timestamp"], tzinfo)
 
@@ -103,6 +105,9 @@ class RespectCyclistsFacebookEvents(scrapy.Spider):
             event.end_datetime = end_datetime
         event.url = response.url
 
+        assert ZoneInfo("US/Eastern") == ZoneInfo("US/Eastern")
+        if event.start_datetime.tzinfo != ZoneInfo("US/Eastern"):
+            raise ValueError(f"wtf timezone {event.start_datetime.tzinfo} {type(event.start_datetime.tzinfo)}")
         yield event
 
 
