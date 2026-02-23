@@ -92,7 +92,9 @@ def run_all(args: list[str], settings: Settings | None, crawler_process: AsyncCr
 
     spider_loader = get_spider_loader(settings)
 
-    for spider_name in sorted(spider_loader.list()):
+    all_spiders = sorted(spider_loader.list())
+    logger.info(f"Running spiders: {all_spiders}")
+    for spider_name in all_spiders:
         crawler_process.crawl(spider_name)
 
     crawler_process.start()  # the script will block here until all crawling jobs are finished

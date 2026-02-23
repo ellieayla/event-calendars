@@ -88,14 +88,17 @@ class Wayback:
         return ret
 
     def process_response(self, request: Request, response: Response) -> Response:
-        root_selector = response.xpath('.')[0]
-        html_element = root_selector.root
+        if request.meta.get('wayback_request'):
+            root_selector = response.xpath('.')[0]
+            html_element = root_selector.root
 
-        html_element.rewrite_links(strip_archive_prefix)
+            html_element.rewrite_links(strip_archive_prefix)
 
-        rendered_fixed_html: str = lxml.etree.tostring(html_element).decode()
+            rendered_fixed_html: str = lxml.etree.tostring(html_element).decode()
 
-        return response.replace(
-            url=strip_archive_prefix(response.url),
-            body=rendered_fixed_html,
-        )
+            return response.replace(
+                url=strip_archive_prefix(response.url),
+                body=rendered_fixed_html,
+            )
+
+        return response

@@ -20,7 +20,7 @@ def test_replace_body_links() -> None:
 
     download_middleware = Wayback(waybacked_domains=set(), acceptible_age=timedelta(seconds=0))
 
-    second_response = download_middleware.process_response(Request(url=response.url), response)
+    second_response = download_middleware.process_response(Request(url=response.url, meta={"wayback_request": True}), response)
 
     desired_body = body_template % desired_url
     assert second_response.body.decode() == desired_body

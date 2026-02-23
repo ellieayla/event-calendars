@@ -5,7 +5,7 @@ description = "Periodically checks community websites and export an iCalendar (.
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "datauri>=1.0.0",
+    "datauri>=1.1.0",
     "gql>=4.0.0",
     "html2text>=2025.4.15",
     "humanize>=4.15.0",
