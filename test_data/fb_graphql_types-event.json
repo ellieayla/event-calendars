@@ -1,0 +1,825 @@
+{
+  "name": "Event",
+  "primary_key": {
+    "name": "id",
+    "type": "String"
+  },
+  "fields": [
+    {
+      "name": "admin_setting",
+      "type": "EventAdminSetting"
+    },
+    {
+      "name": "album",
+      "type": "Album"
+    },
+    {
+      "name": "android_urls",
+      "type": "[Url]"
+    },
+    {
+      "name": "assigned_ticket_suborders",
+      "type": "EventToEventTicketSubOrderConnection"
+    },
+    {
+      "name": "attendance_config",
+      "type": "EventAttendanceConfig"
+    },
+    {
+      "name": "attending_activity",
+      "type": "InlineActivity"
+    },
+    {
+      "name": "can_guests_invite_friends",
+      "type": "Boolean"
+    },
+    {
+      "name": "can_post_be_moderated",
+      "type": "Boolean"
+    },
+    {
+      "name": "can_view_members",
+      "type": "Boolean"
+    },
+    {
+      "name": "can_viewer_change_child_watch_status",
+      "type": "Boolean"
+    },
+    {
+      "name": "can_viewer_change_guest_status",
+      "type": "Boolean"
+    },
+    {
+      "name": "can_viewer_create_post",
+      "type": "Boolean"
+    },
+    {
+      "name": "can_viewer_manage_tickets",
+      "type": "Boolean"
+    },
+    {
+      "name": "can_viewer_message",
+      "type": "Boolean"
+    },
+    {
+      "name": "can_viewer_purchase_onsite_tickets",
+      "type": "Boolean"
+    },
+    {
+      "name": "can_viewer_see_insights_tab",
+      "type": "Boolean"
+    },
+    {
+      "name": "can_viewer_see_ticket_orders_management",
+      "type": "Boolean"
+    },
+    {
+      "name": "card_list",
+      "type": "EventCardList"
+    },
+    {
+      "name": "category_icon",
+      "type": "Image"
+    },
+    {
+      "name": "category_icon_name",
+      "type": "String"
+    },
+    {
+      "name": "checkout_payment_info",
+      "type": "EventTicketCheckoutPaymentInfo"
+    },
+    {
+      "name": "child_events",
+      "type": "EventToChildEventsConnection"
+    },
+    {
+      "name": "connection_style",
+      "type": "String"
+    },
+    {
+      "name": "contextual_name",
+      "type": "String"
+    },
+    {
+      "name": "cover_photo",
+      "type": "FocusedPhoto"
+    },
+    {
+      "name": "cover_video",
+      "type": "Video"
+    },
+    {
+      "name": "created_for_group",
+      "type": "Group"
+    },
+    {
+      "name": "creation_story",
+      "type": "Story"
+    },
+    {
+      "name": "creation_time",
+      "type": "Time"
+    },
+    {
+      "name": "current_end_timestamp",
+      "type": "Time"
+    },
+    {
+      "name": "current_start_timestamp",
+      "type": "Time"
+    },
+    {
+      "name": "day_time_sentence",
+      "type": "String"
+    },
+    {
+      "name": "discovery_categories",
+      "type": "[EventDiscoverCategoryFormatData]"
+    },
+    {
+      "name": "does_viewer_have_in_list",
+      "type": "Boolean"
+    },
+    {
+      "name": "eligible_for_event_stories",
+      "type": "Boolean"
+    },
+    {
+      "name": "enable_events_in_stories_for_event",
+      "type": "Boolean"
+    },
+    {
+      "name": "enable_events_in_stories_producer",
+      "type": "Boolean"
+    },
+    {
+      "name": "enable_share_event_on_whatsapp",
+      "type": "Boolean"
+    },
+    {
+      "name": "end_timestamp",
+      "type": "Time"
+    },
+    {
+      "name": "end_timestamp_for_display",
+      "type": "Time"
+    },
+    {
+      "name": "entity_card_context_items",
+      "type": "EntityCardContextItemsConnection"
+    },
+    {
+      "name": "entity_card_image",
+      "type": "Image"
+    },
+    {
+      "name": "entity_id",
+      "type": "String"
+    },
+    {
+      "name": "event_accepted_cohosts",
+      "type": "EventAcceptedCohostsConnection"
+    },
+    {
+      "name": "event_action_type",
+      "type": "String"
+    },
+    {
+      "name": "event_buy_ticket_display_url",
+      "type": "Url"
+    },
+    {
+      "name": "event_buy_ticket_url",
+      "type": "Url"
+    },
+    {
+      "name": "event_buy_ticket_url_start_sales_time",
+      "type": "Time"
+    },
+    {
+      "name": "event_buy_ticket_url_start_sales_time_string",
+      "type": "String"
+    },
+    {
+      "name": "event_category_info",
+      "type": "EventCategoryData"
+    },
+    {
+      "name": "event_connected_users",
+      "type": "EventConnectedUsersConnection"
+    },
+    {
+      "name": "event_connected_users_connection",
+      "type": "[EventConnectedUsersEdge]"
+    },
+    {
+      "name": "event_connection_data_privacy_scope",
+      "type": "PrivacyScope"
+    },
+    {
+      "name": "event_connection_data_selected_or_default_privacy",
+      "type": "PrivacyOption"
+    },
+    {
+      "name": "event_creator",
+      "type": "Actor"
+    },
+    {
+      "name": "event_declined_cohosts",
+      "type": "EventDeclinedCohostsConnection"
+    },
+    {
+      "name": "event_declines",
+      "type": "EventDeclinesConnection"
+    },
+    {
+      "name": "event_description",
+      "type": "TextWithEntities"
+    },
+    {
+      "name": "event_email_associates",
+      "type": "EventEmailAssociatesConnection"
+    },
+    {
+      "name": "event_email_declines",
+      "type": "EventEmailDeclinesConnection"
+    },
+    {
+      "name": "event_email_invitees",
+      "type": "EventEmailInviteesConnection"
+    },
+    {
+      "name": "event_email_members",
+      "type": "EventEmailMembersConnection"
+    },
+    {
+      "name": "event_frequency",
+      "type": "String"
+    },
+    {
+      "name": "event_hosts",
+      "type": "EventHostsConnection"
+    },
+    {
+      "name": "event_insights",
+      "type": "EventInsights"
+    },
+    {
+      "name": "event_kind",
+      "type": "String"
+    },
+    {
+      "name": "event_maybes",
+      "type": "EventMaybesConnection"
+    },
+    {
+      "name": "event_members",
+      "type": "EventMembersConnection"
+    },
+    {
+      "name": "event_pending_cohosts",
+      "type": "EventPendingCohostsConnection"
+    },
+    {
+      "name": "event_permalink_cta",
+      "type": "EventPermalinkCTA"
+    },
+    {
+      "name": "event_pinned_stories",
+      "type": "EventPinnedStoriesConnection"
+    },
+    {
+      "name": "event_place",
+      "type": "Place"
+    },
+    {
+      "name": "event_promotion_info",
+      "type": "BoostedComponent"
+    },
+    {
+      "name": "event_promotion_status",
+      "type": "String"
+    },
+    {
+      "name": "event_sms_associates",
+      "type": "EventSMSAssociatesConnection"
+    },
+    {
+      "name": "event_sms_declines",
+      "type": "EventSMSDeclinesConnection"
+    },
+    {
+      "name": "event_sms_invitees",
+      "type": "EventSMSInviteesConnection"
+    },
+    {
+      "name": "event_sms_members",
+      "type": "EventSMSMembersConnection"
+    },
+    {
+      "name": "event_stories",
+      "type": "EventStoriesConnection"
+    },
+    {
+      "name": "event_stories_pagination",
+      "type": "[EventStoriesEdge]"
+    },
+    {
+      "name": "event_suggested_friends_page",
+      "type": "Page"
+    },
+    {
+      "name": "event_ticket_provider",
+      "type": "EventTicketProvider"
+    },
+    {
+      "name": "event_ticket_provider_name",
+      "type": "String"
+    },
+    {
+      "name": "event_ticketing_type",
+      "type": "String"
+    },
+    {
+      "name": "event_viewer",
+      "type": "Actor"
+    },
+    {
+      "name": "event_viewer_capability",
+      "type": "EventViewerCapability"
+    },
+    {
+      "name": "event_visibility",
+      "type": "String"
+    },
+    {
+      "name": "event_watchers",
+      "type": "EventWatchersConnection"
+    },
+    {
+      "name": "eventbrite_first_party_ticketing_configs",
+      "type": "EventFirstPartyTicketingConfigs"
+    },
+    {
+      "name": "featurable_image",
+      "type": "Image"
+    },
+    {
+      "name": "featurable_subtitle",
+      "type": "TextWithEntities"
+    },
+    {
+      "name": "featurable_tile_note",
+      "type": "TextWithEntities"
+    },
+    {
+      "name": "featurable_title",
+      "type": "TextWithEntities"
+    },
+    {
+      "name": "featurable_type_icon",
+      "type": "Image"
+    },
+    {
+      "name": "gemstone_community_description",
+      "type": "TextWithEntities"
+    },
+    {
+      "name": "gemstone_community_name",
+      "type": "String"
+    },
+    {
+      "name": "gemstone_community_profile_picture",
+      "type": "Image"
+    },
+    {
+      "name": "gemstone_data",
+      "type": "GemstoneCommunityLockData"
+    },
+    {
+      "name": "gemstone_event_unlocked_users",
+      "type": "GemstoneEventUnlockedUsersConnection"
+    },
+    {
+      "name": "gemstone_event_unlocked_users_paginating",
+      "type": "[GemstoneUser]"
+    },
+    {
+      "name": "gemstone_event_users_paginating",
+      "type": "[GemstoneUser]"
+    },
+    {
+      "name": "gemstone_users",
+      "type": "GemstoneCommunityUnlockedUsersConnection"
+    },
+    {
+      "name": "happens_on_single_day",
+      "type": "Boolean"
+    },
+    {
+      "name": "has_child_events",
+      "type": "Boolean"
+    },
+    {
+      "name": "has_single_step_checkout",
+      "type": "Boolean"
+    },
+    {
+      "name": "has_viewer_sent_message_or_requested_tickets",
+      "type": "Boolean"
+    },
+    {
+      "name": "id",
+      "type": "String"
+    },
+    {
+      "name": "invitable_entries_search",
+      "type": "EventInvitableEntriesConnection"
+    },
+    {
+      "name": "invitable_entries_token_query",
+      "type": "InvitableEntriesTokenQueryConnection"
+    },
+    {
+      "name": "invitee_candidates",
+      "type": "InviteeCandidatesOfEventConnection"
+    },
+    {
+      "name": "is_all_day",
+      "type": "Boolean"
+    },
+    {
+      "name": "is_canceled",
+      "type": "Boolean"
+    },
+    {
+      "name": "is_event_draft",
+      "type": "Boolean"
+    },
+    {
+      "name": "is_message_blocked_by_viewer",
+      "type": "Boolean"
+    },
+    {
+      "name": "is_message_ignored_by_viewer",
+      "type": "Boolean"
+    },
+    {
+      "name": "is_official",
+      "type": "Boolean"
+    },
+    {
+      "name": "is_past",
+      "type": "Boolean"
+    },
+    {
+      "name": "is_viewer_admin",
+      "type": "Boolean"
+    },
+    {
+      "name": "is_viewer_host",
+      "type": "Boolean"
+    },
+    {
+      "name": "is_work_entity",
+      "type": "Boolean"
+    },
+    {
+      "name": "live_permalink_time_range_sentence",
+      "type": "String"
+    },
+    {
+      "name": "local_lists_with_event",
+      "type": "LocalListFromEventConnection"
+    },
+    {
+      "name": "local_story_owner_is_muted",
+      "type": "Boolean"
+    },
+    {
+      "name": "location",
+      "type": "Location"
+    },
+    {
+      "name": "map_zoom_level",
+      "type": "Int"
+    },
+    {
+      "name": "max_ticket_price",
+      "type": "CurrencyQuantity"
+    },
+    {
+      "name": "meet_up_attendee_description",
+      "type": "TextWithEntities"
+    },
+    {
+      "name": "meet_up_description",
+      "type": "TextWithEntities"
+    },
+    {
+      "name": "meetup_connected_users",
+      "type": "GroupsMeetupConnectedUsersConnection"
+    },
+    {
+      "name": "meetup_rough_time",
+      "type": "String"
+    },
+    {
+      "name": "min_ticket_price",
+      "type": "CurrencyQuantity"
+    },
+    {
+      "name": "movie_censor_rating",
+      "type": "String"
+    },
+    {
+      "name": "movie_flow_service_config",
+      "type": "ComponentFlowServiceConfig"
+    },
+    {
+      "name": "movie_genre",
+      "type": "String"
+    },
+    {
+      "name": "name",
+      "type": "String"
+    },
+    {
+      "name": "name_search_tokens",
+      "type": "[String]"
+    },
+    {
+      "name": "negative_feedback_prompt",
+      "type": "NegativeFeedbackPrompt"
+    },
+    {
+      "name": "nt_actions",
+      "type": "EventNativeTemplatesActions"
+    },
+    {
+      "name": "open_graph_composer_preview",
+      "type": "StoryAttachment"
+    },
+    {
+      "name": "parent_event",
+      "type": "Event"
+    },
+    {
+      "name": "parent_group",
+      "type": "Group"
+    },
+    {
+      "name": "pending_post_count",
+      "type": "Int"
+    },
+    {
+      "name": "place_topic_id",
+      "type": "String"
+    },
+    {
+      "name": "place_type",
+      "type": "String"
+    },
+    {
+      "name": "possible_notification_subscription_levels",
+      "type": "EventNotificationSubscriptionLevelsConnection"
+    },
+    {
+      "name": "post_approval_required",
+      "type": "Boolean"
+    },
+    {
+      "name": "posted_item_privacy_scope",
+      "type": "PrivacyScope"
+    },
+    {
+      "name": "preassigned_discount",
+      "type": "EventTicketPreassignedDiscount"
+    },
+    {
+      "name": "preassigned_discount_note",
+      "type": "TextWithEntities"
+    },
+    {
+      "name": "preview_social_context",
+      "type": "PreviewSocialContext"
+    },
+    {
+      "name": "privacy_scope",
+      "type": "PrivacyScope"
+    },
+    {
+      "name": "profile_banner",
+      "type": "ProfileBanner"
+    },
+    {
+      "name": "profile_photo",
+      "type": "Photo"
+    },
+    {
+      "name": "profile_picture",
+      "type": "Image"
+    },
+    {
+      "name": "profile_picture_is_silhouette",
+      "type": "Boolean"
+    },
+    {
+      "name": "profile_video",
+      "type": "ProfileVideo"
+    },
+    {
+      "name": "purchased_ticket_orders",
+      "type": "EventPurchasedTicketOrdersConnection"
+    },
+    {
+      "name": "qe_check",
+      "type": "QECheck"
+    },
+    {
+      "name": "rapid_reporting_prompt",
+      "type": "RapidReportingPrompt"
+    },
+    {
+      "name": "registration_settings",
+      "type": "EventRegistrationSettingFromEventConnection"
+    },
+    {
+      "name": "restorable_abandoned_cart",
+      "type": "EventTicketOrderHistoryLog"
+    },
+    {
+      "name": "savable_default_category",
+      "type": "String"
+    },
+    {
+      "name": "savable_permalink",
+      "type": "Url"
+    },
+    {
+      "name": "saved_collection",
+      "type": "TimelineAppCollection"
+    },
+    {
+      "name": "scheduled_publish_timestamp",
+      "type": "Time"
+    },
+    {
+      "name": "shared_count",
+      "type": "Int"
+    },
+    {
+      "name": "should_show_abandoned_cart_tooltip",
+      "type": "Boolean"
+    },
+    {
+      "name": "sibling_events",
+      "type": "EventToSiblingEventsConnection"
+    },
+    {
+      "name": "social_context",
+      "type": "TextWithEntities"
+    },
+    {
+      "name": "start_time_sentence",
+      "type": "String"
+    },
+    {
+      "name": "start_timestamp",
+      "type": "Time"
+    },
+    {
+      "name": "start_timestamp_for_display",
+      "type": "Time"
+    },
+    {
+      "name": "streaming_profile_picture",
+      "type": "StreamingImage"
+    },
+    {
+      "name": "supports_multi_tier_purchase",
+      "type": "Boolean"
+    },
+    {
+      "name": "ticket_option_list",
+      "type": "EventTicketOptionList"
+    },
+    {
+      "name": "ticket_orders",
+      "type": "EventToEventTicketOrderConnection"
+    },
+    {
+      "name": "ticket_price_label",
+      "type": "TextWithEntities"
+    },
+    {
+      "name": "ticket_seat_selection_note",
+      "type": "TextWithEntities"
+    },
+    {
+      "name": "ticket_setting_editing_disabled_note",
+      "type": "TextWithEntities"
+    },
+    {
+      "name": "ticket_settings",
+      "type": "EventTicketSettingFromEventConnection"
+    },
+    {
+      "name": "ticket_tiers",
+      "type": "EventToEventTicketTierConnection"
+    },
+    {
+      "name": "ticketing_checkout_configuration",
+      "type": "IEventTicketingCheckoutConfiguration"
+    },
+    {
+      "name": "ticketing_context_row",
+      "type": "EventTicketingContextRow"
+    },
+    {
+      "name": "ticketing_ice_breakers",
+      "type": "[EventTicketingIceBreaker]"
+    },
+    {
+      "name": "ticketing_urgency",
+      "type": "EventTicketingUrgency"
+    },
+    {
+      "name": "tickets_type",
+      "type": "String"
+    },
+    {
+      "name": "time_range_sentence",
+      "type": "String"
+    },
+    {
+      "name": "timezone",
+      "type": "String"
+    },
+    {
+      "name": "total_purchased_tickets",
+      "type": "Int"
+    },
+    {
+      "name": "unified_account_info",
+      "type": "UnifiedMessagingAccountInfo"
+    },
+    {
+      "name": "uninvitable_friends",
+      "type": "UninvitableFriendsOfEventConnection"
+    },
+    {
+      "name": "unread_count",
+      "type": "Int"
+    },
+    {
+      "name": "upcoming_child_events_count",
+      "type": "Int"
+    },
+    {
+      "name": "url",
+      "type": "Url"
+    },
+    {
+      "name": "use_combine_share_sheet",
+      "type": "Boolean"
+    },
+    {
+      "name": "viewer_confirmation",
+      "type": "EventAttendanceConfirmation"
+    },
+    {
+      "name": "viewer_guest_status",
+      "type": "String"
+    },
+    {
+      "name": "viewer_has_pending_invite",
+      "type": "Boolean"
+    },
+    {
+      "name": "viewer_inviters",
+      "type": "[Actor]"
+    },
+    {
+      "name": "viewer_inviters_connection",
+      "type": "EventViewerInvitersConnection"
+    },
+    {
+      "name": "viewer_notification_subscription_level",
+      "type": "String"
+    },
+    {
+      "name": "viewer_received_invites",
+      "type": "EventViewerReceivedInvitesConnection"
+    },
+    {
+      "name": "viewer_saved_state",
+      "type": "String"
+    },
+    {
+      "name": "viewer_watch_status",
+      "type": "String"
+    }
+  ]
+}

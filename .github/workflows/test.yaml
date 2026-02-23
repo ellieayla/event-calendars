@@ -1,9 +1,10 @@
 name: Tests
 
 on:
+  # test in isolation
   push:
+  # test as-merged
   pull_request:
-
 
 jobs:
   tests:
@@ -26,6 +27,9 @@ jobs:
       run: |
         mypy
 
+    # todo:
+    # "uv run scrapy list" to get a list of spiders
+    # github job matrix
     - name: Fetch latest data
       run: |
         uv run scrapy crawl events

@@ -1,0 +1,1765 @@
+{
+        "name": "Group",
+        "primary_key": {
+                "name": "id",
+                "type": "String"
+        },
+        "fields": [
+                {
+                        "name": "active_living_rooms",
+                        "type": "GroupActiveLivingRoomsConnection"
+                },
+                {
+                        "name": "active_member_connection",
+                        "type": "[GroupActiveMemberProfilesEdge]"
+                },
+                {
+                        "name": "admin_education_wizard",
+                        "type": "GroupAdminEducationWizard"
+                },
+                {
+                        "name": "admin_home_support_section_info",
+                        "type": "GroupAdminHomeSupportSectionInfo"
+                },
+                {
+                        "name": "admin_support",
+                        "type": "GroupAdminSupport"
+                },
+                {
+                        "name": "allow_admin_approved_anon_posts",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "allows_external_email_invites",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "allows_external_members",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "appeal_experience",
+                        "type": "GroupAppealExperience"
+                },
+                {
+                        "name": "approximate_member_count",
+                        "type": "Int"
+                },
+                {
+                        "name": "archive_reasons",
+                        "type": "[GroupArchiveReason]"
+                },
+                {
+                        "name": "archived_message",
+                        "type": "TextWithEntities"
+                },
+                {
+                        "name": "archived_time",
+                        "type": "Time"
+                },
+                {
+                        "name": "attribution_context",
+                        "type": "GroupAttributionContext"
+                },
+                {
+                        "name": "auto_approval_group_infos",
+                        "type": "GroupToAutoApprovalGroupInfosFromSourceConnection"
+                },
+                {
+                        "name": "auto_approval_group_infos_connection",
+                        "type": "[AutoApprovalGroupInfo]"
+                },
+                {
+                        "name": "available_theme_colors",
+                        "type": "GroupAvailableThemeColorsConnection"
+                },
+                {
+                        "name": "average_posts_per_week",
+                        "type": "Int"
+                },
+                {
+                        "name": "aymt_native_groups_insights_channel",
+                        "type": "AYMTNativeGroupsInsightsChannel"
+                },
+                {
+                        "name": "aymt_native_groups_mall_card_channel",
+                        "type": "AYMTNativeGroupsMallCardChannel"
+                },
+                {
+                        "name": "aymt_native_groups_mall_peekbar_channel",
+                        "type": "AYMTNativeGroupsMallPeekBarChannel"
+                },
+                {
+                        "name": "can_setup_membership_questions_on_mobile",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_archive",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_ask_admin_to_post",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_change_ask_admin_to_post_setting",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_change_chat_creation_permission",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_change_color_theme",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_change_cover_photo",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_change_description",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_change_discoverability",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_change_location",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_change_name",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_change_rules",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_change_tags",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_claim_adminship",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_create_chats",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_create_event",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_create_forsale_posts",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_create_general_room",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_create_group_from_subcommunity_page",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_create_job_openings",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_delete_content_with_rules",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_delete_proactive_flagged_posts",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_enforce_rules",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_join_chats",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_link_group",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_manage_linked_pages",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_message",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_participate_in_commerce",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_pin_linked_group",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_pin_post",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_post",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_post_to_fbstories",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_reply_to_story_via_group_thread",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_report",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_report_post_to_admin_with_tags",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_review_reported_posts",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_schedule_posts",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_see_admin_activity_log",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_see_admin_archive_support",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_see_admin_education_center",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_see_admin_home",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_see_admin_onboarding",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_see_admin_support",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_see_admin_support_nux",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_see_archive_reason",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_see_composer_voice_switcher",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_see_content",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_see_group_name_change_history",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_see_groups_insights",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_see_keyword_alerts",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_see_membership_rule_based_auto_approval",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_see_pag_entry_point",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_see_report_group_frx",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_see_report_group_frx_at_leave",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_see_rules",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_see_safety_hub",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_see_settings",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_see_story_admin_settings",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_see_topic_tag_management",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_see_universal_voice_switcher",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_see_violations_dashboard",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_set_monitored_keyword",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_trust_members",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "can_viewer_upload_files",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "casual_group_posts",
+                        "type": "CasualGroupPostsConnection"
+                },
+                {
+                        "name": "change_privacy_dialog_text",
+                        "type": "TextWithEntities"
+                },
+                {
+                        "name": "chat_creation_permission",
+                        "type": "String"
+                },
+                {
+                        "name": "child_groups",
+                        "type": "ChildGroupsConnection"
+                },
+                {
+                        "name": "community_category",
+                        "type": "String"
+                },
+                {
+                        "name": "community_forum_child_groups",
+                        "type": "CommunityForumChildGroupsConnection"
+                },
+                {
+                        "name": "content_files",
+                        "type": "GroupContentFilesConnection"
+                },
+                {
+                        "name": "content_monitoring_state",
+                        "type": "String"
+                },
+                {
+                        "name": "cover_photo",
+                        "type": "FocusedPhoto"
+                },
+                {
+                        "name": "create_living_room_cta_payloads_for_video",
+                        "type": "[CreateLivingRoomCTAPayload]"
+                },
+                {
+                        "name": "created_time",
+                        "type": "Time"
+                },
+                {
+                        "name": "deny_page_as_member",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "description",
+                        "type": "String"
+                },
+                {
+                        "name": "direct_message_thread_bucket",
+                        "type": "DirectMessageThreadBucket"
+                },
+                {
+                        "name": "discoverability_info",
+                        "type": "GroupDiscoverabilityInfo"
+                },
+                {
+                        "name": "discoverability_setting",
+                        "type": "GroupDiscoverabilitySetting"
+                },
+                {
+                        "name": "education_center_intro_image_url",
+                        "type": "Url"
+                },
+                {
+                        "name": "education_center_suggested_topics",
+                        "type": "EducationCenterSuggestedTopicsConnection"
+                },
+                {
+                        "name": "education_center_topics",
+                        "type": "EducationCenterTopicsConnection"
+                },
+                {
+                        "name": "eligible_groups_for_auto_approval",
+                        "type": "EligibleGroupsForAutoApprovalConnection"
+                },
+                {
+                        "name": "eligible_groups_for_auto_approval_connection",
+                        "type": "[Group]"
+                },
+                {
+                        "name": "email_domains",
+                        "type": "[GroupEmailDomain]"
+                },
+                {
+                        "name": "end_of_privacy_grace_period",
+                        "type": "Time"
+                },
+                {
+                        "name": "enforced_content_list",
+                        "type": "GroupEnforcedContentConnection"
+                },
+                {
+                        "name": "enforced_content_list_connection",
+                        "type": "[GroupEnforcedContent]"
+                },
+                {
+                        "name": "entity_card_context_items",
+                        "type": "EntityCardContextItemsConnection"
+                },
+                {
+                        "name": "external_members_join_approval_setting",
+                        "type": "String"
+                },
+                {
+                        "name": "featurable_image",
+                        "type": "Image"
+                },
+                {
+                        "name": "featurable_subtitle",
+                        "type": "TextWithEntities"
+                },
+                {
+                        "name": "featurable_tile_note",
+                        "type": "TextWithEntities"
+                },
+                {
+                        "name": "featurable_title",
+                        "type": "TextWithEntities"
+                },
+                {
+                        "name": "featurable_type_icon",
+                        "type": "Image"
+                },
+                {
+                        "name": "full_name",
+                        "type": "String"
+                },
+                {
+                        "name": "funding_group_promotion_info",
+                        "type": "TreehengeGroupPromotionInfo"
+                },
+                {
+                        "name": "funding_promoted_subscription_group",
+                        "type": "Group"
+                },
+                {
+                        "name": "funding_subscription_group_join_button_text",
+                        "type": "TextWithEntities"
+                },
+                {
+                        "name": "funding_subscription_info",
+                        "type": "WoodhengeCreatorInfo"
+                },
+                {
+                        "name": "funding_subscription_profile_info",
+                        "type": "FundingSubscriptionInfo"
+                },
+                {
+                        "name": "funding_target_payment_profile",
+                        "type": "Profile"
+                },
+                {
+                        "name": "gemstone_community_description",
+                        "type": "TextWithEntities"
+                },
+                {
+                        "name": "gemstone_community_name",
+                        "type": "String"
+                },
+                {
+                        "name": "gemstone_community_profile_picture",
+                        "type": "Image"
+                },
+                {
+                        "name": "gemstone_data",
+                        "type": "GemstoneCommunityLockData"
+                },
+                {
+                        "name": "gemstone_group_users_paginating",
+                        "type": "[GemstoneUser]"
+                },
+                {
+                        "name": "gemstone_unlocked_users",
+                        "type": "GemstoneGroupUnlockedUsersConnection"
+                },
+                {
+                        "name": "gemstone_unlocked_users_paginating",
+                        "type": "[GemstoneUser]"
+                },
+                {
+                        "name": "gemstone_users",
+                        "type": "GemstoneCommunityUnlockedUsersConnection"
+                },
+                {
+                        "name": "get_together_feed",
+                        "type": "GroupGetTogetherFeedConnection"
+                },
+                {
+                        "name": "get_together_feed_connection",
+                        "type": "[GroupGetTogetherFeedEdge]"
+                },
+                {
+                        "name": "gk_check",
+                        "type": "EntGKCheck"
+                },
+                {
+                        "name": "group_active_living_rooms_connection",
+                        "type": "[GroupActiveLivingRoomsEdge]"
+                },
+                {
+                        "name": "group_active_member_profiles",
+                        "type": "GroupActiveMemberProfilesConnection"
+                },
+                {
+                        "name": "group_actor_data",
+                        "type": "[GroupActor]"
+                },
+                {
+                        "name": "group_admin_activity",
+                        "type": "GroupAdminActivityFromGroupConnection"
+                },
+                {
+                        "name": "group_admin_activity_paginating",
+                        "type": "[GroupAdminActivity]"
+                },
+                {
+                        "name": "group_admin_activity_possible_filters",
+                        "type": "[GroupAdminActivityPossibleFilter]"
+                },
+                {
+                        "name": "group_admin_profiles",
+                        "type": "GroupAdminProfilesConnection"
+                },
+                {
+                        "name": "group_admin_profiles_connection",
+                        "type": "[GroupAdminProfilesEdge]"
+                },
+                {
+                        "name": "group_admin_profiles_paginating",
+                        "type": "[GroupAdminProfilesEdge]"
+                },
+                {
+                        "name": "group_admined_page_members",
+                        "type": "GroupAdminedPageMembersConnection"
+                },
+                {
+                        "name": "group_albums",
+                        "type": "GroupAlbumsConnection"
+                },
+                {
+                        "name": "group_albums_connection",
+                        "type": "[Album]"
+                },
+                {
+                        "name": "group_announcement_stories",
+                        "type": "GroupAnnouncementStoriesConnection"
+                },
+                {
+                        "name": "group_announcement_stories_connection",
+                        "type": "[GroupAnnouncementStoriesEdge]"
+                },
+                {
+                        "name": "group_app_integrations",
+                        "type": "[AppIntegration]"
+                },
+                {
+                        "name": "group_ask_admin_to_post_disable_dialog",
+                        "type": "GroupAskAdminToPostDisableDialog"
+                },
+                {
+                        "name": "group_ask_admin_to_post_feature_content",
+                        "type": "GroupAskAdminToPostFeatureContent"
+                },
+                {
+                        "name": "group_auto_approved_member_profiles",
+                        "type": "GroupGroupAutoApprovedMemberProfilesConnection"
+                },
+                {
+                        "name": "group_auto_approved_member_profiles_connection",
+                        "type": "[GroupGroupAutoApprovedMemberProfilesEdge]"
+                },
+                {
+                        "name": "group_blocked_profiles",
+                        "type": "GroupBlockedProfilesConnection"
+                },
+                {
+                        "name": "group_category_information",
+                        "type": "GroupCategoryInformation"
+                },
+                {
+                        "name": "group_channels",
+                        "type": "GroupChannelsConnection"
+                },
+                {
+                        "name": "group_channels_connection",
+                        "type": "[GroupChannelsEdge]"
+                },
+                {
+                        "name": "group_commerce_header",
+                        "type": "NativeTemplateView"
+                },
+                {
+                        "name": "group_composer_content_types",
+                        "type": "GroupComposerContentTypesConnection"
+                },
+                {
+                        "name": "group_content_views",
+                        "type": "GroupContentViewsConnection"
+                },
+                {
+                        "name": "group_cover_photo",
+                        "type": "FocusedPhoto"
+                },
+                {
+                        "name": "group_default_actor",
+                        "type": "Profile"
+                },
+                {
+                        "name": "group_docs_and_files",
+                        "type": "GroupFilesAndDocsConnection"
+                },
+                {
+                        "name": "group_docs_and_files_connection",
+                        "type": "[GroupFileOrDoc]"
+                },
+                {
+                        "name": "group_events",
+                        "type": "GroupEventsConnection"
+                },
+                {
+                        "name": "group_events_connection",
+                        "type": "[Event]"
+                },
+                {
+                        "name": "group_fb_story_tray_content",
+                        "type": "GroupFBStoryTrayContent"
+                },
+                {
+                        "name": "group_feed",
+                        "type": "GroupFeedConnection"
+                },
+                {
+                        "name": "group_feed_connection",
+                        "type": "[GroupFeedEdge]"
+                },
+                {
+                        "name": "group_forsale_available_stories",
+                        "type": "GroupForSaleAvailableStoriesConnection"
+                },
+                {
+                        "name": "group_forsale_available_stories_connection",
+                        "type": "[GroupForSaleAvailableStoriesEdge]"
+                },
+                {
+                        "name": "group_friend_members",
+                        "type": "GroupFriendMembersConnection"
+                },
+                {
+                        "name": "group_friend_members_connection",
+                        "type": "[GroupFriendMembersEdge]"
+                },
+                {
+                        "name": "group_general_chat",
+                        "type": "MessengerGroupThread"
+                },
+                {
+                        "name": "group_history",
+                        "type": "GroupHistory"
+                },
+                {
+                        "name": "group_icon",
+                        "type": "MultiBackgroundIcon"
+                },
+                {
+                        "name": "group_id",
+                        "type": "String"
+                },
+                {
+                        "name": "group_if",
+                        "type": "Group"
+                },
+                {
+                        "name": "group_insights",
+                        "type": "GroupsInsight"
+                },
+                {
+                        "name": "group_job_openings",
+                        "type": "GroupJobOpeningsConnection"
+                },
+                {
+                        "name": "group_linked_folders",
+                        "type": "GroupLinkedFoldersConnection"
+                },
+                {
+                        "name": "group_location_added_reason",
+                        "type": "String"
+                },
+                {
+                        "name": "group_location_settings_info",
+                        "type": "GroupLocationSettingsOutputInfo"
+                },
+                {
+                        "name": "group_locations",
+                        "type": "[Page]"
+                },
+                {
+                        "name": "group_logo",
+                        "type": "Image"
+                },
+                {
+                        "name": "group_mall_jobs_pivot_text",
+                        "type": "TextWithEntities"
+                },
+                {
+                        "name": "group_mediaset",
+                        "type": "MediaSet"
+                },
+                {
+                        "name": "group_member_discovery",
+                        "type": "GroupMemberDiscoveryConnection"
+                },
+                {
+                        "name": "group_member_discovery_connection",
+                        "type": "[GroupMemberDiscoveryEdge]"
+                },
+                {
+                        "name": "group_member_feed",
+                        "type": "GroupMemberFeedConnection"
+                },
+                {
+                        "name": "group_member_feed_connection",
+                        "type": "[GroupMemberFeedEdge]"
+                },
+                {
+                        "name": "group_member_profiles",
+                        "type": "GroupMemberProfilesConnection"
+                },
+                {
+                        "name": "group_member_profiles_connection",
+                        "type": "[GroupMemberProfilesEdge]"
+                },
+                {
+                        "name": "group_member_profiles_paginating",
+                        "type": "[GroupMemberProfilesEdge]"
+                },
+                {
+                        "name": "group_member_profiles_pagination",
+                        "type": "[Profile]"
+                },
+                {
+                        "name": "group_member_search",
+                        "type": "GroupMemberSearchConnection"
+                },
+                {
+                        "name": "group_member_stories",
+                        "type": "GroupMemberStoriesConnection"
+                },
+                {
+                        "name": "group_members_viewer_friend_count",
+                        "type": "Int"
+                },
+                {
+                        "name": "group_mentions",
+                        "type": "GroupMentioning"
+                },
+                {
+                        "name": "group_mentorship_cohorts",
+                        "type": "MentorshipProgramCohortFromGroupConnection"
+                },
+                {
+                        "name": "group_name_change_metadata",
+                        "type": "GroupNameChange"
+                },
+                {
+                        "name": "group_native_templates_intents",
+                        "type": "GroupNativeTemplatesIntents"
+                },
+                {
+                        "name": "group_native_templates_screen_uris",
+                        "type": "GroupNativeTemplatesScreenURIs"
+                },
+                {
+                        "name": "group_native_templates_views",
+                        "type": "GroupNativeTemplatesViews"
+                },
+                {
+                        "name": "group_new_member_profiles",
+                        "type": "GroupNewMemberProfilesConnection"
+                },
+                {
+                        "name": "group_not_forsale_stories",
+                        "type": "GroupForSaleStoriesConnection"
+                },
+                {
+                        "name": "group_owner_authored_stories",
+                        "type": "GroupOwnerAuthoredStoriesConnection"
+                },
+                {
+                        "name": "group_page_profiles",
+                        "type": "[GroupMemberProfilesEdge]"
+                },
+                {
+                        "name": "group_participating_channels",
+                        "type": "GroupParticipatingChannelsConnection"
+                },
+                {
+                        "name": "group_participating_channels_connection",
+                        "type": "[GroupParticipatingChannelsEdge]"
+                },
+                {
+                        "name": "group_pending_member_profiles",
+                        "type": "GroupPendingMemberProfilesConnection"
+                },
+                {
+                        "name": "group_pending_members",
+                        "type": "GroupPendingMembersConnection"
+                },
+                {
+                        "name": "group_pending_members_possible_filters",
+                        "type": "[GroupPendingMembersPossibleFilter]"
+                },
+                {
+                        "name": "group_pending_members_possible_orderings",
+                        "type": "[GroupPendingMembersPossibleOrdering]"
+                },
+                {
+                        "name": "group_pending_stories",
+                        "type": "GroupPendingStoriesConnection"
+                },
+                {
+                        "name": "group_pending_stories_connection",
+                        "type": "[GroupPendingStoriesEdge]"
+                },
+                {
+                        "name": "group_photorealistic_icon",
+                        "type": "Image"
+                },
+                {
+                        "name": "group_pinned_stories",
+                        "type": "GroupPinnedStoriesConnection"
+                },
+                {
+                        "name": "group_pinned_stories_connection",
+                        "type": "[GroupPinnedStoriesEdge]"
+                },
+                {
+                        "name": "group_post_tags",
+                        "type": "GroupPostTagsConnection"
+                },
+                {
+                        "name": "group_post_topics",
+                        "type": "GroupPostTopicsConnection"
+                },
+                {
+                        "name": "group_previewing_invitee_profiles",
+                        "type": "GroupPreviewingInviteeProfilesConnection"
+                },
+                {
+                        "name": "group_previewing_invitee_profiles_connection",
+                        "type": "[Profile]"
+                },
+                {
+                        "name": "group_purposes",
+                        "type": "GroupToPurposesConnection"
+                },
+                {
+                        "name": "group_recently_deactivated_member_profiles",
+                        "type": "GroupRecentlyDeactivatedMemberProfilesConnection"
+                },
+                {
+                        "name": "group_recently_deactivated_member_profiles_connection",
+                        "type": "[GroupRecentlyDeactivatedMemberProfilesEdge]"
+                },
+                {
+                        "name": "group_recommendation_categories",
+                        "type": "[GroupRecommendationsCategoryAndCount]"
+                },
+                {
+                        "name": "group_recommended_pages",
+                        "type": "PlaceListGroupRecommendedPagesConnection"
+                },
+                {
+                        "name": "group_reported_stories",
+                        "type": "GroupReportedStoriesConnection"
+                },
+                {
+                        "name": "group_reported_stories_connection",
+                        "type": "[GroupReportedStoriesEdge]"
+                },
+                {
+                        "name": "group_rules",
+                        "type": "GroupRuleFromGroupConnection"
+                },
+                {
+                        "name": "group_saves",
+                        "type": "GroupSavesConnection"
+                },
+                {
+                        "name": "group_scheduled_stories",
+                        "type": "GroupScheduledStoriesConnection"
+                },
+                {
+                        "name": "group_scheduled_stories_connection",
+                        "type": "[GroupScheduledStoriesEdge]"
+                },
+                {
+                        "name": "group_sell_config",
+                        "type": "GroupToGroupSellConfigConnection"
+                },
+                {
+                        "name": "group_snippets",
+                        "type": "GroupSnippetsConnection"
+                },
+                {
+                        "name": "group_stories",
+                        "type": "GroupStoriesConnection"
+                },
+                {
+                        "name": "group_stories_from_friends",
+                        "type": "GroupStoriesFromFriendsConnection"
+                },
+                {
+                        "name": "group_suggested_cover_photos",
+                        "type": "[GroupSuggestedCoverPhoto]"
+                },
+                {
+                        "name": "group_suggested_topic_tags",
+                        "type": "[Page]"
+                },
+                {
+                        "name": "group_theme_color",
+                        "type": "GroupThemeColor"
+                },
+                {
+                        "name": "group_topic_tags",
+                        "type": "[Page]"
+                },
+                {
+                        "name": "group_trending_stories",
+                        "type": "GroupTrendingStoriesConnection"
+                },
+                {
+                        "name": "group_trusted_member_profiles",
+                        "type": "GroupTrustedMemberProfilesConnection"
+                },
+                {
+                        "name": "group_violations_dashboard_name",
+                        "type": "String"
+                },
+                {
+                        "name": "groups_sync_metadata",
+                        "type": "GroupsSyncMetadata"
+                },
+                {
+                        "name": "groups_you_can_link",
+                        "type": "GroupsYouCanLinkConnection"
+                },
+                {
+                        "name": "gysj_context_data",
+                        "type": "GroupsYouShouldJoinContextData"
+                },
+                {
+                        "name": "has_membership_questions",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "has_updates_since_tab_visit",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "has_viewer_favorited",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "has_viewer_pinned",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "id",
+                        "type": "String"
+                },
+                {
+                        "name": "instant_games_upsell",
+                        "type": "NativeTemplateView"
+                },
+                {
+                        "name": "is_adminless_casual_group",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "is_announcements_enabled",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "is_archived",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "is_defer_fulfilled",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "is_eligible_for_ranked_group",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "is_fallback_name",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "is_fb_story_tray_collapsed",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "is_forsale_group",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "is_game_group",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "is_group_location_global",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "is_living_room_composer_sprout_enabled",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "is_local_group",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "is_message_blocked_by_viewer",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "is_message_ignored_by_viewer",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "is_multi_company_group",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "is_post_tag_disabled",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "is_post_tag_mall_unit_enabled",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "is_rules_agreement_enabled",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "is_subcommunity",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "is_viewer_member",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "is_viewer_muted",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "is_viewer_newly_added",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "is_viewer_unconfirmed",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "is_work_entity",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "jade_profile",
+                        "type": "JadeProfile"
+                },
+                {
+                        "name": "jobs_composer_placeholder_text",
+                        "type": "TextWithEntities"
+                },
+                {
+                        "name": "join_approval_setting",
+                        "type": "String"
+                },
+                {
+                        "name": "last_activity_time",
+                        "type": "Time"
+                },
+                {
+                        "name": "learning_course_info",
+                        "type": "LearningCourseInfo"
+                },
+                {
+                        "name": "linkable_groups",
+                        "type": "[Group]"
+                },
+                {
+                        "name": "linkable_pages",
+                        "type": "[Page]"
+                },
+                {
+                        "name": "linked_groups",
+                        "type": "LinkedGroupsConnection"
+                },
+                {
+                        "name": "linked_groups_connection",
+                        "type": "[LinkedGroupMetadata]"
+                },
+                {
+                        "name": "linked_pages",
+                        "type": "GroupLinkedPagesConnection"
+                },
+                {
+                        "name": "linked_pages_connection",
+                        "type": "[Page]"
+                },
+                {
+                        "name": "linking_status",
+                        "type": "String"
+                },
+                {
+                        "name": "local_should_hide_suggestion",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "local_story_owner_is_muted",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "marketplace_settings",
+                        "type": "MarketplaceSettings"
+                },
+                {
+                        "name": "max_unread_count",
+                        "type": "Int"
+                },
+                {
+                        "name": "member_activity",
+                        "type": "GroupMemberActivitiesConnection"
+                },
+                {
+                        "name": "member_badge_types",
+                        "type": "GroupMemberBadgeTypesConnection"
+                },
+                {
+                        "name": "member_badge_types_connection",
+                        "type": "[GroupMemberBadgeTypesEdge]"
+                },
+                {
+                        "name": "member_count_compressed_text",
+                        "type": "String"
+                },
+                {
+                        "name": "member_discovery_connection",
+                        "type": "[GroupMemberDiscoveryEdge]"
+                },
+                {
+                        "name": "member_photos",
+                        "type": "MediaSet"
+                },
+                {
+                        "name": "member_stats",
+                        "type": "[TextWithEntities]"
+                },
+                {
+                        "name": "membership_auto_approval_review_panel",
+                        "type": "GroupMembershipAutoApprovalReviewPanel"
+                },
+                {
+                        "name": "membership_auto_approve_settings",
+                        "type": "GroupMembershipAutoApproveSettings"
+                },
+                {
+                        "name": "membership_criteria_questions",
+                        "type": "[String]"
+                },
+                {
+                        "name": "membership_questions",
+                        "type": "[GroupMembershipQuestion]"
+                },
+                {
+                        "name": "membership_review_entry_point",
+                        "type": "GroupMembershipReviewEntryPoint"
+                },
+                {
+                        "name": "messenger_rooms",
+                        "type": "MessengerRoomAssociatedObjectToRoomsConnection"
+                },
+                {
+                        "name": "monitored_keywords_context",
+                        "type": "MonitoredKeywordsContext"
+                },
+                {
+                        "name": "name",
+                        "type": "String"
+                },
+                {
+                        "name": "name_search_tokens",
+                        "type": "[String]"
+                },
+                {
+                        "name": "negative_feedback_prompt",
+                        "type": "NegativeFeedbackPrompt"
+                },
+                {
+                        "name": "nt_group_mall_tab",
+                        "type": "NativeTemplateView"
+                },
+                {
+                        "name": "nt_group_member_violations_view",
+                        "type": "NativeTemplateView"
+                },
+                {
+                        "name": "nt_linked_groups_hscroll_card_view",
+                        "type": "NativeTemplateView"
+                },
+                {
+                        "name": "nt_member_roadblocks_view",
+                        "type": "NativeTemplateView"
+                },
+                {
+                        "name": "nt_mentorship_creation_intent",
+                        "type": "NativeTemplateScreenIntent"
+                },
+                {
+                        "name": "nt_tetra_linked_groups_hscroll_card_view",
+                        "type": "NativeTemplateView"
+                },
+                {
+                        "name": "number_of_created_posts",
+                        "type": "Int"
+                },
+                {
+                        "name": "number_of_linked_page_member_top_fans",
+                        "type": "Int"
+                },
+                {
+                        "name": "page_as_member_summary_data",
+                        "type": "PageAsMemberSummaryData"
+                },
+                {
+                        "name": "page_group_bulk_invite_candidates",
+                        "type": "PageGroupBulkInviteCandidatesConnection"
+                },
+                {
+                        "name": "pages_eligible_to_join",
+                        "type": "EligiblePagesToJoinGroupConnection"
+                },
+                {
+                        "name": "pages_you_can_link",
+                        "type": "PagesYouCanLinkConnection"
+                },
+                {
+                        "name": "parent_group",
+                        "type": "Group"
+                },
+                {
+                        "name": "pending_adminship_status",
+                        "type": "String"
+                },
+                {
+                        "name": "pending_linked_groups",
+                        "type": "GroupToRequestForLinkedGroupConnection"
+                },
+                {
+                        "name": "pending_member_profiles_connection",
+                        "type": "[GroupPendingMemberProfilesEdge]"
+                },
+                {
+                        "name": "pending_post_queue_description",
+                        "type": "TextWithEntities"
+                },
+                {
+                        "name": "policy_restricted_group_appeal",
+                        "type": "GroupPolicyRestrictedGroupAppeal"
+                },
+                {
+                        "name": "possible_email_subscription_levels",
+                        "type": "GroupEmailSubscriptionLevelsConnection"
+                },
+                {
+                        "name": "possible_external_members_join_approval_settings",
+                        "type": "GroupExternalMembersJoinApprovalSettingsConnection"
+                },
+                {
+                        "name": "possible_join_approval_settings",
+                        "type": "GroupJoinApprovalSettingsConnection"
+                },
+                {
+                        "name": "possible_post_permission_settings",
+                        "type": "GroupPostPermissionSettingsConnection"
+                },
+                {
+                        "name": "possible_purposes_with_change_alerts",
+                        "type": "[GroupPurposeWithChangeAlert]"
+                },
+                {
+                        "name": "possible_push_subscription_levels",
+                        "type": "GroupPushSubscriptionLevelsConnection"
+                },
+                {
+                        "name": "possible_subscription_levels",
+                        "type": "GroupSubscriptionLevelsConnection"
+                },
+                {
+                        "name": "possible_visibility_settings",
+                        "type": "VisibilitySettingsOfGroupConnection"
+                },
+                {
+                        "name": "post_permission_setting",
+                        "type": "String"
+                },
+                {
+                        "name": "posted_item_privacy_scope",
+                        "type": "PrivacyScope"
+                },
+                {
+                        "name": "potential_newsfeed_follow_statuses",
+                        "type": "NewsfeedControllableFacetPotentialFollowStatusConnection"
+                },
+                {
+                        "name": "power_admins_group",
+                        "type": "Group"
+                },
+                {
+                        "name": "previous_visibility",
+                        "type": "String"
+                },
+                {
+                        "name": "privacy_change_threshold",
+                        "type": "Int"
+                },
+                {
+                        "name": "privacy_info",
+                        "type": "GroupPrivacyInfo"
+                },
+                {
+                        "name": "privacy_setting_options",
+                        "type": "[GroupPrivacySettingOption]"
+                },
+                {
+                        "name": "profile_banner",
+                        "type": "ProfileBanner"
+                },
+                {
+                        "name": "profile_photo",
+                        "type": "Photo"
+                },
+                {
+                        "name": "profile_picture",
+                        "type": "Image"
+                },
+                {
+                        "name": "profile_picture_is_silhouette",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "profile_video",
+                        "type": "ProfileVideo"
+                },
+                {
+                        "name": "qe_check",
+                        "type": "QECheck"
+                },
+                {
+                        "name": "rapid_reporting_prompt",
+                        "type": "RapidReportingPrompt"
+                },
+                {
+                        "name": "recent_activity_context",
+                        "type": "TextWithEntities"
+                },
+                {
+                        "name": "related_groups",
+                        "type": "GroupRelatedGroupsConnection"
+                },
+                {
+                        "name": "reported_stories_ui",
+                        "type": "GroupReportedStoriesUI"
+                },
+                {
+                        "name": "requires_admin_membership_approval",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "requires_post_approval",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "safety_badge_count",
+                        "type": "Int"
+                },
+                {
+                        "name": "seen_group_purposes_modal",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "should_show_admin_bubble",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "should_show_apps_setting",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "should_show_fb_story_tray_in_header",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "should_show_notif_settings_transition_nux",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "should_show_post_approval_notif_setting",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "snooze_expiration_date",
+                        "type": "Time"
+                },
+                {
+                        "name": "social_context",
+                        "type": "TextWithEntities"
+                },
+                {
+                        "name": "stories_admin_approval_required_setting",
+                        "type": "String"
+                },
+                {
+                        "name": "stories_posting_setting",
+                        "type": "String"
+                },
+                {
+                        "name": "story_approval_required",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "streaming_profile_picture",
+                        "type": "StreamingImage"
+                },
+                {
+                        "name": "structured_reporting_action",
+                        "type": "NegativeFeedbackAction"
+                },
+                {
+                        "name": "subscribe_status",
+                        "type": "String"
+                },
+                {
+                        "name": "suggested_members",
+                        "type": "GroupSuggestedMembersConnection"
+                },
+                {
+                        "name": "suggested_members_paginating",
+                        "type": "[User]"
+                },
+                {
+                        "name": "suggested_members_pagination",
+                        "type": "[User]"
+                },
+                {
+                        "name": "suggested_page_fans",
+                        "type": "GroupSuggestedPageFansConnection"
+                },
+                {
+                        "name": "suggested_rules",
+                        "type": "[GroupSuggestedRule]"
+                },
+                {
+                        "name": "suggested_topics_connection",
+                        "type": "[GroupEducationCenterTopic]"
+                },
+                {
+                        "name": "support_threads",
+                        "type": "GroupSupportThreadFromGroupConnection"
+                },
+                {
+                        "name": "support_threads_connection",
+                        "type": "[GroupSupportThread]"
+                },
+                {
+                        "name": "targeted_tab_badge",
+                        "type": "GroupsTabBadge"
+                },
+                {
+                        "name": "topics_connection",
+                        "type": "[GroupEducationCenterTopic]"
+                },
+                {
+                        "name": "unified_account_info",
+                        "type": "UnifiedMessagingAccountInfo"
+                },
+                {
+                        "name": "unread_count",
+                        "type": "Int"
+                },
+                {
+                        "name": "url",
+                        "type": "Url"
+                },
+                {
+                        "name": "vaccine_content",
+                        "type": "VaccineContent"
+                },
+                {
+                        "name": "video_channel_can_viewer_follow",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "video_channel_can_viewer_subscribe",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "video_channel_curator",
+                        "type": "Node"
+                },
+                {
+                        "name": "video_channel_curator_profile",
+                        "type": "Profile"
+                },
+                {
+                        "name": "video_channel_feed",
+                        "type": "VideoChannelFeedConnection"
+                },
+                {
+                        "name": "video_channel_has_new",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "video_channel_has_viewer_subscribed",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "video_channel_is_viewer_following",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "video_channel_max_new_count",
+                        "type": "Int"
+                },
+                {
+                        "name": "video_channel_new_count",
+                        "type": "Int"
+                },
+                {
+                        "name": "video_channel_subtitle",
+                        "type": "TextWithEntities"
+                },
+                {
+                        "name": "video_channel_title",
+                        "type": "TextWithEntities"
+                },
+                {
+                        "name": "viewer_added_by",
+                        "type": "Actor"
+                },
+                {
+                        "name": "viewer_admin_type",
+                        "type": "String"
+                },
+                {
+                        "name": "viewer_child_groups",
+                        "type": "CommunityViewerMemberChildGroupsConnection"
+                },
+                {
+                        "name": "viewer_content_safety_restrictions",
+                        "type": "[String]"
+                },
+                {
+                        "name": "viewer_email_in_domain",
+                        "type": "String"
+                },
+                {
+                        "name": "viewer_email_subscription_level",
+                        "type": "String"
+                },
+                {
+                        "name": "viewer_event_subscription_level",
+                        "type": "String"
+                },
+                {
+                        "name": "viewer_feed_sorting_setting",
+                        "type": "String"
+                },
+                {
+                        "name": "viewer_has_seen_multi_company_nux",
+                        "type": "Boolean"
+                },
+                {
+                        "name": "viewer_invite_message",
+                        "type": "String"
+                },
+                {
+                        "name": "viewer_invite_to_group",
+                        "type": "GroupUserInvite"
+                },
+                {
+                        "name": "viewer_invited_by",
+                        "type": "Actor"
+                },
+                {
+                        "name": "viewer_join_state",
+                        "type": "String"
+                },
+                {
+                        "name": "viewer_last_visited_time",
+                        "type": "Time"
+                },
+                {
+                        "name": "viewer_leave_scenario",
+                        "type": "String"
+                },
+                {
+                        "name": "viewer_membership_questions_answer_state",
+                        "type": "String"
+                },
+                {
+                        "name": "viewer_muted_notice",
+                        "type": "TextWithEntities"
+                },
+                {
+                        "name": "viewer_muted_until",
+                        "type": "Time"
+                },
+                {
+                        "name": "viewer_pending_auth_state",
+                        "type": "String"
+                },
+                {
+                        "name": "viewer_post_approval_notif_subscription_level",
+                        "type": "String"
+                },
+                {
+                        "name": "viewer_post_status",
+                        "type": "String"
+                },
+                {
+                        "name": "viewer_preview_expire_time",
+                        "type": "Time"
+                },
+                {
+                        "name": "viewer_push_subscription_level",
+                        "type": "String"
+                },
+                {
+                        "name": "viewer_request_to_join_subscription_level",
+                        "type": "String"
+                },
+                {
+                        "name": "viewer_subscription_level",
+                        "type": "String"
+                },
+                {
+                        "name": "viewer_temporary_follow_state",
+                        "type": "String"
+                },
+                {
+                        "name": "violations_dashboard_badge_count",
+                        "type": "Int"
+                },
+                {
+                        "name": "visibility",
+                        "type": "String"
+                },
+                {
+                        "name": "visibility_description",
+                        "type": "TextWithEntities"
+                },
+                {
+                        "name": "visibility_label",
+                        "type": "TextWithEntities"
+                },
+                {
+                        "name": "visibility_sentence",
+                        "type": "TextWithEntities"
+                },
+                {
+                        "name": "whitelisted_audience",
+                        "type": "MessengerRoomAssociatedObjectToWhitelistedAudienceConnection"
+                },
+                {
+                        "name": "whitelisted_audience_paginating",
+                        "type": "[User]"
+                },
+                {
+                        "name": "work_communities",
+                        "type": "WorkCommunitiesConnection"
+                },
+                {
+                        "name": "work_company_info",
+                        "type": "WorkCompanyInfo"
+                },
+                {
+                        "name": "work_foreign_entity_info",
+                        "type": "WorkForeignEntityInfo"
+                },
+                {
+                        "name": "work_groups_end_of_mall_nt_view",
+                        "type": "NativeTemplateView"
+                },
+                {
+                        "name": "work_groups_sync_metadata",
+                        "type": "GroupsSyncMetadata"
+                },
+                {
+                        "name": "work_logo",
+                        "type": "Image"
+                },
+                {
+                        "name": "work_post_templates_nt_view",
+                        "type": "NativeTemplateView"
+                }
+        ]
+}

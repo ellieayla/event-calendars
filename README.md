@@ -1,10 +1,16 @@
-# Community Bikeways Events
+# Event Calendars
 
-The Toronto Community Bikeways Coalition events schedule is posted at https://www.communitybikewaysto.ca/events
+I'm interested in community events throughout the Greater Toronto & Hamilton Area.
+Many organizations publish event information on their websites,
+but not in form easily subscribed to.
 
-This project grabs the iCalendar files for public events and combines them into one feed.
-[Subscribe to them in your calendar app](https://jamesdoc.com/blog/2024/webcal/), and join them events.
+This project periodically checks various websites and
+exports an iCalendar (.ical / .ics) feed of upcoming events.
 
-## Events
+[Subscribe to them in your calendar app](https://jamesdoc.com/blog/2024/webcal/).
+
+(This unifies several other projects from disparate git repositories.)
+
+## Feeds
 
  * [dates.ical](https://github.com/ellieayla/communitybikeways-events-ical/raw/refs/heads/main/dates.ical)

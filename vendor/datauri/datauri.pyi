@@ -1,0 +1,23 @@
+from _typeshed import Incomplete
+from typing import Optional
+from collections.abc import Generator
+
+RE_DATA_URI: Incomplete
+
+class DataURIError(ValueError): ...
+
+class ParsedDataURI:
+    media_type: Optional[str]
+    data: bytes
+    uri: str
+
+    def __init__(self, media_type: Optional[str], data: bytes, uri: str) -> None: ...
+
+    def __repr__(self) -> str: ...
+
+    def __eq__(self, other: object) -> bool: ...
+
+    def __hash__(self) -> int: ...
+
+def parse(uri: str) -> ParsedDataURI: ...
+def discover(s: str) -> Generator[ParsedDataURI]: ...

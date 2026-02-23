@@ -1,22 +1,32 @@
 [project]
-name = "communitybikeways-events-ical"
+name = "event-calendars"
 version = "1.0.0"
-description = "Add your description here"
+description = "Periodically checks community websites and export an iCalendar (.ical / .ics) feed of upcoming events."
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.12"
 dependencies = [
+    "datauri>=1.0.0",
+    "gql>=4.0.0",
     "html2text>=2025.4.15",
+    "humanize>=4.15.0",
     "icalendar>=7.0.0",
     "pytz>=2025.1",
     "scrapy>=2.14.1",
+    "waybackpy>=3.0.6",
 ]
 
 [dependency-groups]
 dev = [
+    "lxml-stubs>=0.5.1",
     "mypy>=1.19.1",
     "pytest>=9.0.2",
+    "pytest-datafiles>=3.0.1",
+    "pytest-mypy>=1.0.1",
+    "types-python-dateutil",
 ]
 
+[tool.pytest.ini_options]
+addopts = "--mypy"
 
 [tool.mypy]
 check_untyped_defs = true
@@ -26,5 +36,15 @@ show_error_codes = true
 warn_return_any = true
 disallow_untyped_defs = true
 
-files = "communitybikeways/**.py"
-exclude = "test*.py"
+files = "event_calendars,vendor"
+exclude = "tests"
+
+# uv tool run pytest-watcher -sv .
+[tool.pytest-watcher]
+now = true
+clear = true
+notify_on_failure = false
+delay = 0.2
+runner = ".venv/bin/pytest"
+patterns = ["*.py"]
+ignore_patterns = []
