@@ -83,11 +83,15 @@ class RespectCyclistsFacebookEvents(scrapy.Spider):
                 if r.graph_method_name == 'PublicEventCometAboutRootQuery':
                     result = RelayPrefetchedStreamCache_Result.from_bbox(r.bbox)
                     if result.path == ["event"] and 'start_timestamp' in result.data:
+                        # HACK: facebook returns timezone strings in shortform, like EST/EDT.
+                        # Don't have a good way to do a reverse-lookup of a zoneinfo.ZoneInfo from the shortform.
+                        # But RespectCyclists is based from Toronto, so realistically only going to see two timezone strings.
+                        # Just map them.
                         if result.data["tz_display_name"] in ('EST', 'EDT'):
                             tzinfo = ZoneInfo("US/Eastern")
                         else:
                             raise ValueError(f"Unknown timezone {result.data['tz_display_name']}")
-                            # Todo: add some other loading mechanism
+
                         start_datetime = datetime.fromtimestamp(result.data["start_timestamp"], tzinfo)
                         end_datetime = datetime.fromtimestamp(result.data["end_timestamp"], tzinfo)
 
