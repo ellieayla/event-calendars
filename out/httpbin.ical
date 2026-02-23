@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//event-calendars//verselogic.net//
+METHOD:PUBLISH
+NAME:Httpbin
+BEGIN:VTIMEZONE
+TZID:UTC
+COMMENT:This timezone only works from 1970-01-01 to 2038-01-01.
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:httpbin-event
+DTSTART:20200101T133000Z
+DTEND:20200101T143000Z
+DTSTAMP:20200101T133000Z
+UID:bed89acf-e6ed-5dac-9d11-dcaf46113a4a
+DESCRIPTION:{\n  "slideshow": {\n    "author": "Yours Truly"\, \n    "date
+ ": "date of publication"\, \n    "slides": [\n      {\n        "title": "W
+ ake up to WonderWidgets!"\, \n        "type": "all"\n      }\, \n      {\n
+         "items": [\n          "Why <em>WonderWidgets</em> are great"\, \n 
+          "Who <em>buys</em> WonderWidgets"\n        ]\, \n        "title":
+  "Overview"\, \n        "type": "all"\n      }\n    ]\, \n    "title": "Sa
+ mple Slide Show"\n  }\n}\n\nURL: https://httpbin.org/json
+LOCATION:whoami
+URL:https://httpbin.org/json
+END:VEVENT
+END:VCALENDAR
