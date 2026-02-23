@@ -1,4 +1,4 @@
-exclude: ".*\\.geojson$"
+exclude: "out/.*.ical"
 
 repos:
 -   repo: https://github.com/pre-commit/pre-commit-hooks
@@ -23,3 +23,9 @@ repos:
     rev: v1.19.1
     hooks:
     -   id: mypy
+
+# Warning: Ty is currently in preview and not ready for production use. Expect bugs and missing features.
+#- repo: https://github.com/allganize/ty-pre-commit
+#  rev: v0.0.17
+#  hooks:
+#   - id: ty-check

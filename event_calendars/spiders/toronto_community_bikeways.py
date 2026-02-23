@@ -8,10 +8,9 @@ import logging
 
 from html2text import html2text
 
-from .registry import register
 
 
-@register
+
 class TorontoCommunityBikeways(scrapy.Spider):
     name = 'toronto-community-bikeways'
     calendar_name = "Toronto Community Bikeways"

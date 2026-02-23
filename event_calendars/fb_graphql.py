@@ -5,12 +5,6 @@ from typing import Any, Callable, Iterable, Literal, NamedTuple, TypeAlias, Self
 from dataclasses import dataclass, fields
 from typing import TypedDict, Protocol
 from operator import attrgetter
-import warnings
-import logging
-
-
-logger = logging.getLogger(__name__)
-
 
 
 class SupportedDeserializationFromDict(Protocol):
@@ -146,7 +140,7 @@ def handle_module(module: ModuleEntry) -> Iterable[BBox]:
 
             if ssjs.command != 'handle':
                 raise ValueError(f"Unexpected ScheduledServerJS (SSJS) command {ssjs.command}")
-            if ssjs.unused != None:
+            if ssjs.unused is not None:
                 raise Warning(f"Unexpected ScheduledServerJS module.data[1] value, expected None, got {ssjs.unused}")
             assert isinstance(ssjs.datas, list)
 

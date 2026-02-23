@@ -3,11 +3,10 @@ from scrapy.http import TextResponse, Response
 from typing import Iterator
 
 from ..items import Event
-from .registry import register
+
 from datetime import datetime, timedelta
 
 
-@register
 class HttpBinSpider(scrapy.Spider):
     name = 'httpbin'
     allowed_domains = ['httpbin.org']

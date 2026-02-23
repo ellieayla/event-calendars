@@ -1,6 +1,6 @@
 import scrapy
 from scrapy.http import TextResponse, Response
-from typing import Iterator, Any
+from typing import Iterator
 
 from ..items import Event
 

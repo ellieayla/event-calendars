@@ -2,7 +2,7 @@ from typing import Iterable
 import scrapy
 from scrapy.http import TextResponse, Response
 
-from .registry import register
+
 
 from ..items import BookableEvent
 
@@ -13,7 +13,6 @@ import dateutil.tz
 
 
 # TODO: Maybe this should be split
-@register
 class YmcaHamiltonBurlingtonPools(scrapy.Spider):
     name = "ymca-hamilton-burlington"
     allowed_domains = ["www.ymcahbb.ca"]

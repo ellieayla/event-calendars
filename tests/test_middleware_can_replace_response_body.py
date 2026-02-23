@@ -1,8 +1,5 @@
 
-from scrapy.http import Response, HtmlResponse, Request
-from scrapy import Spider
-import lxml.etree
-
+from scrapy.http import HtmlResponse, Request
 
 from event_calendars.middleware import Wayback
 from datetime import timedelta

@@ -2,9 +2,8 @@
 import scrapy
 from scrapy.http import HtmlResponse, TextResponse, Response
 from scrapy.http.request.form import FormdataType
-from scrapy.statscollectors import StatsCollector
 from ..items import BookableEvent
-from .registry import register
+
 
 from datetime import date, datetime, timedelta
 import dateutil
@@ -33,7 +32,6 @@ DEFAULT_SEARCH = {
     'values[2][ValueKind]': '0',
 }
 
-@register
 class BurlingtonPools(scrapy.Spider):
     name = "burlington-pools"
     calendar_name = "Burlington Pools"

@@ -6,7 +6,7 @@ import scrapy.http
 from scrapy.exceptions import CloseSpider
 
 from ..items import Event
-from .registry import register
+
 from ..utils import readable_text_content
 from datetime import datetime, timedelta
 
@@ -15,7 +15,6 @@ import datauri
 
 
 
-@register
 class CycleToronto(scrapy.Spider):
     name = 'cycle-toronto'
     calendar_name = "Cycle TO"

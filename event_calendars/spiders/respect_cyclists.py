@@ -1,13 +1,9 @@
-from datetime import datetime, timedelta, time
-import logging
-from pathlib import Path
-from tkinter import N
 import scrapy
 from scrapy.http import Response, HtmlResponse, Request
-from scrapy.signals import item_error
-from scrapy.utils.httpobj import urlparse_cached
-from typing import Iterator
-import json
+
+from dateutil.tz import gettz
+
+
 from ..items import Event
 
 from event_calendars.fb_graphql import extract_prefetched_events_from_inline_json
@@ -15,9 +11,9 @@ from event_calendars.fb_graphql import extract_prefetched_objects_from_inline_js
 from event_calendars.fb_graphql import Event as FBEvent
 from event_calendars.fb_graphql import RelayPrefetchedStreamCache_Result
 
-from pprint import pprint
-from dateutil.tz import gettz
-
+import json
+from datetime import datetime, timedelta, time
+from typing import Iterator
 
 class RespectCyclistsFacebookEvents(scrapy.Spider):
     name = "respect_cyclists_facebook"
@@ -28,6 +24,7 @@ class RespectCyclistsFacebookEvents(scrapy.Spider):
         assert isinstance(response, HtmlResponse)  # guard because signature of parse() doesn't declare `response`
 
         # debugging
+        #from scrapy.utils.httpobj import urlparse_cached
         #parsed_url = urlparse_cached(response)
         #filename = f"debug-{parsed_url.path.replace("/", "-")}.html"
         #Path(filename).write_bytes(response.body)
@@ -56,6 +53,7 @@ class RespectCyclistsFacebookEvents(scrapy.Spider):
         assert isinstance(response, HtmlResponse)  # guard because signature of parse() doesn't declare `response`
 
         # debugging
+        #from scrapy.utils.httpobj import urlparse_cached
         #parsed_url = urlparse_cached(response)
         #filename = f"debug-{parsed_url.path.replace("/", "-")}.html"
         #Path(filename).write_bytes(response.body)
@@ -99,10 +97,11 @@ class RespectCyclistsFacebookEvents(scrapy.Spider):
             raise ValueError("Failed to parse event from prefetched stream cache")
 
         event.summary = page_title
-        if start_datetime is not None: event.start_datetime = start_datetime
-        if end_datetime is not None: event.end_datetime = end_datetime
+        if start_datetime is not None:
+            event.start_datetime = start_datetime
+        if end_datetime is not None:
+            event.end_datetime = end_datetime
         event.url = response.url
-        pprint(event)
 
         yield event
 
