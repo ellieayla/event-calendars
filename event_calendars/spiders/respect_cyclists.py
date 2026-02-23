@@ -9,7 +9,7 @@ from event_calendars.fb_graphql import Event as FBEvent
 from event_calendars.fb_graphql import RelayPrefetchedStreamCache_Result
 
 import json
-from datetime import datetime, timedelta, time, timezone
+from datetime import datetime, timedelta, time
 from zoneinfo import ZoneInfo
 from typing import Iterator
 
@@ -87,7 +87,7 @@ class RespectCyclistsFacebookEvents(scrapy.Spider):
                             tzinfo = ZoneInfo("US/Eastern")
                         else:
                             raise ValueError(f"Unknown timezone {result.data['tz_display_name']}")
-                            tzinfo = ZoneInfo(result.data["tz_display_name"])
+                            # Todo: add some other loading mechanism
                         start_datetime = datetime.fromtimestamp(result.data["start_timestamp"], tzinfo)
                         end_datetime = datetime.fromtimestamp(result.data["end_timestamp"], tzinfo)
 
@@ -105,9 +105,6 @@ class RespectCyclistsFacebookEvents(scrapy.Spider):
             event.end_datetime = end_datetime
         event.url = response.url
 
-        assert ZoneInfo("US/Eastern") == ZoneInfo("US/Eastern")
-        if event.start_datetime.tzinfo != ZoneInfo("US/Eastern"):
-            raise ValueError(f"wtf timezone {event.start_datetime.tzinfo} {type(event.start_datetime.tzinfo)}")
         yield event
 
 

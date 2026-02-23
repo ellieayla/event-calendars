@@ -1,6 +1,6 @@
 import pytest
 
-from datetime import datetime, timezone
+from datetime import datetime
 from zoneinfo import ZoneInfo
 from pathlib import Path
 
@@ -66,10 +66,6 @@ def test_parse_single_event_page(datafiles: Path) -> None:
 
     ref_date = datetime(2025, 11, 1, 14, 0, 0, tzinfo=ZoneInfo('US/Eastern'))
     assert ref_date.tzinfo == ZoneInfo('US/Eastern')
-    assert event.start_datetime.tzinfo == ZoneInfo('US/Eastern')
-
-    print("Left  side", event.start_datetime, type(event.start_datetime), event.start_datetime.tzname())
-    print("Right side", ref_date, type(ref_date), ref_date.tzname())
 
     assert event.start_datetime == datetime(2025, 11, 1, 14, 0, tzinfo=ZoneInfo('US/Eastern'))
     assert event.url == response.url
