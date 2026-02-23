@@ -21,15 +21,16 @@ jobs:
     - name: Install the project
       run: uv sync --locked --all-extras --dev
 
-    - uses: astral-sh/ruff-action@v3
+    - uses: astral-sh/ruff-action@v3  # check by default
 
-    - name: mypy
+    - name: pytest  # also runs mypy
       run: |
-        mypy
+        pytest
 
     # todo:
     # "uv run scrapy list" to get a list of spiders
     # github job matrix
     - name: Fetch latest data
       run: |
-        uv run scrapy crawl events
+        uv run scrapy list
+        uv run scrapy crawl httpbin
