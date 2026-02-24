@@ -1,10 +1,11 @@
+from pathlib import Path
+from textwrap import dedent
+
 import pytest
+from lxml.html import HtmlElement, fromstring
+from scrapy.http import HtmlResponse
 
 from event_calendars.utils import extract_text_visitor, readable_text_content
-from pathlib import Path
-from scrapy.http import HtmlResponse
-from lxml.html import HtmlElement, fromstring
-from textwrap import dedent
 
 FIXTURE_DIR = Path(__file__).parent.parent.resolve() / "test_data"
 
@@ -118,7 +119,7 @@ def test_interstitial_whitespace() -> None:
         </ul>
         """
     )
-    nodes = list(extract_text_visitor(html, 0))
+    nodes = list(extract_text_visitor(html, 0))  # noqa: F841 draft
     pretty = readable_text_content(html)
     print(pretty)
 
