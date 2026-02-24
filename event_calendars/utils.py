@@ -39,7 +39,11 @@ def extract_text_visitor(node: HtmlElement | str, indent: int = 0) -> Iterator[s
         if node.text == "here":
             yield node.attrib.get("href")
             return  # drop content
+        elif node.text.strip() == node.attrib.get("href"):
+            yield node.attrib.get("href")
+            return  # drop content
         else:
+            # prepend url as (https://...)
             yield f' ({node.attrib.get("href")}) '
 
     for child in node.xpath("child::node()"):

@@ -26,7 +26,8 @@ dev = [
 ]
 
 [tool.pytest.ini_options]
-addopts = "--mypy"
+addopts = "--mypy --failed-first"
+#strict_xfail = true
 
 [tool.mypy]
 check_untyped_defs = true
