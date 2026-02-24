@@ -5,25 +5,24 @@
 
 
 from dataclasses import dataclass, field
-from datetime import datetime, timezone
-from typing import Optional
+from datetime import UTC, datetime
 from uuid import UUID, uuid5
 
 ns = UUID('b44256d5-dee8-4dee-9fd9-31451e47984e')
 
 
 def current_datetime() -> datetime:
-    return datetime.now(tz=timezone.utc)
+    return datetime.now(tz=UTC)
 
 @dataclass
-class Event():
+class Event:
     summary: str
 
     start_datetime: datetime | None
     end_datetime: datetime | None
 
-    url: Optional[str]
-    location: Optional[str]
+    url: str | None
+    location: str | None
 
     original_description: str = ""
 
@@ -46,10 +45,10 @@ class Event():
 
 @dataclass
 class BookableEvent(Event):
-    facility: Optional[str] = None
-    price_range: Optional[str] = None
-    spots_remaining: Optional[str] = None
-    category: Optional[str] = None
+    facility: str | None = None
+    price_range: str | None = None
+    spots_remaining: str | None = None
+    category: str | None = None
 
     @property
     def rendered_description(self) -> str:

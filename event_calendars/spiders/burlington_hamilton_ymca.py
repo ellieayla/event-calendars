@@ -1,5 +1,5 @@
+from collections.abc import Iterator
 from datetime import datetime
-from typing import Iterable
 
 import dateutil
 import dateutil.tz
@@ -14,7 +14,7 @@ class YmcaHamiltonBurlingtonPools(scrapy.Spider):
     name = "ymca-hamilton-burlington"
     allowed_domains = ["www.ymcahbb.ca"]
 
-    def start_requests(self) -> Iterable[scrapy.Request]:
+    def start_requests(self) -> Iterator[scrapy.Request]:
 
         locations = [
             "Ron%20Edwards%20Family%20YMCA",
@@ -36,7 +36,7 @@ class YmcaHamiltonBurlingtonPools(scrapy.Spider):
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse_json_classlist)
 
-    def parse_json_classlist(self, response: Response) -> Iterable[BookableEvent]:
+    def parse_json_classlist(self, response: Response) -> Iterator[BookableEvent]:
         if not isinstance(response, TextResponse):
             raise ValueError("Non-text response")
         payload = response.json()

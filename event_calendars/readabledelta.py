@@ -18,7 +18,7 @@ def to_string(delta: timedelta) -> str:
     # rebase microseconds onto milliseconds, microseconds
     data['milliseconds'], data['microseconds'] = divmod(delta.microseconds, 1000)
 
-    output = ['{} {}'.format(data[k], k[:-1] if data[k] == 1 else k) for k in keys if data[k] != 0]
+    output = ['{} {}'.format(data[k], k[:-1] if data[k] == 1 else k) for k in keys if data[k] != 0]  # noqa: UP032
 
     if not output:
         result = 'an instant'

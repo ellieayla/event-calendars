@@ -47,7 +47,7 @@ select = [
     "I",  # import sort
     "E",  # pycodestyle
     "F",  # pyflakes
-    #"UP",  # pyupgrade
+    "UP",  # pyupgrade
 ]
 exclude = ["vendor/**"]
 

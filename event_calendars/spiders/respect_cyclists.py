@@ -1,6 +1,6 @@
 import json
+from collections.abc import Iterator
 from datetime import datetime, time, timedelta
-from typing import Iterator
 
 import scrapy
 from scrapy.http import HtmlResponse, Request, Response

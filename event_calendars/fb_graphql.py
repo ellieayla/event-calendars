@@ -1,8 +1,9 @@
 from abc import abstractmethod
+from collections.abc import Callable, Iterator
 from dataclasses import dataclass, fields
 from datetime import date, datetime
 from operator import attrgetter
-from typing import Any, Callable, Iterable, Literal, NamedTuple, Protocol, Self, TypeAlias, TypedDict
+from typing import Any, Literal, NamedTuple, Protocol, Self, TypeAlias, TypedDict
 
 
 class SupportedDeserializationFromDict(Protocol):
@@ -12,7 +13,7 @@ class SupportedDeserializationFromDict(Protocol):
 
 
 @dataclass(init=False)
-class ModuleEntry():
+class ModuleEntry:
     name: str
     data: list[Any]
 
@@ -30,7 +31,8 @@ class internal_bbox_content_Type(TypedDict, total=False):
     path: list[str] | None
     data: dict[str, Any] | None
 
-internal__bbox_Type: TypeAlias = dict[Literal["__bbox"], internal_bbox_content_Type | None]
+# TODO: figure out whether can be replaced with a PEP 695 type keyword.
+internal__bbox_Type: TypeAlias = dict[Literal["__bbox"], internal_bbox_content_Type | None]  # noqa: UP040
 
 
 @dataclass
@@ -62,14 +64,14 @@ class BBox(SupportedDeserializationFromDict):
 
 
 @dataclass(init=False)
-class BBoxContainer():
+class BBoxContainer:
     bbox: BBox
     def __init__(self, data: internal__bbox_Type):
         self.bbox = BBox.from_dict(data['__bbox'])
 
 
 @dataclass
-class RelayPrefetchedStreamCache_Result():
+class RelayPrefetchedStreamCache_Result:
     label: str | None
     path: list[str] | None
     data: dict[str, Any]
@@ -88,7 +90,7 @@ class RelayPrefetchedStreamCache_Result():
         )
 
 @dataclass
-class RelayPrefetchedStreamCache_Complete_Result():
+class RelayPrefetchedStreamCache_Complete_Result:
     data: Any
     errors: list[Any]
     extensions: dict[str, Any]
@@ -105,7 +107,7 @@ class RelayPrefetchedStreamCache_Complete_Result():
 
 
 @dataclass
-class RelayPrefetchedStreamCache():
+class RelayPrefetchedStreamCache:
     preload_id: str
     bbox: BBox
 
@@ -129,7 +131,7 @@ class ScheduledServerJS(NamedTuple):
     datas: list[internal__bbox_Type]
 
 
-def handle_module(module: ModuleEntry) -> Iterable[BBox]:
+def handle_module(module: ModuleEntry) -> Iterator[BBox]:
     match module.name:
         case "ScheduledServerJS":
             if len(module.data) != 3:
@@ -152,7 +154,7 @@ def handle_module(module: ModuleEntry) -> Iterable[BBox]:
             #warnings.warn(f"Unsupported module type {module.name=}")
 
 @dataclass(repr=False)
-class PageInfo():
+class PageInfo:
     """Concrete type PageInfo from fb_graphql_types.json"""
     has_previous_page: bool = False
     has_next_page: bool = False
@@ -259,7 +261,7 @@ class EdgeCursor[T](TypedDict):
 
 
 @dataclass(init=False)
-class PagedEdges[T]():
+class PagedEdges[T]:
     edges: list[T]
     page_info: PageInfo
 
@@ -276,7 +278,7 @@ class PagedEdges[T]():
 
 
 @dataclass
-class GroupEventsGraphQLQueryResult():
+class GroupEventsGraphQLQueryResult:
     id: str
     past_events: PagedEdges[Event]
     upcoming_events: PagedEdges[Event]
@@ -297,7 +299,7 @@ class GroupEventsGraphQLQueryResult():
         )
 
 
-def extract_prefetched_events_from_inline_json(parsed_json: internal_bbox_content_Type) -> Iterable[Event]:
+def extract_prefetched_events_from_inline_json(parsed_json: internal_bbox_content_Type) -> Iterator[Event]:
     # https://github.com/firsttris/plugin.video.sendtokodi/blob/891fa15b264f25d1f24f59d161ca1aa057ec69c9/lib/yt_dlp/extractor/facebook.py#L581
     # https://github.com/SSujitX/facebook-pages-scraper/blob/4c0a68893399a98275c3ada5b8af42de06a9c654/facebook_page_scraper/page_post_info.py#L62
     # https://github.com/c4ffe14e/phice/blob/c2cda1cf98b281871f269f74630b4bf60939c373/src/lib/api.py#L147
@@ -322,10 +324,9 @@ def extract_prefetched_events_from_inline_json(parsed_json: internal_bbox_conten
                         group_result = GroupEventsGraphQLQueryResult.from_prefetch(result.data['group'])
                         # pprint(group_result, width=200)
 
-                        for e in group_result.past_events.edges + group_result.upcoming_events.edges:
-                            yield e
+                        yield from group_result.past_events.edges + group_result.upcoming_events.edges
 
-def extract_prefetched_objects_from_inline_json(parsed_json: internal_bbox_content_Type) -> Iterable[RelayPrefetchedStreamCache]:
+def extract_prefetched_objects_from_inline_json(parsed_json: internal_bbox_content_Type) -> Iterator[RelayPrefetchedStreamCache]:
     # https://github.com/firsttris/plugin.video.sendtokodi/blob/891fa15b264f25d1f24f59d161ca1aa057ec69c9/lib/yt_dlp/extractor/facebook.py#L581
     # https://github.com/SSujitX/facebook-pages-scraper/blob/4c0a68893399a98275c3ada5b8af42de06a9c654/facebook_page_scraper/page_post_info.py#L62
     # https://github.com/c4ffe14e/phice/blob/c2cda1cf98b281871f269f74630b4bf60939c373/src/lib/api.py#L147

@@ -1,6 +1,6 @@
 
 import re
-from typing import Iterable
+from collections.abc import Iterator
 
 from lxml.html import HtmlElement
 from parsel import Selector as ParselSelector
@@ -8,7 +8,7 @@ from scrapy.selector import Selector, SelectorList
 from w3lib.html import remove_tags
 
 
-def extract_text_visitor(node: HtmlElement | str, indent: int = 0) -> Iterable[str]:
+def extract_text_visitor(node: HtmlElement | str, indent: int = 0) -> Iterator[str]:
     """
     Use the Visitor Pattern to traverse the tree starting from 'node',
     yielding plain text.
