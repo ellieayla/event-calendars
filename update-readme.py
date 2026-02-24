@@ -5,7 +5,7 @@ from argparse import ArgumentParser, Namespace
 from collections.abc import Sequence
 from glob import glob
 from pathlib import Path
-from typing import NamedTuple, reveal_type
+from typing import NamedTuple
 
 from marko import Markdown
 from marko.block import Document, Heading, List, ListItem
@@ -88,7 +88,6 @@ def process_document(original: str, replacement_document_fragment: str) -> str:
     md = Markdown(extensions=[GFM], renderer=MarkdownRenderer)
     parsed = md.parse(original)
     replace_listitems(parsed, replacement_listitems)
-    reveal_type(md.render(parsed))
     return md.render(parsed)
 
 
