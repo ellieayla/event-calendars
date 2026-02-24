@@ -286,8 +286,14 @@ class GroupEventsGraphQLQueryResult():
         # there's a maximum of 3 prefetched events
         return cls(
             id=group_data['id'],
-            past_events=PagedEdges(edges=group_data['past_events']['edges'], page_info=group_data['past_events']['page_info'], deserialize_with=Event.from_dict),
-            upcoming_events=PagedEdges(edges=group_data['upcoming_events']['edges'], page_info=group_data['upcoming_events']['page_info'], deserialize_with=Event.from_dict),
+            past_events=PagedEdges(
+                edges=group_data['past_events']['edges'],
+                page_info=group_data['past_events']['page_info'],
+                deserialize_with=Event.from_dict),
+            upcoming_events=PagedEdges(
+                edges=group_data['upcoming_events']['edges'],
+                page_info=group_data['upcoming_events']['page_info'],
+                deserialize_with=Event.from_dict),
         )
 
 

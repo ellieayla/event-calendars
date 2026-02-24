@@ -85,7 +85,7 @@ class BurlingtonPools(scrapy.Spider):
                 end_datetime = _parse_date_time(c['FormattedEndDate'], c['FormattedEndTime']),
                 #updated_at = self.crawler.stats.get_value('start_time'),  # TODO: Dataclass property?
 
-                #  Address: {'AddressTag': 'Centennial Pool', 'Street': '5151 New Street', 'City': 'Burlington', 'PostalCode': 'L7P 4J5', 'CountryId': 0, 'Country': '', 'StateProvinceId': 0, 'AnyFieldMissing': True, 'Latitude': 43.37193, 'Longitude': -79.750327, 'Id': '1caa5785-bc69-469c-ac36-5ae3758860d3'}
+                #  Address: {'AddressTag': 'Centennial Pool', 'Street': '5151 New Street', 'City': 'Burlington', 'PostalCode': 'L7P 4J5', 'CountryId': 0, 'Country': '', 'StateProvinceId': 0, 'AnyFieldMissing': True, 'Latitude': 43.37193, 'Longitude': -79.750327, 'Id': '1caa5785-bc69-469c-ac36-5ae3758860d3'}  # noqa: E501
                 location = f"{c['Address']['AddressTag']}, {c['Address']['Street']}, {c['Address']['City']}, {c['Address']['PostalCode']}",
 
                 original_description = str.strip(c['Details']),
