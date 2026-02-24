@@ -64,9 +64,9 @@ def test_parse_single_event_page(datafiles: Path) -> None:
     assert isinstance(event, Event)
     assert event.summary == "Ghost Bike Ride For Jean Louis"
 
-    ref_date = datetime(2025, 11, 1, 14, 0, 0, tzinfo=ZoneInfo('US/Eastern'))
-    assert ref_date.tzinfo == ZoneInfo('US/Eastern')
+    ref_date = datetime(2025, 11, 1, 14, 0, 0, tzinfo=ZoneInfo('America/Toronto'))
+    assert ref_date.tzinfo == ZoneInfo('America/Toronto')
 
-    assert event.start_datetime == datetime(2025, 11, 1, 14, 0, tzinfo=ZoneInfo('US/Eastern'))
+    assert event.start_datetime == datetime(2025, 11, 1, 14, 0, tzinfo=ZoneInfo('America/Toronto'))
     assert event.url == response.url
     assert 'Harvester' in event.description

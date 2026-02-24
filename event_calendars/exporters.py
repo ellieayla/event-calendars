@@ -48,8 +48,7 @@ class ICalItemExporter(BaseItemExporter):
 
         self.cal.add_component(e)
 
-
     def finish_exporting(self) -> None:
         self.cal.add_missing_timezones()
-        self.cal.subcomponents = sorted(self.cal.subcomponents, key=lambda e: e.get("UID", '0'))  # stable ordering; sort top-level subcomponents by UID, components without a UID property sort first
+        self.cal.subcomponents = sorted(self.cal.subcomponents, key=lambda e: e.get("UID", "0"))  # stable ordering; sort top-level subcomponents by UID, components without a UID property sort first
         self.file.write(self.cal.to_ical(sorted=True))  # stable ordering; sort properties

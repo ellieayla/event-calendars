@@ -3,18 +3,19 @@ from scrapy.http import Response, HtmlResponse, Request
 
 from ..items import Event
 
-from event_calendars.fb_graphql import extract_prefetched_events_from_inline_json
-from event_calendars.fb_graphql import extract_prefetched_objects_from_inline_json
-from event_calendars.fb_graphql import Event as FBEvent
-from event_calendars.fb_graphql import RelayPrefetchedStreamCache_Result
+from ..fb_graphql import extract_prefetched_events_from_inline_json
+from ..fb_graphql import extract_prefetched_objects_from_inline_json
+from ..fb_graphql import Event as FBEvent
+from ..fb_graphql import RelayPrefetchedStreamCache_Result
+
+from ..timezone_lookup import discover_zoneinfo_for_shortname
 
 import json
 from datetime import datetime, timedelta, time
-from zoneinfo import ZoneInfo
 from typing import Iterator
 
 class RespectCyclistsFacebookEvents(scrapy.Spider):
-    name = "respect_cyclists_facebook"
+    name = "respect-cyclists-facebook"
     allowed_domains = ["facebook.com", "www.facebook.com"]
     start_urls = ["https://www.facebook.com/groups/respectcyclists/events"]
 
@@ -83,14 +84,16 @@ class RespectCyclistsFacebookEvents(scrapy.Spider):
                 if r.graph_method_name == 'PublicEventCometAboutRootQuery':
                     result = RelayPrefetchedStreamCache_Result.from_bbox(r.bbox)
                     if result.path == ["event"] and 'start_timestamp' in result.data:
+
+                        tzinfo = discover_zoneinfo_for_shortname(result.data["tz_display_name"])
                         # HACK: facebook returns timezone strings in shortform, like EST/EDT.
                         # Don't have a good way to do a reverse-lookup of a zoneinfo.ZoneInfo from the shortform.
                         # But RespectCyclists is based from Toronto, so realistically only going to see two timezone strings.
                         # Just map them.
-                        if result.data["tz_display_name"] in ('EST', 'EDT'):
-                            tzinfo = ZoneInfo("US/Eastern")
-                        else:
-                            raise ValueError(f"Unknown timezone {result.data['tz_display_name']}")
+                        #if result.data["tz_display_name"] in ('EST', 'EDT'):
+                        #    tzinfo = ZoneInfo("America/Toronto")
+                        #else:
+                        #    raise ValueError(f"Unknown timezone {result.data['tz_display_name']}")
 
                         start_datetime = datetime.fromtimestamp(result.data["start_timestamp"], tzinfo)
                         end_datetime = datetime.fromtimestamp(result.data["end_timestamp"], tzinfo)
