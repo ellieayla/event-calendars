@@ -103,25 +103,22 @@ def test_visitor_simple() -> None:
     assert pretty == """some heading\n\nparagraph"""
 
 
-@pytest.mark.xfail(reason="Bug in handling extra whitespace beside list items")
 def test_interstitial_whitespace() -> None:
     html = fromstring(
         """
         <ul>
         <li>
         inside
+
         </li>
 
 
         <li>
-        second
+
+                second
         </li>
         </ul>
         """
     )
-    nodes = list(extract_text_visitor(html, 0))  # noqa: F841 draft
     pretty = readable_text_content(html)
-    print(pretty)
-
     assert pretty == """* inside\n* second"""
-    raise ValueError()

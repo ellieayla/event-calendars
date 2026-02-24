@@ -17,21 +17,28 @@ def extract_text_visitor(node: HtmlElement | str, indent: int = 0) -> Iterator[s
     if isinstance(node, str):
         if node == "":
             return
-        yield node
+        #if node.strip() == "":
+            #raise ValueError("weird node", node)
+        #    return
+        if node.strip() == "":
+            yield ""
+        yield node.replace("\n", " ")
+
+        #yield node
         return
 
     assert isinstance(node, HtmlElement)
 
-    if node.tag in ('img:', ):
-        print("dropped image")
-        return  # drop
+    if node.tag in ('img', ):
+        return  # drop images
 
     if node.tag in ('p', 'div', 'ol', 'ul'):
         yield "\n\n"  # add double-newlines around block elements
-    if node.tag in ('br', 'li'):
+    if node.tag in ('br', ):
         yield "\n"
     if node.tag in ('li', ):
         if not all([isinstance(child, HtmlElement) and child.tag in ('ol', 'ul') for child in node.xpath("child::node()")]):
+            yield "\n"
             yield "* " * (indent+1)
         indent += 1
 
@@ -58,7 +65,8 @@ def readable_text_content(node: HtmlElement) -> str:
     Replacement for HtmlElement.text_content() that honours whitespace.
     node = response.css("main div.text-content.inner-block")[0].root
     """
-    text = "".join(extract_text_visitor(node, 0))
+    chunks = list(extract_text_visitor(node, 0))
+    text = "".join(chunks)
 
     # segments of text produced by the visitor might contain ajacent newlines,
     # which should be collapsed to produce readable text
@@ -66,9 +74,11 @@ def readable_text_content(node: HtmlElement) -> str:
 
     text = text.replace("\xa0", " ")  # non-breaking space
     text = re.sub("[ ]+", " ", text)  # combine runs of adjacent spaces
-    text = re.sub("\n\n+", "\n\n", text)  # drop 3+ newlines back to 2
-    text = re.sub(" *(\n+) *", "\\1", text)  # drop spaes alongside newlines
+    text = re.sub("\n +", "\n", text, re.MULTILINE)  # drop spaes alongside newlines
+    text = re.sub(" +\n", "\n", text, re.MULTILINE)
+    text = re.sub("\n\n+", "\n\n", text, re.MULTILINE)  # drop 3+ newlines back to 2
     text = text.strip()  # drop leading and trailing whitespace
+
     return text
 
 
