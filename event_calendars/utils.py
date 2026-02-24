@@ -1,11 +1,10 @@
 
+import re
 from typing import Iterable
 
 from lxml.html import HtmlElement
-import re
-
-from scrapy.selector import SelectorList, Selector
 from parsel import Selector as ParselSelector
+from scrapy.selector import Selector, SelectorList
 from w3lib.html import remove_tags
 
 

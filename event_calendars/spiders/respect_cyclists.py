@@ -1,18 +1,15 @@
+import json
+from datetime import datetime, time, timedelta
+from typing import Iterator
+
 import scrapy
-from scrapy.http import Response, HtmlResponse, Request
+from scrapy.http import HtmlResponse, Request, Response
 
-from ..items import Event
-
-from ..fb_graphql import extract_prefetched_events_from_inline_json
-from ..fb_graphql import extract_prefetched_objects_from_inline_json
 from ..fb_graphql import Event as FBEvent
-from ..fb_graphql import RelayPrefetchedStreamCache_Result
-
+from ..fb_graphql import RelayPrefetchedStreamCache_Result, extract_prefetched_events_from_inline_json, extract_prefetched_objects_from_inline_json
+from ..items import Event
 from ..timezone_lookup import discover_zoneinfo_for_shortname
 
-import json
-from datetime import datetime, timedelta, time
-from typing import Iterator
 
 class RespectCyclistsFacebookEvents(scrapy.Spider):
     name = "respect-cyclists-facebook"

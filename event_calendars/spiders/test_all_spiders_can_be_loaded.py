@@ -1,6 +1,7 @@
-from scrapy.utils.project import get_project_settings
-from scrapy.spiderloader import get_spider_loader
 from scrapy.crawler import AsyncCrawlerProcess
+from scrapy.spiderloader import get_spider_loader
+from scrapy.utils.project import get_project_settings
+
 
 def test_spider_loader() -> None:
     settings = get_project_settings()

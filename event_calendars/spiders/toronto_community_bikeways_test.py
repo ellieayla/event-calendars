@@ -1,8 +1,9 @@
 from typing import Iterator
+
 from scrapy.http import TextResponse
+
 from event_calendars.items import Event
 from event_calendars.spiders.toronto_community_bikeways import TorontoCommunityBikeways
-
 
 community_bikeways_toronto_example_ical_file = r"""
 BEGIN:VCALENDAR

@@ -1,15 +1,12 @@
-from typing import Iterable
-import scrapy
-from scrapy.http import TextResponse, Response
-
-
-
-from ..items import BookableEvent
-
 from datetime import datetime
+from typing import Iterable
+
 import dateutil
 import dateutil.tz
+import scrapy
+from scrapy.http import Response, TextResponse
 
+from ..items import BookableEvent
 
 
 # TODO: Maybe this should be split

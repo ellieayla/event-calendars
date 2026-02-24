@@ -1,11 +1,11 @@
 
-from scrapy import Spider
-from scrapy.exporters import BaseItemExporter
-import icalendar
-
-from typing import Any
 from io import BytesIO
 from pathlib import Path
+from typing import Any
+
+import icalendar
+from scrapy import Spider
+from scrapy.exporters import BaseItemExporter
 
 from .items import Event
 

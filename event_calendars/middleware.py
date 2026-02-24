@@ -1,21 +1,18 @@
 # See documentation in:
 # https://docs.scrapy.org/en/latest/topics/download-handlers.html#writing-your-own-download-handler
 
-from typing import Self
-from waybackpy import WaybackMachineAvailabilityAPI, WaybackMachineSaveAPI
-from waybackpy.exceptions import ArchiveNotInAvailabilityAPIResponse
-
-from scrapy import Request
-from scrapy.crawler import Crawler
-from scrapy.http import Response
-from scrapy.exceptions import NotConfigured, CloseSpider
-from scrapy.utils.httpobj import urlparse_cached
-
+from datetime import datetime, timedelta
 from logging import getLogger
-from datetime import timedelta, datetime
+from typing import Self
 
 import lxml.etree
-
+from scrapy import Request
+from scrapy.crawler import Crawler
+from scrapy.exceptions import CloseSpider, NotConfigured
+from scrapy.http import Response
+from scrapy.utils.httpobj import urlparse_cached
+from waybackpy import WaybackMachineAvailabilityAPI, WaybackMachineSaveAPI
+from waybackpy.exceptions import ArchiveNotInAvailabilityAPIResponse
 
 logger = getLogger(__name__)
 

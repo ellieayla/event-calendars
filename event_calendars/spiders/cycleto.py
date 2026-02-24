@@ -1,18 +1,14 @@
-import scrapy
-
+from datetime import datetime, timedelta
 from typing import Iterator
 
+import datauri
+import icalendar
+import scrapy
 import scrapy.http
 from scrapy.exceptions import CloseSpider
 
 from ..items import Event
-
 from ..utils import readable_text_content
-from datetime import datetime, timedelta
-
-import icalendar
-import datauri
-
 
 
 class CycleToronto(scrapy.Spider):

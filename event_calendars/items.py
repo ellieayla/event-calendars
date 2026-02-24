@@ -7,8 +7,8 @@
 from dataclasses import dataclass, field
 from datetime import datetime, timezone
 from typing import Optional
-
 from uuid import UUID, uuid5
+
 ns = UUID('b44256d5-dee8-4dee-9fd9-31451e47984e')
 
 

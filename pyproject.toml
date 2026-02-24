@@ -44,11 +44,12 @@ line-length = 150
 
 [tool.ruff.lint]
 select = [
-    #"I",  # import sort
+    "I",  # import sort
     #"E",  # pycodestyle
     #"F",  # pyflakes
     #"UP",  # pyupgrade
 ]
+exclude = ["vendor/**"]
 
 # uv tool run pytest-watcher -sv .
 [tool.pytest-watcher]

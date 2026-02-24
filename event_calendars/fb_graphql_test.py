@@ -1,14 +1,10 @@
-import pytest
-
-from event_calendars.fb_graphql import parse_day_time_sentence
 from datetime import datetime
-
-
 from pprint import pprint
 
-from event_calendars.spiders.respect_cyclists import convert_facebook_event_to_spider_event
-from event_calendars.fb_graphql import extract_prefetched_events_from_inline_json, Event, internal_bbox_content_Type
+import pytest
 
+from event_calendars.fb_graphql import Event, extract_prefetched_events_from_inline_json, internal_bbox_content_Type, parse_day_time_sentence
+from event_calendars.spiders.respect_cyclists import convert_facebook_event_to_spider_event
 
 schedule_server_js_example: internal_bbox_content_Type = {
     "require": [

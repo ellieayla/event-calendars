@@ -1,10 +1,8 @@
 from abc import abstractmethod
-from datetime import datetime, date
-from typing import Any, Callable, Iterable, Literal, NamedTuple, TypeAlias, Self
-
 from dataclasses import dataclass, fields
-from typing import TypedDict, Protocol
+from datetime import date, datetime
 from operator import attrgetter
+from typing import Any, Callable, Iterable, Literal, NamedTuple, Protocol, Self, TypeAlias, TypedDict
 
 
 class SupportedDeserializationFromDict(Protocol):

@@ -1,7 +1,7 @@
-import pytest
-
-from zoneinfo import ZoneInfo
 from datetime import datetime
+from zoneinfo import ZoneInfo
+
+import pytest
 
 from event_calendars.timezone_lookup import discover_zoneinfo_for_shortname
 

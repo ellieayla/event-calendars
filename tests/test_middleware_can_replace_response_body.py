@@ -1,8 +1,9 @@
 
+from datetime import timedelta
+
 from scrapy.http import HtmlResponse, Request
 
 from event_calendars.middleware import Wayback
-from datetime import timedelta
 
 
 def test_replace_body_links() -> None:

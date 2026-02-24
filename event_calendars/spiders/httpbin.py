@@ -1,10 +1,10 @@
-import scrapy
-from scrapy.http import TextResponse, Response
+from datetime import datetime, timedelta
 from typing import Iterator
 
-from ..items import Event
+import scrapy
+from scrapy.http import Response, TextResponse
 
-from datetime import datetime, timedelta
+from ..items import Event
 
 
 class HttpBinSpider(scrapy.Spider):

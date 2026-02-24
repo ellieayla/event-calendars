@@ -1,14 +1,12 @@
+import logging
+from typing import Any, Iterator
+
+import icalendar
 import scrapy
-from scrapy.http import HtmlResponse, TextResponse, Response
-from typing import Iterator, Any
+from html2text import html2text
+from scrapy.http import HtmlResponse, Response, TextResponse
 
 from ..items import Event
-import icalendar
-import logging
-
-from html2text import html2text
-
-
 
 
 class TorontoCommunityBikeways(scrapy.Spider):

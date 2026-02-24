@@ -1,8 +1,10 @@
-from textwrap import dedent
-import icalendar
-from io import BytesIO
 from datetime import datetime
+from io import BytesIO
+from textwrap import dedent
 from uuid import uuid5
+
+import icalendar
+
 
 def test_assumption_icalendar_sortable_keys() -> None:
     a = icalendar.Calendar()
@@ -77,7 +79,7 @@ def test_assumption_icalendar_sortable_keys() -> None:
 
 def test_ICalItemExporter_sorts() -> None:
     from event_calendars.exporters import ICalItemExporter
-    from event_calendars.items import ns, Event
+    from event_calendars.items import Event, ns
 
     writer_file = BytesIO()
     writer_file.name = "fake-filename-used-for-calendar-name"

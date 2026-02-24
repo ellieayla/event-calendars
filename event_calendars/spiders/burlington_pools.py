@@ -1,14 +1,13 @@
 
-import scrapy
-from scrapy.http import HtmlResponse, TextResponse, Response
-from scrapy.http.request.form import FormdataType
-from ..items import BookableEvent
-
-
 from datetime import date, datetime, timedelta
-import dateutil
-
 from typing import Iterable, Iterator
+
+import dateutil
+import scrapy
+from scrapy.http import HtmlResponse, Response, TextResponse
+from scrapy.http.request.form import FormdataType
+
+from ..items import BookableEvent
 
 
 def _parse_date_time(formatted_date: str, formatted_time: str) -> datetime:

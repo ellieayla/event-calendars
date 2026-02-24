@@ -1,16 +1,14 @@
+import argparse
 from argparse import Namespace
+from logging import getLogger
 
 from scrapy.commands import ScrapyCommand
-
-import argparse
-from scrapy.settings import Settings
 from scrapy.crawler import AsyncCrawlerProcess
-from scrapy.utils.project import get_project_settings
-from scrapy.spiderloader import get_spider_loader
 from scrapy.exceptions import UsageError
+from scrapy.settings import Settings
+from scrapy.spiderloader import get_spider_loader
+from scrapy.utils.project import get_project_settings
 
-
-from logging import getLogger
 logger = getLogger(__name__)
 
 
