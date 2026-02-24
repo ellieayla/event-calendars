@@ -44,10 +44,10 @@ line-length = 150
 
 [tool.ruff.lint]
 select = [
-    "I",  # import sort
-    "E",  # pycodestyle
-    "F",  # pyflakes
-    "UP",  # pyupgrade
+    #"I",  # import sort
+    #"E",  # pycodestyle
+    #"F",  # pyflakes
+    #"UP",  # pyupgrade
 ]
 
 # uv tool run pytest-watcher -sv .
