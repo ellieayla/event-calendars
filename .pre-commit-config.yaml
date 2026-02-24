@@ -23,7 +23,7 @@ repos:
     rev: v1.19.1
     hooks:
     -   id: mypy
-        additional_dependencies: [types-python-dateutil]
+        additional_dependencies: [types-python-dateutil, marko]
 
 # Warning: Ty is currently in preview and not ready for production use. Expect bugs and missing features.
 #- repo: https://github.com/allganize/ty-pre-commit
