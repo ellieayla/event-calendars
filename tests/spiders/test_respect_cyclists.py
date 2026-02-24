@@ -5,9 +5,8 @@ from zoneinfo import ZoneInfo
 import pytest
 from scrapy.http import HtmlResponse
 
+from event_calendars.items import Event
 from event_calendars.spiders.respect_cyclists import RespectCyclistsFacebookEvents
-
-from ..items import Event
 
 FIXTURE_DIR = Path(__file__).parent.parent.parent.resolve() / "test_data"
 

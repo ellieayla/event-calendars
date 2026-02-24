@@ -3,9 +3,8 @@ from pathlib import Path
 import pytest
 from scrapy.http import TextResponse
 
+from event_calendars.items import BookableEvent
 from event_calendars.spiders.burlington_hamilton_ymca import YmcaHamiltonBurlingtonPools
-
-from ..items import BookableEvent
 
 FIXTURE_DIR = Path(__file__).parent.parent.parent.resolve() / "test_data"
 
