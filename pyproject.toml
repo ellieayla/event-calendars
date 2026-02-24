@@ -46,7 +46,7 @@ line-length = 150
 select = [
     "I",  # import sort
     "E",  # pycodestyle
-    #"F",  # pyflakes
+    "F",  # pyflakes
     #"UP",  # pyupgrade
 ]
 exclude = ["vendor/**"]
