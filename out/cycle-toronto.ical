@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:Coldest Day of the Year Ride 2026
 DTSTART:20260228T150000Z
 DTEND:20260228T170000Z
-DTSTAMP:20260224T060529Z
+DTSTAMP:20260225T060224Z
 UID:c7118781-30e4-544f-928e-32f2d49539d0
 DESCRIPTION:Coldest Day of the Year Ride 2026!\n\nThe Coldest Day of the Y
  ear Ride is an annual ride organized by Cycle Toronto in partnership with 
@@ -25,15 +25,15 @@ DESCRIPTION:Coldest Day of the Year Ride 2026!\n\nThe Coldest Day of the Y
  er cycling for Bike Winter.\n\nJoin us in this all-ages-and-abilities annu
  al celebration of winter cycling. The ride starts and ends at Sugar Beach 
  Park where we'll finish up with some hot chocolate and light snacks!\n\nDa
- te: Saturday\, February 28\, 2026\nTime: Meet for 10:00 am\, roll out arou
- nd 10:30 am\nLocation: (https://www.toronto.ca/explore-enjoy/parks-recreat
- ion/places-spaces/parks-and-recreation-facilities/location/?id=2261) Sugar
-  Beach Park (11 Dockside Drive)\nRide Distance: ~10km\nRoute: [coming soon
- ]\n\nBike Share Toronto is offering free bike share reservations while sup
- plies last. Click https://docs.google.com/forms/d/e/1FAIpQLSc5_WzgwtXdc-BJ
- 6WtyOKNmbPZwcEdu3rpUT5e2v44Xo7nfrw/viewform?usp=dialog to reserve a compli
- mentary Bike Share bike for the ride.\nURL: https://www.cycleto.ca/cdoyr_2
- 026
+ te: Saturday\, February 28\, 2026\nTime: 10:00 am\nLocation: (https://www.
+ toronto.ca/explore-enjoy/parks-recreation/places-spaces/parks-and-recreati
+ on-facilities/location/?id=2261) Sugar Beach Park (11 Dockside Drive)\nRid
+ e Distance: ~10km\nRoute (subject to change): https://ridewithgps.com/rout
+ es/54023563\n\nBike Share Toronto is offering free bike share reservations
+  while supplies last. (https://docs.google.com/forms/d/e/1FAIpQLSc5_WzgwtX
+ dc-BJ6WtyOKNmbPZwcEdu3rpUT5e2v44Xo7nfrw/viewform?usp=dialog) Click here to
+  reserve a complimentary Bike Share bike for the ride.\nURL: https://www.c
+ ycleto.ca/cdoyr_2026
 LOCATION:Sugar Beach Park\n11 Dockside Drive\nToronto ON M5A 0B6\nCA
 URL:https://www.cycleto.ca/cdoyr_2026
 END:VEVENT
