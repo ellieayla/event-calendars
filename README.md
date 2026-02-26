@@ -20,7 +20,7 @@ exports an iCalendar (.ical) feed of upcoming events.
 
     server_url = environ.get("GITHUB_SERVER_URL", "https://github.com")
     repo = environ.get("GITHUB_REPOSITORY", "ellieayla/event-calendars")
-    ref = environ.get("GITHUB_REF_NAME", "refs/heads/main")
+    ref = "refs/heads/main"  # published permalink not dependent on what branch/pr we're working on now
 
     files = sorted(glob("out/*.ical"))
 
