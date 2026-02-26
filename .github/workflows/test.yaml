@@ -23,9 +23,9 @@ jobs:
 
     - uses: astral-sh/ruff-action@v3  # check by default
 
-    #- name: Check that readme wasn't accidentally changed
-    #  run: |
-    #    uv run cog -c --diff --check --check-fail-msg "ical file list in README.md file accidentally changed" -- README.md
+    - name: Check that readme wasn't accidentally changed
+      run: |
+        uv run cog -c --diff --check --check-fail-msg "ical file list in README.md file accidentally changed" -- README.md
 
     - name: pytest  # also runs mypy
       run: |

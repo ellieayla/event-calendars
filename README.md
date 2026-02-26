@@ -39,6 +39,4 @@ exports an iCalendar (.ical) feed of upcoming events.
 
 ## Plans
 
-* Find a better solution for https://cycleto.ca/events - fronted by cloudflare, currently fetching from the wayback archive instead
-* Add support for Tour De Cafe rides from https://www.newhopecommunitybikes.com/womens-programming
-* Add support for https://www.burlingtongreen.org/events/ - note structured JSON feed contains /published/ time, not /event/ date.
+Track in [open issues](../../issues).
