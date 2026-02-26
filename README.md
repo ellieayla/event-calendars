@@ -35,7 +35,7 @@ exports an iCalendar (.ical) feed of upcoming events.
 * [respect-cyclists-facebook.ical](https://github.com/ellieayla/event-calendars/raw/refs/heads/main/out/respect-cyclists-facebook.ical)
 * [toronto-community-bikeways.ical](https://github.com/ellieayla/event-calendars/raw/refs/heads/main/out/toronto-community-bikeways.ical)
 * [ymca-hamilton-burlington.ical](https://github.com/ellieayla/event-calendars/raw/refs/heads/main/out/ymca-hamilton-burlington.ical)
-<!-- [[[end]]] (sum: gpIDWLq69x) -->
+<!-- [[[end]]] -->
 
 ## Plans
 
