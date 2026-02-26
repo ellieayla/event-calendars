@@ -14,11 +14,11 @@ exports an iCalendar (.ical) feed of upcoming events.
 ## Feeds
 
 * [ymca-hamilton-burlington.ical](https://github.com/ellieayla/event-calendars/raw/refs/heads/main/out/ymca-hamilton-burlington.ical)
-* [httpbin.ical](https://github.com/ellieayla/event-calendars/raw/refs/heads/main/out/httpbin.ical)
 * [burlington-pools.ical](https://github.com/ellieayla/event-calendars/raw/refs/heads/main/out/burlington-pools.ical)
-* [toronto-community-bikeways.ical](https://github.com/ellieayla/event-calendars/raw/refs/heads/main/out/toronto-community-bikeways.ical)
-* [respect-cyclists-facebook.ical](https://github.com/ellieayla/event-calendars/raw/refs/heads/main/out/respect-cyclists-facebook.ical)
 * [cycle-toronto.ical](https://github.com/ellieayla/event-calendars/raw/refs/heads/main/out/cycle-toronto.ical)
+* [toronto-community-bikeways.ical](https://github.com/ellieayla/event-calendars/raw/refs/heads/main/out/toronto-community-bikeways.ical)
+* [httpbin.ical](https://github.com/ellieayla/event-calendars/raw/refs/heads/main/out/httpbin.ical)
+* [respect-cyclists-facebook.ical](https://github.com/ellieayla/event-calendars/raw/refs/heads/main/out/respect-cyclists-facebook.ical)
 
 ## Plans
 
