@@ -1,4 +1,4 @@
-# Scrapy settings for communitybikeways project
+# Scrapy settings for event_calendars project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -45,13 +45,7 @@ CONCURRENT_REQUESTS_PER_DOMAIN = 1
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    "communitybikeways.middlewares.communitybikewaysSpiderMiddleware": 543,
-#}
-
-# Enable or disable downloader middlewares
-# See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
-#DOWNLOADER_MIDDLEWARES = {
-#    "communitybikeways.middlewares.communitybikewaysDownloaderMiddleware": 543,
+#    "event_calendars.middlewares.event_calendarsSpiderMiddleware": 543,
 #}
 
 # Enable or disable extensions
@@ -62,8 +56,8 @@ CONCURRENT_REQUESTS_PER_DOMAIN = 1
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    "communitybikeways.pipelines.communitybikewaysPipeline": 300,
+#ITEM_PIPELINES: dict[str, int] = {
+#   "event_calendars.pipelines.DuplicatesPipeline": 300,
 #}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
@@ -92,7 +86,7 @@ TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
 FEED_EXPORT_ENCODING = "utf-8"
 
 
-#LOG_LEVEL="DEBUG"
+LOG_LEVEL="DEBUG"
 COMMANDS_MODULE = 'event_calendars.cli'
 
 FEED_EXPORTERS = {
@@ -103,13 +97,18 @@ FEEDS = { # pyright: ignore[reportUnknownVariableType]
     'out/%(spider_name)s.ical': {
         'format': 'ical',
         'overwrite': True,  # new file each time
-        "calendar_name": "Booga",
+        "calendar_name": "Unnamed",
+        #"item_export_kwargs": {
+        #    "extraarg": "Booga %(spider_name)s",
+        #}
     },
 }
 
 FEED_URI_PARAMS = "event_calendars.exporters.uri_params"
 
 
+# Enable or disable downloader middlewares
+# See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 DOWNLOADER_MIDDLEWARES = {
     "event_calendars.middleware.Wayback": 500,
 }

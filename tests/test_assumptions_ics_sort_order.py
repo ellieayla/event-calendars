@@ -94,12 +94,12 @@ def test_ICalItemExporter_sorts() -> None:
     for letter in "aZbYcWdXe":
         expected_uids.append(str(uuid5(ns, letter)))
         item = Event(
-            summary = letter,
-            url = letter,  # sort key is uuid5(url)
-            start_datetime = _fake_date,
-            end_datetime = _fake_date,
-            location = "",
-            original_description = "",
+            summary=letter,
+            url=letter,  # sort key is uuid5(url)
+            start_datetime=_fake_date,
+            end_datetime=_fake_date,
+            location="",
+            original_description="",
         )
         exporter.export_item(item)
     exporter.finish_exporting()
@@ -108,4 +108,4 @@ def test_ICalItemExporter_sorts() -> None:
 
     b = icalendar.Calendar.from_ical(writer_file.getvalue().decode())
     for (left, right) in zip(expected_uids_ordered, b.events):
-        assert left == right.get('UID')
+        assert left == right.get("UID")

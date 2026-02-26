@@ -9,6 +9,8 @@ from ..items import Event
 
 class HttpBinSpider(scrapy.Spider):
     name = 'httpbin'
+    skip_in_runall = True
+
     allowed_domains = ['httpbin.org']
     start_urls = [
         'https://httpbin.org/json'

@@ -45,9 +45,15 @@ def run_all(args: list[str], settings: Settings | None, crawler_process: AsyncCr
     spider_loader = get_spider_loader(settings)
 
     all_spiders = sorted(spider_loader.list())
-    logger.info(f"Running spiders: {all_spiders}")
+    logger.info(f"Loading spiders: {all_spiders}")
     for spider_name in all_spiders:
-        crawler_process.crawl(spider_name)
+
+        spider_info = spider_loader.load(spider_name)
+        if getattr(spider_info, "skip_in_runall", False):
+            print(f"Skip {spider_name=} - skip_in_runall set")
+        else:
+            print(f"Starting {spider_name=}")
+            crawler_process.crawl(spider_name)
 
     crawler_process.start()  # the script will block here until all crawling jobs are finished
     if crawler_process.bootstrap_failed:

@@ -16,11 +16,7 @@ def test_extractor_on_cycleto_event_html(datafiles: Path) -> None:
 
     html: bytes = (datafiles / "cycleto.ca-event-cdoyr-2026.html").read_bytes()
 
-    response = HtmlResponse(
-        url="",
-        status=200,
-        body=html
-    )
+    response = HtmlResponse(url="unused", status=200, body=html)
 
     root_node: HtmlElement = response.css("main div.text-content.inner-block")[0].root
     assert isinstance(root_node, HtmlElement)
@@ -96,7 +92,7 @@ def test_visitor_simple() -> None:
         "\n\n",
         "paragraph",
         "\n\n",
-        "\n\n"
+        "\n\n",
     ]
 
     pretty = readable_text_content(html)
@@ -131,12 +127,11 @@ def test_extract_text() -> None:
     assert isinstance(root, HtmlElement)
 
     produced = readable_text_content(root)
-    #print(produced)
 
     for line in produced.splitlines():
         leader = line.split(":", maxsplit=1)[0]
-        if ":" in line and len(leader)<10:
-            assert leader in ('Date', 'Time', 'Location', 'Ride Distance', 'Route')
+        if ":" in line and len(leader) < 10:
+            assert leader in ("Date", "Time", "Location", "Ride Distance", "Route")
 
     assert produced.startswith("Coldest Day")
     assert produced.endswith("for the ride.")
@@ -183,7 +178,7 @@ def test_list_of_paragraph_nodes_wrapped_in_div_by_lxml_html_fromstring() -> Non
     html = "<p>1</p><p>2</p>"
     root = fromstring(html)
     assert isinstance(root, HtmlElement)
-    assert root.tag == 'div'
+    assert root.tag == "div"
 
     produced = readable_text_content(root)
 

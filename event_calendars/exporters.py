@@ -1,16 +1,21 @@
 
+from collections.abc import Sequence
 from io import BytesIO
+from logging import getLogger
 from pathlib import Path
 from typing import Any
 
 import icalendar
 from scrapy import Spider
 from scrapy.exporters import BaseItemExporter
+from scrapy.spiderloader import get_spider_loader
+from scrapy.utils.project import get_project_settings
 
 from .items import Event
 
+logger = getLogger(__name__)
 
-def uri_params(params: dict[str, Any], spider: Spider) -> dict[str, Any]:
+def uri_params(params: dict[str, Any], spider: Spider | type[Spider]) -> dict[str, Any]:
     """Add spider_name to available uri_params template, so %(spider_name)s is usable in feed URIs."""
     return {
         **params,
@@ -18,11 +23,52 @@ def uri_params(params: dict[str, Any], spider: Spider) -> dict[str, Any]:
     }
 
 
+def get_spider_from_export_filename(opened_filename: str) -> type[Spider]:
+    """
+    each spider gets its own file, but there's no indication of which spider this one is.
+    go look it up by introspecting the filename.
+    this must match the feed export in settings.py
+    'out/%(spider_name)s.ical'
+
+    This cannot work with batch options that change the filename.
+
+    Simplied logic from scrapy.extensions.feedexport.FeedExporter.open_spider
+    """
+
+    project_settings = get_project_settings()
+    spider_loader = get_spider_loader(project_settings)
+
+    configured_feeds: Sequence[str] = list(project_settings.getdict("FEEDS", {}).keys())
+
+    for spider_name in spider_loader.list():
+        # get the hypothetical produced uri_params for this spider
+        spider_cls: type[Spider] = spider_loader.load(spider_name)
+        params = uri_params({}, spider_cls)
+
+        # see if the opened_filename matches one of the hypothetical uri's produced from the configured patterns & params
+        for output_filename_pattern in configured_feeds:
+            uri: str = output_filename_pattern % params
+            if uri == opened_filename:
+                return spider_cls
+
+    raise ValueError(f"Spider not found for {opened_filename=}")
+
+
 class ICalItemExporter(BaseItemExporter):
     # similar to the XML exporter
+
+    logger = getLogger(__name__)
+
     def __init__(self, file: BytesIO, **kwargs: Any) -> None:
         self.file = file  # already-open file handle
-        self.calendar_name = Path(self.file.name).stem.replace("-", " ").title()
+
+        try:
+            spider_class = get_spider_from_export_filename(self.file.name)
+            self.calendar_name = getattr(spider_class, "calendar_name")
+        except (ValueError, AttributeError) as e:
+            self.logger.warning(f"Unable to find calendar_name for {self.file.name=}: {e=}")
+            self.calendar_name = Path(self.file.name).stem.replace("-", " ").title()
+
         super().__init__(**kwargs)
 
     def start_exporting(self) -> None:

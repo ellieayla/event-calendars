@@ -34,6 +34,7 @@ DEFAULT_SEARCH = {
 class BurlingtonPools(scrapy.Spider):
     name = "burlington-pools"
     calendar_name = "Burlington Pools"
+    skip_in_runall = True
 
     allowed_domains = ["cityofburlington.perfectmind.com"]
 

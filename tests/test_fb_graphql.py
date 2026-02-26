@@ -856,15 +856,17 @@ def test_convert_facebook_event_to_spider_event() -> None:
 
     pprint(fb_event)
     # make sure we're starting with the right event
-    assert fb_event.id == '789092220770764'
+    assert fb_event.id == "789092220770764"
 
     scraper_event = convert_facebook_event_to_spider_event(fb_event)
-    assert scraper_event.summary == 'Ghost Bike Ride For Jean Louis - placeholder time'
+    assert scraper_event.summary == "Ghost Bike Ride For Jean Louis - placeholder time"
 
 
-
-@pytest.mark.parametrize("provided,expected", [
-    ('Sat, Nov 1, 2025', datetime(2025, 11, 1, 0, 0))
-])
+@pytest.mark.parametrize(
+    "provided,expected",
+    [
+        ("Sat, Nov 1, 2025", datetime(2025, 11, 1, 0, 0)),
+    ],
+)
 def test_parse_day_time_sentence(provided: str, expected: datetime) -> None:
     assert parse_day_time_sentence(provided) == expected

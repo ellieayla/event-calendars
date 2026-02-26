@@ -13,6 +13,7 @@ from ..items import BookableEvent
 class YmcaHamiltonBurlingtonPools(scrapy.Spider):
     name = "ymca-hamilton-burlington"
     allowed_domains = ["www.ymcahbb.ca"]
+    skip_in_runall = True
 
     def start_requests(self) -> Iterator[scrapy.Request]:
 

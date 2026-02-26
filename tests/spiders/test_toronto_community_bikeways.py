@@ -27,7 +27,7 @@ def test_merge_with_ical_file() -> None:
         status=200,
         headers={"content-type": "text/calendar"},
         body=community_bikeways_toronto_example_ical_file,
-        encoding='utf-8',
+        encoding="utf-8",
     )
     s: TorontoCommunityBikeways = TorontoCommunityBikeways()
     g: Iterator[Event] = s.handle_ical_file(

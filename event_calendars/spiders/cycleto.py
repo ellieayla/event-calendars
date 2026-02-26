@@ -14,6 +14,7 @@ from ..utils import readable_text_content
 class CycleToronto(scrapy.Spider):
     name = 'cycle-toronto'
     calendar_name = "Cycle TO"
+    skip_in_runall = True
 
     allowed_domains = ['www.cycleto.ca', 'web.archive.org']
     start_urls = ['https://www.cycleto.ca/events']

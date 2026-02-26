@@ -8,23 +8,21 @@ from scrapy.selector import Selector, SelectorList
 from w3lib.html import remove_tags
 
 
-def extract_text_visitor(node: HtmlElement | str, indent: int = 0) -> Iterator[str]:
+def extract_text_visitor(node: HtmlElement | str, indent: int = 0, skip_block_newlines: bool = False) -> Iterator[str]:
     """
     Use the Visitor Pattern to traverse the tree starting from 'node',
     yielding plain text.
     """
 
+    p_in_li = False
+
     if isinstance(node, str):
         if node == "":
             return
-        #if node.strip() == "":
-            #raise ValueError("weird node", node)
-        #    return
         if node.strip() == "":
             yield ""
         yield node.replace("\n", " ")
 
-        #yield node
         return
 
     assert isinstance(node, HtmlElement)
@@ -32,11 +30,15 @@ def extract_text_visitor(node: HtmlElement | str, indent: int = 0) -> Iterator[s
     if node.tag in ('img', ):
         return  # drop images
 
-    if node.tag in ('p', 'div', 'ol', 'ul'):
+    if node.tag in ('p', 'div', 'ol', 'ul') and not skip_block_newlines:
         yield "\n\n"  # add double-newlines around block elements
     if node.tag in ('br', ):
         yield "\n"
     if node.tag in ('li', ):
+        if len(node.xpath("child::node()")) == 1 \
+            and isinstance(node.xpath("child::node()")[0], HtmlElement) \
+                and node.xpath("child::node()")[0].tag in ("p", "div"):
+            p_in_li = True
         if not all([isinstance(child, HtmlElement) and child.tag in ('ol', 'ul') for child in node.xpath("child::node()")]):
             yield "\n"
             yield "* " * (indent+1)
@@ -54,9 +56,9 @@ def extract_text_visitor(node: HtmlElement | str, indent: int = 0) -> Iterator[s
             yield f' ({node.attrib.get("href")}) '
 
     for child in node.xpath("child::node()"):
-        yield from extract_text_visitor(child, indent=indent)
+        yield from extract_text_visitor(child, indent=indent, skip_block_newlines=p_in_li)
 
-    if node.tag in ('p', 'div', 'ol', 'ul'):
+    if node.tag in ('p', 'div', 'ol', 'ul') and not skip_block_newlines:
         yield "\n\n"  # add double-newlines around block elements
 
 

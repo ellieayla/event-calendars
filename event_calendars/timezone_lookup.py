@@ -40,7 +40,6 @@ def discover_zoneinfo_for_shortname(tzname: str) -> ZoneInfo:
     for zone_name in sorted(available_timezones(), key=_common_timezone_name_sortkey):
         zi: ZoneInfo = ZoneInfo(zone_name)
         if any([zi.tzname(dt) == tzname for dt in (now, january, june)]):
-            print(f"Found matching zone shortname {tzname} in {zi=}: {zi.tzname(now)=}")
             return zi
 
     raise ZoneInfoNotFoundError(f'No time zone found with key {tzname}')

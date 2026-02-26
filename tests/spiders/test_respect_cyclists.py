@@ -16,15 +16,10 @@ def test_parse_events_list_page(datafiles: Path) -> None:
     assert datafiles.is_dir()
 
     html: bytes = (datafiles / "facebook-respectcyclists-events-list.html").read_bytes()
-    assert html.startswith(b'<html id="facebook"')
+    assert b'<html id="facebook"' in html[0:100]
 
     spider = RespectCyclistsFacebookEvents()
-
-    response = HtmlResponse(
-        url = 'https://www.facebook.com/groups/respectcyclists/events',
-        status=200,
-        body = html
-    )
+    response = HtmlResponse(url=spider.start_urls[0], status=200, body=html)
 
     results = spider.parse(response)
 
@@ -42,17 +37,12 @@ def test_parse_single_event_page(datafiles: Path) -> None:
 
     html: bytes = (datafiles / "facebook-events-789092220770764.html").read_bytes()
 
-    assert html.startswith(b'<html id="facebook"')
+    assert b'<html id="facebook"' in html[0:100]
     assert b'789092220770764' in html
     assert b'start_timestamp' in html
 
     spider = RespectCyclistsFacebookEvents()
-
-    response = HtmlResponse(
-        url = 'https://www.facebook.com/events/789092220770764/',
-        status=200,
-        body = html
-    )
+    response = HtmlResponse(url=spider.start_urls[0], status=200, body=html)
 
     result = list(spider.parse_single_event_page(response))
 

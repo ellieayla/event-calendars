@@ -1,4 +1,3 @@
-
 from datetime import timedelta
 
 from scrapy.http import HtmlResponse, Request
@@ -12,11 +11,11 @@ def test_replace_body_links() -> None:
     desired_url = "https://www.example.com/cdoyr"
 
     response = HtmlResponse(
-        url = "https://web.archive.org/web/123/http://original.one.example.com/document",
+        url="https://web.archive.org/web/123/http://original.one.example.com/document",
         status=200,
         headers={"content-type": "text/html"},
         body=body_template % stored_url,
-        encoding='utf-8',
+        encoding="utf-8",
     )
 
     download_middleware = Wayback(waybacked_domains=set(), acceptible_age=timedelta(seconds=0))
@@ -26,5 +25,5 @@ def test_replace_body_links() -> None:
     desired_body = body_template % desired_url
     assert second_response.body.decode() == desired_body
 
-    assert second_response.url == 'http://original.one.example.com/document'
+    assert second_response.url == "http://original.one.example.com/document"
     assert response.css(".calendar-list a::attr(href)").get() == desired_url
