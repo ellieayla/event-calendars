@@ -10,7 +10,6 @@ dependencies = [
     "html2text>=2025.4.15",
     "humanize>=4.15.0",
     "icalendar>=7.0.0",
-    "marko>=2.2.2",
     "scrapy>=2.14.1",
     "waybackpy>=3.0.6",
 ]
@@ -24,6 +23,10 @@ dev = [
     "pytest-mypy>=1.0.1",
     "types-python-dateutil",
 ]
+readme = [
+    "cogapp>=3.6.0",
+]
+
 
 [tool.pytest.ini_options]
 addopts = "--mypy --failed-first"

@@ -23,7 +23,7 @@ jobs:
         activate-environment: true
 
     - name: Install the project
-      run: uv sync
+      run: uv sync --group readme
 
     - name: Fetch latest data
       run: |
@@ -31,7 +31,7 @@ jobs:
 
     - name: Update list of ical feeds in readme to match known files
       run: |
-        uv run update-readme.py --write README.md
+        uv run cog -r -U -- README.md
 
     - name: Commit and push if it changed
       uses: stefanzweifel/git-auto-commit-action@v5

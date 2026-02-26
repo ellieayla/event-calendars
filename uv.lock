@@ -178,6 +178,15 @@ wheels = [
 ]
 
 [[package]]
+name = "cogapp"
+version = "3.6.0"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/64/ea/4ffa8095e0b675e9961cbdcad002c09d35d4ab76ff99d61a014e9e6bcd53/cogapp-3.6.0.tar.gz", hash = "sha256:ec2a9170bfa644bf0d91996fdb5576c13d7e5e848bb2378a6f92727b48f92604", size = 59742, upload-time = "2025-09-21T15:54:13.553Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/05/1c/23b5110b7cb305f0fe3a5d6809d6804c1cb57d57b59516dbb5e24aaf95fc/cogapp-3.6.0-py3-none-any.whl", hash = "sha256:6ea11c63221f92978d37d8d76208eadeae2a6e4641d323f165738a5464a19d32", size = 30550, upload-time = "2025-09-21T15:54:12.205Z" },
+]
+
+[[package]]
 name = "colorama"
 version = "0.4.6"
 source = { registry = "https://pypi.org/simple" }
@@ -285,7 +294,6 @@ dependencies = [
     { name = "html2text" },
     { name = "humanize" },
     { name = "icalendar" },
-    { name = "marko" },
     { name = "scrapy" },
     { name = "waybackpy" },
 ]
@@ -299,6 +307,9 @@ dev = [
     { name = "pytest-mypy" },
     { name = "types-python-dateutil" },
 ]
+readme = [
+    { name = "cogapp" },
+]
 
 [package.metadata]
 requires-dist = [
@@ -307,7 +318,6 @@ requires-dist = [
     { name = "html2text", specifier = ">=2025.4.15" },
     { name = "humanize", specifier = ">=4.15.0" },
     { name = "icalendar", specifier = ">=7.0.0" },
-    { name = "marko", specifier = ">=2.2.2" },
     { name = "scrapy", specifier = ">=2.14.1" },
     { name = "waybackpy", specifier = ">=3.0.6" },
 ]
@@ -321,6 +331,7 @@ dev = [
     { name = "pytest-mypy", specifier = ">=1.0.1" },
     { name = "types-python-dateutil" },
 ]
+readme = [{ name = "cogapp", specifier = ">=3.6.0" }]
 
 [[package]]
 name = "filelock"
@@ -607,15 +618,6 @@ source = { registry = "https://pypi.org/simple" }
 sdist = { url = "https://files.pythonhosted.org/packages/99/da/1a3a3e5d159b249fc2970d73437496b908de8e4716a089c69591b4ffa6fd/lxml-stubs-0.5.1.tar.gz", hash = "sha256:e0ec2aa1ce92d91278b719091ce4515c12adc1d564359dfaf81efa7d4feab79d", size = 14778, upload-time = "2024-01-10T09:37:46.521Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/1f/c9/e0f8e4e6e8a69e5959b06499582dca6349db6769cc7fdfb8a02a7c75a9ae/lxml_stubs-0.5.1-py3-none-any.whl", hash = "sha256:1f689e5dbc4b9247cb09ae820c7d34daeb1fdbd1db06123814b856dae7787272", size = 13584, upload-time = "2024-01-10T09:37:44.931Z" },
-]
-
-[[package]]
-name = "marko"
-version = "2.2.2"
-source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/e3/2f/050b6d485f052ddf17d76a41f9334d6fb2a8a85df35347a12d97ed3bc5c1/marko-2.2.2.tar.gz", hash = "sha256:6940308e655f63733ca518c47a68ec9510279dbb916c83616e4c4b5829f052e8", size = 143641, upload-time = "2026-01-05T11:04:41.935Z" }
-wheels = [
-    { url = "https://files.pythonhosted.org/packages/83/f8/36d79bac5701e6786f9880c61bbe57574760a13c1af84ab71e5ed21faecc/marko-2.2.2-py3-none-any.whl", hash = "sha256:f064ae8c10416285ad1d96048dc11e98ef04e662d3342ae416f662b70aa7959e", size = 42701, upload-time = "2026-01-05T11:04:40.75Z" },
 ]
 
 [[package]]

@@ -12,13 +12,30 @@ exports an iCalendar (.ical) feed of upcoming events.
 (This unifies several other projects from disparate git repositories.)
 
 ## Feeds
+<!-- [[[cog
+    from typing import NamedTuple
+    from glob import glob
+    from os import environ
+    from pathlib import Path
 
-* [ymca-hamilton-burlington.ical](https://github.com/ellieayla/event-calendars/raw/refs/heads/main/out/ymca-hamilton-burlington.ical)
+    server_url = environ.get("GITHUB_SERVER_URL", "https://github.com")
+    repo = environ.get("GITHUB_REPOSITORY", "ellieayla/event-calendars")
+    ref = environ.get("GITHUB_REF_NAME", "refs/heads/main")
+
+    files = sorted(glob("out/*.ical"))
+
+    for filename in files:
+        label = Path(filename).name
+        url = f"{server_url}/{repo}/raw/{ref}/{filename}"
+        cog.outl(f"* [{label}]({url})")
+]]] -->
 * [burlington-pools.ical](https://github.com/ellieayla/event-calendars/raw/refs/heads/main/out/burlington-pools.ical)
 * [cycle-toronto.ical](https://github.com/ellieayla/event-calendars/raw/refs/heads/main/out/cycle-toronto.ical)
-* [toronto-community-bikeways.ical](https://github.com/ellieayla/event-calendars/raw/refs/heads/main/out/toronto-community-bikeways.ical)
 * [httpbin.ical](https://github.com/ellieayla/event-calendars/raw/refs/heads/main/out/httpbin.ical)
 * [respect-cyclists-facebook.ical](https://github.com/ellieayla/event-calendars/raw/refs/heads/main/out/respect-cyclists-facebook.ical)
+* [toronto-community-bikeways.ical](https://github.com/ellieayla/event-calendars/raw/refs/heads/main/out/toronto-community-bikeways.ical)
+* [ymca-hamilton-burlington.ical](https://github.com/ellieayla/event-calendars/raw/refs/heads/main/out/ymca-hamilton-burlington.ical)
+<!-- [[[end]]] -->
 
 ## Plans
 

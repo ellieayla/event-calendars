@@ -19,9 +19,13 @@ jobs:
         activate-environment: true
 
     - name: Install the project
-      run: uv sync --locked --all-extras --dev
+      run: uv sync --locked --all-groups
 
     - uses: astral-sh/ruff-action@v3  # check by default
+
+    - name: Check that readme wasn't accidentally changed
+      run: |
+        uv run cog -c --diff --check --check-fail-msg "ical file list in README.md file accidentally changed" -- README.md
 
     - name: pytest  # also runs mypy
       run: |
