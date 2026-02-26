@@ -79,7 +79,7 @@ def extract_dates_from_text(published_schedule_text: str) -> Iterator[tuple[date
             if year is None:
                 raise ValueError("Did not find year before bulleted list of dates!", schedule_pieces)
             (month_day_string, _, extra_info) = p.partition("-")
-            start_datetime = datetime.strptime(month_day_string.strip() + f", {year}, 08:00", "* %B %d, %Y, %H:%M").astimezone(HAMILTON_TIMEZONE)
+            start_datetime = datetime.strptime(month_day_string.strip() + f", {year}, 08:00", "* %B %d, %Y, %H:%M").replace(tzinfo=HAMILTON_TIMEZONE)
             yield (start_datetime, extra_info.strip())
             continue
         else:
