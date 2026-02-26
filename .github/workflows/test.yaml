@@ -25,7 +25,7 @@ jobs:
 
     - name: Check that readme wasn't accidentally changed
       run: |
-        uv run cog -c --diff --check --check-fail-msg "ical file list in README.md file accidentally changed" -- README.md
+        uv run cog --diff --check --check-fail-msg "ical file list in README.md file accidentally changed" -- README.md
 
     - name: pytest  # also runs mypy
       run: |
