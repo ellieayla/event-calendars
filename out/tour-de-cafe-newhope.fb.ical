@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//event-calendars//verselogic.net//
 METHOD:PUBLISH
-NAME:Respect Cyclists Facebook
+NAME:Tour de Cafe\, New Hope
 BEGIN:VTIMEZONE
 TZID:America/Toronto
 COMMENT:This timezone only works from 1970-01-01 to 2038-01-01.
@@ -66,55 +66,45 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Ghost Bike Ride For Jean Louis
-DTSTART;TZID=America/Toronto:20251101T140000
-DTEND;TZID=America/Toronto:20251101T153000
+SUMMARY:Tour de Cafe to Dundurn Market - September 6
+DTSTART;TZID=America/Toronto:20250906T080000
+DTEND;TZID=America/Toronto:20250906T100000
 DTSTAMP:20260227T055816Z
-UID:2aeb2798-b16e-5847-8cef-2243fb7287ee
-DESCRIPTION:On Friday\,  17 October 2025\, Jean Louis\, a 66-year-old male
- \, was cycling on Appleby Line and Harvester Road in Burlington. At approx
- imately 6:30 a.m.\, a driver collided with him. Emergency workers pronounc
- ed him dead at the scene. As of this time\, the Crown has not charged the 
- driver\, who remained at the scene\, according to Halton police. \n\nJean 
- Louis was a noted cyclist from Saint Lucia. He won that country's athlete 
- of the year award in 1985 for his cycling performances that year in compet
- ition.\n\nMEET at 2:00 p.m. at the Appleby GO Station's SOUTH parking lot.
-  We DEPART at 2:30 p.m. for Appleby Line and Harvester Road.\n\nCreated by
- : Joey Schwartz\nEvent is in the past.\nURL: https://www.facebook.com/even
- ts/789092220770764/
-URL:https://www.facebook.com/events/789092220770764/
+UID:3d42d6ba-c7fc-5f5f-b341-910b8391018f
+DESCRIPTION:Join us for a Tour de Cafe ride on July 26th at 8am!\nTour de 
+ Cafe is a novice cycling group ride for women/folks identifying as women. 
+ Each group ride incorporates knowledge about bikes and safe cycling with a
+  ride to a local cafe. No bike? No problem. Contact us as soon as possible
+ !\nCreated by: New Hope Bikes\nEvent is in the past.\nURL: https://www.fac
+ ebook.com/events/712363534995252/
+URL:https://www.facebook.com/events/712363534995252/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Critical Mask Halloween Bike Ride 
-DTSTART;TZID=America/Toronto:20251031T180000
-DTEND;TZID=America/Toronto:20251031T200000
+SUMMARY:Tour de Cafe - October 18
+DTSTART;TZID=America/Toronto:20251018T080000
+DTEND;TZID=America/Toronto:20251018T100000
 DTSTAMP:20260227T055816Z
-UID:5765bffd-5e02-53a4-a58d-e468cf451089
-DESCRIPTION:a monthly group bicycle ride that takes place in many cities w
- orldwide\, occurring on the last Friday of each month. It serves as both a
-  community event and a form of protest to advocate for cyclist safety and 
- the use of public space by non-motorized vehicles. These rides are typical
- ly self-organized\, have no official leader\, and often take place on the 
- last Friday of the month.  \nCreated by: Geoffrey Bercarich\nEvent is in t
- he past.\nURL: https://www.facebook.com/events/2533827373664092/
-URL:https://www.facebook.com/events/2533827373664092/
+UID:63ae1f27-7940-5a3a-849a-17b97ae4291e
+DESCRIPTION:Join us for a Tour de Cafe ride on October 11th at 8am!\nTour 
+ de Cafe is a novice cycling group ride for women/folks identifying as wome
+ n. Each group ride incorporates knowledge about bikes and safe cycling wit
+ h a ride to a local cafe. No bike? No problem. Contact us as soon as possi
+ ble!\nCreated by: New Hope Bikes\nEvent is in the past.\nURL: https://www.
+ facebook.com/events/1936571343795753/
+URL:https://www.facebook.com/events/1936571343795753/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ghost Bike Ride For Dave: Oakville
-DTSTART;TZID=America/Toronto:20251025T141500
-DTEND;TZID=America/Toronto:20251025T160000
+SUMMARY:Tour de Cafe to 541 Eatery & Exchange - September 20
+DTSTART;TZID=America/Toronto:20250920T080000
+DTEND;TZID=America/Toronto:20250920T100000
 DTSTAMP:20260227T055816Z
-UID:7e211437-3194-5326-9896-5ab304595d69
-DESCRIPTION:On Tuesday\,  19 August 2025\, David Niblett\, a 67-year-old m
- ale\, was cycling westbound on Rebbecca Street\, near Third Line in Oakvil
- le. Then\, a motorist made a blind left-hook turn and collided with him ne
- ar the entrance to a mall. He was wearing high-visibility clothing\; the d
- river didn't take the proper care they needed to determine if it was safe 
- to turn. He succumbed to his injuries three days later at a hospital in Ha
- milton. Halton police announced his death on 24 August 2025.\n\nMEET at 2:
- 15 p.m. at the Bronte GO Station's SOUTH parking lot. We DEPART at 2:30 p.
- m. for Third Line and Rebbecca Street.\n\nCreated by: Joey Schwartz\nEvent
-  is in the past.\nURL: https://www.facebook.com/events/783985534010634/
-URL:https://www.facebook.com/events/783985534010634/
+UID:8f096b12-64ed-52a1-820d-e731062b93de
+DESCRIPTION:Join us for a Tour de Cafe ride on September 20th at 8am!\nTou
+ r de Cafe is a novice cycling group ride for women/folks identifying as wo
+ men. Each group ride incorporates knowledge about bikes and safe cycling w
+ ith a ride to a local cafe. No bike? No problem. Contact us as soon as pos
+ sible!\nCreated by: New Hope Bikes\nEvent is in the past.\nURL: https://ww
+ w.facebook.com/events/25032520543005120/
+URL:https://www.facebook.com/events/25032520543005120/
 END:VEVENT
 END:VCALENDAR
