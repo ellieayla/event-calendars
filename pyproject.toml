@@ -47,7 +47,12 @@ exclude = "tests"
 line-length = 150
 
 [tool.ruff.format]
-exclude = ["tests/**/test_*.py"]
+exclude = [
+    "tests/**/test_*.py",  # long pprint()'d data structures
+    "event_calendars/settings.py",  # keep the scrapy defaults comments
+    "vendor/**/*.pyi",  # vendored, keep the same as upstream
+    "event_calendars/readabledelta.py",  # vendored, keep the same as upstream
+]
 
 [tool.ruff.lint]
 select = [

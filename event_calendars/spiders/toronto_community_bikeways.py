@@ -11,13 +11,11 @@ from ..items import Event
 
 
 class TorontoCommunityBikeways(scrapy.Spider):
-    name = 'toronto-community-bikeways'
+    name = "toronto-community-bikeways"
     calendar_name = "Toronto Community Bikeways"
 
-    allowed_domains = ['www.communitybikewaysto.ca']
-    start_urls = [
-        'https://www.communitybikewaysto.ca/events'
-    ]
+    allowed_domains = ["www.communitybikewaysto.ca"]
+    start_urls = ["https://www.communitybikewaysto.ca/events"]
 
     def parse(self, response: Response) -> Iterator[scrapy.Request]:
         assert isinstance(response, HtmlResponse)  # guard because signature of parse() doesn't declare `response`
@@ -48,7 +46,7 @@ class TorontoCommunityBikeways(scrapy.Spider):
             cb_kwargs={
                 "event_url": response.url,
                 "description": description,
-            }
+            },
         )
 
     def handle_ical_file(self, response: Response, event_url: str, description: str) -> Iterator[Event]:
@@ -59,25 +57,23 @@ class TorontoCommunityBikeways(scrapy.Spider):
         base_event = base_calendar.events[0]
 
         location = base_event.decoded("location", default="")
-        start_time = base_event.decoded('dtstart')
-        end_time = base_event.decoded('dtend')
-        dtstamp_updated_at_datetime = base_event.decoded('dtstamp')
-        url = base_event.decoded('url', default="")
-        summary = base_event.decoded('summary')
+        start_time = base_event.decoded("dtstart")
+        end_time = base_event.decoded("dtend")
+        dtstamp_updated_at_datetime = base_event.decoded("dtstamp")
+        url = base_event.decoded("url", default="")
+        summary = base_event.decoded("summary")
 
         if url and url != event_url:
             logging.warning("Url in ical file does not match page url")
 
         e = Event(
-            summary = summary,
-            url = event_url,
-
-            start_datetime = start_time,
-            end_datetime = end_time,
-            updated_at = dtstamp_updated_at_datetime,
-
-            location = location,
-            original_description = description,
+            summary=summary,
+            url=event_url,
+            start_datetime=start_time,
+            end_datetime=end_time,
+            updated_at=dtstamp_updated_at_datetime,
+            location=location,
+            original_description=description,
         )
         print(f"{e=} has {location=}")
         yield e

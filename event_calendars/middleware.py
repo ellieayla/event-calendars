@@ -20,11 +20,11 @@ logger = getLogger(__name__)
 def strip_archive_prefix(link: str) -> str:
     try:
         if link.startswith("/web/"):
-            return link.split('/', maxsplit=3)[3]
+            return link.split("/", maxsplit=3)[3]
         if link.startswith("//web/"):
-            return link.split('/', maxsplit=4)[4]
+            return link.split("/", maxsplit=4)[4]
         if link.startswith("https://web.archive.org/web/"):
-            return link.split('/', maxsplit=5)[5]
+            return link.split("/", maxsplit=5)[5]
     except IndexError:
         pass
     return link
@@ -45,17 +45,17 @@ class Wayback:
         if not domains:
             raise NotConfigured("WAYBACK_DOMAINS setting must be a list of domains")
         acceptible_age: timedelta = timedelta(days=crawler.settings.get("WAYBACK_ACCEPTED_AGE_DAYS", default=1))
-        return cls(waybacked_domains = set(domains), acceptible_age=acceptible_age)
+        return cls(waybacked_domains=set(domains), acceptible_age=acceptible_age)
 
     def process_request(self, request: Request) -> Request | Response | None:
         parsed = urlparse_cached(request)
         if parsed.hostname not in self.waybacked_domains:
             return None
-        if parsed.hostname == 'web.archive.org' or request.meta.get('wayback_request'):
+        if parsed.hostname == "web.archive.org" or request.meta.get("wayback_request"):
             return None
 
         try:
-            cdx_api = WaybackMachineAvailabilityAPI(url=request.url, user_agent=str(request.headers['User-Agent']))
+            cdx_api = WaybackMachineAvailabilityAPI(url=request.url, user_agent=str(request.headers["User-Agent"]))
             meta = cdx_api.newest()
 
             if meta.json is None:
@@ -71,7 +71,7 @@ class Wayback:
 
         if archive_url is None or archived_ago >= self.acceptible_age:
             # need to update wayback item
-            save_api = WaybackMachineSaveAPI(url=request.url, user_agent=str(request.headers['User-Agent']))
+            save_api = WaybackMachineSaveAPI(url=request.url, user_agent=str(request.headers["User-Agent"]))
             logger.info("Saving new archive to wayback")
             archive_url = save_api.save()
 
@@ -80,13 +80,13 @@ class Wayback:
             url=archive_url,
             dont_filter=True,
         )
-        ret.meta['wayback_request'] = True
-        ret.meta['wayback_original_url'] = request.url
+        ret.meta["wayback_request"] = True
+        ret.meta["wayback_original_url"] = request.url
         return ret
 
     def process_response(self, request: Request, response: Response) -> Response:
-        if request.meta.get('wayback_request'):
-            root_selector = response.xpath('.')[0]
+        if request.meta.get("wayback_request"):
+            root_selector = response.xpath(".")[0]
             html_element = root_selector.root
 
             html_element.rewrite_links(strip_archive_prefix)

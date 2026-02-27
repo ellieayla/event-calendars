@@ -17,9 +17,9 @@ repos:
   hooks:
     # Run the linter.
     - id: ruff-check
-    # Run the formatter.
-    #- id: ruff-format
-    #  args: ['--check', '--diff']
+    # Run the formatter in check & complain mode
+    - id: ruff-format
+      args: ['--check', '--diff']
 
 -   repo: https://github.com/pre-commit/mirrors-mypy
     rev: v1.19.1

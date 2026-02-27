@@ -16,7 +16,6 @@ class YmcaHamiltonBurlingtonPools(scrapy.Spider):
     skip_in_runall = True
 
     def start_requests(self) -> Iterator[scrapy.Request]:
-
         locations = [
             "Ron%20Edwards%20Family%20YMCA",
             "Hamilton%20Downtown%20Family%20YMCA",
@@ -28,11 +27,7 @@ class YmcaHamiltonBurlingtonPools(scrapy.Spider):
         # next 30 days
         dates = list([d.date() for d in dateutil.rrule.rrule(dateutil.rrule.DAILY, count=30, dtstart=datetime.now())])
 
-        urls = [
-            f"https://www.ymcahbb.ca/schedules/get-event-data/{loc}/0/{d}"
-            for loc in locations
-            for d in dates
-        ]
+        urls = [f"https://www.ymcahbb.ca/schedules/get-event-data/{loc}/0/{d}" for loc in locations for d in dates]
 
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse_json_classlist)
@@ -43,7 +38,6 @@ class YmcaHamiltonBurlingtonPools(scrapy.Spider):
         payload = response.json()
 
         for c in payload:
-
             """
             {
                 'category': 'Lane Swim',
@@ -83,17 +77,13 @@ class YmcaHamiltonBurlingtonPools(scrapy.Spider):
             }
             """
             b = BookableEvent(
-                summary = c['name'],
-
-                start_datetime = dateutil.parser.parse(c['time_start_calendar'] + " LTZ", tzinfos={"LTZ": dateutil.tz.gettz(c['timezone'])}),
-                end_datetime = dateutil.parser.parse(c['time_end_calendar'] + " LTZ", tzinfos={"LTZ": dateutil.tz.gettz(c['timezone'])}),
-
-                location = f"{c['location']}, {c['location_info']['address']}",
-                url = c['register_url'] if c['register_url'] != 'route:<nolink>' else None,
-
-                original_description = c['class_info']['title'] + "\n" + c['class_info']['description'],
-
-                facility = c['location'],
-                category = c['category'],
+                summary=c["name"],
+                start_datetime=dateutil.parser.parse(c["time_start_calendar"] + " LTZ", tzinfos={"LTZ": dateutil.tz.gettz(c["timezone"])}),
+                end_datetime=dateutil.parser.parse(c["time_end_calendar"] + " LTZ", tzinfos={"LTZ": dateutil.tz.gettz(c["timezone"])}),
+                location=f"{c['location']}, {c['location_info']['address']}",
+                url=c["register_url"] if c["register_url"] != "route:<nolink>" else None,
+                original_description=c["class_info"]["title"] + "\n" + c["class_info"]["description"],
+                facility=c["location"],
+                category=c["category"],
             )
             yield b

@@ -1,4 +1,3 @@
-
 from collections.abc import Sequence
 from io import BytesIO
 from logging import getLogger
@@ -14,6 +13,7 @@ from scrapy.utils.project import get_project_settings
 from .items import Event
 
 logger = getLogger(__name__)
+
 
 def uri_params(params: dict[str, Any], spider: Spider | type[Spider]) -> dict[str, Any]:
     """Add spider_name to available uri_params template, so %(spider_name)s is usable in feed URIs."""
@@ -73,9 +73,9 @@ class ICalItemExporter(BaseItemExporter):
 
     def start_exporting(self) -> None:
         self.cal = icalendar.Calendar()
-        self.cal.prodid = icalendar.vText('-//event-calendars//verselogic.net//')
-        self.cal.version = icalendar.vText('2.0')
-        self.cal.method = 'PUBLISH'
+        self.cal.prodid = icalendar.vText("-//event-calendars//verselogic.net//")
+        self.cal.version = icalendar.vText("2.0")
+        self.cal.method = "PUBLISH"
         self.cal.calendar_name = self.calendar_name
 
     def export_item(self, item: Event) -> None:

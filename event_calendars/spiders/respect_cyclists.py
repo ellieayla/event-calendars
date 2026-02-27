@@ -20,19 +20,24 @@ class RespectCyclistsFacebookEvents(scrapy.Spider):
         assert isinstance(response, HtmlResponse)  # guard because signature of parse() doesn't declare `response`
 
         # debugging
-        #from scrapy.utils.httpobj import urlparse_cached
-        #parsed_url = urlparse_cached(response)
-        #filename = f"debug-{parsed_url.path.replace("/", "-")}.html"
-        #Path(filename).write_bytes(response.body)
-        #self.log(f"Saved file {filename}")
+        """
+        from scrapy.utils.httpobj import urlparse_cached
+        from pathlib import Path
+        parsed_url = urlparse_cached(response)
+        filename = f"debug-{parsed_url.path.replace("/", "-")}.html"
+        Path(filename).write_bytes(response.body)
+        self.log(f"Saved file {filename}")
+        """
 
         # the text we're looking for is embedded in a script tag. There's ~131. Find the right one.
         for _ in response.css("script"):
-            if not all([
-                _.attrib.get('type') == 'application/json',
-                'data-content-len' in _.attrib,
-                'data-sjs' in _.attrib,
-            ]):
+            if not all(
+                [
+                    _.attrib.get("type") == "application/json",
+                    "data-content-len" in _.attrib,
+                    "data-sjs" in _.attrib,
+                ]
+            ):
                 continue
 
             json_text = _.css("::text").get()
@@ -49,11 +54,14 @@ class RespectCyclistsFacebookEvents(scrapy.Spider):
         assert isinstance(response, HtmlResponse)  # guard because signature of parse() doesn't declare `response`
 
         # debugging
-        #from scrapy.utils.httpobj import urlparse_cached
-        #parsed_url = urlparse_cached(response)
-        #filename = f"debug-{parsed_url.path.replace("/", "-")}.html"
-        #Path(filename).write_bytes(response.body)
-        #self.log(f"Saved file {filename}")
+        """
+        from scrapy.utils.httpobj import urlparse_cached
+        from pathlib import Path
+        parsed_url = urlparse_cached(response)
+        filename = f"debug-{parsed_url.path.replace("/", "-")}.html"
+        Path(filename).write_bytes(response.body)
+        self.log(f"Saved file {filename}")
+        """
 
         page_title = response.css("title::text").get(default="")
 
@@ -62,11 +70,13 @@ class RespectCyclistsFacebookEvents(scrapy.Spider):
         end_datetime: datetime | None = None
 
         for _ in response.css("script"):
-            if not all([
-                _.attrib.get('type') == 'application/json',
-                'data-content-len' in _.attrib,
-                'data-sjs' in _.attrib,
-            ]):
+            if not all(
+                [
+                    _.attrib.get("type") == "application/json",
+                    "data-content-len" in _.attrib,
+                    "data-sjs" in _.attrib,
+                ]
+            ):
                 continue
 
             json_text = _.css("::text").get()
@@ -78,24 +88,16 @@ class RespectCyclistsFacebookEvents(scrapy.Spider):
             prefetched_objects = list(extract_prefetched_objects_from_inline_json(loaded_json_object))
 
             for r in prefetched_objects:
-                if r.graph_method_name == 'PublicEventCometAboutRootQuery':
+                if r.graph_method_name == "PublicEventCometAboutRootQuery":
                     result = RelayPrefetchedStreamCache_Result.from_bbox(r.bbox)
-                    if result.path == ["event"] and 'start_timestamp' in result.data:
-
+                    if result.path == ["event"] and "start_timestamp" in result.data:
                         tzinfo = discover_zoneinfo_for_shortname(result.data["tz_display_name"])
-                        # HACK: facebook returns timezone strings in shortform, like EST/EDT.
-                        # Don't have a good way to do a reverse-lookup of a zoneinfo.ZoneInfo from the shortform.
-                        # But RespectCyclists is based from Toronto, so realistically only going to see two timezone strings.
-                        # Just map them.
-                        #if result.data["tz_display_name"] in ('EST', 'EDT'):
-                        #    tzinfo = ZoneInfo("America/Toronto")
-                        #else:
-                        #    raise ValueError(f"Unknown timezone {result.data['tz_display_name']}")
-
                         start_datetime = datetime.fromtimestamp(result.data["start_timestamp"], tzinfo)
                         end_datetime = datetime.fromtimestamp(result.data["end_timestamp"], tzinfo)
 
-                    elif 'event' in result.data:
+                        # FIXME: end<start
+
+                    elif "event" in result.data:
                         fb_event_object = FBEvent.from_dict(result.data["event"])
                         event = convert_facebook_event_to_spider_event(fb_event=fb_event_object)
 

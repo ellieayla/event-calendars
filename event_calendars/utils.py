@@ -1,4 +1,3 @@
-
 import re
 from collections.abc import Iterator
 
@@ -27,24 +26,26 @@ def extract_text_visitor(node: HtmlElement | str, indent: int = 0, skip_block_ne
 
     assert isinstance(node, HtmlElement)
 
-    if node.tag in ('img', ):
+    if node.tag in ("img",):
         return  # drop images
 
-    if node.tag in ('p', 'div', 'ol', 'ul') and not skip_block_newlines:
+    if node.tag in ("p", "div", "ol", "ul") and not skip_block_newlines:
         yield "\n\n"  # add double-newlines around block elements
-    if node.tag in ('br', ):
+    if node.tag in ("br",):
         yield "\n"
-    if node.tag in ('li', ):
-        if len(node.xpath("child::node()")) == 1 \
-            and isinstance(node.xpath("child::node()")[0], HtmlElement) \
-                and node.xpath("child::node()")[0].tag in ("p", "div"):
+    if node.tag in ("li",):
+        if (
+            len(node.xpath("child::node()")) == 1
+            and isinstance(node.xpath("child::node()")[0], HtmlElement)
+            and node.xpath("child::node()")[0].tag in ("p", "div")
+        ):
             p_in_li = True
-        if not all([isinstance(child, HtmlElement) and child.tag in ('ol', 'ul') for child in node.xpath("child::node()")]):
+        if not all([isinstance(child, HtmlElement) and child.tag in ("ol", "ul") for child in node.xpath("child::node()")]):
             yield "\n"
-            yield "* " * (indent+1)
+            yield "* " * (indent + 1)
         indent += 1
 
-    if node.tag in ('a'):
+    if node.tag in ("a"):
         if node.text == "here":
             yield node.attrib.get("href")
             return  # drop content
@@ -53,12 +54,12 @@ def extract_text_visitor(node: HtmlElement | str, indent: int = 0, skip_block_ne
             return  # drop content
         else:
             # prepend url as (https://...)
-            yield f' ({node.attrib.get("href")}) '
+            yield f" ({node.attrib.get('href')}) "
 
     for child in node.xpath("child::node()"):
         yield from extract_text_visitor(child, indent=indent, skip_block_newlines=p_in_li)
 
-    if node.tag in ('p', 'div', 'ol', 'ul') and not skip_block_newlines:
+    if node.tag in ("p", "div", "ol", "ul") and not skip_block_newlines:
         yield "\n\n"  # add double-newlines around block elements
 
 

@@ -13,7 +13,6 @@ logger = getLogger(__name__)
 
 
 class RunAll(ScrapyCommand):
-
     def add_options(self, parser: argparse.ArgumentParser) -> None:
         super().add_options(parser)
         parser.add_argument(
@@ -47,7 +46,6 @@ def run_all(args: list[str], settings: Settings | None, crawler_process: AsyncCr
     all_spiders = sorted(spider_loader.list())
     logger.info(f"Loading spiders: {all_spiders}")
     for spider_name in all_spiders:
-
         spider_info = spider_loader.load(spider_name)
         if getattr(spider_info, "skip_in_runall", False):
             print(f"Skip {spider_name=} - skip_in_runall set")

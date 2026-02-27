@@ -8,11 +8,12 @@ from dataclasses import dataclass, field
 from datetime import UTC, datetime
 from uuid import UUID, uuid5
 
-ns = UUID('b44256d5-dee8-4dee-9fd9-31451e47984e')
+ns = UUID("b44256d5-dee8-4dee-9fd9-31451e47984e")
 
 
 def current_datetime() -> datetime:
     return datetime.now(tz=UTC)
+
 
 @dataclass
 class Event:

@@ -9,7 +9,7 @@ def _common_timezone_name_sortkey(tzname: str) -> int:
     Most of these calendars are for organizations near Toronto, so prioritize that.
     Keep all other known timezone names in the list.
     """
-    if tzname == 'America/Toronto':
+    if tzname == "America/Toronto":
         return 0
     if tzname.startswith("US/"):
         return 5
@@ -42,4 +42,4 @@ def discover_zoneinfo_for_shortname(tzname: str) -> ZoneInfo:
         if any([zi.tzname(dt) == tzname for dt in (now, january, june)]):
             return zi
 
-    raise ZoneInfoNotFoundError(f'No time zone found with key {tzname}')
+    raise ZoneInfoNotFoundError(f"No time zone found with key {tzname}")
