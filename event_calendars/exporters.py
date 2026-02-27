@@ -101,5 +101,5 @@ class ICalItemExporter(BaseItemExporter):
         Components without a UID property (eg timezone info) are sorted first.
         Properties are sorted during write.
         """
-        self.cal.subcomponents = sorted(self.cal.subcomponents, key=lambda e: e.get("UID", "0"))
+        self.cal.subcomponents = sorted(self.cal.subcomponents, key=lambda e: e.get("UID", e.get("DTSTART", "0")))
         self.file.write(self.cal.to_ical(sorted=True))
