@@ -4,6 +4,16 @@ PRODID:-//event-calendars//verselogic.net//
 METHOD:PUBLISH
 NAME:Tour de Cafe\, New Hope
 BEGIN:VTIMEZONE
+TZID:UTC
+COMMENT:This timezone only works from 1970-01-01 to 2038-01-01.
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:UTC
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
 TZID:America/Toronto
 COMMENT:This timezone only works from 1970-01-01 to 2038-01-01.
 BEGIN:STANDARD
@@ -55,21 +65,11 @@ TZOFFSETFROM:-0400
 TZOFFSETTO:-0500
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VTIMEZONE
-TZID:UTC
-COMMENT:This timezone only works from 1970-01-01 to 2038-01-01.
-BEGIN:STANDARD
-DTSTART:19700101T000000
-TZNAME:UTC
-TZOFFSETFROM:+0000
-TZOFFSETTO:+0000
-END:STANDARD
-END:VTIMEZONE
 BEGIN:VEVENT
 SUMMARY:Tour de Cafe to Dundurn Market - September 6
 DTSTART;TZID=America/Toronto:20250906T080000
 DTEND;TZID=America/Toronto:20250906T100000
-DTSTAMP:20260301T055736Z
+DTSTAMP:20260302T055824Z
 UID:3d42d6ba-c7fc-5f5f-b341-910b8391018f
 DESCRIPTION:Join us for a Tour de Cafe ride on July 26th at 8am!\nTour de 
  Cafe is a novice cycling group ride for women/folks identifying as women. 
@@ -83,7 +83,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de Cafe - October 18
 DTSTART;TZID=America/Toronto:20251018T080000
 DTEND;TZID=America/Toronto:20251018T100000
-DTSTAMP:20260301T055736Z
+DTSTAMP:20260302T055824Z
 UID:63ae1f27-7940-5a3a-849a-17b97ae4291e
 DESCRIPTION:Join us for a Tour de Cafe ride on October 11th at 8am!\nTour 
  de Cafe is a novice cycling group ride for women/folks identifying as wome
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de Cafe to 541 Eatery & Exchange - September 20
 DTSTART;TZID=America/Toronto:20250920T080000
 DTEND;TZID=America/Toronto:20250920T100000
-DTSTAMP:20260301T055736Z
+DTSTAMP:20260302T055824Z
 UID:8f096b12-64ed-52a1-820d-e731062b93de
 DESCRIPTION:Join us for a Tour de Cafe ride on September 20th at 8am!\nTou
  r de Cafe is a novice cycling group ride for women/folks identifying as wo
