@@ -1,5 +1,4 @@
 from datetime import datetime
-from pprint import pprint
 
 import pytest
 
@@ -854,7 +853,6 @@ def test_convert_facebook_event_to_spider_event() -> None:
 
     fb_event = facebook_events[0]
 
-    pprint(fb_event)
     # make sure we're starting with the right event
     assert fb_event.id == "789092220770764"
 

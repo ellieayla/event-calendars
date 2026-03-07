@@ -28,5 +28,4 @@ class HttpBinSpider(scrapy.Spider):
             location="whoami",
             original_description=response.text,
         )
-        print(f"{e=}")
         yield e

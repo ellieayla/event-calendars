@@ -1,9 +1,11 @@
 from datetime import datetime
 from io import BytesIO
+from logging import ERROR
 from textwrap import dedent
 from uuid import uuid5
 
 import icalendar
+from pytest import LogCaptureFixture
 
 
 def test_assumption_icalendar_sortable_keys() -> None:
@@ -77,13 +79,15 @@ def test_assumption_icalendar_sortable_keys() -> None:
     ).replace("\n", "\r\n").lstrip()
 
 
-def test_ICalItemExporter_sorts() -> None:
+def test_ICalItemExporter_sorts(caplog: LogCaptureFixture) -> None:
     from event_calendars.exporters import ICalItemExporter
     from event_calendars.items import Event, ns
 
     writer_file = BytesIO()
     writer_file.name = "fake-filename-used-for-calendar-name"
-    exporter = ICalItemExporter(writer_file)
+
+    with caplog.at_level(ERROR):
+        exporter = ICalItemExporter(writer_file)
 
     exporter.start_exporting()
 

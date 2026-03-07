@@ -322,7 +322,6 @@ def extract_prefetched_events_from_inline_json(parsed_json: internal_bbox_conten
 
                         # there's a maximum of 3 prefetched events
                         group_result = GroupEventsGraphQLQueryResult.from_prefetch(result.data["group"])
-                        # pprint(group_result, width=200)
 
                         yield from group_result.past_events.edges + group_result.upcoming_events.edges
 

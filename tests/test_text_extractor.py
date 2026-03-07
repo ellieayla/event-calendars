@@ -84,8 +84,6 @@ def test_visitor_simple() -> None:
     html = fromstring("""<h1>some heading</h1><p>paragraph</p>""")
 
     nodes = list(extract_text_visitor(html, 0))
-    print(html)
-    print(nodes)
     assert nodes == [
         "\n\n",
         "some heading",

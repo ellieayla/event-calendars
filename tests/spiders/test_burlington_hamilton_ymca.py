@@ -26,9 +26,6 @@ def test_parse_events_list_page(datafiles: Path) -> None:
 
     results = list(spider.parse_json_classlist(response))
 
-    from pprint import pprint
-    pprint(results)
-
     assert len(results) == 22
 
     assert isinstance(results[0], BookableEvent)

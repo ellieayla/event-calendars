@@ -75,5 +75,4 @@ class TorontoCommunityBikeways(scrapy.Spider):
             location=location,
             original_description=description,
         )
-        print(f"{e=} has {location=}")
         yield e

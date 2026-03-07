@@ -1,4 +1,5 @@
 from datetime import datetime
+from logging import ERROR
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -32,7 +33,7 @@ def test_parse_events_list_page(datafiles: Path) -> None:
 
 
 @pytest.mark.datafiles(FIXTURE_DIR / "newhope-tourdecafe-facebook-1936571343795753.html")
-def test_parse_single_event_page(datafiles: Path) -> None:
+def test_parse_single_event_page(datafiles: Path, caplog: pytest.LogCaptureFixture) -> None:
     assert datafiles.is_dir()
 
     html: bytes = (datafiles / "newhope-tourdecafe-facebook-1936571343795753.html").read_bytes()
@@ -44,7 +45,8 @@ def test_parse_single_event_page(datafiles: Path) -> None:
     spider = TourDeCafeFacebook()
     response = HtmlResponse(url="blah", status=200, body=html)
 
-    result = list(spider.parse_single_event_page(response))
+    with caplog.at_level(ERROR):
+        result = list(spider.parse_single_event_page(response))
 
     assert len(result) == 1
     event = result[0]
