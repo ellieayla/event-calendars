@@ -29,6 +29,7 @@ exports an iCalendar (.ical) feed of upcoming events.
         url = f"{server_url}/{repo}/raw/{ref}/{filename}"
         cog.outl(f"* [{label}]({url})")
 ]]] -->
+* [burlington-green.ical](https://github.com/ellieayla/event-calendars/raw/refs/heads/main/out/burlington-green.ical)
 * [burlington-pools.ical](https://github.com/ellieayla/event-calendars/raw/refs/heads/main/out/burlington-pools.ical)
 * [cycle-toronto.ical](https://github.com/ellieayla/event-calendars/raw/refs/heads/main/out/cycle-toronto.ical)
 * [httpbin.ical](https://github.com/ellieayla/event-calendars/raw/refs/heads/main/out/httpbin.ical)
