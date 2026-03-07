@@ -49,7 +49,7 @@ def extract_text_visitor(node: HtmlElement | str, indent: int = 0, skip_block_ne
         if node.text == "here":
             yield node.attrib.get("href")
             return  # drop content
-        elif node.text.strip() == node.attrib.get("href"):
+        elif node.text is not None and node.text.strip() == node.attrib.get("href"):
             yield node.attrib.get("href")
             return  # drop content
         else:
