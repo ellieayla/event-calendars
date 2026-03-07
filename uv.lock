@@ -329,7 +329,7 @@ dev = [
     { name = "pytest", specifier = ">=9.0.2" },
     { name = "pytest-datafiles", specifier = ">=3.0.1" },
     { name = "pytest-mypy", specifier = ">=1.0.1" },
-    { name = "types-python-dateutil" },
+    { name = "types-python-dateutil", specifier = ">=2.9.0.20260305" },
 ]
 readme = [{ name = "cogapp", specifier = ">=3.6.0" }]
 
