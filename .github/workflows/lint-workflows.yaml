@@ -1,0 +1,58 @@
+name: lint workflows
+
+on:
+  # test in isolation
+  push:
+    branches:
+      - '*'
+    paths:
+        - '.pre-commit-config.yaml'
+        - .github/workflows/**/*.yaml'
+
+  # test as-merged
+  pull_request:
+    paths:
+        - '.pre-commit-config.yaml'
+        - .github/workflows/**/*.yaml'
+
+
+jobs:
+  lint-github-workflows:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout/@v6
+
+      - name: Download actionlint
+        id: get_actionlint
+        run: |
+          bash <(curl https://raw.githubusercontent.com/rhysd/actionlint/main/scripts/download-actionlint.bash)
+        shell: bash
+
+      - name: Check workflow files
+        run: |
+          "${{ steps.get_actionlint.outputs.executable }}" -verbose -pyflakes= -no-color -ignore "SC2086.*Double quote" | tee -a $GITHUB_STEP_SUMMARY
+        shell: bash
+
+  lint-pre-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.x"
+
+      - run: python -m pip install pre-commit
+        shell: bash
+
+      - uses: actions/cache@v4
+        with:
+          path: ~/.cache/pre-commit
+          key: pre-commit-3|${{ env.pythonLocation }}|${{ hashFiles('.pre-commit-config.yaml') }}
+
+      - name: lint pre-commit config
+        run: |
+          pre-commit validate-config .pre-commit-config.yaml --color=never | tee -a $GITHUB_STEP_SUMMARY
+        shell: bash
