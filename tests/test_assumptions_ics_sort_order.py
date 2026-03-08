@@ -48,6 +48,7 @@ def test_assumption_icalendar_sortable_keys() -> None:
         PRODID:-//author.example.com//
         METHOD:PUBLISH
         NAME:Cal Name
+        X-WR-CALNAME:Cal Name
         BEGIN:VEVENT
         UID:uuid-A
         END:VEVENT
