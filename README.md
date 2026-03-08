@@ -1,5 +1,8 @@
 # Event Calendars
 
+
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/ellieayla/event-calendars/scrape.yaml?branch=main&label=Scrape)
+
 I'm interested in community events throughout the Greater Toronto & Hamilton Area.
 Many organizations publish event information on their websites,
 but not in form easily subscribed to.
