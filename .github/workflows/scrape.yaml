@@ -34,7 +34,7 @@ jobs:
         uv run cog -r -U -- README.md
 
     - name: Commit and push if it changed
-      uses: stefanzweifel/git-auto-commit-action@v5
+      uses: stefanzweifel/git-auto-commit-action@v7
       with:
         branch: main
         file_pattern: 'out/*.ical README.md'
