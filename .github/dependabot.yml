@@ -8,14 +8,33 @@ updates:
   - package-ecosystem: "uv" # See documentation for possible values
     directory: "/" # Location of package manifests
     schedule:
-      interval: "weekly"
+      interval: "quarterly"
+
+    groups:
+      development-dependencies:
+        dependency-type: "development"
+      production-dependencies:
+        dependency-type: "production"
 
   - package-ecosystem: "pre-commit"
     directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "quarterly"
 
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "quarterly"
+
+    groups:
+      actions-artifacts:
+        IDENTIFIER: upload-download-artifact
+        patterns:
+          # these should be paired and upgrade together
+          - "actions/upload-artifact"
+          - "actions/download-artifact"
+      first-party:
+        patterns:
+          - "actions/*"
+
+      # no catch-all group: let everything else be standalone
