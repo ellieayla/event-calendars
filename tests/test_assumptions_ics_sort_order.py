@@ -22,6 +22,7 @@ def test_assumption_icalendar_sortable_keys() -> None:
         PRODID:-//author.example.com//
         METHOD:PUBLISH
         NAME:Cal Name
+        X-WR-CALNAME:Cal Name
         END:VCALENDAR
         """
     ).replace("\n", "\r\n").lstrip()
