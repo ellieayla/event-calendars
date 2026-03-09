@@ -3,4 +3,5 @@ VERSION:2.0
 PRODID:-//event-calendars//verselogic.net//
 METHOD:PUBLISH
 NAME:Burlington Green
+X-WR-CALNAME:Burlington Green
 END:VCALENDAR
