@@ -1,0 +1,872 @@
+[
+    {
+        "id": 30298,
+        "date": "2026-02-12T17:09:10",
+        "date_gmt": "2026-02-12T22:09:10",
+        "guid": {
+            "rendered": "https:\/\/www.burlingtongreen.org\/?post_type=events&#038;p=30298"
+        },
+        "modified": "2026-02-24T12:37:11",
+        "modified_gmt": "2026-02-24T17:37:11",
+        "slug": "an-inspiring-evening-with-david-suzuki-tara-cullis",
+        "status": "publish",
+        "type": "events",
+        "link": "https:\/\/www.burlingtongreen.org\/events\/an-inspiring-evening-with-david-suzuki-tara-cullis\/",
+        "title": {
+            "rendered": "An Inspiring Evening with David Suzuki &amp; Tara Cullis!"
+        },
+        "content": {
+            "rendered": "\n<div style=\"height:31px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<div class=\"wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\">\n<p>David Suzuki and Tara Cullis are coming to the\u00a0Burlington Performing Arts Centre (BPAC)\u00a0on\u00a0March 8th,\u00a0and BurlingtonGreen is proud to be a partner for this special event.<br><br><em><a href=\"https:\/\/burlingtonpac.ca\/events\/what-you-wont-do-for-love\/\" target=\"_blank\" rel=\"noreferrer noopener\">What You Won\u2019t Do For Love<\/a><\/em> is a special event that is expected to sell out.<\/p>\n\n\n\n<p>Join us for a powerful opportunity to gather, reflect, and feel inspired by voices that have shaped environmental action for decades.<\/p>\n\n\n\n<p><strong>SPECIAL OFFER: <\/strong><a href=\"https:\/\/www.burlingtongreen.org\/newsletter-signup\/\"> Sign up <\/a>to receive BurlingtonGreen&#8217;s popular e-newsletter, and you&#8217;ll receive a promo code for 25% off\u00a0your tickets. (while tickets remain available)<\/p>\n\n\n\n<p><\/p>\n\n\n\n<p>You can also purchase tickets <a href=\"https:\/\/burlingtonpac.ca\/events\/what-you-wont-do-for-love\/\" target=\"_blank\" rel=\"noopener\">here<\/a>, while seats remain.<\/p>\n<\/div>\n\n\n\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\">\n<figure class=\"wp-block-image size-large\"><a href=\"https:\/\/burlingtonpac.ca\/events\/what-you-wont-do-for-love\/\" target=\"_blank\" rel=\" noreferrer noopener\"><img fetchpriority=\"high\" decoding=\"async\" width=\"1024\" height=\"576\" src=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2026\/02\/suzuki_content_2026-1024x576.jpg\" alt=\"\" class=\"wp-image-30432\" srcset=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2026\/02\/suzuki_content_2026-1024x576.jpg 1024w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2026\/02\/suzuki_content_2026-300x169.jpg 300w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2026\/02\/suzuki_content_2026-768x432.jpg 768w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2026\/02\/suzuki_content_2026-1536x864.jpg 1536w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2026\/02\/suzuki_content_2026-18x10.jpg 18w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2026\/02\/suzuki_content_2026.jpg 1920w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" \/><\/a><\/figure>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex\">\n<div class=\"wp-block-button is-style-bg-button-default\"><a class=\"wp-block-button__link has-background-light-color has-green-darkest-background-color has-text-color has-background has-link-color wp-element-button\" href=\"https:\/\/burlingtonpac.ca\/events\/what-you-wont-do-for-love\/\" target=\"_blank\" rel=\"noreferrer noopener\">EVENT TICKETS<\/a><\/div>\n<\/div>\n\n\n\n<p><br><strong>What others are saying:<\/strong><br><br><em>\u201cA deeply personal, totally enchanting love story. David and Tara take us on a magical journey into the heart of commitment \u2013 to one another, to family, to community, to justice and to the planet. A testament to hope.\u201d<\/em><br><br>\u2013 Maude Barlow (Author and activist, founding member of the Council of Canadians, co-founder of the Blue Planet Project)<\/p>\n\n\n\n<p><em>\u201cWarm, wise and overflowing with generosity, this is a love story so epic it embraces all of creation. Yet another reminder of how blessed we are to be in the struggle with elders like David and Tara.\u201d<\/em><br><br>\u2013 Naomi Klein (author, journalist, social activist, and filmmaker) and Avi Lewis (filmmaker, climate activist, educator)<\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>David Suzuki and Tara Cullis are coming to the\u00a0Burlington Performing Arts Centre (BPAC)\u00a0on\u00a0March 8th,\u00a0and BurlingtonGreen is proud to be a partner for this special event. What You Won\u2019t Do For Love is a special event that is expected to sell out. Join us for a powerful opportunity to gather, reflect, and feel inspired by voices [&hellip;]<\/p>\n",
+            "protected": false
+        },
+        "featured_media": 10697,
+        "template": "",
+        "topics": [
+            333,
+            181
+        ],
+        "class_list": [
+            "post-30298",
+            "events",
+            "type-events",
+            "status-publish",
+            "has-post-thumbnail",
+            "hentry",
+            "topics-events",
+            "topics-together-we-make-a-difference"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/events\/30298",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/events"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/types\/events"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/media\/10697"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/media?parent=30298"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "topics",
+                    "embeddable": true,
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/topics?post=30298"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 30120,
+        "date": "2026-02-02T13:22:08",
+        "date_gmt": "2026-02-02T18:22:08",
+        "guid": {
+            "rendered": "https:\/\/www.burlingtongreen.org\/?post_type=events&#038;p=30120"
+        },
+        "modified": "2026-03-05T10:05:27",
+        "modified_gmt": "2026-03-05T15:05:27",
+        "slug": "decoding-bird-names-with-bob-bell",
+        "status": "publish",
+        "type": "events",
+        "link": "https:\/\/www.burlingtongreen.org\/events\/decoding-bird-names-with-bob-bell\/",
+        "title": {
+            "rendered": "Decoding Bird Names with Bob Bell"
+        },
+        "content": {
+            "rendered": "\n<div style=\"height:40px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<div class=\"wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:75%\">\n<p><strong>Date:Thursday, March 12th, 2026<br>Time: 7pm<br>Location: Zoom Webinar<\/strong><\/p>\n\n\n\n<p><\/p>\n\n\n\n<p><strong>Register for this FREE event further below.<\/strong><br><br>Join us for an interactive and educational birding webinar with Bob Bell, aka The Birder Bob, on Thursday, March 12th, from 7:00\u20138:15 pm on Zoom.<br><br>Have you ever wondered why some bird names are so confusing? Bob will demystify them in a fun and approachable way. You\u2019ll also get a chance to test your bird ID skills with photos, songs, and calls.<\/p>\n\n\n\n<p><strong>Book Giveaway!<\/strong><br><br>Thanks to Bob\u2019s generosity, one webinar participant will win a copy of his book <a href=\"https:\/\/www.hancockhouse.com\/products\/out-of-the-lyme-light-and-into-the-sunlight\" target=\"_blank\" rel=\"noreferrer noopener\">Out of the Lyme Light and Into the Sunlight: Birding as Therapy for the Chronically Ill.<\/a><br><br>A great evening for curious beginners and seasoned birders alike.<\/p>\n<\/div>\n\n\n\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:45%\">\n<figure class=\"wp-block-image size-full has-custom-border\"><img decoding=\"async\" width=\"940\" height=\"788\" src=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2026\/02\/2026_bob_bell_webinar_custom.jpg\" alt=\"\" class=\"has-border-color has-accent-border-color wp-image-30121\" style=\"border-width:3px\" srcset=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2026\/02\/2026_bob_bell_webinar_custom.jpg 940w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2026\/02\/2026_bob_bell_webinar_custom-300x251.jpg 300w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2026\/02\/2026_bob_bell_webinar_custom-768x644.jpg 768w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2026\/02\/2026_bob_bell_webinar_custom-14x12.jpg 14w\" sizes=\"(max-width: 940px) 100vw, 940px\" \/><\/figure>\n<\/div>\n<\/div>\n\n\n\n<p>Bob has previously given six talks for BurlingtonGreen, which are available for free to view on our YouTube channel:<\/p>\n\n\n\n<p><a href=\"https:\/\/www.youtube.com\/watch?v=OS0P27zRMKk\" target=\"_blank\" rel=\"noopener\">Backyard Birding with Bob Bell<\/a><\/p>\n\n\n\n<p><a href=\"https:\/\/www.youtube.com\/watch?v=6YId2j9hC0Y\" target=\"_blank\" rel=\"noopener\">Out of the Lyme Light: Wellness Through Birding with Bob Bell<\/a><\/p>\n\n\n\n<p><a href=\"https:\/\/www.youtube.com\/watch?v=R4t30gOYpMI\" target=\"_blank\" rel=\"noopener\">Introduction to Birding in Burlington and Hamilton with Bob Bell<\/a><\/p>\n\n\n\n<p><a href=\"https:\/\/www.youtube.com\/watch?v=-1zcW08eINo\" target=\"_blank\" rel=\"noopener\">The Mystique of Owls: An Introduction to Owling in Ontario with Bob Bell<\/a><\/p>\n\n\n\n<p><a href=\"https:\/\/www.youtube.com\/watch?v=TclIU5DIGlk\" target=\"_blank\" rel=\"noopener\">The Wonderful World of Warblers with Bob Bell<\/a><\/p>\n\n\n\n<p><a href=\"https:\/\/youtu.be\/Msyd5VaeaX0?si=tFJ9AmRg8XDQnno7\" target=\"_blank\" rel=\"noopener\">Mysteries of Migration Birding Webinar with Bob Bell<\/a><\/p>\n\n\n\n<p>Bob would be delighted to have you follow his book and birding activity, by sending a friend request&nbsp;<a href=\"https:\/\/www.facebook.com\/TheBirderBob\/\" target=\"_blank\" rel=\"noopener\">on Facebook<\/a>, or by following him on <a href=\"https:\/\/bsky.app\/profile\/thebirderbob.bsky.social\" target=\"_blank\" rel=\"noopener\">Bluesky <\/a>and <a href=\"https:\/\/www.instagram.com\/thebirderbob\/\" target=\"_blank\" rel=\"noopener\">Instagram<\/a>.<\/p>\n\n\n\n<p>Bob\u2019s book, \u201c<a href=\"https:\/\/www.hancockhouse.com\/products\/out-of-the-lyme-light-and-into-the-sunlight\" target=\"_blank\" rel=\"noopener\">Out of the Lyme Light and Into the Sunlight: Birding as Therapy for the Chronically Ill<\/a>\u201d can be bought locally at&nbsp;<a href=\"https:\/\/burlington.wbu.com\/\" target=\"_blank\" rel=\"noopener\">Wild Birds Unlimited<\/a>&nbsp;and&nbsp;<a href=\"https:\/\/www.differentdrummerbooks.ca\/\" target=\"_blank\" rel=\"noopener\">A Different Drummer Books<\/a>&nbsp;in Burlington, and at&nbsp;<a href=\"https:\/\/kingwestbooks.com\/\" target=\"_blank\" rel=\"noopener\">King W. Books<\/a>&nbsp;in Hamilton. It is also available online from Amazon, Indigo, or directly&nbsp;<a href=\"https:\/\/www.hancockhouse.com\/products\/out-of-the-lyme-light-and-into-the-sunlight\" target=\"_blank\" rel=\"noopener\">from the publisher<\/a>.<\/p>\n\n\n\n<p><strong>More about Bob Bell:<\/strong><\/p>\n\n\n\n<p>Bob Bell spent 35 years as a mineral exploration geologist before retiring to Ancaster in 2015. He quickly discovered that the area, with its multitude of habitats and environments, was fantastic for birding.<\/p>\n\n\n\n<p>Bob is passionate about sharing the joy of birding with people of all skill levels and enjoys introducing them to the huge variety of beautiful birds that can be seen in the Hamilton and Burlington areas.<\/p>\n\n\n\n<p>He hopes that his passion will inspire others to take in the sights and sounds of nature that surround us, and that this interest will translate into support and protection of local birds.<\/p>\n\n\n\n<hr class=\"wp-block-separator has-alpha-channel-opacity is-style-dots\"\/>\n\n\n\n<h4 class=\"wp-block-heading\">PLEASE COMPLETE AND SUBMIT THE FORM TO REGISTER FOR THIS EVENT:<\/h4>\n\n\n<form action=\"https:\/\/www.burlingtongreen.org\/wp-json\/ws-form\/v1\/submit\" class=\"wsf-form wsf-form-canvas\" id=\"ws-form-1\" data-id=\"37\" method=\"POST\" data-instance-id=\"1\" data-wsf-style-id=\"1\"><\/form>\n\n\n<div style=\"height:49px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<p class=\"has-text-align-center\">Learn more about BurlingtonGreen&#8217;s&nbsp;<a href=\"https:\/\/www.burlingtongreen.org\/programs\/nature-friendly-burlington\/\">Nature Friendly Burlington<\/a>&nbsp;Program.<\/p>\n\n\n\n<p class=\"has-text-align-center\">Sign up for our monthly&nbsp;<a href=\"https:\/\/www.burlingtongreen.org\/newsletter-signup\/\">Eco Newsletter&nbsp;<\/a>to learn about more events, opportunities and eco-living tips!<\/p>\n\n\n\n<div style=\"height:31px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<div class=\"wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-a89b3969 wp-block-buttons-is-layout-flex\">\n<div class=\"wp-block-button is-style-bg-button-default\"><a class=\"wp-block-button__link has-background-light-color has-green-dark-background-color has-text-color has-background has-link-color has-text-align-center wp-element-button\" href=\"https:\/\/www.burlingtongreen.org\/donate\/\">GIVE TODAY FOR A GREENER TOMORROW<\/a><\/div>\n<\/div>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Date:Thursday, March 12th, 2026Time: 7pmLocation: Zoom Webinar Register for this FREE event further below. Join us for an interactive and educational birding webinar with Bob Bell, aka The Birder Bob, on Thursday, March 12th, from 7:00\u20138:15 pm on Zoom. Have you ever wondered why some bird names are so confusing? Bob will demystify them in [&hellip;]<\/p>\n",
+            "protected": false
+        },
+        "featured_media": 30122,
+        "template": "",
+        "topics": [
+            28
+        ],
+        "class_list": [
+            "post-30120",
+            "events",
+            "type-events",
+            "status-publish",
+            "has-post-thumbnail",
+            "hentry",
+            "topics-nature-friendly-burlington"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/events\/30120",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/events"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/types\/events"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/media\/30122"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/media?parent=30120"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "topics",
+                    "embeddable": true,
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/topics?post=30120"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 29687,
+        "date": "2025-10-22T15:43:30",
+        "date_gmt": "2025-10-22T19:43:30",
+        "guid": {
+            "rendered": "https:\/\/www.burlingtongreen.org\/?post_type=events&#038;p=29687"
+        },
+        "modified": "2025-10-22T15:48:19",
+        "modified_gmt": "2025-10-22T19:48:19",
+        "slug": "fall-clothing-toy-swap",
+        "status": "publish",
+        "type": "events",
+        "link": "https:\/\/www.burlingtongreen.org\/events\/fall-clothing-toy-swap\/",
+        "title": {
+            "rendered": "Fall Clothing &amp; Toy Swap"
+        },
+        "content": {
+            "rendered": "\n<div class=\"wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:66.66%\">\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<p>Join Reconnect Burlington and BurlingtonGreen to swap, connect, and make an impact at Burlington\u2019s Fall Clothing &amp; Toy Swap!<br><br>\ud83d\uddd3 Saturday, November 8, 2025<br>\ud83d\udd59 10:00 AM \u2013 1:00 PM<br>\ud83d\udccd St. Christopher\u2019s Church, Burlington (<a href=\"https:\/\/www.google.com\/search?sca_esv=514c60beb9213ab0&amp;sxsrf=AE3TifM3HWjPwqomOpcul8RNlKLct8m9hQ:1761161568037&amp;kgmid=\/g\/1tg_m82n&amp;q=St.+Christopher%27s+Anglican+Church&amp;shndl=30&amp;shem=lcuae,lscta2,uaasie,shrtsdl&amp;source=sh\/x\/loc\/uni\/m1\/1&amp;kgs=5d8b8abcc01261cb&amp;utm_source=lcuae,lscta2,uaasie,shrtsdl,sh\/x\/loc\/uni\/m1\/1\" target=\"_blank\" rel=\"noreferrer noopener\">map<\/a>)<br><br>Bring your gently used items to exchange for new-to-you treasures \u2014 all while helping reduce waste and finding some gifts to help spread holiday joy.<\/p>\n\n\n\n<div class=\"wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex\">\n<div class=\"wp-block-button is-style-bg-button-default\"><a class=\"wp-block-button__link has-background-light-color has-green-darkest-background-color has-text-color has-background has-link-color wp-element-button\" href=\"https:\/\/act.environmentaldefence.ca\/page\/179692\/event\/1?ea.tracking.id=GoogleAd1\" target=\"_blank\" rel=\"noreferrer noopener\">REGISTER TO ATTEND<\/a><\/div>\n<\/div>\n\n\n\n<p><strong>Why come?<\/strong><br><br>Enjoy a meaningful day with:<\/p>\n\n\n\n<p>\ud83d\udc55 A Clothing &amp; Toy Swap<br>\ud83d\udcac Participate in community games<br>\ud83d\udcd6 Learn about the impact of fashion<br>\ud83c\udfa8 Colouring Activity for Kids<br>\ud83e\uddf5 Mending Station for simple fixes<br>\u2615 Free refreshments for all participants (while supplies last)<br><\/p>\n\n\n\n<p><strong>What to bring<\/strong><br><br>Clean clothing, shoes, hats, accessories, and toys in good working condition \u2014 items you\u2019d feel comfortable gifting to someone else.<br><br>Your family, and friends \u2013 the more, the merrier! Registrants will receive an extra raffle ticket for each extra person you bring with you.<br><br><strong>How the swap works:<\/strong><\/p>\n\n\n\n<p>10:00\u201311:00 AM: Items drop-off<br>11:00 AM &#8211; 11:30 AM: Brief presentation &amp; Swap instructions<br>11:30 AM\u20131:00 PM: Swap time<br><br>Come for the swap, stay for the community!<br><br>Whether you\u2019re clearing out your closets, refreshing your wardrobe, or looking for holiday gift ideas with heart\u2014this event is for you!<br><br>\u267b\ufe0f Any leftover items will be donated to the <a href=\"https:\/\/www.compassionsocietyofhalton.com\/\" target=\"_blank\" rel=\"noreferrer noopener\">Compassion Society<\/a>. Please remember to bring only clean items that are in good working condition.<br><br>PS: Children must be supervised by a parent or guardian at all times.<br><br>Reconnect Burlington &amp; BurlingtonGreen are working together to keep usable items out of landfills, reduce waste, and strengthen our community.<\/p>\n<\/div>\n\n\n\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:33.33%\">\n<figure class=\"wp-block-image size-large\"><a href=\"https:\/\/act.environmentaldefence.ca\/page\/179692\/event\/1?ea.tracking.id=GoogleAd1\" target=\"_blank\" rel=\" noreferrer noopener\"><img decoding=\"async\" width=\"1024\" height=\"768\" src=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/clothing_swap_custom-1024x768.jpg\" alt=\"\" class=\"wp-image-29688\" srcset=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/clothing_swap_custom-1024x768.jpg 1024w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/clothing_swap_custom-300x225.jpg 300w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/clothing_swap_custom-768x576.jpg 768w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/clothing_swap_custom-16x12.jpg 16w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/clothing_swap_custom.jpg 1500w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" \/><\/a><\/figure>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-a89b3969 wp-block-buttons-is-layout-flex\">\n<div class=\"wp-block-button is-style-bg-button-default\"><a class=\"wp-block-button__link has-background-light-color has-green-darkest-background-color has-text-color has-background has-link-color wp-element-button\" href=\"https:\/\/www.burlingtongreen.org\/news\/the-reconnection-project\/\">Learn more about the Reconnection Project Here<\/a><\/div>\n<\/div>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Join Reconnect Burlington and BurlingtonGreen to swap, connect, and make an impact at Burlington\u2019s Fall Clothing &amp; Toy Swap! \ud83d\uddd3 Saturday, November 8, 2025\ud83d\udd59 10:00 AM \u2013 1:00 PM\ud83d\udccd St. Christopher\u2019s Church, Burlington (map) Bring your gently used items to exchange for new-to-you treasures \u2014 all while helping reduce waste and finding some gifts to [&hellip;]<\/p>\n",
+            "protected": false
+        },
+        "featured_media": 11271,
+        "template": "",
+        "topics": [
+            236
+        ],
+        "class_list": [
+            "post-29687",
+            "events",
+            "type-events",
+            "status-publish",
+            "has-post-thumbnail",
+            "hentry",
+            "topics-live-green"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/events\/29687",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/events"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/types\/events"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/media\/11271"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/media?parent=29687"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "topics",
+                    "embeddable": true,
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/topics?post=29687"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 29641,
+        "date": "2025-10-08T12:42:36",
+        "date_gmt": "2025-10-08T16:42:36",
+        "guid": {
+            "rendered": "https:\/\/www.burlingtongreen.org\/?post_type=events&#038;p=29641"
+        },
+        "modified": "2025-10-08T12:58:26",
+        "modified_gmt": "2025-10-08T16:58:26",
+        "slug": "zero-waste-drop-off-event-more",
+        "status": "publish",
+        "type": "events",
+        "link": "https:\/\/www.burlingtongreen.org\/events\/zero-waste-drop-off-event-more\/",
+        "title": {
+            "rendered": "Zero-Waste Drop-Off Event &amp; More!"
+        },
+        "content": {
+            "rendered": "\n<p>Saturday, October 18, 2025 from 10 am to 4 pm. Indoor activities: 10:30 am to 3:30 pm.<br><br><\/p>\n\n\n\n<div class=\"wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:66.66%\">\n<p>Held in partnership with the <a href=\"https:\/\/burlingtoncentre.ca\/sustainability\/\" target=\"_blank\" rel=\"noreferrer noopener\">Burlington Centre <\/a>\u00a0and <a href=\"https:\/\/techgenius.ca\/\" target=\"_blank\" rel=\"noreferrer noopener\">Tech Genius Burlington Inc<\/a>,\u00a0we&#8217;re excited to host another impactful event at the Burlington Centre&#8217;s convenient parking area (corner of Guelph Line &amp; Fairview) to accept computer and cell phone electronics.<\/p>\n\n\n\n<p>Discover below how you can further grow the impact of these events by organizing collections with your networks!<\/p>\n\n\n\n<p>There&#8217;s more.&nbsp;A series of <a href=\"https:\/\/shop.terracycle.com\/en-CA\" target=\"_blank\" rel=\"noreferrer noopener\">Terracycle Zero Waste <\/a><a href=\"https:\/\/chopvalue.com\/en-ca?srsltid=AfmBOoqeso5s1WdcIgiSNQdM9XjR6CSPw6VXZGsllncMOkznzBFacN8p.\" target=\"_blank\" rel=\"noreferrer noopener\">&nbsp;<\/a>bins are also on site to accept more unique waste items not currently accepted in Halton Region\u2019s recycling program. And you can even drop off wooden chopsticks to the <a href=\"https:\/\/chopvalue.com\/en-ca?srsltid=AfmBOoqeso5s1WdcIgiSNQdM9XjR6CSPw6VXZGsllncMOkznzBFacN8p.\" target=\"_blank\" rel=\"noreferrer noopener\">ChopValue<\/a> bin we will have available at the event.<\/p>\n\n\n\n<p>Pesky candy wrappers, Brita water filters, reusable plastic containers and lids and used PPE can be dropped off, along with batteries and ink cartridges.<\/p>\n\n\n\n<p><strong>Battery Collection &amp; check out a fire truck!<\/strong>&nbsp;&#8211; the Burlington Fire Department will be on hand to collect used batteries, <a href=\"https:\/\/www.burlington.ca\/en\/news\/fire-and-public-safety-education\/lithium-ion-battery-fires-are-on-the-rise-help-bend-the-trend.aspx\" target=\"_blank\" rel=\"noreferrer noopener\">share lithium-ion safety tips, <\/a>and swap out smoke alarms over 10 years old (while supplies last). Check out a real fire truck from 2:00 &#8211; 3:00 p.m. \u2014 unless duty calls!<\/p>\n<\/div>\n\n\n\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:33.33%\">\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"768\" src=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2023\/02\/zwevent_content-1024x768.jpg\" alt=\"\" class=\"wp-image-24109\" srcset=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2023\/02\/zwevent_content-1024x768.jpg 1024w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2023\/02\/zwevent_content-300x225.jpg 300w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2023\/02\/zwevent_content-768x576.jpg 768w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2023\/02\/zwevent_content-16x12.jpg 16w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2023\/02\/zwevent_content.jpg 1500w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" \/><\/figure>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:66.66%\">\n<p><strong>NEW this year: Reducing Plastic Pollution<\/strong><\/p>\n\n\n\n<p>After dropping off your items outside, come inside between 10:30 AM and 3:30 PM to explore our interactive space on plastic pollution. Families can enjoy games and hands-on activities for all ages, while adults and youth can dive deeper into solutions \u2014 from simple everyday swaps to letter writing tips and petitions that call on companies and elected officials to take action on plastic waste.<\/p>\n\n\n\n<p>With resources from Environmental Defence\u2019s <a href=\"https:\/\/environmentaldefence.ca\/campaign\/ending-plastic-pollution\/\" target=\"_blank\" rel=\"noreferrer noopener\">Plastic Pollution Campaign<\/a>, this space offers something for everyone \u2014 fun, learning, and ways to use your voice for change.<\/p>\n\n\n\n<p>This portion of the Zero Waste drop-off is brought to you in partnership with <a href=\"https:\/\/environmentaldefence.ca\/reconnect-burlington\/\" target=\"_blank\" rel=\"noreferrer noopener\">Reconnect Burlington.<\/a><\/p>\n<\/div>\n\n\n\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:33.33%\">\n<figure class=\"wp-block-image size-large\"><a href=\"https:\/\/environmentaldefence.ca\/reconnect-burlington\/\" target=\"_blank\" rel=\" noreferrer noopener\"><img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"576\" src=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/05\/Reconnect-Burlington-White-1024x576.png\" alt=\"\" class=\"wp-image-28669\" srcset=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/05\/Reconnect-Burlington-White-1024x576.png 1024w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/05\/Reconnect-Burlington-White-300x169.png 300w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/05\/Reconnect-Burlington-White-768x432.png 768w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/05\/Reconnect-Burlington-White-1536x864.png 1536w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/05\/Reconnect-Burlington-White-18x10.png 18w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/05\/Reconnect-Burlington-White.png 1920w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" \/><\/a><\/figure>\n<\/div>\n<\/div>\n\n\n\n<p>Further details about this popular event in addition to a  list of what can be dropped off at the Zero-Waste Drop-Off event is available <a href=\"https:\/\/www.burlingtongreen.org\/programs\/zero-waste-events\/\">here.<\/a><\/p>\n\n\n\n<div style=\"height:36px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<div class=\"wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-a89b3969 wp-block-buttons-is-layout-flex\">\n<div class=\"wp-block-button is-style-bg-button-default\"><a class=\"wp-block-button__link has-background-light-color has-green-med-background-color has-text-color has-background has-link-color has-text-align-center wp-element-button\" href=\"https:\/\/www.burlingtongreen.org\/programs\/zero-waste-events\/\">LEARN MORE HERE!<\/a><\/div>\n<\/div>\n\n\n\n<p><\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Saturday, October 18, 2025 from 10 am to 4 pm. Indoor activities: 10:30 am to 3:30 pm. Held in partnership with the Burlington Centre \u00a0and Tech Genius Burlington Inc,\u00a0we&#8217;re excited to host another impactful event at the Burlington Centre&#8217;s convenient parking area (corner of Guelph Line &amp; Fairview) to accept computer and cell phone electronics. [&hellip;]<\/p>\n",
+            "protected": false
+        },
+        "featured_media": 10732,
+        "template": "",
+        "topics": [
+            181,
+            238
+        ],
+        "class_list": [
+            "post-29641",
+            "events",
+            "type-events",
+            "status-publish",
+            "has-post-thumbnail",
+            "hentry",
+            "topics-together-we-make-a-difference",
+            "topics-zero-waste"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/events\/29641",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/events"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/types\/events"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/media\/10732"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/media?parent=29641"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "topics",
+                    "embeddable": true,
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/topics?post=29641"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 22293,
+        "date": "2025-09-03T10:50:00",
+        "date_gmt": "2025-09-03T14:50:00",
+        "guid": {
+            "rendered": "https:\/\/www.burlingtongreen.org\/?post_type=events&#038;p=22293"
+        },
+        "modified": "2025-09-03T15:37:01",
+        "modified_gmt": "2025-09-03T19:37:01",
+        "slug": "lets-celebrate-trees-together",
+        "status": "publish",
+        "type": "events",
+        "link": "https:\/\/www.burlingtongreen.org\/events\/lets-celebrate-trees-together\/",
+        "title": {
+            "rendered": "Ask An Arborist Webinar"
+        },
+        "content": {
+            "rendered": "\n<div class=\"wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:66.66%\">\n<p class=\"has-green-med-color has-text-color has-medium-font-size\"><strong><br><\/strong><br>WEDNESDAY, SEPTEMBER 24TH @ 7 PM ONLINE WEBINAR<strong>!<\/strong><\/p>\n\n\n\n<p>The always popular Kyle McLoughlin, Master Arborist and Supervisor of Forest Planning and Health at the City of Burlington, joins us as our local subject matter expert.<\/p>\n\n\n\n<p>Kyle will share another fascinating presentation with time to follow to address tree-related questions. <br><br>We invite you to send us your tree-related questions when you register or email them to us before September 24th.<\/p>\n\n\n\n<p>*Please note: If you have specific questions about Burlington&#8217;s tree-bylaw, city tree planting\/removing\/trimming, please visit the&nbsp;<a href=\"https:\/\/www.burlington.ca\/en\/services-for-you\/Forestry-Operations.asp\" target=\"_blank\" rel=\"noreferrer noopener\">City of Burlington website.<\/a><\/p>\n\n\n\n<p><strong>BONUS!<\/strong> All Burlington resident attendees will be entered into a draw for a chance to win a FREE tree!<\/p>\n<\/div>\n\n\n\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:33.33%\">\n<div style=\"height:65px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<figure class=\"wp-block-image aligncenter size-medium\"><a href=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2023\/07\/arborist_event_custom.jpg\"><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"251\" src=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2023\/07\/arborist_event_custom-300x251.jpg\" alt=\"\" class=\"wp-image-22316\" srcset=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2023\/07\/arborist_event_custom-300x251.jpg 300w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2023\/07\/arborist_event_custom-768x644.jpg 768w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2023\/07\/arborist_event_custom-14x12.jpg 14w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2023\/07\/arborist_event_custom.jpg 940w\" sizes=\"(max-width: 300px) 100vw, 300px\" \/><\/a><\/figure>\n\n\n\n<p>Learn about more fall eco-opportunities  <a href=\"https:\/\/www.burlingtongreen.org\/news\/fall-events-opportunities\/\">here.<\/a><\/p>\n<\/div>\n<\/div>\n\n\n\n<p>Confirm your participation by completing and submitting the following form:<\/p>\n\n\nUnpublished form\n\n\n<div style=\"height:29px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<p>Click <a href=\"https:\/\/www.burlingtongreen.org\/news\/fall-events-opportunities\/\" data-type=\"link\" data-id=\"https:\/\/www.burlingtongreen.org\/news\/fall-events-opportunities\/\">here <\/a>to learn about more of our fall events and opportunities!<\/p>\n\n\n\n<p><\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>WEDNESDAY, SEPTEMBER 24TH @ 7 PM ONLINE WEBINAR! The always popular Kyle McLoughlin, Master Arborist and Supervisor of Forest Planning and Health at the City of Burlington, joins us as our local subject matter expert. Kyle will share another fascinating presentation with time to follow to address tree-related questions. We invite you to send us [&hellip;]<\/p>\n",
+            "protected": false
+        },
+        "featured_media": 22351,
+        "template": "",
+        "topics": [
+            259,
+            333,
+            28
+        ],
+        "class_list": [
+            "post-22293",
+            "events",
+            "type-events",
+            "status-publish",
+            "has-post-thumbnail",
+            "hentry",
+            "topics-action-on-climate",
+            "topics-events",
+            "topics-nature-friendly-burlington"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/events\/22293",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/events"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/types\/events"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/media\/22351"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/media?parent=22293"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "topics",
+                    "embeddable": true,
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/topics?post=22293"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 9485,
+        "date": "2025-09-03T04:05:00",
+        "date_gmt": "2025-09-03T08:05:00",
+        "guid": {
+            "rendered": "https:\/\/www.burlingtongreen.org\/?post_type=events&#038;p=9485"
+        },
+        "modified": "2025-11-03T10:35:58",
+        "modified_gmt": "2025-11-03T15:35:58",
+        "slug": "tree-photo-contest",
+        "status": "publish",
+        "type": "events",
+        "link": "https:\/\/www.burlingtongreen.org\/events\/tree-photo-contest\/",
+        "title": {
+            "rendered": "Tree Photo Contest"
+        },
+        "content": {
+            "rendered": "\n<div class=\"wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:66.66%\">\n<p>Voting is NOW CLOSED for the 2025 Burlington Tree Photo contest.<br><br>The photo receiving the most community votes was PHOTO # 3!<\/p>\n\n\n\n<p>The winner will receive a $50 gift card to <a href=\"https:\/\/connon.ca\/\" target=\"_blank\" rel=\"noreferrer noopener\">Connon Nurseries<\/a>.<\/p>\n\n\n\n<p>A big thank you to everyone who kindly submitted a photo this year, and to everyone who took the time to vote.<\/p>\n\n\n\n<p>We can all look forward to next year&#8217;s Burlington Tree Photo contest, while continuing to enjoy all these beautiful photos.<\/p>\n<\/div>\n\n\n\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:33.33%\">\n<figure data-wp-context=\"{&quot;imageId&quot;:&quot;69ae3cad54f74&quot;}\" data-wp-interactive=\"core\/image\" data-wp-key=\"69ae3cad54f74\" class=\"wp-block-image alignright size-medium wp-lightbox-container\"><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"300\" data-wp-class--hide=\"state.isContentHidden\" data-wp-class--show=\"state.isContentVisible\" data-wp-init=\"callbacks.setButtonStyles\" data-wp-on--click=\"actions.showLightbox\" data-wp-on--load=\"callbacks.setButtonStyles\" data-wp-on-window--resize=\"callbacks.setButtonStyles\" src=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2022\/09\/tree_photo_contest_custom-300x300.jpg\" alt=\"\" class=\"wp-image-17254\" srcset=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2022\/09\/tree_photo_contest_custom-300x300.jpg 300w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2022\/09\/tree_photo_contest_custom-1024x1024.jpg 1024w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2022\/09\/tree_photo_contest_custom-150x150.jpg 150w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2022\/09\/tree_photo_contest_custom-768x768.jpg 768w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2022\/09\/tree_photo_contest_custom-12x12.jpg 12w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2022\/09\/tree_photo_contest_custom.jpg 1080w\" sizes=\"(max-width: 300px) 100vw, 300px\" \/><button\n\t\t\tclass=\"lightbox-trigger\"\n\t\t\ttype=\"button\"\n\t\t\taria-haspopup=\"dialog\"\n\t\t\taria-label=\"Enlarge\"\n\t\t\tdata-wp-init=\"callbacks.initTriggerButton\"\n\t\t\tdata-wp-on--click=\"actions.showLightbox\"\n\t\t\tdata-wp-style--right=\"state.imageButtonRight\"\n\t\t\tdata-wp-style--top=\"state.imageButtonTop\"\n\t\t>\n\t\t\t<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"12\" height=\"12\" fill=\"none\" viewBox=\"0 0 12 12\">\n\t\t\t\t<path fill=\"#fff\" d=\"M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z\" \/>\n\t\t\t<\/svg>\n\t\t<\/button><\/figure>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:66.66%\">\n<div class=\"wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\"><\/div>\n<\/div>\n\n\n\n<figure data-wp-context=\"{&quot;imageId&quot;:&quot;69ae3cad55493&quot;}\" data-wp-interactive=\"core\/image\" data-wp-key=\"69ae3cad55493\" class=\"wp-block-image size-full is-resized wp-lightbox-container\"><img loading=\"lazy\" decoding=\"async\" width=\"320\" height=\"240\" data-wp-class--hide=\"state.isContentHidden\" data-wp-class--show=\"state.isContentVisible\" data-wp-init=\"callbacks.setButtonStyles\" data-wp-on--click=\"actions.showLightbox\" data-wp-on--load=\"callbacks.setButtonStyles\" data-wp-on-window--resize=\"callbacks.setButtonStyles\" src=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo-1_2025-contest_custom.jpg\" alt=\"\" class=\"wp-image-29712\" style=\"width:520px;height:auto\" srcset=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo-1_2025-contest_custom.jpg 320w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo-1_2025-contest_custom-300x225.jpg 300w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo-1_2025-contest_custom-16x12.jpg 16w\" sizes=\"(max-width: 320px) 100vw, 320px\" \/><button\n\t\t\tclass=\"lightbox-trigger\"\n\t\t\ttype=\"button\"\n\t\t\taria-haspopup=\"dialog\"\n\t\t\taria-label=\"Enlarge\"\n\t\t\tdata-wp-init=\"callbacks.initTriggerButton\"\n\t\t\tdata-wp-on--click=\"actions.showLightbox\"\n\t\t\tdata-wp-style--right=\"state.imageButtonRight\"\n\t\t\tdata-wp-style--top=\"state.imageButtonTop\"\n\t\t>\n\t\t\t<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"12\" height=\"12\" fill=\"none\" viewBox=\"0 0 12 12\">\n\t\t\t\t<path fill=\"#fff\" d=\"M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z\" \/>\n\t\t\t<\/svg>\n\t\t<\/button><figcaption class=\"wp-element-caption\">PHOTO 1 &#8211; &#8220;Leaves turning at the Royal Botanical gardens in Burlington&#8221;<\/figcaption><\/figure>\n\n\n\n<div style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<figure data-wp-context=\"{&quot;imageId&quot;:&quot;69ae3cad5570d&quot;}\" data-wp-interactive=\"core\/image\" data-wp-key=\"69ae3cad5570d\" class=\"wp-block-image size-full is-resized wp-lightbox-container\"><img loading=\"lazy\" decoding=\"async\" width=\"1775\" height=\"1719\" data-wp-class--hide=\"state.isContentHidden\" data-wp-class--show=\"state.isContentVisible\" data-wp-init=\"callbacks.setButtonStyles\" data-wp-on--click=\"actions.showLightbox\" data-wp-on--load=\"callbacks.setButtonStyles\" data-wp-on-window--resize=\"callbacks.setButtonStyles\" src=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo-2-_2025_contest_custom_ac.jpeg\" alt=\"\" class=\"wp-image-29713\" style=\"width:520px;height:auto\" srcset=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo-2-_2025_contest_custom_ac.jpeg 1775w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo-2-_2025_contest_custom_ac-300x291.jpeg 300w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo-2-_2025_contest_custom_ac-1024x992.jpeg 1024w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo-2-_2025_contest_custom_ac-768x744.jpeg 768w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo-2-_2025_contest_custom_ac-1536x1488.jpeg 1536w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo-2-_2025_contest_custom_ac-12x12.jpeg 12w\" sizes=\"(max-width: 1775px) 100vw, 1775px\" \/><button\n\t\t\tclass=\"lightbox-trigger\"\n\t\t\ttype=\"button\"\n\t\t\taria-haspopup=\"dialog\"\n\t\t\taria-label=\"Enlarge\"\n\t\t\tdata-wp-init=\"callbacks.initTriggerButton\"\n\t\t\tdata-wp-on--click=\"actions.showLightbox\"\n\t\t\tdata-wp-style--right=\"state.imageButtonRight\"\n\t\t\tdata-wp-style--top=\"state.imageButtonTop\"\n\t\t>\n\t\t\t<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"12\" height=\"12\" fill=\"none\" viewBox=\"0 0 12 12\">\n\t\t\t\t<path fill=\"#fff\" d=\"M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z\" \/>\n\t\t\t<\/svg>\n\t\t<\/button><figcaption class=\"wp-element-caption\">PHOTO 2 &#8211; &#8220;I\u2019d like to submit this glorious Maple located in the Holy Sepulchre Catholic Cemetery taken on September 24, 2025. The blazing glow shines bright upon the surroundings. A beautiful reminder of all life must transition, and come to an end to return to the earth.&#8221;<\/figcaption><\/figure>\n\n\n\n<div style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<figure data-wp-context=\"{&quot;imageId&quot;:&quot;69ae3cad559d4&quot;}\" data-wp-interactive=\"core\/image\" data-wp-key=\"69ae3cad559d4\" class=\"wp-block-image size-full is-resized wp-lightbox-container\"><img loading=\"lazy\" decoding=\"async\" width=\"1182\" height=\"2560\" data-wp-class--hide=\"state.isContentHidden\" data-wp-class--show=\"state.isContentVisible\" data-wp-init=\"callbacks.setButtonStyles\" data-wp-on--click=\"actions.showLightbox\" data-wp-on--load=\"callbacks.setButtonStyles\" data-wp-on-window--resize=\"callbacks.setButtonStyles\" src=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo-3_2025_contest_custom_m-scaled.jpg\" alt=\"\" class=\"wp-image-29714\" style=\"width:424px;height:auto\" srcset=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo-3_2025_contest_custom_m-scaled.jpg 1182w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo-3_2025_contest_custom_m-138x300.jpg 138w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo-3_2025_contest_custom_m-473x1024.jpg 473w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo-3_2025_contest_custom_m-768x1664.jpg 768w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo-3_2025_contest_custom_m-709x1536.jpg 709w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo-3_2025_contest_custom_m-945x2048.jpg 945w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo-3_2025_contest_custom_m-6x12.jpg 6w\" sizes=\"(max-width: 1182px) 100vw, 1182px\" \/><button\n\t\t\tclass=\"lightbox-trigger\"\n\t\t\ttype=\"button\"\n\t\t\taria-haspopup=\"dialog\"\n\t\t\taria-label=\"Enlarge\"\n\t\t\tdata-wp-init=\"callbacks.initTriggerButton\"\n\t\t\tdata-wp-on--click=\"actions.showLightbox\"\n\t\t\tdata-wp-style--right=\"state.imageButtonRight\"\n\t\t\tdata-wp-style--top=\"state.imageButtonTop\"\n\t\t>\n\t\t\t<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"12\" height=\"12\" fill=\"none\" viewBox=\"0 0 12 12\">\n\t\t\t\t<path fill=\"#fff\" d=\"M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z\" \/>\n\t\t\t<\/svg>\n\t\t<\/button><figcaption class=\"wp-element-caption\"><strong>PHOTO 3 RECEIVED THE MOST VOTES!<\/strong> -&#8220;Very beautiful tree, in full sight but perhaps not much appreciated! Location: Brant Street and Amherst Heights.&#8221;<\/figcaption><\/figure>\n\n\n\n<div class=\"wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\"><\/div>\n\n\n\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\"><\/div>\n<\/div>\n\n\n\n<figure data-wp-context=\"{&quot;imageId&quot;:&quot;69ae3cad55daf&quot;}\" data-wp-interactive=\"core\/image\" data-wp-key=\"69ae3cad55daf\" class=\"wp-block-image size-large is-resized wp-lightbox-container\"><img loading=\"lazy\" decoding=\"async\" width=\"768\" height=\"1024\" data-wp-class--hide=\"state.isContentHidden\" data-wp-class--show=\"state.isContentVisible\" data-wp-init=\"callbacks.setButtonStyles\" data-wp-on--click=\"actions.showLightbox\" data-wp-on--load=\"callbacks.setButtonStyles\" data-wp-on-window--resize=\"callbacks.setButtonStyles\" src=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo-4-2025-contest-rb-768x1024.jpg\" alt=\"\" class=\"wp-image-29715\" style=\"width:451px;height:auto\" srcset=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo-4-2025-contest-rb-768x1024.jpg 768w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo-4-2025-contest-rb-225x300.jpg 225w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo-4-2025-contest-rb-1152x1536.jpg 1152w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo-4-2025-contest-rb-9x12.jpg 9w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo-4-2025-contest-rb.jpg 1500w\" sizes=\"(max-width: 768px) 100vw, 768px\" \/><button\n\t\t\tclass=\"lightbox-trigger\"\n\t\t\ttype=\"button\"\n\t\t\taria-haspopup=\"dialog\"\n\t\t\taria-label=\"Enlarge\"\n\t\t\tdata-wp-init=\"callbacks.initTriggerButton\"\n\t\t\tdata-wp-on--click=\"actions.showLightbox\"\n\t\t\tdata-wp-style--right=\"state.imageButtonRight\"\n\t\t\tdata-wp-style--top=\"state.imageButtonTop\"\n\t\t>\n\t\t\t<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"12\" height=\"12\" fill=\"none\" viewBox=\"0 0 12 12\">\n\t\t\t\t<path fill=\"#fff\" d=\"M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z\" \/>\n\t\t\t<\/svg>\n\t\t<\/button><figcaption class=\"wp-element-caption\">PHOTO 4 &#8211; &#8220;I bike around my beautiful area, which thankfully has a lot of great greenery. One of my favourite trees is the majestic Red Pine &amp; this beauty is at the Holy Sepulchre Cemetery. I always stop in front of it &amp; appreciate its magnificence.&#8221;<\/figcaption><\/figure>\n\n\n\n<div style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<figure data-wp-context=\"{&quot;imageId&quot;:&quot;69ae3cad56080&quot;}\" data-wp-interactive=\"core\/image\" data-wp-key=\"69ae3cad56080\" class=\"wp-block-image size-large is-resized wp-lightbox-container\"><img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"1024\" data-wp-class--hide=\"state.isContentHidden\" data-wp-class--show=\"state.isContentVisible\" data-wp-init=\"callbacks.setButtonStyles\" data-wp-on--click=\"actions.showLightbox\" data-wp-on--load=\"callbacks.setButtonStyles\" data-wp-on-window--resize=\"callbacks.setButtonStyles\" src=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo_5_2025_contest_custom_mh-jpg-1024x1024.jpeg\" alt=\"\" class=\"wp-image-29716\" style=\"width:467px;height:auto\" srcset=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo_5_2025_contest_custom_mh-jpg-1024x1024.jpeg 1024w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo_5_2025_contest_custom_mh-jpg-300x300.jpeg 300w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo_5_2025_contest_custom_mh-jpg-150x150.jpeg 150w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo_5_2025_contest_custom_mh-jpg-768x769.jpeg 768w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo_5_2025_contest_custom_mh-jpg-12x12.jpeg 12w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo_5_2025_contest_custom_mh-jpg.jpeg 1279w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" \/><button\n\t\t\tclass=\"lightbox-trigger\"\n\t\t\ttype=\"button\"\n\t\t\taria-haspopup=\"dialog\"\n\t\t\taria-label=\"Enlarge\"\n\t\t\tdata-wp-init=\"callbacks.initTriggerButton\"\n\t\t\tdata-wp-on--click=\"actions.showLightbox\"\n\t\t\tdata-wp-style--right=\"state.imageButtonRight\"\n\t\t\tdata-wp-style--top=\"state.imageButtonTop\"\n\t\t>\n\t\t\t<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"12\" height=\"12\" fill=\"none\" viewBox=\"0 0 12 12\">\n\t\t\t\t<path fill=\"#fff\" d=\"M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z\" \/>\n\t\t\t<\/svg>\n\t\t<\/button><figcaption class=\"wp-element-caption\">PHOTO 5 &#8211; &#8220;This photo was taken at LaSalle Park in Burlington. I really like the striking and fiery fall colours of the tree leaves on the backdrop of a bright blue sky and green grass.&#8221;<\/figcaption><\/figure>\n\n\n\n<div style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<figure data-wp-context=\"{&quot;imageId&quot;:&quot;69ae3cad562ec&quot;}\" data-wp-interactive=\"core\/image\" data-wp-key=\"69ae3cad562ec\" class=\"wp-block-image size-large is-resized wp-lightbox-container\"><img loading=\"lazy\" decoding=\"async\" width=\"683\" height=\"1024\" data-wp-class--hide=\"state.isContentHidden\" data-wp-class--show=\"state.isContentVisible\" data-wp-init=\"callbacks.setButtonStyles\" data-wp-on--click=\"actions.showLightbox\" data-wp-on--load=\"callbacks.setButtonStyles\" data-wp-on-window--resize=\"callbacks.setButtonStyles\" src=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo_6_2025_contestcustom_cd-683x1024.jpg\" alt=\"\" class=\"wp-image-29717\" style=\"width:456px;height:auto\" srcset=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo_6_2025_contestcustom_cd-683x1024.jpg 683w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo_6_2025_contestcustom_cd-200x300.jpg 200w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo_6_2025_contestcustom_cd-768x1152.jpg 768w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo_6_2025_contestcustom_cd-1024x1536.jpg 1024w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo_6_2025_contestcustom_cd-1365x2048.jpg 1365w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo_6_2025_contestcustom_cd-8x12.jpg 8w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/10\/photo_6_2025_contestcustom_cd.jpg 1500w\" sizes=\"(max-width: 683px) 100vw, 683px\" \/><button\n\t\t\tclass=\"lightbox-trigger\"\n\t\t\ttype=\"button\"\n\t\t\taria-haspopup=\"dialog\"\n\t\t\taria-label=\"Enlarge\"\n\t\t\tdata-wp-init=\"callbacks.initTriggerButton\"\n\t\t\tdata-wp-on--click=\"actions.showLightbox\"\n\t\t\tdata-wp-style--right=\"state.imageButtonRight\"\n\t\t\tdata-wp-style--top=\"state.imageButtonTop\"\n\t\t>\n\t\t\t<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"12\" height=\"12\" fill=\"none\" viewBox=\"0 0 12 12\">\n\t\t\t\t<path fill=\"#fff\" d=\"M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z\" \/>\n\t\t\t<\/svg>\n\t\t<\/button><figcaption class=\"wp-element-caption\">PHOTO 6 &#8211; &#8221; I knew this tree was going to be my submission when I spotted it in Glen Afton park. The sun was setting, and although in itself this tree isn&#8217;t particularly interesting, it caught the sunlight so beautifully I couldn&#8217;t keep my eyes off of it. I had some fun imagining that the smaller tree underneath was its child, just completely shrouded in the sunlight.&#8221;<\/figcaption><\/figure>\n\n\n\n<div style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<\/div>\n<\/div>\n\n\nUnpublished form\n\n\n<div style=\"height:41px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<div class=\"wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-a89b3969 wp-block-buttons-is-layout-flex\">\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link has-background-light-color has-green-med-background-color has-text-color has-background wp-element-button\" href=\"https:\/\/www.burlingtongreen.org\/news\/fall-events-opportunities\/\">Discover More Fall Eco Opportunities <\/a><\/div>\n<\/div>\n\n\n\n<div style=\"height:49px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Voting is NOW CLOSED for the 2025 Burlington Tree Photo contest. The photo receiving the most community votes was PHOTO # 3! The winner will receive a $50 gift card to Connon Nurseries. A big thank you to everyone who kindly submitted a photo this year, and to everyone who took the time to vote. [&hellip;]<\/p>\n",
+            "protected": false
+        },
+        "featured_media": 22353,
+        "template": "",
+        "topics": [
+            28
+        ],
+        "class_list": [
+            "post-9485",
+            "events",
+            "type-events",
+            "status-publish",
+            "has-post-thumbnail",
+            "hentry",
+            "topics-nature-friendly-burlington"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/events\/9485",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/events"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/types\/events"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/media\/22353"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/media?parent=9485"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "topics",
+                    "embeddable": true,
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/topics?post=9485"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 17219,
+        "date": "2025-09-02T18:36:34",
+        "date_gmt": "2025-09-02T22:36:34",
+        "guid": {
+            "rendered": "https:\/\/www.burlingtongreen.org\/?post_type=events&#038;p=17219"
+        },
+        "modified": "2025-09-17T14:52:06",
+        "modified_gmt": "2025-09-17T18:52:06",
+        "slug": "tree-loving-care-workshop",
+        "status": "publish",
+        "type": "events",
+        "link": "https:\/\/www.burlingtongreen.org\/events\/tree-loving-care-workshop\/",
+        "title": {
+            "rendered": "Tree Loving Care Workshop"
+        },
+        "content": {
+            "rendered": "\n<h5 class=\"wp-block-heading\">Let&#8217;s learn and care for trees, together!<\/h5>\n\n\n\n<p>Open to local<strong>&nbsp;<\/strong>residents, students, groups, business employees, while space remains, this popular tree-ific event is fun, rewarding, and educational too!<\/p>\n\n\n\n<p>Hosted by BurlingtonGreen and City of Burlington Forestry Staff, this year&#8217;s<strong>&nbsp;TLC (Tree Loving Care)&nbsp;<\/strong>event<strong>&nbsp;<\/strong>will bring community members together to carry out some hands-on stewardship activities at a former tree planting location at <a href=\"https:\/\/maps.app.goo.gl\/hRPqs5V83Jq3bhPx7\" target=\"_blank\" rel=\"noreferrer noopener\">Pathfinder Park<\/a>, in Burlington. The event will take place on Saturday, September 27th from 9 am to 11:30 am. <strong>Space is limited for this opportunity. Advance registration is required &#8211; below.<\/strong><br><br>Together we will plant some trees, do a tree inventory, care for previously planted trees by doing some weeding and adding mulch, and we will create and scatter some native seed balls too!<\/p>\n\n\n\n<p><strong>BONUS:<\/strong>&nbsp;participants will have a chance to win a beautiful native tree to take home to plant in Burlington!<\/p>\n\n\n\n<p>The TLC event requires advance registration and will take place rain or shine. <\/p>\n\n\n\n<p>This project is also supported by the Reconnect Project. Click <a href=\"https:\/\/environmentaldefence.ca\/reconnect-burlington\/\" target=\"_blank\" rel=\"noopener\">here<\/a> to learn more!<\/p>\n\n\n\n<p>REGISTER FOR THIS EVENT BY COMPLETING AND SUBMITTING THE FOLLOWING FORM:<\/p>\n\n\nUnpublished form\n\n\n<div style=\"height:18px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<p>Learn about more fall eco-opportunities  <a href=\"https:\/\/www.burlingtongreen.org\/news\/fall-events-opportunities\/\">here.<\/a><\/p>\n\n\n\n<div style=\"height:34px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<p>Thank you to the following event partners\/supporters:<\/p>\n\n\n\n<div class=\"wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:25%\"><\/div>\n\n\n\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:50%\">\n<figure class=\"wp-block-image aligncenter size-full\"><a href=\"https:\/\/www.burlington.ca\/en\/home-property-and-environment\/forestry.aspx\" target=\"_blank\" rel=\" noreferrer noopener\"><img loading=\"lazy\" decoding=\"async\" width=\"276\" height=\"90\" src=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2021\/02\/city-logo-custom-4.jpg\" alt=\"\" class=\"wp-image-4656\"\/><\/a><\/figure>\n<\/div>\n\n\n\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:25%\"><\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:25%\"><\/div>\n\n\n\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:50%\">\n<figure class=\"wp-block-image aligncenter size-medium\"><a href=\"https:\/\/environmentaldefence.ca\/reconnect-burlington\/\" target=\"_blank\" rel=\" noreferrer noopener\"><img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"169\" src=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/05\/Reconnect-Burlington-White-300x169.png\" alt=\"\" class=\"wp-image-28669\" srcset=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/05\/Reconnect-Burlington-White-300x169.png 300w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/05\/Reconnect-Burlington-White-1024x576.png 1024w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/05\/Reconnect-Burlington-White-768x432.png 768w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/05\/Reconnect-Burlington-White-1536x864.png 1536w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/05\/Reconnect-Burlington-White-18x10.png 18w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/05\/Reconnect-Burlington-White.png 1920w\" sizes=\"(max-width: 300px) 100vw, 300px\" \/><\/a><\/figure>\n<\/div>\n\n\n\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:25%\"><\/div>\n<\/div>\n\n\n\n<div style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Let&#8217;s learn and care for trees, together! Open to local&nbsp;residents, students, groups, business employees, while space remains, this popular tree-ific event is fun, rewarding, and educational too! Hosted by BurlingtonGreen and City of Burlington Forestry Staff, this year&#8217;s&nbsp;TLC (Tree Loving Care)&nbsp;event&nbsp;will bring community members together to carry out some hands-on stewardship activities at a former [&hellip;]<\/p>\n",
+            "protected": false
+        },
+        "featured_media": 17220,
+        "template": "",
+        "topics": [
+            259,
+            28
+        ],
+        "class_list": [
+            "post-17219",
+            "events",
+            "type-events",
+            "status-publish",
+            "has-post-thumbnail",
+            "hentry",
+            "topics-action-on-climate",
+            "topics-nature-friendly-burlington"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/events\/17219",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/events"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/types\/events"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/media\/17220"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/media?parent=17219"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "topics",
+                    "embeddable": true,
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/topics?post=17219"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 29206,
+        "date": "2025-09-02T17:39:27",
+        "date_gmt": "2025-09-02T21:39:27",
+        "guid": {
+            "rendered": "https:\/\/www.burlingtongreen.org\/?post_type=events&#038;p=29206"
+        },
+        "modified": "2025-09-03T15:35:53",
+        "modified_gmt": "2025-09-03T19:35:53",
+        "slug": "thanksgiving-beach-clean-up",
+        "status": "publish",
+        "type": "events",
+        "link": "https:\/\/www.burlingtongreen.org\/events\/thanksgiving-beach-clean-up\/",
+        "title": {
+            "rendered": "Thanksgiving Beach Clean Up"
+        },
+        "content": {
+            "rendered": "\n<div class=\"wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:66.66%\">\n<p>You can express your gratitude this Thanksgiving when you join together with other community members to clean up Burlington Beach.<\/p>\n\n\n\n<p>Come on your own, or gather family and friends.<\/p>\n\n\n\n<p>Let\u2019s clean up the beach together.<\/p>\n\n\n\n<p><strong>REGISTER TODAY BY COMPLETING AND SUBMITTING THE FORM FURTHER BELOW<\/strong><\/p>\n\n\n\n<p>There will also be an opportunity to add your personal note to our Thanksgiving Gratitude Tree and add your Eco Actions to help us reach our goal of 200,000 eco actions in Burlington by 2030!<\/p>\n\n\n\n<p><strong>What to Bring:<\/strong><br><br>&#8211; Weather-appropriate clothing and sturdy footwear (waterproof boots can be handy for reaching litter in the water)<br>&#8211; Your reusable water bottle<br>&#8211;  Reusable gloves (We\u2019ll have plenty to borrow)<br>&#8211;  Litter picker tool if you have one (not required, we have a limited supply)<br>&#8211;  Lots of energy and enthusiasm!<\/p>\n\n\n\n<p>This FREE event is open to all Burlington community members who care about the environment. Accessible options are available for those with mobility limitations.<br><br>Let\u2019s come together to express our gratitude and take action to protect our local natural spaces, making a difference, one piece of litter at a time.<br><br>See you at the beach!<br><br>This free event is part of our Thanksgiving Weekend at the Beach programming, which will include eco-action and learning opportunities October 11th to 13th. Look for more details on our social media and in our October EcoNews (sign up to receive our EcoNews <a href=\"https:\/\/www.burlingtongreen.org\/newsletter-signup\/\">here<\/a>).<\/p>\n\n\nUnable to read published form data<\/div>\n\n\n\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:33.33%\">\n<figure data-wp-context=\"{&quot;imageId&quot;:&quot;69ae3cad5a7fc&quot;}\" data-wp-interactive=\"core\/image\" data-wp-key=\"69ae3cad5a7fc\" class=\"wp-block-image size-large wp-lightbox-container\"><img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"1024\" data-wp-class--hide=\"state.isContentHidden\" data-wp-class--show=\"state.isContentVisible\" data-wp-init=\"callbacks.setButtonStyles\" data-wp-on--click=\"actions.showLightbox\" data-wp-on--load=\"callbacks.setButtonStyles\" data-wp-on-window--resize=\"callbacks.setButtonStyles\" src=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/09\/thanksgiving_clean_up_custom-1024x1024.jpg\" alt=\"\" class=\"wp-image-29207\" srcset=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/09\/thanksgiving_clean_up_custom-1024x1024.jpg 1024w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/09\/thanksgiving_clean_up_custom-300x300.jpg 300w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/09\/thanksgiving_clean_up_custom-150x150.jpg 150w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/09\/thanksgiving_clean_up_custom-768x768.jpg 768w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/09\/thanksgiving_clean_up_custom-12x12.jpg 12w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/09\/thanksgiving_clean_up_custom.jpg 1080w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" \/><button\n\t\t\tclass=\"lightbox-trigger\"\n\t\t\ttype=\"button\"\n\t\t\taria-haspopup=\"dialog\"\n\t\t\taria-label=\"Enlarge\"\n\t\t\tdata-wp-init=\"callbacks.initTriggerButton\"\n\t\t\tdata-wp-on--click=\"actions.showLightbox\"\n\t\t\tdata-wp-style--right=\"state.imageButtonRight\"\n\t\t\tdata-wp-style--top=\"state.imageButtonTop\"\n\t\t>\n\t\t\t<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"12\" height=\"12\" fill=\"none\" viewBox=\"0 0 12 12\">\n\t\t\t\t<path fill=\"#fff\" d=\"M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z\" \/>\n\t\t\t<\/svg>\n\t\t<\/button><\/figure>\n\n\n\n<p>Learn about more fall eco-opportunities  <a href=\"https:\/\/www.burlingtongreen.org\/news\/fall-events-opportunities\/\">here.<\/a><\/p>\n<\/div>\n<\/div>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>You can express your gratitude this Thanksgiving when you join together with other community members to clean up Burlington Beach. Come on your own, or gather family and friends. Let\u2019s clean up the beach together. REGISTER TODAY BY COMPLETING AND SUBMITTING THE FORM FURTHER BELOW There will also be an opportunity to add your personal [&hellip;]<\/p>\n",
+            "protected": false
+        },
+        "featured_media": 8117,
+        "template": "",
+        "topics": [],
+        "class_list": [
+            "post-29206",
+            "events",
+            "type-events",
+            "status-publish",
+            "has-post-thumbnail",
+            "hentry"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/events\/29206",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/events"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/types\/events"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/media\/8117"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/media?parent=29206"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "topics",
+                    "embeddable": true,
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/topics?post=29206"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 29202,
+        "date": "2025-09-02T17:10:53",
+        "date_gmt": "2025-09-02T21:10:53",
+        "guid": {
+            "rendered": "https:\/\/www.burlingtongreen.org\/?post_type=events&#038;p=29202"
+        },
+        "modified": "2025-09-03T16:11:57",
+        "modified_gmt": "2025-09-03T20:11:57",
+        "slug": "bg-fun-for-kids-at-rbg",
+        "status": "publish",
+        "type": "events",
+        "link": "https:\/\/www.burlingtongreen.org\/events\/bg-fun-for-kids-at-rbg\/",
+        "title": {
+            "rendered": "BG Fun for Kids at RBG!"
+        },
+        "content": {
+            "rendered": "\n<div class=\"wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:66.66%\">\n<p><br>Take a nature walk, make a seedball and join other eco-fun with BG at Royal Botanical Gardens on October 4th and 5th.<\/p>\n\n\n\n<p>BurlingtonGreen will have a tent at the annual <a href=\"https:\/\/tellingtales.org\/festivals-events\/telling-tales-festival\/\" target=\"_blank\" rel=\"noreferrer noopener\">Telling Tales Children\u2019s Literary Festival<\/a> in Hendrie Park at the RBG.<\/p>\n\n\n\n<p><strong>Here\u2019s our schedule of activities:<\/strong><\/p>\n\n\n\n<p><strong>Daily 9:45 am &#8211; 5 pm <\/strong>&#8211; Drop by the BG tent to make your own native wildflower seed balls and learn how you can help protect and nurture butterflies and other pollinators. We\u2019ll also have other all-ages eco-fun and climate action resources.<\/p>\n\n\n\n<p><strong>Daily at 11:00 am, 2:00 pm and 3:30 pm<\/strong> &#8211; Join a Nature Discovery Walk with BG. During this 30 minute guided walk, you\u2019ll discover fascinating facts about nature all around us. Get inspired to be an eco-champion for special friends like amazing Monarch Butterflies, and afterwards you can stay to make seedballs to grow wildflowers that can attract butterflies and other pollinators to your own backyard or balcony.<\/p>\n\n\n\n<p>Free entry with <a href=\"https:\/\/tellingtales.org\/festival-registration\/\" target=\"_blank\" rel=\"noreferrer noopener\">registration here.<\/a><br>Then Come find the BG tent in Hendrie Park at the RBG!!<\/p>\n\n\n\n<p><a href=\"https:\/\/tellingtales.org\/festivals-events\/telling-tales-festival\/\" target=\"_blank\" rel=\"noreferrer noopener\">Telling Tales <\/a>is a weekend of authors, storytelling, creativity and fun! \ud83d\udcd6\ud83d\udcda\ud83c\udf0e<\/p>\n<\/div>\n\n\n\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:33.33%\">\n<figure data-wp-context=\"{&quot;imageId&quot;:&quot;69ae3cad5bd95&quot;}\" data-wp-interactive=\"core\/image\" data-wp-key=\"69ae3cad5bd95\" class=\"wp-block-image size-large wp-lightbox-container\"><img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"1024\" data-wp-class--hide=\"state.isContentHidden\" data-wp-class--show=\"state.isContentVisible\" data-wp-init=\"callbacks.setButtonStyles\" data-wp-on--click=\"actions.showLightbox\" data-wp-on--load=\"callbacks.setButtonStyles\" data-wp-on-window--resize=\"callbacks.setButtonStyles\" src=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/09\/telling_tales_custom-1024x1024.jpg\" alt=\"\" class=\"wp-image-29203\" srcset=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/09\/telling_tales_custom-1024x1024.jpg 1024w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/09\/telling_tales_custom-300x300.jpg 300w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/09\/telling_tales_custom-150x150.jpg 150w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/09\/telling_tales_custom-768x768.jpg 768w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/09\/telling_tales_custom-12x12.jpg 12w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/09\/telling_tales_custom.jpg 1080w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" \/><button\n\t\t\tclass=\"lightbox-trigger\"\n\t\t\ttype=\"button\"\n\t\t\taria-haspopup=\"dialog\"\n\t\t\taria-label=\"Enlarge\"\n\t\t\tdata-wp-init=\"callbacks.initTriggerButton\"\n\t\t\tdata-wp-on--click=\"actions.showLightbox\"\n\t\t\tdata-wp-style--right=\"state.imageButtonRight\"\n\t\t\tdata-wp-style--top=\"state.imageButtonTop\"\n\t\t>\n\t\t\t<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"12\" height=\"12\" fill=\"none\" viewBox=\"0 0 12 12\">\n\t\t\t\t<path fill=\"#fff\" d=\"M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z\" \/>\n\t\t\t<\/svg>\n\t\t<\/button><\/figure>\n\n\n\n<figure data-wp-context=\"{&quot;imageId&quot;:&quot;69ae3cad5c02e&quot;}\" data-wp-interactive=\"core\/image\" data-wp-key=\"69ae3cad5c02e\" class=\"wp-block-image size-large wp-lightbox-container\"><img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"1024\" data-wp-class--hide=\"state.isContentHidden\" data-wp-class--show=\"state.isContentVisible\" data-wp-init=\"callbacks.setButtonStyles\" data-wp-on--click=\"actions.showLightbox\" data-wp-on--load=\"callbacks.setButtonStyles\" data-wp-on-window--resize=\"callbacks.setButtonStyles\" src=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/09\/seedball_walks_telling_tales_custom-1024x1024.jpg\" alt=\"\" class=\"wp-image-29204\" srcset=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/09\/seedball_walks_telling_tales_custom-1024x1024.jpg 1024w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/09\/seedball_walks_telling_tales_custom-300x300.jpg 300w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/09\/seedball_walks_telling_tales_custom-150x150.jpg 150w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/09\/seedball_walks_telling_tales_custom-768x768.jpg 768w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/09\/seedball_walks_telling_tales_custom-12x12.jpg 12w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2025\/09\/seedball_walks_telling_tales_custom.jpg 1080w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" \/><button\n\t\t\tclass=\"lightbox-trigger\"\n\t\t\ttype=\"button\"\n\t\t\taria-haspopup=\"dialog\"\n\t\t\taria-label=\"Enlarge\"\n\t\t\tdata-wp-init=\"callbacks.initTriggerButton\"\n\t\t\tdata-wp-on--click=\"actions.showLightbox\"\n\t\t\tdata-wp-style--right=\"state.imageButtonRight\"\n\t\t\tdata-wp-style--top=\"state.imageButtonTop\"\n\t\t>\n\t\t\t<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"12\" height=\"12\" fill=\"none\" viewBox=\"0 0 12 12\">\n\t\t\t\t<path fill=\"#fff\" d=\"M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z\" \/>\n\t\t\t<\/svg>\n\t\t<\/button><\/figure>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-a89b3969 wp-block-buttons-is-layout-flex\">\n<div class=\"wp-block-button\"><a class=\"wp-block-button__link has-background-light-color has-green-med-background-color has-text-color has-background has-link-color wp-element-button\" href=\"https:\/\/www.burlingtongreen.org\/news\/fall-events-opportunities\/\">Learn about more fall eco-opportunities <\/a><\/div>\n<\/div>\n\n\n\n<p><\/p>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Take a nature walk, make a seedball and join other eco-fun with BG at Royal Botanical Gardens on October 4th and 5th. BurlingtonGreen will have a tent at the annual Telling Tales Children\u2019s Literary Festival in Hendrie Park at the RBG. Here\u2019s our schedule of activities: Daily 9:45 am &#8211; 5 pm &#8211; Drop by [&hellip;]<\/p>\n",
+            "protected": false
+        },
+        "featured_media": 4470,
+        "template": "",
+        "topics": [],
+        "class_list": [
+            "post-29202",
+            "events",
+            "type-events",
+            "status-publish",
+            "has-post-thumbnail",
+            "hentry"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/events\/29202",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/events"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/types\/events"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/media\/4470"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/media?parent=29202"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "topics",
+                    "embeddable": true,
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/topics?post=29202"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 16291,
+        "date": "2024-04-15T09:55:57",
+        "date_gmt": "2024-04-15T13:55:57",
+        "guid": {
+            "rendered": "https:\/\/www.burlingtongreen.org\/?post_type=events&#038;p=16291"
+        },
+        "modified": "2025-10-10T00:35:16",
+        "modified_gmt": "2025-10-10T04:35:16",
+        "slug": "join-us-at-the-beach",
+        "status": "publish",
+        "type": "events",
+        "link": "https:\/\/www.burlingtongreen.org\/events\/join-us-at-the-beach\/",
+        "title": {
+            "rendered": "Join us at the Beach!"
+        },
+        "content": {
+            "rendered": "\n<div style=\"height:33px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<div class=\"wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:66.66%\">\n<p>Located at the historic Pump House at\u00a0<a href=\"https:\/\/goo.gl\/maps\/CCV3usJYQCxPAEsZ6\" target=\"_blank\" rel=\"noreferrer noopener\">1094 Lakeshore Rd<\/a>,\u00a0<a href=\"https:\/\/www.burlington.ca\/en\/modules\/facilities\/Detail.aspx?CategoryIds=&amp;FacilityTypeIds=&amp;Keywords=YmVhY2h3YXk%3D&amp;ScrollMap=true&amp;lang=en&amp;CloseMap=false&amp;id=15b4681e-1668-4984-b32a-a417e59a3156\" target=\"_blank\" rel=\"noreferrer noopener\">Beachway Park<\/a>, pop by our Eco-Hub for a variety of eco-awareness, advocacy, and action opportunities. <br><br>10 am &#8211; 4 pm<br>Weekends and holidays (late April to Labour Day weekend), Thanksgiving weekend, and daily during July and August.<br><br>Weather permitting, you can participate in an eco-activity such as a beach clean-up challenge, a nature discovery activity, eco-crafts for kids, guided nature walks, discover Nurdles, or test your knowledge with the Trivia Wheel. And be sure to check out our <a href=\"https:\/\/www.burlingtongreen.org\/bgs-pollinator-garden\/\" data-type=\"link\" data-id=\"https:\/\/www.burlingtongreen.org\/bgs-pollinator-garden\/\">beautiful pollinator garden<\/a> and various displays, too.<\/p>\n\n\n\n<p>We\u2019re looking forward to meeting you at the beach!<\/p>\n\n\n\n<p>Follow us on <a href=\"https:\/\/www.facebook.com\/burlingtongreen\" target=\"_blank\" rel=\"noreferrer noopener\">Facebook<\/a>, <a href=\"https:\/\/twitter.com\/burlingtongreen\" target=\"_blank\" rel=\"noreferrer noopener\">Twitter<\/a> or <a href=\"https:\/\/www.instagram.com\/burlingtongreenenv\/reels\/\" target=\"_blank\" rel=\"noreferrer noopener\">Instagram<\/a>  to discover seasonal outreach highlights or give us a call if you have questions: 905 975 5563<\/p>\n\n\n\n<p>Not receiving our monthly e-newsletter yet? Be sure to <a href=\"https:\/\/www.burlingtongreen.org\/newsletter-signup\/\">sign up today <\/a>to stay connected to local eco-news, events, volunteer opportunities and more!<\/p>\n\n\n\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n<iframe title=\"Burlington Green&#039;s Display at Burlington Beach\" width=\"800\" height=\"450\" src=\"https:\/\/www.youtube.com\/embed\/n_U0q_nSDGs?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>\n<\/div><\/figure>\n\n\n\n<div style=\"height:58px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<figure class=\"wp-block-image size-large\"><a href=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2022\/07\/ecohub_front_building_team_outreach_content.jpg\"><img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"799\" src=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2022\/07\/ecohub_front_building_team_outreach_content-1024x799.jpg\" alt=\"\" class=\"wp-image-16427\" srcset=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2022\/07\/ecohub_front_building_team_outreach_content-1024x799.jpg 1024w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2022\/07\/ecohub_front_building_team_outreach_content-300x234.jpg 300w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2022\/07\/ecohub_front_building_team_outreach_content-768x599.jpg 768w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2022\/07\/ecohub_front_building_team_outreach_content.jpg 1500w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" \/><\/a><\/figure>\n\n\n\n<figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex\">\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"1500\" height=\"800\" data-id=\"16295\" src=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2022\/06\/beach_relay_content.jpg\" alt=\"\" class=\"wp-image-16295\" srcset=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2022\/06\/beach_relay_content.jpg 1500w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2022\/06\/beach_relay_content-300x160.jpg 300w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2022\/06\/beach_relay_content-1024x546.jpg 1024w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2022\/06\/beach_relay_content-768x410.jpg 768w\" sizes=\"(max-width: 1500px) 100vw, 1500px\" \/><\/figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"546\" data-id=\"16297\" src=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2022\/06\/pumphouse_sign_content-1024x546.jpg\" alt=\"\" class=\"wp-image-16297\" srcset=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2022\/06\/pumphouse_sign_content-1024x546.jpg 1024w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2022\/06\/pumphouse_sign_content-300x160.jpg 300w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2022\/06\/pumphouse_sign_content-768x410.jpg 768w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2022\/06\/pumphouse_sign_content.jpg 1500w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" \/><\/figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"1500\" height=\"700\" data-id=\"8146\" src=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2021\/03\/tree-planting-content.jpg\" alt=\"\" class=\"wp-image-8146\" srcset=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2021\/03\/tree-planting-content.jpg 1500w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2021\/03\/tree-planting-content-300x140.jpg 300w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2021\/03\/tree-planting-content-1024x478.jpg 1024w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2021\/03\/tree-planting-content-768x358.jpg 768w\" sizes=\"(max-width: 1500px) 100vw, 1500px\" \/><\/figure>\n<\/figure>\n<\/div>\n\n\n\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\" style=\"flex-basis:33.33%\">\n<figure class=\"wp-block-image size-large\"><a href=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2023\/05\/beach_logo_content-2.jpg\"><img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"577\" src=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2023\/05\/beach_logo_content-2-1024x577.jpg\" alt=\"\" class=\"wp-image-22071\" srcset=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2023\/05\/beach_logo_content-2-1024x577.jpg 1024w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2023\/05\/beach_logo_content-2-300x169.jpg 300w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2023\/05\/beach_logo_content-2-768x433.jpg 768w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2023\/05\/beach_logo_content-2-18x10.jpg 18w, https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2023\/05\/beach_logo_content-2.jpg 1500w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" \/><\/a><\/figure>\n<\/div>\n<\/div>\n\n\n\n<div style=\"height:53px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<p>Thank you to the <a href=\"https:\/\/www.burlington.ca\/en\/home-property-and-environment\/environment.aspx\" target=\"_blank\" rel=\"noreferrer noopener\">City of Burlington<\/a> for supporting our BG Beach Eco-Hub opportunities!<\/p>\n\n\n\n<div class=\"wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\"><\/div>\n\n\n\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\">\n<figure class=\"wp-block-image aligncenter size-full\"><a href=\"https:\/\/www.burlington.ca\/en\/home-property-and-environment\/environment.aspx\" target=\"_blank\" rel=\"noreferrer noopener\"><img loading=\"lazy\" decoding=\"async\" width=\"276\" height=\"90\" src=\"https:\/\/www.burlingtongreen.org\/wp-content\/uploads\/2021\/02\/city-logo-custom-4.jpg\" alt=\"\" class=\"wp-image-4656\"\/><\/a><\/figure>\n<\/div>\n\n\n\n<div class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\"><\/div>\n<\/div>\n",
+            "protected": false
+        },
+        "excerpt": {
+            "rendered": "<p>Located at the historic Pump House at\u00a01094 Lakeshore Rd,\u00a0Beachway Park, pop by our Eco-Hub for a variety of eco-awareness, advocacy, and action opportunities. 10 am &#8211; 4 pmWeekends and holidays (late April to Labour Day weekend), Thanksgiving weekend, and daily during July and August. Weather permitting, you can participate in an eco-activity such as a [&hellip;]<\/p>\n",
+            "protected": false
+        },
+        "featured_media": 2501,
+        "template": "",
+        "topics": [
+            236,
+            32,
+            28,
+            181
+        ],
+        "class_list": [
+            "post-16291",
+            "events",
+            "type-events",
+            "status-publish",
+            "has-post-thumbnail",
+            "hentry",
+            "topics-live-green",
+            "topics-make-the-switch",
+            "topics-nature-friendly-burlington",
+            "topics-together-we-make-a-difference"
+        ],
+        "_links": {
+            "self": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/events\/16291",
+                    "targetHints": {
+                        "allow": [
+                            "GET"
+                        ]
+                    }
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/events"
+                }
+            ],
+            "about": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/types\/events"
+                }
+            ],
+            "wp:featuredmedia": [
+                {
+                    "embeddable": true,
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/media\/2501"
+                }
+            ],
+            "wp:attachment": [
+                {
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/media?parent=16291"
+                }
+            ],
+            "wp:term": [
+                {
+                    "taxonomy": "topics",
+                    "embeddable": true,
+                    "href": "https:\/\/www.burlingtongreen.org\/wp-json\/wp\/v2\/topics?post=16291"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    }
+]

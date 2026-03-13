@@ -44,12 +44,8 @@ def test_parse_single_event_page(datafiles: Path) -> None:
     spider = RespectCyclistsFacebookEvents()
     response = HtmlResponse(url=spider.start_urls[0], status=200, body=html)
 
-    result = list(spider.parse_single_event_page(response))
+    event: Event = spider.parse_single_event_page(response)
 
-    assert len(result) == 1
-    event = result[0]
-
-    assert isinstance(event, Event)
     assert event.summary == "Ghost Bike Ride For Jean Louis"
 
     ref_date = datetime(2025, 11, 1, 14, 0, 0, tzinfo=ZoneInfo('America/Toronto'))

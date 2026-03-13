@@ -1,19 +1,17 @@
 from datetime import datetime, time
+from pathlib import Path
 from typing import LiteralString
 from zoneinfo import ZoneInfo
 
-import dateutil
 import pytest
 
-from event_calendars.spiders.burlington_green import extract_dates_from_description, extract_location_from_description
+from event_calendars.text_content import extract_dates_from_description, extract_location_from_description
+
+FIXTURE_DIR = Path(__file__).parent.parent.parent.resolve() / "test_data"
 
 TODAY = datetime.now()
 CUR_YEAR = TODAY.year
 EASTERN = ZoneInfo("America/Toronto")
-
-
-def test_assumptions() -> None:
-    dateutil.parser.parse("March 12th")
 
 
 @pytest.mark.parametrize(
@@ -30,11 +28,10 @@ def test_assumptions() -> None:
     ],
 )
 def test_parse_time_range_from_description(desc: LiteralString, s: datetime, e: datetime) -> None:
-
-    got_s, got_e = extract_dates_from_description(desc)
+    """Sometimes people write times like 11-3. Extract useful datetime objects from that."""
+    got_s, got_e = extract_dates_from_description(desc, default_tzinfo=EASTERN)
 
     assert (s, e) == (got_s, got_e)
-
 
 @pytest.mark.parametrize(
     "desc",
@@ -44,6 +41,5 @@ def test_parse_time_range_from_description(desc: LiteralString, s: datetime, e: 
         "meet at here."
     ],
 )
-
 def test_extract_location(desc: LiteralString) -> None:
     assert "here" == extract_location_from_description(desc)

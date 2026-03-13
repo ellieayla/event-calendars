@@ -9,7 +9,7 @@ from scrapy.exceptions import CloseSpider
 from scrapy.http import HtmlResponse, Request, Response
 from scrapy.selector.unified import Selector
 
-from event_calendars.utils import readable_text_content
+from event_calendars.text_content import readable_text_content
 
 from ..fb_graphql import Event as FBEvent
 from ..fb_graphql import RelayPrefetchedStreamCache_Result, extract_prefetched_events_from_inline_json, extract_prefetched_objects_from_inline_json
@@ -125,7 +125,7 @@ class TourDeCafeFacebook(scrapy.Spider):
                 self.log(f"Discovered event {facebook_event.id=} {facebook_event.url=}")
                 yield Request(url=facebook_event.url, callback=self.parse_single_event_page)
 
-    def parse_single_event_page(self, response: Response) -> Iterator[Event]:
+    def parse_single_event_page(self, response: Response) -> Event:
         assert isinstance(response, HtmlResponse)  # guard because signature of parse() doesn't declare `response`
 
         # debugging
@@ -188,7 +188,7 @@ class TourDeCafeFacebook(scrapy.Spider):
             event.end_datetime = end_datetime
         event.url = response.url
 
-        yield event
+        return event
 
 
 def convert_facebook_event_to_spider_event(fb_event: FBEvent) -> Event:

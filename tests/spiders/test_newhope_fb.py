@@ -46,10 +46,7 @@ def test_parse_single_event_page(datafiles: Path, caplog: pytest.LogCaptureFixtu
     response = HtmlResponse(url="blah", status=200, body=html)
 
     with caplog.at_level(ERROR):
-        result = list(spider.parse_single_event_page(response))
-
-    assert len(result) == 1
-    event = result[0]
+        event: Event = spider.parse_single_event_page(response)
 
     assert isinstance(event, Event)
     assert event.summary == "Tour de Cafe - October 18"

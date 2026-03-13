@@ -43,6 +43,9 @@ disallow_untyped_defs = true
 files = "event_calendars,vendor"
 exclude = "tests"
 
+[tool.pyright]
+stubPath = "vendor/"
+
 [tool.ruff]
 line-length = 150
 

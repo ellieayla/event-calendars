@@ -50,7 +50,7 @@ class RespectCyclistsFacebookEvents(scrapy.Spider):
                 # yield convert_facebook_event_to_spider_event(facebook_event)  # could make a crummy event from the list
                 yield Request(url=facebook_event.url, callback=self.parse_single_event_page)
 
-    def parse_single_event_page(self, response: Response) -> Iterator[Event]:
+    def parse_single_event_page(self, response: Response) -> Event:
         assert isinstance(response, HtmlResponse)  # guard because signature of parse() doesn't declare `response`
 
         # debugging
@@ -111,7 +111,7 @@ class RespectCyclistsFacebookEvents(scrapy.Spider):
             event.end_datetime = end_datetime
         event.url = response.url
 
-        yield event
+        return event
 
 
 def convert_facebook_event_to_spider_event(fb_event: FBEvent) -> Event:

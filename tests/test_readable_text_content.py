@@ -5,7 +5,7 @@ import pytest
 from lxml.html import HtmlElement, fromstring
 from scrapy.http import HtmlResponse
 
-from event_calendars.utils import extract_text_visitor, readable_text_content
+from event_calendars.text_content import extract_text_visitor, readable_text_content
 
 FIXTURE_DIR = Path(__file__).parent.parent.resolve() / "test_data"
 

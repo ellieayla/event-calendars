@@ -8,7 +8,7 @@ import scrapy.http
 from scrapy.exceptions import CloseSpider
 
 from ..items import Event
-from ..utils import readable_text_content
+from ..text_content import readable_text_content
 
 
 class CycleToronto(scrapy.Spider):
@@ -49,7 +49,7 @@ class CycleToronto(scrapy.Spider):
                 location=None,
             )
 
-    def parse_details_page(self, response: scrapy.http.Response) -> Iterator[Event]:
+    def parse_details_page(self, response: scrapy.http.Response) -> Event:
         ics_blob = response.xpath('//a[contains(@download, "event.ics")]/@href').get()
         if ics_blob is None:
             raise CloseSpider(f"Failed to extract ICS Blob from {response.url}")
@@ -66,7 +66,7 @@ class CycleToronto(scrapy.Spider):
 
         description = readable_text_content(response.css("main div.text-content.inner-block")[0].root)
 
-        yield Event(
+        return Event(
             summary=summary,
             start_datetime=start_time,
             end_datetime=end_time,
