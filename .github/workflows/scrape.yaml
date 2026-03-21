@@ -3,7 +3,7 @@ name: Scrape latest data
 on:
   workflow_dispatch:
   schedule:
-    - cron: '39 5 * * *'  # 05:39 UTC every day
+    - cron: '39 5 */2 * *'  # 05:39 UTC every 2 days
 
 jobs:
   scheduled:
