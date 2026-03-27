@@ -544,21 +544,4 @@ LOCATION:1684 Bloor St W\, Toronto\, ON\, M6P 1A3\, Canada
 URL:https://www.communitybikewaysto.ca/events/co31ufbqvqy2ul4hp288zfqj1mc7
  5t
 END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Koffee On The Kingsway (Biweekly)
-DTSTART:20241122T123000Z
-DTEND:20241122T141500Z
-DTSTAMP:20241120T201002Z
-UID:fe6f8a28-c073-5363-b7e8-b0e25c479ccf
-DESCRIPTION:An informal get-together at a coffee shop or diner in The King
- sway area of\nBloor West. Email us for specific details about the date (ev
- ery second Friday)\nand location of the event\, which usually runs between
-  7:30 and 9:15am. We\nrotate between local coffee shops\, including Hot Ov
- en Bakery\, Rouge Café\,\nToast on Bloor\, Creme de la Creme\, Coffee Tre
- e Roastery (Bloor W Village)\, and\nCafé de Flore.\n\n[Community.Bikeways
- .Toronto@gmail.com](mailto:Community.Bikeways.Toronto@gmail.com)\n\n\nURL:
-  https://www.communitybikewaysto.ca/events/koffee-on-the-kingsway
-LOCATION:
-URL:https://www.communitybikewaysto.ca/events/koffee-on-the-kingsway
-END:VEVENT
 END:VCALENDAR
