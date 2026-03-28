@@ -203,7 +203,12 @@ class Actor(SupportedDeserializationFromDict):
 
 
 def parse_day_time_sentence(s: str) -> date:
-    """Parsed a string like 'Sat, Nov 1, 2025' into a datetime.date"""
+    """Parsed a string like 'Sat, Nov 1, 2025' or 'Sat, May 9 at 8:00\u202fAM EDT',into a datetime.date"""
+    current_year: int = date.today().year
+    s = s.replace("\u202f", " ")
+
+    if " at " in s:
+        return datetime.strptime(s, "%a, %b %d at %H:%M %p %Z").replace(year=current_year)
     return datetime.strptime(s, "%a, %b %d, %Y")
 
 
@@ -248,6 +253,7 @@ class Event:
         except KeyError:
             description = None
 
+        # TODO: Can we use the start_timestamp instead?
         return cls(
             id=str(d["id"]),
             name=d.get("name"),
