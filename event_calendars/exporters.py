@@ -66,8 +66,8 @@ class ICalItemExporter(BaseItemExporter):
             spider_class = get_spider_from_export_filename(self.file.name)
             self.calendar_name = getattr(spider_class, "calendar_name")
         except (ValueError, AttributeError) as e:
-            self.logger.warning(f"Unable to find calendar_name for {self.file.name=}: {e=}")
             self.calendar_name = Path(self.file.name).stem.replace("-", " ").title()
+            self.logger.warning(f"Unable to find calendar_name for {self.file.name=}: {e=} - defaulting to {self.calendar_name}")
 
         super().__init__(**kwargs)
 
