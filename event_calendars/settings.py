@@ -59,6 +59,9 @@ CONCURRENT_REQUESTS_PER_DOMAIN = 1
 #ITEM_PIPELINES: dict[str, int] = {
 #   "event_calendars.pipelines.DuplicatesPipeline": 300,
 #}
+ITEM_PIPELINES: dict[str, int] = {
+    "event_calendars.pipelines.DropUninterestingYmcaEvents": 300,
+}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
@@ -86,7 +89,8 @@ TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
 FEED_EXPORT_ENCODING = "utf-8"
 
 
-LOG_LEVEL="DEBUG"
+LOG_LEVEL="INFO"
+DEFAULT_DROPITEM_LOG_LEVEL="INFO"  # N.B. The whole item object is logged (not via print()) by scrapy.logformatter.LogFormatter.dropped()
 COMMANDS_MODULE = 'event_calendars.cli'
 
 FEED_EXPORTERS = {
