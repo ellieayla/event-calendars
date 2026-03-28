@@ -1,4 +1,4 @@
-from collections.abc import Iterator
+from collections.abc import AsyncIterator, Iterator
 from datetime import datetime
 
 import dateutil
@@ -9,24 +9,16 @@ from scrapy.http import Response, TextResponse
 from ..items import BookableEvent
 
 
-# TODO: Maybe this should be split
-class YmcaHamiltonBurlingtonPools(scrapy.Spider):
-    name = "ymca-hamilton-burlington"
+class YmcaHamiltonBurlingtonPools:
     allowed_domains = ["www.ymcahbb.ca"]
 
-    def start_requests(self) -> Iterator[scrapy.Request]:
-        locations = [
-            "Ron%20Edwards%20Family%20YMCA",
-            "Hamilton%20Downtown%20Family%20YMCA",
-            # "Flamborough%20Family%20YMCA",
-            # "Laurier%20Brantford%20YMCA",
-            # "Les%20Chater%20Family%20YMCA",
-        ]
+    locations: list[str] = []  # url-encoded slug, like "Ron%20Edwards%20Family%20YMCA" or "Hamilton%20Downtown%20Family%20YMCA"
 
+    async def start(self) -> AsyncIterator[scrapy.Request]:
         # next 30 days
         dates = list([d.date() for d in dateutil.rrule.rrule(dateutil.rrule.DAILY, count=30, dtstart=datetime.now())])
 
-        urls = [f"https://www.ymcahbb.ca/schedules/get-event-data/{loc}/0/{d}" for loc in locations for d in dates]
+        urls = [f"https://www.ymcahbb.ca/schedules/get-event-data/{loc}/0/{d}" for loc in self.locations for d in dates]
 
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse_json_classlist)

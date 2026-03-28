@@ -4,7 +4,7 @@ import pytest
 from scrapy.http import TextResponse
 
 from event_calendars.items import BookableEvent
-from event_calendars.spiders.burlington_hamilton_ymca import YmcaHamiltonBurlingtonPools
+from event_calendars.spiders.ymca_burlington_hamilton import YmcaHamiltonBurlingtonPools
 
 FIXTURE_DIR = Path(__file__).parent.parent.parent.resolve() / "test_data"
 
