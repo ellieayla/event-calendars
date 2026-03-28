@@ -10,6 +10,8 @@ from ..fb_graphql import RelayPrefetchedStreamCache_Result, extract_prefetched_e
 from ..items import Event
 from ..timezone_lookup import discover_zoneinfo_for_shortname
 
+ESTIMATED_DURATION = timedelta(hours=2)
+
 
 class RespectCyclistsFacebookEvents(scrapy.Spider):
     name = "respect-cyclists-facebook"
@@ -95,11 +97,19 @@ class RespectCyclistsFacebookEvents(scrapy.Spider):
                         start_datetime = datetime.fromtimestamp(result.data["start_timestamp"], tzinfo)
                         end_datetime = datetime.fromtimestamp(result.data["end_timestamp"], tzinfo)
 
-                        # FIXME: end<start
+                        if result.data["end_timestamp"] == 0 or end_datetime <= start_datetime:
+                            self.logger.warning("No end timestamp, setting based on default duration")
+                            end_datetime = start_datetime + ESTIMATED_DURATION
 
                     elif "event" in result.data:
+                        self.logger.info("No start_timestamp found on result.data")
                         fb_event_object = FBEvent.from_dict(result.data["event"])
                         event = convert_facebook_event_to_spider_event(fb_event=fb_event_object)
+
+                    else:
+                        self.logger.debug(f"Dropping RelayPrefetchedStreamCache_Result; {result.data.keys()=}")
+                else:
+                    self.logger.info(f"Skipping unknown {r.graph_method_name=}")
 
         if event is None:
             raise ValueError("Failed to parse event from prefetched stream cache")

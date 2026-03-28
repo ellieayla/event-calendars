@@ -24,7 +24,6 @@ DEFAULT_DESCRIPTION = "Tour de Cafe is a novice cycling group ride"
 class TourDeCafe(scrapy.Spider):
     name = "tour-de-cafe-newhope"
     calendar_name = "Tour de Cafe, New Hope"
-    skip_in_runall = True
 
     allowed_domains = ["www.newhopecommunitybikes.com"]
     start_urls = ["https://www.newhopecommunitybikes.com/womens-programming"]
@@ -170,11 +169,12 @@ class TourDeCafeFacebook(scrapy.Spider):
                         start_datetime = datetime.fromtimestamp(result.data["start_timestamp"], tzinfo)
                         end_datetime = datetime.fromtimestamp(result.data["end_timestamp"], tzinfo)
 
-                        if result.data["end_timestamp"] == 0 or end_datetime < start_datetime:
+                        if result.data["end_timestamp"] == 0 or end_datetime <= start_datetime:
                             self.logger.warning("No end timestamp, setting based on default duration")
                             end_datetime = start_datetime + ESTIMATED_DURATION
 
                     elif "event" in result.data:
+                        self.logger.info("No start_timestamp found on result.data")
                         fb_event_object = FBEvent.from_dict(result.data["event"])
                         event = convert_facebook_event_to_spider_event(fb_event=fb_event_object)
 

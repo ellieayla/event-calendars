@@ -123,5 +123,5 @@ class BurlingtonGreen(scrapy.Spider):
             location=location,
             original_description=description,
         )
-        print(f"{ev=} has {location=}")
+        # print(f"{ev=} has {location=}")
         return ev
