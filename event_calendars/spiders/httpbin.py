@@ -9,6 +9,7 @@ from ..items import Event
 
 class HttpBinSpider(scrapy.Spider):
     name = "httpbin"
+    calendar_name = "The Exceptional httpbin.org"
     skip_in_runall = True
 
     allowed_domains = ["httpbin.org"]
