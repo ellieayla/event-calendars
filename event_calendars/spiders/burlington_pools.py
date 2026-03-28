@@ -1,4 +1,4 @@
-from collections.abc import Iterator
+from collections.abc import AsyncIterator, Iterator
 from datetime import date, datetime, timedelta
 
 import dateutil
@@ -39,7 +39,7 @@ class BurlingtonPools(scrapy.Spider):
     calendarId = "598fc12b-1445-4708-8de3-4a997690a6a3"  # Swimming
     widgetId = "ee6566f5-1e27-433c-9c19-86e76a0e3556"  # Drop-in?
 
-    def start_requests(self) -> Iterator[scrapy.Request]:
+    async def start(self) -> AsyncIterator[scrapy.Request]:
         urls = [
             f"https://cityofburlington.perfectmind.com/22818/Clients/BookMe4BookingPages/Classes?calendarId={self.calendarId}&widgetId={self.widgetId}",
         ]
