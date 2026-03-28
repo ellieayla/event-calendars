@@ -864,19 +864,8 @@ def test_convert_facebook_event_to_spider_event() -> None:
     "provided,expected",
     [
         ("Sat, Nov 1, 2025", datetime(2025, 11, 1, 0, 0)),
+        ("Sat, May 9 at 8:00\u202fAM EDT", None),
     ],
 )
 def test_parse_day_time_sentence_long_past(provided: str, expected: datetime) -> None:
     assert parse_day_time_sentence(provided) == expected
-
-
-@pytest.mark.parametrize(
-    "provided,expected",
-    [
-        ("Sat, May 9 at 8:00\u202fAM EDT", datetime(2000, 5, 9, 8, 0, 0)),
-    ],
-)
-def test_parse_day_time_sentence_detailed(provided: str, expected: datetime) -> None:
-    current_year: int = datetime.today().year
-
-    assert parse_day_time_sentence(provided) == expected.replace(year=current_year)

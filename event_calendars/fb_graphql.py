@@ -211,13 +211,9 @@ def parse_day_time_sentence(s: str) -> date | None:
     Hopefully find a better date later (start_timestamp) and don't use this one.
     """
     try:
-        current_year: int = date.today().year
-        s = s.replace("\u202f", " ")
-
-        if " at " in s:
-            return datetime.strptime(s, "%a, %b %d at %H:%M %p %Z").replace(year=current_year)
         return datetime.strptime(s, "%a, %b %d, %Y")
     except ValueError:
+        # unparsable
         return None
 
 
