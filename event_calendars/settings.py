@@ -90,7 +90,7 @@ FEED_EXPORT_ENCODING = "utf-8"
 
 
 LOG_LEVEL="INFO"
-DEFAULT_DROPITEM_LOG_LEVEL="INFO"  # N.B. The whole item object is logged (not via print()) by scrapy.logformatter.LogFormatter.dropped()
+DEFAULT_DROPITEM_LOG_LEVEL="DEBUG"  # N.B. The whole item object is logged (not via print()) by scrapy.logformatter.LogFormatter.dropped()
 COMMANDS_MODULE = 'event_calendars.cli'
 
 FEED_EXPORTERS = {

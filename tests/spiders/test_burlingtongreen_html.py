@@ -1,4 +1,5 @@
 from datetime import datetime
+from logging import ERROR
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -34,16 +35,17 @@ def test_parse_events_json_list(datafiles: Path) -> None:
 
 
 @pytest.mark.datafiles(FIXTURE_DIR / "burlington-green-event-30298.html")
-def test_parse_event_html(datafiles: Path) -> None:
+def test_parse_event_html(datafiles: Path, caplog: pytest.LogCaptureFixture) -> None:
     assert datafiles.is_dir()
 
     html_text: bytes = (datafiles / "burlington-green-event-30298.html").read_bytes()
 
     spider = BurlingtonGreen()
 
-    response = HtmlResponse(url=spider.start_urls[0], status=200, body=html_text)
+    response = HtmlResponse(url="https://www.burlingtongreen.org/events/an-inspiring-evening-with-david-suzuki-tara-cullis/", status=200, body=html_text)
 
-    e: Event = spider.parse_event_details_html(response)
+    with caplog.at_level(ERROR):
+        e: Event = spider.parse_event_details_html(response)
 
     assert isinstance(e, Event)
     assert e.summary == "An Inspiring Evening with David Suzuki & Tara Cullis!"

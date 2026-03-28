@@ -2,8 +2,11 @@ from abc import abstractmethod
 from collections.abc import Callable, Iterator
 from dataclasses import dataclass, fields
 from datetime import date, datetime
+from logging import getLogger
 from operator import attrgetter
 from typing import Any, Literal, NamedTuple, Protocol, Self, TypeAlias, TypedDict
+
+logger = getLogger(__name__)
 
 
 class SupportedDeserializationFromDict(Protocol):
@@ -202,14 +205,20 @@ class Actor(SupportedDeserializationFromDict):
         )
 
 
-def parse_day_time_sentence(s: str) -> date:
-    """Parsed a string like 'Sat, Nov 1, 2025' or 'Sat, May 9 at 8:00\u202fAM EDT',into a datetime.date"""
-    current_year: int = date.today().year
-    s = s.replace("\u202f", " ")
+def parse_day_time_sentence(s: str) -> date | None:
+    """
+    Parse a string like 'Sat, Nov 1, 2025' or 'Sat, May 9 at 8:00\u202fAM EDT' into a datetime.date.
+    Hopefully find a better date later (start_timestamp) and don't use this one.
+    """
+    try:
+        current_year: int = date.today().year
+        s = s.replace("\u202f", " ")
 
-    if " at " in s:
-        return datetime.strptime(s, "%a, %b %d at %H:%M %p %Z").replace(year=current_year)
-    return datetime.strptime(s, "%a, %b %d, %Y")
+        if " at " in s:
+            return datetime.strptime(s, "%a, %b %d at %H:%M %p %Z").replace(year=current_year)
+        return datetime.strptime(s, "%a, %b %d, %Y")
+    except ValueError:
+        return None
 
 
 class _WireEventDict(TypedDict):
@@ -330,6 +339,14 @@ def extract_prefetched_events_from_inline_json(parsed_json: internal_bbox_conten
                         group_result = GroupEventsGraphQLQueryResult.from_prefetch(result.data["group"])
 
                         yield from group_result.past_events.edges + group_result.upcoming_events.edges
+                    elif rpsc.graph_method_name in (
+                        "useCometLogInFormQuery",
+                        "CometGroupRootQuery",
+                    ):
+                        # known but ignored
+                        pass
+                    else:
+                        logger.warning(f"Skipping unknown {rpsc.graph_method_name=}")
 
 
 def extract_prefetched_objects_from_inline_json(parsed_json: internal_bbox_content_Type) -> Iterator[RelayPrefetchedStreamCache]:
@@ -348,3 +365,6 @@ def extract_prefetched_objects_from_inline_json(parsed_json: internal_bbox_conte
                     rpsc = RelayPrefetchedStreamCache.from_module_data(module.data)
 
                     yield rpsc
+                else:
+                    if "start_timestamp" in str(module.data):
+                        logger.warning("Unknown {module.name=} contains start_timestamp!")
