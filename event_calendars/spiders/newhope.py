@@ -215,5 +215,5 @@ def convert_facebook_event_to_spider_event(fb_event: FBEvent) -> Event:
         end_datetime=end_datetime,
         original_description=description,
         url=fb_event.url,
-        location=None,
+        location="New Hope Community Bikes, 1249 Main Street East, Hamilton Ontario",
     )
