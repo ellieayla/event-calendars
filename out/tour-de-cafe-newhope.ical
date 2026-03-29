@@ -1,0 +1,297 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//event-calendars//verselogic.net//
+METHOD:PUBLISH
+NAME:Tour de Cafe\, New Hope
+X-WR-CALNAME:Tour de Cafe\, New Hope
+BEGIN:VTIMEZONE
+TZID:America/Toronto
+COMMENT:This timezone only works from 1970-01-01 to 2038-01-01.
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZNAME:EST
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700426T030000
+RDATE:19710425T030000,19720430T030000,19730429T030000,19740428T030000,1975
+ 0427T030000,19760425T030000,19770424T030000,19780430T030000,19790429T03000
+ 0,19800427T030000,19810426T030000,19820425T030000,19830424T030000,19840429
+ T030000,19850428T030000,19860427T030000,19870405T030000,19880403T030000,19
+ 890402T030000,19900401T030000,19910407T030000,19920405T030000,19930404T030
+ 000,19940403T030000,19950402T030000,19960407T030000,19970406T030000,199804
+ 05T030000,19990404T030000,20000402T030000,20010401T030000,20020407T030000,
+ 20030406T030000,20040404T030000,20050403T030000,20060402T030000,20070311T0
+ 30000,20080309T030000,20090308T030000,20100314T030000,20110313T030000,2012
+ 0311T030000,20130310T030000,20140309T030000,20150308T030000,20160313T03000
+ 0,20170312T030000,20180311T030000,20190310T030000,20200308T030000,20210314
+ T030000,20220313T030000,20230312T030000,20240310T030000,20250309T030000,20
+ 260308T030000,20270314T030000,20280312T030000,20290311T030000,20300310T030
+ 000,20310309T030000,20320314T030000,20330313T030000,20340312T030000,203503
+ 11T030000,20360309T030000,20370308T030000
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19701025T020000
+RDATE:19711031T020000,19721029T020000,19731028T020000,19741027T020000,1975
+ 1026T020000,19761031T020000,19771030T020000,19781029T020000,19791028T02000
+ 0,19801026T020000,19811025T020000,19821031T020000,19831030T020000,19841028
+ T020000,19851027T020000,19861026T020000,19871025T020000,19881030T020000,19
+ 891029T020000,19901028T020000,19911027T020000,19921025T020000,19931031T020
+ 000,19941030T020000,19951029T020000,19961027T020000,19971026T020000,199810
+ 25T020000,19991031T020000,20001029T020000,20011028T020000,20021027T020000,
+ 20031026T020000,20041031T020000,20051030T020000,20061029T020000,20071104T0
+ 20000,20081102T020000,20091101T020000,20101107T020000,20111106T020000,2012
+ 1104T020000,20131103T020000,20141102T020000,20151101T020000,20161106T02000
+ 0,20171105T020000,20181104T020000,20191103T020000,20201101T020000,20211107
+ T020000,20221106T020000,20231105T020000,20241103T020000,20251102T020000,20
+ 261101T020000,20271107T020000,20281105T020000,20291104T020000,20301103T020
+ 000,20311102T020000,20321107T020000,20331106T020000,20341105T020000,203511
+ 04T020000,20361102T020000,20371101T020000
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:Tour de Cafe to Cafe TBD - May 9
+DTSTART;TZID=America/Toronto:20260509T080000
+DTEND;TZID=America/Toronto:20260509T100000
+DTSTAMP:20260329T060500Z
+UID:2f91f790-eba0-513e-8bb2-d44dcfed4964
+DESCRIPTION:Tour de Cafe is a novice cycling group ride for women/folks id
+ entifying as women. Each group ride incorporates knowledge about bikes and
+  safe cycling with a ride to a local cafe. No bike? No problem. Contact NH
+ CB as soon as possible! Have a bike\, but it needs a tune-This up? Bring i
+ t to NHCB at least one week before our first ride to get it serviced. Gain
+  confidence in cycling in the company of friends.\nURL: https://www.newhop
+ ecommunitybikes.com/womens-programming
+LOCATION:New Hope Community Bikes\, 1249 Main Street East\, Hamilton Ontar
+ io
+URL:https://www.newhopecommunitybikes.com/womens-programming
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tour de Cafe to Cafe TBD - May 23
+DTSTART;TZID=America/Toronto:20260523T080000
+DTEND;TZID=America/Toronto:20260523T100000
+DTSTAMP:20260329T060500Z
+UID:2f91f790-eba0-513e-8bb2-d44dcfed4964
+DESCRIPTION:Tour de Cafe is a novice cycling group ride for women/folks id
+ entifying as women. Each group ride incorporates knowledge about bikes and
+  safe cycling with a ride to a local cafe. No bike? No problem. Contact NH
+ CB as soon as possible! Have a bike\, but it needs a tune-This up? Bring i
+ t to NHCB at least one week before our first ride to get it serviced. Gain
+  confidence in cycling in the company of friends.\nURL: https://www.newhop
+ ecommunitybikes.com/womens-programming
+LOCATION:New Hope Community Bikes\, 1249 Main Street East\, Hamilton Ontar
+ io
+URL:https://www.newhopecommunitybikes.com/womens-programming
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tour de Cafe to Cafe TBD - June 6
+DTSTART;TZID=America/Toronto:20260606T080000
+DTEND;TZID=America/Toronto:20260606T100000
+DTSTAMP:20260329T060500Z
+UID:2f91f790-eba0-513e-8bb2-d44dcfed4964
+DESCRIPTION:Tour de Cafe is a novice cycling group ride for women/folks id
+ entifying as women. Each group ride incorporates knowledge about bikes and
+  safe cycling with a ride to a local cafe. No bike? No problem. Contact NH
+ CB as soon as possible! Have a bike\, but it needs a tune-This up? Bring i
+ t to NHCB at least one week before our first ride to get it serviced. Gain
+  confidence in cycling in the company of friends.\nURL: https://www.newhop
+ ecommunitybikes.com/womens-programming
+LOCATION:New Hope Community Bikes\, 1249 Main Street East\, Hamilton Ontar
+ io
+URL:https://www.newhopecommunitybikes.com/womens-programming
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tour de Cafe to Cafe TBD - June 20
+DTSTART;TZID=America/Toronto:20260620T080000
+DTEND;TZID=America/Toronto:20260620T100000
+DTSTAMP:20260329T060500Z
+UID:2f91f790-eba0-513e-8bb2-d44dcfed4964
+DESCRIPTION:Tour de Cafe is a novice cycling group ride for women/folks id
+ entifying as women. Each group ride incorporates knowledge about bikes and
+  safe cycling with a ride to a local cafe. No bike? No problem. Contact NH
+ CB as soon as possible! Have a bike\, but it needs a tune-This up? Bring i
+ t to NHCB at least one week before our first ride to get it serviced. Gain
+  confidence in cycling in the company of friends.\nURL: https://www.newhop
+ ecommunitybikes.com/womens-programming
+LOCATION:New Hope Community Bikes\, 1249 Main Street East\, Hamilton Ontar
+ io
+URL:https://www.newhopecommunitybikes.com/womens-programming
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tour de Cafe to Cafe TBD - July 4
+DTSTART;TZID=America/Toronto:20260704T080000
+DTEND;TZID=America/Toronto:20260704T100000
+DTSTAMP:20260329T060500Z
+UID:2f91f790-eba0-513e-8bb2-d44dcfed4964
+DESCRIPTION:Tour de Cafe is a novice cycling group ride for women/folks id
+ entifying as women. Each group ride incorporates knowledge about bikes and
+  safe cycling with a ride to a local cafe. No bike? No problem. Contact NH
+ CB as soon as possible! Have a bike\, but it needs a tune-This up? Bring i
+ t to NHCB at least one week before our first ride to get it serviced. Gain
+  confidence in cycling in the company of friends.\nURL: https://www.newhop
+ ecommunitybikes.com/womens-programming
+LOCATION:New Hope Community Bikes\, 1249 Main Street East\, Hamilton Ontar
+ io
+URL:https://www.newhopecommunitybikes.com/womens-programming
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tour de Cafe to Cafe TBD - July 18
+DTSTART;TZID=America/Toronto:20260718T080000
+DTEND;TZID=America/Toronto:20260718T100000
+DTSTAMP:20260329T060500Z
+UID:2f91f790-eba0-513e-8bb2-d44dcfed4964
+DESCRIPTION:Tour de Cafe is a novice cycling group ride for women/folks id
+ entifying as women. Each group ride incorporates knowledge about bikes and
+  safe cycling with a ride to a local cafe. No bike? No problem. Contact NH
+ CB as soon as possible! Have a bike\, but it needs a tune-This up? Bring i
+ t to NHCB at least one week before our first ride to get it serviced. Gain
+  confidence in cycling in the company of friends.\nURL: https://www.newhop
+ ecommunitybikes.com/womens-programming
+LOCATION:New Hope Community Bikes\, 1249 Main Street East\, Hamilton Ontar
+ io
+URL:https://www.newhopecommunitybikes.com/womens-programming
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tour de Cafe to Cafe TBD - August 1
+DTSTART;TZID=America/Toronto:20260801T080000
+DTEND;TZID=America/Toronto:20260801T100000
+DTSTAMP:20260329T060500Z
+UID:2f91f790-eba0-513e-8bb2-d44dcfed4964
+DESCRIPTION:Tour de Cafe is a novice cycling group ride for women/folks id
+ entifying as women. Each group ride incorporates knowledge about bikes and
+  safe cycling with a ride to a local cafe. No bike? No problem. Contact NH
+ CB as soon as possible! Have a bike\, but it needs a tune-This up? Bring i
+ t to NHCB at least one week before our first ride to get it serviced. Gain
+  confidence in cycling in the company of friends.\nURL: https://www.newhop
+ ecommunitybikes.com/womens-programming
+LOCATION:New Hope Community Bikes\, 1249 Main Street East\, Hamilton Ontar
+ io
+URL:https://www.newhopecommunitybikes.com/womens-programming
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tour de Cafe to Cafe TBD - August 15
+DTSTART;TZID=America/Toronto:20260815T080000
+DTEND;TZID=America/Toronto:20260815T100000
+DTSTAMP:20260329T060500Z
+UID:2f91f790-eba0-513e-8bb2-d44dcfed4964
+DESCRIPTION:Tour de Cafe is a novice cycling group ride for women/folks id
+ entifying as women. Each group ride incorporates knowledge about bikes and
+  safe cycling with a ride to a local cafe. No bike? No problem. Contact NH
+ CB as soon as possible! Have a bike\, but it needs a tune-This up? Bring i
+ t to NHCB at least one week before our first ride to get it serviced. Gain
+  confidence in cycling in the company of friends.\nURL: https://www.newhop
+ ecommunitybikes.com/womens-programming
+LOCATION:New Hope Community Bikes\, 1249 Main Street East\, Hamilton Ontar
+ io
+URL:https://www.newhopecommunitybikes.com/womens-programming
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tour de Cafe to Cafe TBD - August 29
+DTSTART;TZID=America/Toronto:20260829T080000
+DTEND;TZID=America/Toronto:20260829T100000
+DTSTAMP:20260329T060500Z
+UID:2f91f790-eba0-513e-8bb2-d44dcfed4964
+DESCRIPTION:Tour de Cafe is a novice cycling group ride for women/folks id
+ entifying as women. Each group ride incorporates knowledge about bikes and
+  safe cycling with a ride to a local cafe. No bike? No problem. Contact NH
+ CB as soon as possible! Have a bike\, but it needs a tune-This up? Bring i
+ t to NHCB at least one week before our first ride to get it serviced. Gain
+  confidence in cycling in the company of friends.\nURL: https://www.newhop
+ ecommunitybikes.com/womens-programming
+LOCATION:New Hope Community Bikes\, 1249 Main Street East\, Hamilton Ontar
+ io
+URL:https://www.newhopecommunitybikes.com/womens-programming
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tour de Cafe to Cafe TBD - September 12
+DTSTART;TZID=America/Toronto:20260912T080000
+DTEND;TZID=America/Toronto:20260912T100000
+DTSTAMP:20260329T060500Z
+UID:2f91f790-eba0-513e-8bb2-d44dcfed4964
+DESCRIPTION:Tour de Cafe is a novice cycling group ride for women/folks id
+ entifying as women. Each group ride incorporates knowledge about bikes and
+  safe cycling with a ride to a local cafe. No bike? No problem. Contact NH
+ CB as soon as possible! Have a bike\, but it needs a tune-This up? Bring i
+ t to NHCB at least one week before our first ride to get it serviced. Gain
+  confidence in cycling in the company of friends.\nURL: https://www.newhop
+ ecommunitybikes.com/womens-programming
+LOCATION:New Hope Community Bikes\, 1249 Main Street East\, Hamilton Ontar
+ io
+URL:https://www.newhopecommunitybikes.com/womens-programming
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tour de Cafe to Cafe TBD - September 26
+DTSTART;TZID=America/Toronto:20260926T080000
+DTEND;TZID=America/Toronto:20260926T100000
+DTSTAMP:20260329T060500Z
+UID:2f91f790-eba0-513e-8bb2-d44dcfed4964
+DESCRIPTION:Tour de Cafe is a novice cycling group ride for women/folks id
+ entifying as women. Each group ride incorporates knowledge about bikes and
+  safe cycling with a ride to a local cafe. No bike? No problem. Contact NH
+ CB as soon as possible! Have a bike\, but it needs a tune-This up? Bring i
+ t to NHCB at least one week before our first ride to get it serviced. Gain
+  confidence in cycling in the company of friends.\nURL: https://www.newhop
+ ecommunitybikes.com/womens-programming
+LOCATION:New Hope Community Bikes\, 1249 Main Street East\, Hamilton Ontar
+ io
+URL:https://www.newhopecommunitybikes.com/womens-programming
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tour de Cafe to Cafe TBD - October 10
+DTSTART;TZID=America/Toronto:20261010T080000
+DTEND;TZID=America/Toronto:20261010T100000
+DTSTAMP:20260329T060500Z
+UID:2f91f790-eba0-513e-8bb2-d44dcfed4964
+DESCRIPTION:Tour de Cafe is a novice cycling group ride for women/folks id
+ entifying as women. Each group ride incorporates knowledge about bikes and
+  safe cycling with a ride to a local cafe. No bike? No problem. Contact NH
+ CB as soon as possible! Have a bike\, but it needs a tune-This up? Bring i
+ t to NHCB at least one week before our first ride to get it serviced. Gain
+  confidence in cycling in the company of friends.\nURL: https://www.newhop
+ ecommunitybikes.com/womens-programming
+LOCATION:New Hope Community Bikes\, 1249 Main Street East\, Hamilton Ontar
+ io
+URL:https://www.newhopecommunitybikes.com/womens-programming
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tour de Cafe to Cafe TBD - October 24
+DTSTART;TZID=America/Toronto:20261024T080000
+DTEND;TZID=America/Toronto:20261024T100000
+DTSTAMP:20260329T060500Z
+UID:2f91f790-eba0-513e-8bb2-d44dcfed4964
+DESCRIPTION:Tour de Cafe is a novice cycling group ride for women/folks id
+ entifying as women. Each group ride incorporates knowledge about bikes and
+  safe cycling with a ride to a local cafe. No bike? No problem. Contact NH
+ CB as soon as possible! Have a bike\, but it needs a tune-This up? Bring i
+ t to NHCB at least one week before our first ride to get it serviced. Gain
+  confidence in cycling in the company of friends.\nURL: https://www.newhop
+ ecommunitybikes.com/womens-programming
+LOCATION:New Hope Community Bikes\, 1249 Main Street East\, Hamilton Ontar
+ io
+URL:https://www.newhopecommunitybikes.com/womens-programming
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tour de Cafe to Season Closer - Halloween Ride! - October 31
+DTSTART;TZID=America/Toronto:20261031T080000
+DTEND;TZID=America/Toronto:20261031T100000
+DTSTAMP:20260329T060500Z
+UID:2f91f790-eba0-513e-8bb2-d44dcfed4964
+DESCRIPTION:Tour de Cafe is a novice cycling group ride for women/folks id
+ entifying as women. Each group ride incorporates knowledge about bikes and
+  safe cycling with a ride to a local cafe. No bike? No problem. Contact NH
+ CB as soon as possible! Have a bike\, but it needs a tune-This up? Bring i
+ t to NHCB at least one week before our first ride to get it serviced. Gain
+  confidence in cycling in the company of friends.\nURL: https://www.newhop
+ ecommunitybikes.com/womens-programming
+LOCATION:New Hope Community Bikes\, 1249 Main Street East\, Hamilton Ontar
+ io
+URL:https://www.newhopecommunitybikes.com/womens-programming
+END:VEVENT
+END:VCALENDAR

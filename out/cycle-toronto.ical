@@ -2,39 +2,23 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//event-calendars//verselogic.net//
 METHOD:PUBLISH
-NAME:Cycle Toronto
-BEGIN:VTIMEZONE
-TZID:UTC
-COMMENT:This timezone only works from 1970-01-01 to 2038-01-01.
-BEGIN:STANDARD
-DTSTART:19700101T000000
-TZNAME:UTC
-TZOFFSETFROM:+0000
-TZOFFSETTO:+0000
-END:STANDARD
-END:VTIMEZONE
+NAME:Cycle TO
+X-WR-CALNAME:Cycle TO
 BEGIN:VEVENT
-SUMMARY:Coldest Day of the Year Ride 2026
-DTSTART:20260228T150000Z
-DTEND:20260228T170000Z
-DTSTAMP:20260226T055956Z
-UID:c7118781-30e4-544f-928e-32f2d49539d0
-DESCRIPTION:Coldest Day of the Year Ride 2026!\n\nThe Coldest Day of the Y
- ear Ride is an annual ride organized by Cycle Toronto in partnership with 
- the City of Toronto and Bike Share Toronto\, to celebrate and support wint
- er cycling for Bike Winter.\n\nJoin us in this all-ages-and-abilities annu
- al celebration of winter cycling. The ride starts and ends at Sugar Beach 
- Park where we'll finish up with some hot chocolate and light snacks!\n\nDa
- te: Saturday\, February 28\, 2026\nTime: 10:00 am\nLocation: (https://www.
- toronto.ca/explore-enjoy/parks-recreation/places-spaces/parks-and-recreati
- on-facilities/location/?id=2261) Sugar Beach Park (11 Dockside Drive)\nRid
- e Distance: ~10km\nRoute (subject to change): https://ridewithgps.com/rout
- es/54023563\n\nBike Share Toronto is offering free bike share reservations
-  while supplies last. (https://docs.google.com/forms/d/e/1FAIpQLSc5_WzgwtX
- dc-BJ6WtyOKNmbPZwcEdu3rpUT5e2v44Xo7nfrw/viewform?usp=dialog) Click here to
-  reserve a complimentary Bike Share bike for the ride.\nURL: https://www.c
- ycleto.ca/cdoyr_2026
-LOCATION:Sugar Beach Park\n11 Dockside Drive\nToronto ON M5A 0B6\nCA
-URL:https://www.cycleto.ca/cdoyr_2026
+SUMMARY:Public Meeting: High Park Movement Strategy
+DTSTART:20260407T220000Z
+DTEND:20260408T000000Z
+DTSTAMP:20260329T060540Z
+UID:f9c72e7f-dd4d-59af-854f-33bb7703a04b
+DESCRIPTION:As part of the High Park Movement Strategy\, the City of Toron
+ to is focused on mobility and the travel network within the park including
+  cycling with a long-term goal of achieving a car-free High Park.\n\n(http
+ s://www.toronto.ca/city-government/planning-development/construction-new-f
+ acilities/parks-facility-plans-strategies/high-park-movement-strategy/) Re
+ gister for the virtual public meeting for updates on the road design optio
+ ns and provide feedback.\nURL: https://www.cycleto.ca/public_meeting_high_
+ park_movement_strategy
+LOCATION:virtual
+URL:https://www.cycleto.ca/public_meeting_high_park_movement_strategy
 END:VEVENT
 END:VCALENDAR
