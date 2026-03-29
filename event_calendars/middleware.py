@@ -72,7 +72,7 @@ class Wayback:
         if archive_url is None or archived_ago >= self.acceptible_age:
             # need to update wayback item
             save_api = WaybackMachineSaveAPI(url=request.url, user_agent=str(request.headers["User-Agent"]))
-            logger.info("Saving new archive to wayback")
+            logger.info(f"Saving new archive to wayback for {request.url=}")
             archive_url = save_api.save()
 
         # Restart the request -- this function will receive the modified one and need to skip it.
