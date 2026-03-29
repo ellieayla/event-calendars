@@ -15,7 +15,7 @@ def current_datetime() -> datetime:
     return datetime.now(tz=UTC)
 
 
-@dataclass
+@dataclass(repr=False)
 class Event:
     summary: str
 
@@ -44,7 +44,7 @@ class Event:
         return f"{self.start_datetime}: {self.url}: {self.summary}"
 
 
-@dataclass
+@dataclass(repr=False)
 class BookableEvent(Event):
     facility: str | None = None
     price_range: str | None = None
@@ -52,7 +52,7 @@ class BookableEvent(Event):
     category: str | None = None
 
     @property
-    def rendered_description(self) -> str:
+    def description(self) -> str:
         assembled: str = self.original_description
         if self.url:
             assembled += f"\nURL: {self.url}"

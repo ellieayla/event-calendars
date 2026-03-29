@@ -4,6 +4,7 @@ from pathlib import Path
 import pytest
 
 from event_calendars.exporters import ICalItemExporter, get_spider_from_export_filename
+from event_calendars.items import BookableEvent, Event
 from event_calendars.spiders.newhope import TourDeCafe
 
 
@@ -37,3 +38,28 @@ def test_name_from_export_file_handle(tmp_path: Path ) -> None:
 
     export = ICalItemExporter(file=file)
     assert export.calendar_name == "The Exceptional httpbin.org"
+
+
+event = Event("s", None, None, "theurl", "theloc", original_description="OriginalDescription")
+bookable_event = BookableEvent("S", None, None, "theurl", "theloc", original_description="OrigDesc", facility="FacName", price_range="5-6$", spots_remaining="99", category="TheCat")
+
+@pytest.mark.parametrize(
+    ("event_object", "expected_description"),
+    (
+        (event, "OriginalDescription\nURL: theurl"),
+        (bookable_event, "OrigDesc\nURL: theurl\nFacility: FacName\nPrice: 5-6$\nSpace: 99\nCategory: TheCat"),
+    )
+)
+def test_item_description(event_object: Event | BookableEvent, expected_description: str) -> None:
+    assert event_object.description == expected_description
+
+
+@pytest.mark.parametrize(
+    ("event_object", "expected_repr"),
+    (
+        (event, "None: theurl: s"),
+        (bookable_event, "None: theurl: S"),
+    )
+)
+def test_item_repr(event_object: Event | BookableEvent, expected_repr: str) -> None:
+    assert repr(event_object) == expected_repr
