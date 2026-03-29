@@ -1,0 +1,643 @@
+
+
+<!DOCTYPE html>
+<html class="bm-full-page" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" data-rootUrl="/22818/">
+    <head><link rel="icon" href="/Content/Images/Rocket_ICON.ico" /><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1348699-20"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-1348699-20');
+</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+        
+        <!--Required scripts needed for menus-->
+       <script type="text/javascript">
+           if (!window.jQuery) {
+               document.write('<script crossorigin="anonymous" src="/Scripts/jQueryCore/jQueryCoreMin.js?03230928">\x3C/script>');
+               document.write('<script crossorigin="anonymous" src="/Scripts/jQueryCore/jquery-migrate-3.3.2.min.js?03230928">\x3C/script>');
+           }
+       </script>
+        <script crossorigin="anonymous" src="/Scripts/Kendo/kendo.all.min.js?03230928" type="text/javascript"></script>
+        <script crossorigin="anonymous" src="/Scripts/Kendo/kendo.aspnetmvc.min.js?03230928" type="text/javascript"></script>
+
+        
+    <title>Swimming and Aquatic Fitness Booking Page</title>
+
+        <link href="/Content/sitebase1.css?03230928" rel="stylesheet" type="text/css" />
+        <link rel="stylesheet" type="text/css" href="/Content/Planner2/PlannerAddin.css?03230928" />
+    </head>
+    <body>
+        <input type="hidden" id="siteAnchor" value="/22818/" />
+        
+<form action="/22818/Clients/BookMe4BookingPages/Classes" id="AjaxAntiForgeryForm" method="post" style="display: none;"><input name="__RequestVerificationToken" type="hidden" value="x_Expected-Request-Verification-Token_x" /></form>
+<script type="text/javascript" crossorigin="anonymous" src="/Scripts/perfectMind/AjaxAntiForgeryPost.js?03230928"></script>
+        <div id="temp_wrapper" style="position: fixed;top:0px;left:0px;height: 100%;width:100%;background-color: white;z-index: 100000"></div>
+        <ul id="bypass-link-list">
+            <li class="bypass-link-item">
+                <a id="main-content-link" class="bypass-link" href="#main-content" tabindex="1">
+                    <div class="link-content">Skip to main content</div>
+                </a>
+            </li>
+        </ul>
+
+      
+
+<link rel="stylesheet" href="/Content/NewHeaderStyles.css?03230928" type="text/css" />
+
+
+
+<div class="bm-org-header public-header" role="heading" aria-level="1">
+    <img class="" src="//pmcontent.blob.core.windows.net/9cec288dde1f4cc8a295d27d60b5ccff/logo/327545265ed4402995f35c79b389d130.png" alt="PerfectMind Logo" aria-hidden="true" />
+    <div class="org-details">
+        <div class="bm-org-name">
+            <div>City of Burlington</div>        
+        </div>
+        <div class="org-phone-number">
+            <div>(905) 335-7738</div>        
+        </div>
+    </div>
+    <div class="header-for-member">
+        <div id="topNav">
+            <div class="log-in-button-container" style="position: absolute; right: 60px; top: 0px; margin-top: 26px;">
+                 <a class="pm-button pm-login-button" title="Log in to portal" href="/22818/MemberRegistration/MemberSignIn?returnUrl=https%3a%2f%2fcityofburlington.perfectmind.com%2f22818%2fClients%2fBookMe4BookingPages%2fClasses%3fcalendarId%3d598fc12b-1445-4708-8de3-4a997690a6a3%26widgetId%3dee6566f5-1e27-433c-9c19-86e76a0e3556">
+                    <span>Login</span>
+                 </a>
+            </div>
+            <div id="google_translate_element" style="position: absolute; right: 185px; top: 0px;"></div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<link rel="stylesheet" href="/Content/compass/css/BookMe/BookMe4-Theme.css?03230928" type="text/css" />
+<link href="/Content/jQueryUI/ui-lightness/jquery-ui.css?03230928" type="text/css" rel="stylesheet" />
+
+<link href="/Content/Kendo/kendo.common.min.css?03230928" rel="stylesheet" type="text/css" />
+<link href="/Content/Kendo/kendo.bootstrap.min.css?03230928" rel="stylesheet" type="text/css" />
+<link href="/Content/Fonts/BookMe/styles.css?03230928" rel="stylesheet" type="text/css" />
+<link href="/Content/Fonts/FontAwesome/css/font-awesome.min.css?03230928" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="/Content/compass/css/BookMe/BookMe4-Embed.css?03230928" type="text/css" />
+<link rel="stylesheet" href="/Content/compass/css/BookMe/BookMe4-CoursesClasses.css?03230928" type="text/css" />
+<link rel="stylesheet" href="/Content/lightbox.css?03230928" type="text/css" />
+<link rel="stylesheet" href="/Scripts/malihuScrollbar/jquery.mCustomScrollbar.css?03230928" type="text/css" />
+
+
+
+<script src="https://cdn.rum-ingress-coralogix.com/coralogix/browser/2.14.0/coralogix-browser-sdk.js"></script>
+
+<script type="text/javascript">
+        window.CoralogixRum.init({
+            application: 'xplor-rec',
+            environment: 'ca-ga',
+            public_key: 'cxtp_jxXJv4ux5YfPJcIa51qkYDalRIkdQL',
+            coralogixDomain: 'EU2',
+            version: '9.5',
+            user_context: {
+                user_id: 'c7f40e8a-0348-490c-ae14-65b0f42f8f62',
+                user_email: '',
+                user_name: 'Public Profile'
+            },
+            labels: {
+                name: 'Public Profile',
+                email: '',
+                orgId: '9cec288d-de1f-4cc8-a295-d27d60b5ccff',
+                orgName: 'City of Burlington'
+            },
+            sessionConfig: {
+                keepSessionAfterReload: true,
+                alwaysTrackSessionsWithErrors: true
+            },
+            sessionRecordingConfig: {
+                enable: true, // Must declare.
+                /**
+                 * If autoStartSessionRecording is false, you can manually start & stop your session recording.
+                 * Refer to Recording Manually Section.
+                 **/
+                autoStartSessionRecording: true, // Automatically records your session when SDK is up.
+                recordConsoleEvents: true, // Will record all console events from dev tools. Levels: log, debug, warn, error, info, table etc..
+                sessionRecordingSampleRate: 100, // Percentage of overall sessions recording being tracked, defaults to 100% and applied after the overall sessionSampleRate.
+                maskAllInputs: false, // Mask all input content as * (Default false), refer to Input types.
+                maskInputOptions: { password: true }, // Mask some kinds of input as *, By Default the SDK masking password inputs.
+                // According to MutationObserver API, A large number of DOM mutations can negatively impact performance
+                maxMutations: 5000,
+                sampling: {
+                    // record all mouse movements 
+                    // if set to false, no mouse movements will be recorded
+                    mousemove: true,
+
+                    // record all mouse interactions
+                    // if set to false, no mouse interactions will be recorded
+                    mouseInteraction: true,
+
+                    // set the interval of a scrolling event
+                    scroll: 150, // does not emit twice in 150ms 
+                    //if not declared, all scrolling events will be emitted
+
+                    // set the interval of a media interaction event
+                    media: 800, //if not declared, all media events will be emitted
+
+                    // set the timing of record input
+                    input: 'last',
+                    // When inputting multiple characters, only record the final input
+                    // Selecting 'all' instead of 'last' will record all typed inputs
+
+                    // Configure which kinds of mouse interaction should be recorded
+                    mouseInteraction: {
+                        MouseUp: true,
+                        MouseDown: true,
+                        Click: true,
+                        ContextMenu: true,
+                        DblClick: true,
+                        Focus: true,
+                        Blur: true,
+                        TouchStart: true,
+                        TouchEnd: true
+                    }
+                }
+            }
+        });
+</script>
+
+<script crossorigin="anonymous" src="/Scripts/BookMe4/Resources/Resources.en-CA.js?03230928" type="text/javascript"></script>
+<script crossorigin="anonymous" src="/Scripts/Resources/Resources.en-CA.js?03230928" type="text/javascript"></script>
+
+<!--For logged-in users we use BookMe4Authentificated master page where these scripts are already included. Duplicating these scripts caused KendoDropDown list issue on Android devices (for Android version 9 and higher).-->
+
+
+<script crossorigin="anonymous" src="/Scripts/jQueryUi/jQueryUi.min.js?03230928" type="text/javascript"></script>
+<script crossorigin="anonymous" src="/Scripts/MicrosoftAjax.js?03230928" type="text/javascript"></script>
+<script crossorigin="anonymous" src="/Scripts/MicrosoftMvcAjax.js?03230928" type="text/javascript"></script>
+<script crossorigin="anonymous" src="/Scripts/MicrosoftMvcValidation.js?03230928" type="text/javascript"></script>
+<script crossorigin="anonymous" src="/Scripts/perfectMind/PMCommonHeadLoadingFull.js?03230928" type="text/javascript"></script>
+<script crossorigin="anonymous" src="/Scripts/perfectMind/PMCommonFull.js?03230928" type="text/javascript"></script>
+<script crossorigin="anonymous" src="/Scripts/Kendo/kendo.all.min.js?03230928" type="text/javascript"></script>
+<script crossorigin="anonymous" src="/Scripts/Kendo/kendo.aspnetmvc.min.js?03230928" type="text/javascript"></script>
+<script crossorigin="anonymous" src="/Scripts/utils/json2min.js?03230928" type="text/javascript"></script>
+<script crossorigin="anonymous" src="/Scripts/perfectMind/ByPassLinkManager.js?03230928" type="text/javascript"></script>
+<script crossorigin="anonymous" src="/Scripts/malihuScrollbar/jquery.mCustomScrollbar.concat.min.js?03230928" type="text/javascript"></script>
+
+<script type="text/javascript">
+    var require =
+    {
+        baseUrl: '/Scripts/perfectMind',
+        paths: {
+            "linq": "../linq.min",
+            "knockout": "../knockout-3.5.1",
+            "timepicker": "../jquery.timepicker.min",
+            "kendo-all": "../Kendo/kendo.all.min",
+            "kendo.timezones.min": "../Kendo/kendo.timezones.min",
+            "PlannerUtility": "planner/PlannerUtility",
+            "CommonBindings": "planner/CommonBindings",
+            "PlannerFilter": "planner/PlannerFilter",
+            "PlannerEvent": "planner/PlannerEvent",
+            "PlannerAttendance": "planner/PlannerAttendance",
+            "PerfectScanAutoComplete": "../Attendance/PerfectScanAutoComplete",
+            "ItemDiscountEditViewUI": "discount/ItemDiscountEditViewUI",
+            "ItemDiscountDetailViewUI": "discount/ItemDiscountDetailViewUI",
+            "DiscountEditViewUI": "discount/DiscountEditViewUI",
+            "DiscountDetailViewUI": "discount/DiscountDetailViewUI",
+            "managePickList": "managePickList",
+            "classPage": "../Attendance/ClassPage",
+            'activitySearch': '../BookMe4/activity.search',
+            'courses-booking': '../BookMe4/Controllers/CourseBookingController',
+            'startpage': '../BookMe4/Controllers/StartPageController',
+            'searchPage': '../BookMe4/Controllers/BookMe4SearchController',
+            'BookMeConstants': '../BookMe4/constants',
+            'FacilityList': '../Bookme4/Controllers/FacilityListController',
+            'FacilityLandingPageController': '../BookMe4/Controllers/FacilityLandingPageController',
+            'FacilityResponsivenessHelper': '../BookMe4/FacilityResponsivenessHelper',
+            'ScrollableMainMenu': '../BookMe4/ScrollableMainMenu',
+            'FacilityMap': '../BookMe4/Controllers/FacilityMapController',
+            'custom-booking-online': '../BookMe4/Controllers/CustomBookingController',
+            'custom-booking-online-service': '../BookMe4/Services/CustomBookingService',
+            'custom-booking-online-models': '../BookMe4/Models/CustomBookingModels',
+            'BookMe4SearchHelper': '../BookMe4/BookMe4SearchHelper',
+            'BookMe4AttendanceHeader': '../BookMe4/BookMe4AttendanceHeader',
+            'SingleLocationOnlineShoppingCartPopup': '../BookMe4/SingleLocationOnlineShoppingCartPopup',
+            'BookMe4CartV2Controller': '../BookMe4/Controllers/BookMe4CartV2Controller',
+            'BookMe4CartService': '../BookMe4/Services/BookMe4CartService',
+            'CartItemHelper': '../BookMe4/Helpers/CartItemHelper',
+            'DateTimeHelper': '../BookMe4/Helpers/DateTimeHelper',
+            'BreadcrumbsController': '../BookMe4/Controllers/BreadcrumbsController',
+            'StartPageV2Controller': '../BookMe4/Controllers/StartPageV2Controller',
+            'ClassBookingV2Controller': '../BookMe4/Controllers/ClassBookingV2Controller',
+            'CourseBookingV2Controller': '../BookMe4/Controllers/CourseBookingV2Controller',
+            'text': '../requireModules/text',
+            'Masonry': '/Scripts/masonry.pkgd.min.js?03230928',
+            'FilterViewModelBase': '../BookMe4/Components/FilterViewModelBase',
+            'EmptyFilter': '../BookMe4/Components/EmptyFilter',
+            'MultiSelectFilter': '../BookMe4/Components/MultiSelectFilter',
+            'LocationMultiSelectFilter': '../BookMe4/Components/LocationMultiSelectFilter',
+            'FilterSelector': '../BookMe4/Components/FilterSelector',
+            'FilterManager': '../BookMe4/Components/FilterManager',
+            'FiltersCommunicationManager': '../BookMe4/Components/FiltersCommunicationManager',
+            'SearchByKeywordFilter': '../BookMe4/Components/SearchByKeywordFilter',
+            'DaysOfWeekFilter': '../BookMe4/Components/DaysOfWeekFilter',
+            'DateRangeFilter': '../BookMe4/Components/DateRangeFilter',
+            'TimeRangeFilter': '../BookMe4/Components/TimeRangeFilter',
+            'AgeFilter': '../BookMe4/Components/AgeFilter',
+            'CourseEvent': '../BookMe4/Components/CourseEvent',
+            'CourseService': '../BookMe4/Components/CourseService',
+            'CourseOccurrence': '../BookMe4/Components/CourseOccurrence',
+            'CourseDate': '../BookMe4/Components/CourseDate',
+            'CourseBookingPageSeriesViewComponent': '../BookMe4/Components/CourseBookingPageSeriesViewComponent',
+            'CourseBookingPageSessionsViewComponent': '../BookMe4/Components/CourseBookingPageSessionsViewComponent',
+            'CourseBookingPageSeriesViewVM': '../BookMe4/ViewModels/CourseBookingPageSeriesViewVM',
+            'CourseBookingPageSessionsViewVM': '../BookMe4/ViewModels/CourseBookingPageSessionsViewVM',
+            'CourseBookingPageServiceVM': '../BookMe4/ViewModels/CourseBookingPageServiceVM',
+            'CourseBookingPageEventVM': '../BookMe4/ViewModels/CourseBookingPageEventVM',
+            'BookingPageService': '../BookMe4/Services/BookingPageService',
+            'CourseBookingPageHelper': '../BookMe4/Helpers/CourseBookingPageHelper',
+            'ApplicationMenuMobile': 'ApplicationMenuMobile',
+            'ApplicationMenuItem': 'Controls/Shared/ApplicationMenuItem',
+            'ApplicationMenuItemTemplate': '/Content/HtmlTemplate/Controls/Shared/ApplicationMenuItem.html',
+            'ApplicationChildMenuTemplate': '/Content/HtmlTemplate/Controls/Shared/ApplicationChildMenu.html',
+            'ApplicationChildMenu': 'Controls/Shared/ApplicationChildMenu',
+            'FadeIn': 'Shared/Extensions/FadeIn',
+            'SlideIn': 'Shared/Extensions/SlideIn',
+            'ImageCarousel': 'Controls/ImageCarousel',
+            'ImageCarouselPopup': 'Controls/Popup/ImageCarouselPopup',
+            'PopupWrapper': 'Controls/Popup/PopupWrapper',
+            //"culture": '../kendo/cultures/kendo.culture.en-CA.min'
+        },
+        urlArgs: "v=03230928"
+    };
+</script>
+<script crossorigin="anonymous" src="/Scripts/Kendo/cultures/kendo.culture.en-CA.min.js" type="text/javascript"></script>
+<script crossorigin="anonymous" src="/Scripts/require.js?03230928" type="text/javascript"></script>
+<script crossorigin="anonymous" src="/Scripts/LazyLoader.js?03230928" type="text/javascript"></script>
+
+<script>
+    kendo.culture("en-CA");
+</script>
+
+
+<div id="classes-view" class="bm-courses-wrapper bm-content-wrapper bm-embedable-content bm-classes-content-wrapper  booking-page-v2">
+
+    <script src="/Scripts/knockout-kendo.js??03230928" type="text/javascript"></script>
+    <script type="text/javascript" src="/Scripts/BookMe4/jquery-scrolltofixed-min.js?03230928"></script>
+    <script type="text/javascript" src="/Scripts/BookMe4/offscreen.min.js?03230928"></script>
+    <script type="text/javascript" src="/Scripts/BookMe4/Controllers/ClassBookingController.js?03230928"></script>
+    <script type="text/javascript" src="/Scripts/Kendo/kendo.PmDialog.js?03230928"></script>
+
+    <link rel="stylesheet" href="/Content/compass/css/BookMe/BookMe4-Filters.css?03230928" type="text/css" />
+    <link rel="stylesheet" href="/Content/compass/css/BookMe/BookMe4-CoursesClassesV2.css?03230928" type="text/css" />
+
+    <input type="hidden" id="calendarId" value="598fc12b-1445-4708-8de3-4a997690a6a3"/>
+    <input type="hidden" id="widgetId" value="ee6566f5-1e27-433c-9c19-86e76a0e3556"/>
+
+    
+            <div class="overlay">
+                <img class="filter-panel-close-icon" data-bind="click: closeFiltersPanelIconClick, event: { keypress: closeFiltersPanelIconKeyPress }" src="/Content/Images/icon-general-close.png" alt="Close icon" role="button" tabindex="0">
+            </div>
+            <div class="filter-wrapper" id="filters-panel-wrapper">
+                <!-- ko if: filters() && filters().length -->
+                <filters params="filter: filters, 
+                                onSelectedFilterChanged: onSelectedFilterChanged,
+                                widgetId: 'ee6566f5-1e27-433c-9c19-86e76a0e3556',
+                                dateFormat: 'yyyy-MM-dd',
+                                timeFormat: 'hh:mm tt',
+                                eventsSearchText: 'Course Key Word Search',
+                                urls: {
+                                    searchPage: '/22818/Clients/BookMe4Search',
+                                    findEvents: '/22818/Clients/Events/FindEventsForBookMe',
+                                    findEventByEventId: '/22818/Clients/Events/FindEventByEventId',
+                                    getEventInfo: '/22818/Clients/BookMe4/GetEvent',
+                                    courseLandingPage: '/22818/Clients/BookMe4LandingPages/CoursesLandingPage?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556',
+                                    widgetStartPage: '/22818/Clients/BookMe4?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556',
+                                    customBookingRedirectPage: '/22818/Clients/CustomBooking/RedirectToCustomBookingOnline'
+                                }">
+
+                </filters>
+                <!-- /ko -->
+            </div>
+    
+        
+    <div id="bm-class-list" class="bm-course-list bm-class-list">
+        <div class="bm-grid-header classes-v2">
+            
+                <div id="thinBackButton">
+                    <a class="back-button" tabindex="0" data-bm-link="/22818/Clients/BookMe4?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&amp;embed=False&amp;redirectedFromEmbededMode=False">
+                        <img class="back-button-image" src="/Content/ScheduleView/images/left-arrow.png" alt="Go back"/>
+                        <span class="back-button-label">Back</span>
+                    </a>
+                </div>
+            
+            <div class="page-header">
+                <h1 title="Swimming and Aquatic Fitness" id="page-header" class="bm-calendar-name-h2" tabindex="0">Swimming and Aquatic Fitness</h1>
+                <div class="filter-button-wrapper" data-bind="visible: filters().length, click: filtersButtonClick, event: { keypress: filtersButtonKeyPress }" role="button" aria-haspopup="dialog" tabindex="0">
+                    <span class="filter-label">Filter</span>
+                    <img src="/Content/Images/filter_iconv2.png" alt="Filter icon" aria-hidden="true">         
+                </div>
+            </div>  
+        </div>
+        <table id="classes" class="bm-classes-grid"></table>
+        <div class="bm-load-more-courses-link-container">
+            
+                <a href="javascript:void(0);" id="load-more" class="bm-box-title" aria-label="Load more Swimming and Aquatic Fitness. " role="button">Load More</a>
+            
+        </div>
+        <div id="noEventsWereFoundMsg" style="display: none; padding-left: 1em;"><span style="color: red;"></span></div>
+    </div>
+
+    <div id="bm-overlay" class="bm-loading-container bm-class-loading-container" style="display: none;">
+        <img src="/Content/Images/Site/ProgressAnimation.gif?03230928" alt="Loading icon" class="med" />
+    </div>
+
+    <script type="text/x-kendo-template" id="bm-marker-template">
+    <tr class="bm-marker-row">
+        <td>
+            <div class="bm-marker-container" tabindex="0">
+                <div class="marker">
+                    <h2 aria-label="Events for #= startDate #">#= startDate #</h2>
+                </div>
+            </div>
+        </td>
+    </tr>
+</script>
+
+<script type="text/x-kendo-template" id="bm-class-template">
+    <tr class="bm-class-row">
+        <td>
+            <div class="bm-class-container">
+                <div class="bm-class-header-wrapper">
+                    <h3 class="bm-class-title" tabindex="0">
+                        <span class="bm-event-description" aria-label="#: EventName # event">#: EventName #</span>
+                    </h3>
+                    # if(Details) { #
+                    <span class="bm-event-description-icon" tabindex="0" title="#: Details #">
+                        <img class="bm-class-info-icon" src="/Content/compass/css/BookMe/images/icon-info-course.svg" alt="#: EventName # event details icon">
+                    </span>
+                    # } #
+
+                    # if(DisplaySettings.DisplayCourseId) { #
+                        <span class="bm-event-description" aria-label="#: CourseIdTrimmed # event">\\##: CourseIdTrimmed #</span>
+                    # } #
+                </div>
+                <div class="bm-group-item-desc">
+                    <div class="anchor">
+                        <img class="class-detail-icon" src="../../../Content/Images/BookingPagesV2/clock-icon.png" alt="Time icon"/>
+                        <span aria-label="Event time #: EventTimeDescription #" tabindex="0">#: EventTimeDescription #</span>
+                    </div>
+                    <div class="anchor location-block">
+                        <img class="class-detail-icon" src="../../../Content/Images/BookingPagesV2/location-icon.png" alt="Location icon"/>
+                        <span tabindex="0"># if(OrgIsSingleLocation && Facility){ # #: Facility # # } else { # #: Location + (Facility ? (' - ' + Facility) : '') # # } #</span>
+                    </div>
+                    # if (DisplaySettings.DisplayRankRestrictions && RankRestrictions) { #
+                    <div class="anchor">
+                        <i class="ranks-icon fa fa-bars" aria-hidden="true"></i>
+                        <span tabindex="0">#: RankRestrictions #</span>
+                    </div>
+                    # } #
+                    <div class="anchor">
+                        # if(Instructor && Instructor.FullName) {
+                        var instructorFullDescription = "Instructor Name " + Instructor.FullName + "\n";
+
+                        if((Instructor.Image != "" || Instructor.Description != "") && Instructor.Type) {
+                        instructorFullDescription += "Instructor Type " + Instructor.Type  + "\n";
+                        }
+
+                        if(Instructor.Description != "") {
+                        instructorFullDescription += Instructor.Description;
+                        } #
+
+                        <div class="bm-class-teacher-wrapper">
+                            <img class="class-detail-icon" src="../../../Content/Images/BookingPagesV2/profile-icon.png" alt="Profile icon"/>
+                            <span class="bm-class-teacher" data-teacherId="#: Instructor.Id #" aria-label="#: instructorFullDescription #" tabindex="0">#: Instructor.FullName #</span>
+                            <div class="bm-teacher-tooltip-wrapper" style="display:none">
+                                # if(Instructor.Image != "" || Instructor.Description != "") { #
+                                <div class="bm-teacher-tooltip">
+                                    <div class="bm-image-wrapper">
+                                        # if(Instructor.Image != "") { #
+                                        <div class="bm-primary-image">
+                                            <img class="instructor-image" src="#: Instructor.Image #" alt="#: Instructor.FullName # image">
+                                        </div>
+                                        # } #
+                                    </div>
+                                    <div class="bm-teacher-name">#: Instructor.FullName #</div>
+                                    <div>#: Instructor.Type #</div>
+                                    <div class="bm-teacher-about-collapsed">#: Instructor.Description #</div>
+                                    # if(Instructor.Description != "" && Instructor.Description.length > 250) { #
+                                    <div class="teacher-about-link">
+                                        <span class="bm-group-expander bm-down" onclick="showInstructorBio(this)" role="button">
+                                            Show More
+                                            <i class="fa fa-chevron-down" aria-hidden="true"></i>
+                                        </span>
+                                    </div>
+                                    <div class="teacher-about-link">
+                                        <span class="bm-group-expander bm-up" onclick="hideInstructorBio(this)" role="button">
+                                            Show Less
+                                            <i class="fa fa-chevron-up" aria-hidden="true"></i>
+                                        </span>
+                                    </div>
+                                    # } #
+                                </div>
+                                # } #
+                            </div>
+                        </div>
+                        # } #
+                    </div>
+                    <div class="anchor">
+                        # if(DisplaySettings.DisplayPrices) { #
+                        <img class="class-detail-icon" src="../../../Content/Images/BookingPagesV2/money-icon.png" alt="Dollar sign"/>
+                        <span aria-label="Event price #: PriceRange #" tabindex="0">#: PriceRange #</span>
+                        # } #
+                    </div>
+                </div>
+                <div class="bm-group-item-link">
+                    <div class="bm-spots-left-label">
+                        # if(Spots) { #
+                        <span aria-label="#: Spots # spots left" tabindex="0">#: Spots #</span>
+                        # } #
+                    </div>
+                    <div>
+                        # var bookButtonId = Math.floor((Math.random() * 100000) + 1); #
+                        <input type="button" id="bm-book-button-#: bookButtonId #" class="bm-button bm-class-details bm-details-button"
+                               onclick="onBookButtonClick('/22818/Clients/BookMe4LandingPages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556\u0026redirectedFromEmbededMode=False&classId=#: EventId #&occurrenceDate=#: OccurrenceDate #')"
+                               value="#: BookButtonText #" aria-label="#: BookButtonDescription #" />
+                        <label for="bm-book-button-#: bookButtonId #" class="hidden-label">#: BookButtonText #</label>
+                    </div>
+                </div>
+            </div>
+        </td>
+    </tr>
+
+</script>
+
+<script type="text/x-kendo-template" id="list-classes-template">
+      #
+      var classesGroupedByDate = [];
+
+      data.forEach(function(occurrence){
+          var group = classesGroupedByDate.filter(function(group) {
+             return group.startDate === occurrence.FormattedStartDate;
+          })[0];
+
+          if (group) {
+              group.classes.push(occurrence);
+          } else {
+              classesGroupedByDate.push({
+                  startDate: occurrence.FormattedStartDate,
+                  classes: [occurrence]
+              });
+          }
+      });
+
+      classesGroupedByDate.forEach(function(group) { #
+          #= kendo.Template.compile($('\\#bm-marker-template').html())(group) #
+
+          # group.classes.forEach(function(occurrence) { #
+              #= kendo.Template.compile($('\\#bm-class-template').html())(occurrence) #
+          # }); #
+    # }); #
+</script>
+
+    <script type="text/javascript" src="/Scripts/BookMe4/bookme4.utilities.js?03230928"></script>
+    <script type="text/javascript">
+        var isFromAjax = false;
+
+        $(function() {            
+            if (isFromAjax) {
+                setTimeout(function () { setParentWindowHeight(); }, 3000);
+            }   
+
+            require(['ClassBookingV2Controller'], function (ClassBookingV2Controller) {
+                var controller = new ClassBookingV2Controller({
+                    view: { url: '/22818/Clients/BookMe4BookingPagesV2/ClassesV2' },
+                    filter: { url: '/22818/Clients/BookMe4BookingPagesV2/EventFilterGroupsV2' },
+                    calendarId: $('#calendarId').val(),
+                    widgetId: $('#widgetId').val(),
+                    isEmbedded: isFromAjax,
+                    occurrenceDateFormat: 'yyyyMMdd',
+                    setParentWindowHeightCallback: setParentWindowHeight,
+                    numberOfDaysToLoad: 14,
+                    untilDateFormat: 'yyyy-MM-dd'
+                });
+
+                
+                    controller.init();
+                
+            });       
+
+            setupEmbededContentUrls(isFromAjax, '#classes-view');
+        });
+
+        $('#thinBackButton .back-button').keydown(function (event) {
+            if (event.keyCode == 32 || event.keyCode == 13) {
+                $(event.currentTarget).click();
+            }
+        });  
+
+        function setParentWindowHeight() {
+            if (isFromAjax) {
+                $('.filter-wrapper').addClass('embed-mode-filters');
+            }   
+
+            var filtersHeight = $('.filter-section').outerHeight() + getVisibleChildrenOverallHeight('.filter-panel');
+            var classListHeight = 0;
+            $.each($('.bm-class-list').children(), function () {
+                if ($(this).is(':visible')) {
+                    classListHeight += getVisibleChildrenOverallHeight($(this));
+                }
+            })
+            var adjustHeightValue = 16; // this need to compensate margins of body element of widget 
+
+            var containerHeight = Math.max(filtersHeight, classListHeight) + adjustHeightValue;
+            //// Do not set zero parent window height.
+            if (containerHeight > 0) {
+                window.parent.postMessage(containerHeight + 'px', '*');
+            }
+
+            function getVisibleChildrenOverallHeight(container) {
+                var overallHeight = 0;
+                $.each($(container).children(), function (index, child) {
+                    if ($(child).is(':visible')) {
+                        overallHeight += $(child).outerHeight(true) || 0;
+                    }
+                });
+                return overallHeight;
+            }
+        }
+
+        function showInstructorBio(element) {
+            $(element).parent().parent().find('.bm-teacher-about-collapsed')
+                .removeClass('bm-teacher-about-collapsed')
+                .addClass('bm-teacher-about');
+
+            $(element).hide();
+            $(element).parent().parent().find('.bm-up').show();
+        }
+
+        function onBookButtonClick(url) {
+            var widgetId = "ee6566f5-1e27-433c-9c19-86e76a0e3556";
+            var calendarId = "598fc12b-1445-4708-8de3-4a997690a6a3";
+
+            if (isFromAjax) {
+                var newTab = window.open('', '_blank');
+            }
+
+            isCartEmpty(calendarId, widgetId, true).done(function () {
+                if (isFromAjax && newTab) {
+                    newTab.location.href = url;
+                } else {
+                    location.href = url;
+                }
+            }).fail(function(){
+                if (newTab)
+                    newTab.close();
+            });
+        }
+
+        function hideInstructorBio(element) {
+            $(element).parent().parent().find('.bm-teacher-about')
+                .removeClass('bm-teacher-about')
+                .addClass('bm-teacher-about-collapsed');
+
+            $(element).hide();
+            $(element).parent().parent().find('.bm-down').show();
+        }
+
+        
+            $.byPassLinkManager().addLink("#filters-panel-wrapper", "Skip to filter panel");
+     
+
+        $.byPassLinkManager().setMainContentLink("#page-header");
+    </script>
+</div>
+
+        <script>
+            $(document).ready(function () {
+                $("#temp_wrapper").fadeOut();
+            });
+        </script>
+        
+        <script crossorigin="anonymous" src="/Scripts/perfectMind/Planner/PlannerAttendanceHeader.js?03230928"></script>
+        <script crossorigin="anonymous" src="/Scripts/BookMe4/BookMe4AttendanceHeader.js?03230928"></script>
+        <script crossorigin="anonymous" src="/Scripts/jQueryPlugin/lightbox.js?03230928"></script>
+        <div id="tempInfoForScreenReaders" class="hidden-label" aria-live="polite"></div>
+    <script src="/Scripts/jQueryPlugin/jQueryHoverIntentFull.js?03230928"></script>
+<script src="/Scripts/jQueryPlugin/jQueryValidateFull.js?03230928"></script>
+<script src="/Scripts/jQueryPlugin/jQueryTimePickerFull.js?03230928"></script>
+<script src="/Scripts/jQueryPlugin/jQueryThreeDotsFull.js?03230928"></script>
+<script src="/Scripts/jQueryPlugin/jQueryContextMenuFull.js?03230928"></script>
+<script src="/Scripts/jQueryPlugin/jQueryFloatingBoxFull.js?03230928"></script>
+<script src="/Scripts/jQueryPlugin/jQueryPlaceholderFull.js?03230928"></script>
+<script src="/Scripts/jQueryPlugin/jquery.elastic.js?03230928"></script>
+<script src="/Scripts/jQueryPlugin/jQueryBbqFull.js?03230928"></script>
+<script src="/Scripts/jQueryPlugin/jQueryPmDialog.js?03230928"></script>
+<script src="/Scripts/jQueryPlugin/jQueryPmEnhancedSelect.js?03230928"></script>
+<script src="/Scripts/Kendo/kendo.pmPreferenceRankingGrid.js?03230928"></script>
+<script src="/Scripts/jQueryPlugin/jQueryDateTimeAutocompleteFull.js?03230928"></script>
+<script src="/Scripts/swfobject/swfObjectFull.js?03230928"></script>
+<script src="/Scripts/perfectMind/Controls/FlyOutTooltip.js?03230928"></script>
+<script src="/Scripts/perfectMind/core.js?03230928"></script>
+<script src="/Scripts/perfectMind/common.js?03230928"></script>
+<script src="/Scripts/customControl/ajaxLink.js?03230928"></script>
+
+    </body>
+</html>

@@ -1,8 +1,9 @@
-from collections.abc import AsyncIterator, Iterator
+from collections.abc import Iterator
 from datetime import date, datetime, timedelta
 
 import dateutil
 import scrapy
+from scrapy.exceptions import CloseSpider
 from scrapy.http import HtmlResponse, Response, TextResponse
 from scrapy.http.request.form import FormdataType
 
@@ -39,12 +40,9 @@ class BurlingtonPools(scrapy.Spider):
     calendarId = "598fc12b-1445-4708-8de3-4a997690a6a3"  # Swimming
     widgetId = "ee6566f5-1e27-433c-9c19-86e76a0e3556"  # Drop-in?
 
-    async def start(self) -> AsyncIterator[scrapy.Request]:
-        urls = [
-            f"https://cityofburlington.perfectmind.com/22818/Clients/BookMe4BookingPages/Classes?calendarId={self.calendarId}&widgetId={self.widgetId}",
-        ]
-        for url in urls:
-            yield scrapy.Request(url=url, callback=self.parse)
+    start_urls = [
+        f"https://cityofburlington.perfectmind.com/22818/Clients/BookMe4BookingPages/Classes?calendarId={calendarId}&widgetId={widgetId}",
+    ]
 
     def parse(self, response: Response) -> scrapy.FormRequest:
         assert isinstance(response, HtmlResponse)  # guard because signature of parse() doesn't declare `response`
@@ -52,7 +50,7 @@ class BurlingtonPools(scrapy.Spider):
         # this page contains a form with an Input element "__RequestVerificationToken" whose value must be included on subsequent requests
         verification_token = response.xpath('//form[@id="AjaxAntiForgeryForm"]/input[@name="__RequestVerificationToken"]/@value').get()
         if verification_token is None:
-            raise RuntimeError("Failed to extract __RequestVerificationToken from form")
+            raise CloseSpider("Failed to extract __RequestVerificationToken from form")
 
         form_request_kv_data: FormdataType = {
             "calendarId": self.calendarId,
