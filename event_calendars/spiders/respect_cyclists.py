@@ -117,6 +117,8 @@ class RespectCyclistsFacebookEvents(scrapy.Spider):
         event.summary = page_title
         if start_datetime is not None:
             event.start_datetime = start_datetime
+        else:
+            raise ValueError(f"Did not find a start_timestamp on {response.url=}")
         if end_datetime is not None:
             event.end_datetime = end_datetime
         event.url = response.url

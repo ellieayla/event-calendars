@@ -29,7 +29,6 @@ type WP_V2_List = list[WP_V2_Post]
 class BurlingtonGreen(scrapy.Spider):
     name = "burlington-green"
     calendar_name = "Burlington Green"
-    skip_in_runall = True
 
     allowed_domains = ["www.burlingtongreen.org"]
     start_urls = ["https://www.burlingtongreen.org/wp-json/wp/v2/events"]
