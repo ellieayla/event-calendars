@@ -14,7 +14,6 @@ from ..text_content import readable_text_content
 class CycleToronto(scrapy.Spider):
     name = "cycle-toronto"
     calendar_name = "Cycle TO"
-    skip_in_runall = True
 
     allowed_domains = ["www.cycleto.ca", "web.archive.org"]
     start_urls = ["https://www.cycleto.ca/events"]
@@ -58,6 +57,7 @@ class CycleToronto(scrapy.Spider):
         base_calendar: icalendar.Calendar = icalendar.Calendar.from_ical(a.data, multiple=False)
         base_event = base_calendar.events[0]
 
+        print(base_event)
         summary = base_event.decoded("summary").removesuffix(" - Cycle Toronto")
         start_time = base_event.decoded("dtstart")
         end_time = base_event.decoded("dtend")
