@@ -4,8 +4,9 @@ from typing import Any
 
 import icalendar
 import scrapy
-from html2text import html2text
 from scrapy.http import HtmlResponse, Response, TextResponse
+
+from event_calendars.text_content import readable_text_content
 
 from ..items import Event
 
@@ -26,21 +27,20 @@ class TorontoCommunityBikeways(scrapy.Spider):
                 callback=self.parse_meeting_details,
             )
 
-    def parse_meeting_details(self, /, *args: Any, **kwargs: Any) -> Iterator[scrapy.Request]:
+    def parse_meeting_details(self, /, *args: Any, **kwargs: Any) -> scrapy.Request:
         assert isinstance(args[0], HtmlResponse)  # guard because signature of parse() doesn't declare `response`
         response: HtmlResponse = args[0]
 
         # one event, like /events/roqzijbovnaaa6t243n3f1xggq8mkk
         ics_url: str = response.css("a.eventitem-meta-export-ical::attr(href)").get() or ""
 
-        content = response.css(".events-item .html-block")
-
         try:
-            description = html2text(content.get() or "")
-        except AttributeError:
+            content = response.css(".events-item .html-block")[0].root
+            description = readable_text_content(content)
+        except (AttributeError, IndexError):
             description = ""
 
-        yield scrapy.Request(
+        return scrapy.Request(
             response.urljoin(ics_url),
             callback=self.handle_ical_file,
             cb_kwargs={
@@ -49,7 +49,8 @@ class TorontoCommunityBikeways(scrapy.Spider):
             },
         )
 
-    def handle_ical_file(self, response: Response, event_url: str, description: str) -> Iterator[Event]:
+    def handle_ical_file(self, response: Response, event_url: str, description: str) -> Event:
+
         assert isinstance(response, TextResponse)  # guard because signature of parse() doesn't declare `response`
 
         base_calendar: icalendar.Calendar = icalendar.Calendar.from_ical(response.text, multiple=False)
@@ -66,7 +67,7 @@ class TorontoCommunityBikeways(scrapy.Spider):
         if url and url != event_url:
             logging.warning("Url in ical file does not match page url")
 
-        e = Event(
+        return Event(
             summary=summary,
             url=event_url,
             start_datetime=start_time,
@@ -75,4 +76,3 @@ class TorontoCommunityBikeways(scrapy.Spider):
             location=location,
             original_description=description,
         )
-        yield e
