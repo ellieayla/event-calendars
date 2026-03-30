@@ -57,7 +57,6 @@ class CycleToronto(scrapy.Spider):
         base_calendar: icalendar.Calendar = icalendar.Calendar.from_ical(a.data, multiple=False)
         base_event = base_calendar.events[0]
 
-        print(base_event)
         summary = base_event.decoded("summary").removesuffix(" - Cycle Toronto")
         start_time = base_event.decoded("dtstart")
         end_time = base_event.decoded("dtend")
