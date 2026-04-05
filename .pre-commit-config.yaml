@@ -22,7 +22,7 @@ repos:
       args: ['--check', '--diff']
 
 - repo: https://github.com/rhysd/actionlint
-  rev: v1.7.11
+  rev: v1.7.12
   hooks:
     - id: actionlint
       args: [-pyflakes=, -ignore, SC2086.*Double quote]
