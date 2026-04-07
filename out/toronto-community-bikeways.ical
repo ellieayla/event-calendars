@@ -67,6 +67,32 @@ URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
  rj-hes9w-d6lmx-4ewd5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ride the Loop
+DTSTART:20260419T130000Z
+DTEND:20260419T203000Z
+DTSTAMP:20260406T173545Z
+UID:1768d7d5-8102-5fd7-8f58-52628eeaa317
+DESCRIPTION:Sunday\, April 19\, 2026\n\nJoin us for our 72km Ride the Loop
+  event.\n\nStart from The Well at 486 Front St W in front of Fix Coffee + 
+ Bikes.\n\nWhat is The Loop?\n\nThe Loop trail is an ALMOST complete 72km c
+ ircuit of trails that includes the waterfront\, Humber River\, Finch Hydro
+  Corridor\, and Don River trails. Unfortunately\, there are about ten smal
+ l gaps that undermine the value of The Loop Trail for everyday/utilitarian
+ \, recreational\, and tourism cyclists. The Loop Trail is part of the city
+ 's Ravine Strategy\, although the gaps are all on roads. The Loop was firs
+ t announced by the city in 2020\, but there has been little progress -- un
+ til the launch of our advocacy campaign and ride in November 2025.\n\nYou 
+ can ride with us for the full 72km\, or join us at various locations.\n\nS
+ ubject to minor adjustments\, here is our anticipated route: https://maps.
+ app.goo.gl/97RLNh7uf4JBtw5u7\n\nTo register\, please email (mailto:Communi
+ ty.Bikeways.Toronto@gmail.com) Community.Bikeways.Toronto@gmail.com\n\n\n\
+ nAn approximate itinerary will be sent to registrants.\nURL: https://www.c
+ ommunitybikewaysto.ca/events/ride-the-loop
+LOCATION:Fix Coffee + Bikes\, 486 Front Street West\, Toronto\, ON\, M5V 0
+ V2\, Canada
+URL:https://www.communitybikewaysto.ca/events/ride-the-loop
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Back To School Bike Tune-Up
 DTSTART:20250830T140000Z
 DTEND:20250830T163000Z
