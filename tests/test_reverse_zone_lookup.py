@@ -1,4 +1,4 @@
-from zoneinfo import ZoneInfo
+from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
 
 import pytest
 
@@ -32,3 +32,9 @@ def test_lookup_caches() -> None:
     discover_zoneinfo_for_shortname(tzname)
     i = discover_zoneinfo_for_shortname.cache_info()
     assert i.hits == 1
+
+
+def test_unknown_zone_name_raises_exception() -> None:
+    discover_zoneinfo_for_shortname.cache_clear()
+    with pytest.raises(ZoneInfoNotFoundError):
+        discover_zoneinfo_for_shortname("fake-zone-does-not-exist")

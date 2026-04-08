@@ -34,7 +34,7 @@ CONCURRENT_REQUESTS_PER_DOMAIN = 1
 #COOKIES_ENABLED = False
 
 # Disable Telnet Console (enabled by default)
-#TELNETCONSOLE_ENABLED = False
+TELNETCONSOLE_ENABLED = False
 
 # Override the default request headers:
 #DEFAULT_REQUEST_HEADERS = {
@@ -114,13 +114,22 @@ FEED_URI_PARAMS = "event_calendars.exporters.uri_params"
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 DOWNLOADER_MIDDLEWARES = {
-    "event_calendars.middleware.Wayback": 500,
+    "event_calendars.middleware_worker.CloudflareWorker": 500,
 }
 
 WAYBACK_DOMAINS = [
     "www.cycleto.ca"
 ]
 WAYBACK_ACCEPTED_AGE_DAYS = 0
+
+# must match https://github.com/ellieayla/fetch-cloudflare-worker/blob/main/src/entry.py
+CLOUDFLARE_WORKER_DOMAINS = [
+    "www.cycleto.ca",
+    "www.everyonerides.org",
+]
+
+CLOUDFLARE_WORKER_DOMAIN = "fetch-events.accounts-224.workers.dev"
+
 
 # Maximum number of errors to receive before closing the spider.
 # Default = 0, spiders won't be closed by number of errors.

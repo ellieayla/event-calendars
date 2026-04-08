@@ -27,22 +27,6 @@ def test_parse_events_list_page(datafiles: Path) -> None:
     assert results[0].url == "https://www.cycleto.ca/public_meeting_high_park_movement_strategy"
 
 
-@pytest.mark.datafiles(FIXTURE_DIR / "cycleto-ca-events.html")
-def test_parse_events_list_page_into_events_directly(datafiles: Path) -> None:
-    assert datafiles.is_dir()
-
-    html: bytes = (datafiles / "cycleto-ca-events.html").read_bytes()
-
-    spider = CycleToronto()
-    response = HtmlResponse(url=spider.start_urls[0], status=200, body=html)
-    response.request = Request(url=spider.start_urls[0], meta={})
-
-    results = list(spider._parse_from_events_list_directly(response))
-    assert isinstance(results[0], Event)
-
-    assert results[0].url == "https://www.cycleto.ca/public_meeting_high_park_movement_strategy"
-
-
 @pytest.mark.datafiles(FIXTURE_DIR / "cycleto.ca-event-cdoyr-2026.html")
 def test_parse_single_event_page(datafiles: Path) -> None:
     assert datafiles.is_dir()
