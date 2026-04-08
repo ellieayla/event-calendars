@@ -55,7 +55,7 @@ def test_exception_on_mising_verification_token(datafiles: Path) -> None:
 
     with pytest.raises(CloseSpider) as e:
         _result = spider.parse(response)
-        assert "Failed to extract __RequestVerificationToken from form" == e.value.reason
+    assert "Failed to extract __RequestVerificationToken from form" == e.value.reason
 
 
 @pytest.mark.datafiles(FIXTURE_DIR / "burlington-perfectmind-booking-pages-v2-classes-v2-20260329.json")

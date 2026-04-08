@@ -1,5 +1,4 @@
 from collections.abc import Iterator
-from datetime import datetime, timedelta
 
 import datauri
 import icalendar
@@ -15,37 +14,14 @@ class CycleToronto(scrapy.Spider):
     name = "cycle-toronto"
     calendar_name = "Cycle TO"
 
-    allowed_domains = ["www.cycleto.ca", "web.archive.org"]
+    allowed_domains = ["www.cycleto.ca"]
     start_urls = ["https://www.cycleto.ca/events"]
 
     def parse(self, response: scrapy.http.Response) -> Iterator[scrapy.Request]:
         for event_url in response.css(".calendar-list li.calendar-day-events-event a::attr(href)").getall():
             yield scrapy.Request(
-                url=event_url,
+                url=response.urljoin(event_url),
                 callback=self.parse_details_page,
-            )
-
-    def _parse_from_events_list_directly(self, response: scrapy.http.Response) -> Iterator[Event]:
-        # instead of fetching details from the event page (which might not be fetchable),
-        # just make a short summary from the information available in the events list here.
-
-        for e in response.css(".calendar-list li.calendar-day-events-event"):
-            summary = e.css(".calendar-day-events-event-headline::text").extract_first("").strip()
-            start_time = datetime.fromisoformat(e.css("time").attrib["datetime"].strip())
-            end_time = start_time + timedelta(hours=1)
-
-            url_fragment: str = e.css("a::attr(href)").extract_first("")
-            if response.meta.get("wayback_request"):
-                event_url = url_fragment.split("/", maxsplit=3)[3]
-            else:
-                event_url = response.urljoin(url_fragment)
-
-            yield Event(
-                summary=summary,
-                url=event_url,
-                start_datetime=start_time,
-                end_datetime=end_time,
-                location=None,
             )
 
     def parse_details_page(self, response: scrapy.http.Response) -> Event:
