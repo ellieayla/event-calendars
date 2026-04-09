@@ -56,18 +56,18 @@ class DropUninterestingYmcaEvents:
     def from_crawler(cls, crawler: Crawler) -> Self:
         return cls(crawler)
 
-    def process_item(self, item: BookableEvent) -> Event:
-        if self.spider_class not in (
-            YmcaBurlington,
-            YmcaHamilton,
-            YmcaHamiltonBurlingtonPools,
-        ):
+    def process_item(self, item: Event) -> Event:
+        if not isinstance(self.spider, (YmcaBurlington, YmcaHamilton)):
+            return item
+
+        if not isinstance(item, BookableEvent):
             return item
 
         # this item is from a YMCA spider.
-        for n in reject_categories:
-            if n == item.category:
-                raise DropItem(f"YMCA filter dropping {item.summary=} from category {n}")
+        assert isinstance(self.spider, YmcaHamiltonBurlingtonPools)
+
+        if item.category in reject_categories:
+            raise DropItem(f"YMCA filter dropping {item.summary=} from category {item.category}")
 
         for n in reject_names:
             if n in item.summary:

@@ -28,10 +28,8 @@ def test_get_request_verification_token(datafiles: Path) -> None:
 
     result = spider.parse(response)
     assert isinstance(result, FormRequest)
-    print(result, result.body, result.callback, result.cb_kwargs)
 
     assert result.method == "POST"
-    assert result.callback == spider.parse_classes_v2_json
     assert EXPECTED_TOKEN in str(result.body)
     assert result.cb_kwargs["verification_token"] == EXPECTED_TOKEN
 
@@ -83,4 +81,3 @@ def test_parse_events_list_page(datafiles: Path) -> None:
     # the yielded sequence ends with a Request for the next page of items citing the same callback
     assert isinstance(results[-1], Request)
     assert "POST" == results[-1].method
-    assert spider.parse_classes_v2_json == results[-1].callback

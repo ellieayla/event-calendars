@@ -46,10 +46,10 @@ warn_return_any = true
 disallow_untyped_defs = true
 local_partial_types = true
 strict_bytes = true
+pretty = true
 
+files = "event_calendars,vendor,tests,run-all-spiders.py"
 
-files = "event_calendars,vendor"
-exclude = "tests"
 
 [tool.pyright]
 stubPath = "vendor/"
