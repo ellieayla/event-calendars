@@ -32,6 +32,7 @@ exports an iCalendar (.ical) feed of upcoming events.
 * [burlington-green.ical](https://github.com/ellieayla/event-calendars/raw/refs/heads/main/out/burlington-green.ical)
 * [burlington-pools.ical](https://github.com/ellieayla/event-calendars/raw/refs/heads/main/out/burlington-pools.ical)
 * [cycle-toronto.ical](https://github.com/ellieayla/event-calendars/raw/refs/heads/main/out/cycle-toronto.ical)
+* [everyone-rides.ical](https://github.com/ellieayla/event-calendars/raw/refs/heads/main/out/everyone-rides.ical)
 * [httpbin.ical](https://github.com/ellieayla/event-calendars/raw/refs/heads/main/out/httpbin.ical)
 * [respect-cyclists-facebook.ical](https://github.com/ellieayla/event-calendars/raw/refs/heads/main/out/respect-cyclists-facebook.ical)
 * [toronto-community-bikeways.ical](https://github.com/ellieayla/event-calendars/raw/refs/heads/main/out/toronto-community-bikeways.ical)

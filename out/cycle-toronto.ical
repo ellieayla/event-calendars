@@ -4,15 +4,4 @@ PRODID:-//event-calendars//verselogic.net//
 METHOD:PUBLISH
 NAME:Cycle TO
 X-WR-CALNAME:Cycle TO
-BEGIN:VEVENT
-SUMMARY:Public Meeting: High Park Movement Strategy
-DTSTART:20260407T220000Z
-DTEND:20260408T000000Z
-DTSTAMP:20260408T115650Z
-UID:f9c72e7f-dd4d-59af-854f-33bb7703a04b
-DESCRIPTION:This event has already taken place.\nURL: https://www.cycleto.
- ca/public_meeting_high_park_movement_strategy
-LOCATION:virtual
-URL:https://www.cycleto.ca/public_meeting_high_park_movement_strategy
-END:VEVENT
 END:VCALENDAR
