@@ -20,6 +20,7 @@ EASTERN = ZoneInfo("America/Toronto")
         ("March 12th\nDate: March 13", datetime(year=CUR_YEAR, month=3, day=13, tzinfo=EASTERN), None),
         ("firstline\nSomething on Thursday, March 12th, from 7:00–8:15 pm on whatever.\n\nNextline", datetime(year=CUR_YEAR, month=3, day=12, hour=19, minute=0, tzinfo=EASTERN), datetime(year=CUR_YEAR, month=3, day=12, hour=20, minute=15, tzinfo=EASTERN)),
         ("firstline\nSomething on Thursday, March 12th 2021, from 7:00-8:15 pm on whatever.\n\nNextline", datetime(year=2021, month=3, day=12, hour=19, minute=0, tzinfo=EASTERN), datetime(year=2021, month=3, day=12, hour=20, minute=15, tzinfo=EASTERN)),
+        ("everyonerides\n    \nMarch 12, 2021 at 7:00pm - 8:15pm\n\n", datetime(year=2021, month=3, day=12, hour=19, minute=0, tzinfo=EASTERN), datetime(year=2021, month=3, day=12, hour=20, minute=15, tzinfo=EASTERN)),
         ("it's 7 - 8 pm.", datetime.combine(TODAY, time(19), tzinfo=EASTERN), datetime.combine(TODAY, time(20), tzinfo=EASTERN)),
         ("it's 11 - 1 pm.", datetime.combine(TODAY, time(11), tzinfo=EASTERN), datetime.combine(TODAY, time(13), tzinfo=EASTERN)),
         ("it's 11 am", datetime.combine(TODAY, time(11), tzinfo=EASTERN), None),

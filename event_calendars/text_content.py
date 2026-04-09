@@ -109,7 +109,7 @@ def extract_dates_from_description(description: str, default_tzinfo: ZoneInfo) -
     RE_COLON_ITEM = re.compile(r"(?P<key>\w{1,15}): *(?P<value>.*)")
     RE_URL = re.compile(r"\(https?://\w+?\)", re.IGNORECASE)
 
-    RE_TIME_RANGE = re.compile(r"(?P<lead>.*) (?P<left>\d\d?(:\d\d)?) *(-|to) *(?P<right>\d\d?(:\d\d)?) (?P<trail>.*)")
+    RE_TIME_RANGE = re.compile(r"(?P<lead>.*) (?P<left>\d\d?(:\d\d)?( ?[ap]m)?) *(-|to) *(?P<right>\d\d?(:\d\d)?)(?P<trail>( ?[ap]m)?.*)")
 
     for possible_date in description.splitlines():
         if "today" in possible_date.lower():
@@ -117,8 +117,9 @@ def extract_dates_from_description(description: str, default_tzinfo: ZoneInfo) -
 
         m = RE_TIME_RANGE.match(possible_date)
         if m:
-            a_string = f"{m.group('lead')} {m.group('left')} {m.group('trail')}"
-            b_string = f"{m.group('lead')} {m.group('right')} {m.group('trail')}"
+            print(f"Found possible range (note trail={m.group('trail')})")
+            a_string = f"{m.group('lead')} {m.group('left')} {m.group('trail').strip()}"
+            b_string = f"{m.group('lead')} {m.group('right')} {m.group('trail').strip()}"
 
             try:
                 _start_datetime, _ = extract_dates_from_description(a_string, default_tzinfo=default_tzinfo)
@@ -145,7 +146,6 @@ def extract_dates_from_description(description: str, default_tzinfo: ZoneInfo) -
 
         try:
             simple_description = RE_URL.sub("", possible_date)
-            # print(f"{possible_date=} {simple_description=}")
             _start_datetime = dateutil.parser.parse(simple_description, fuzzy=True)
             start_date = _start_datetime.date()
             start_time = _start_datetime.time().replace(tzinfo=default_tzinfo)
