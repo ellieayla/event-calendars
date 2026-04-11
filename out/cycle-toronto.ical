@@ -4,4 +4,50 @@ PRODID:-//event-calendars//verselogic.net//
 METHOD:PUBLISH
 NAME:Cycle TO
 X-WR-CALNAME:Cycle TO
+BEGIN:VEVENT
+SUMMARY:Cycle Toronto Midtown Screening: Changing Lanes
+DTSTART:20260422T230000Z
+DTEND:20260423T003000Z
+DTSTAMP:20260411T060132Z
+UID:646eeb26-3315-5a6c-a511-54b601a70ed5
+DESCRIPTION:Join Cycle Toronto Midtown on Earth Day for a group ride throu
+ gh Mount Pleasant Cemetery followed by a screening of the critically accla
+ imed documentary Changing Lanes.\n\nWhen: April 22\nRide: 5:30 p.m. at Mou
+ nt Pleasant Cemetery\, South Entrance\nScreening: 7 p.m. at the York Schoo
+ l\, Junior Campus (1320 Yonge St)\n\nAll are welcome on the ride\, but sea
+ ting for Changing Lanes is limited. PWYC cash at venue ($10 recommended). 
+ RSVP to reserve your seat.\n\nChanging Lanes (2025): When a beloved teache
+ r is tragically killed in a hit-and-run crash in Greenpoint\, Brooklyn\, a
+  grassroots movement emerges to transform a notoriously dangerous four-lan
+ e boulevard into a safer\, two-lane street with protected bike lanes. Whil
+ e many applaud the proposed road diet\, it also sparks a backlash — led 
+ in part by a powerful local business owner. As government support begins t
+ o waver\, neighbors unite to challenge entrenched interests and fight for 
+ a safer Greenpoint.\nURL: https://www.cycleto.ca/cycle_toronto_midtown_ear
+ th_day
+LOCATION:York School\, South Campus\n1320 Yonge Street\nToronto ON M4T 3B2
+ \nCA
+URL:https://www.cycleto.ca/cycle_toronto_midtown_earth_day
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ride to Centennial Park 
+DTSTART:20260418T140000Z
+DTEND:20260418T160000Z
+DTSTAMP:20260411T060131Z
+UID:ed4468ca-b7f2-5709-ad85-a2f23b4f533d
+DESCRIPTION:Spring is here\, and Cycle Toronto is hosting a community grou
+ p ride Saturday\, April 18th.\n\nWe'll be meeting across from the Line 5 M
+ ount Dennis Station and riding west towards Centennial Park. There'll be s
+ nacks and refreshments at the end so join us on this all ages and abilitie
+ s ride!\n\nSee below for details.\n\n* Date: Saturday\, April 18\, 2026\n*
+  Time: 10:00 a.m. meet\; 10:15 a.m. departure\n* Meeting Location: Southwe
+ st corner of Eglinton Ave W and Black Creek Dr (across from Mount Dennis S
+ tation)\n* Route: ~11km along Eglinton West Trail to Centennial Park. (htt
+ ps://ridewithgps.com/routes/54489433) Route map (subject to change)\n\n(ht
+ tps://ridewithgps.com/routes/54489433)\nURL: https://www.cycleto.ca/ride_t
+ o_centennial_park
+LOCATION:Eglinton Ave & Black Creek Dr (southwest corner)\nEglinton Avenue
+  and Black Creek Drive\nToronto ON M6M 0A9\nCA
+URL:https://www.cycleto.ca/ride_to_centennial_park
+END:VEVENT
 END:VCALENDAR
