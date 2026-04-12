@@ -22,7 +22,7 @@ dev = [
     "pytest-cov>=7.1.0",
     "pytest-datafiles>=3.0.1",
     "pytest-mypy>=1.0.1",
-    "types-python-dateutil>=2.9.0.20260305",
+    "types-python-dateutil>=2.9.0.20260408",
 ]
 readme = [
     "cogapp>=3.6.0",
