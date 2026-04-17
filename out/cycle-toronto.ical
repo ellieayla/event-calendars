@@ -5,21 +5,32 @@ METHOD:PUBLISH
 NAME:Cycle TO
 X-WR-CALNAME:Cycle TO
 BEGIN:VEVENT
+SUMMARY:Pedestrian Summit TO
+DTSTART:20260503T220000Z
+DTEND:20260504T000000Z
+DTSTAMP:20260417T061803Z
+UID:2895b1be-5a56-525b-b299-e33b5a77a0d0
+DESCRIPTION:Despite decades of plans that purport to encourage more and sa
+ fer pedestrianization\, Toronto is falling behind other global cities like
+  New York\, Paris\, and Montreal when it comes to creating spaces that pri
+ oritize pedestrians first.\n\nJoin folks from across the city to learn and
+  organize together for a better and safer city for pedestrians of all ages
+ .\n\nTickets include complimentary dinner.\n\nSponsored by The Biking Lawy
+ er.\n\nBrought to you by:\n\nJanes Walk Toronto\, WalkTO\, Green Neighbour
+ s Network\, Friends and Families for Safe Streets\, Toronto Environmental 
+ Alliance\, TTriders\, and Cycle Toronto\nURL: https://www.cycleto.ca/pedes
+ trian_summit_2026
+LOCATION:Cecil Community Center\n58 Cecil St\nToronto ON M5T 1N6\nCA
+URL:https://www.cycleto.ca/pedestrian_summit_2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Public Consultation: Davisville
 DTSTART:20260416T220000Z
 DTEND:20260417T000000Z
-DTSTAMP:20260415T061644Z
+DTSTAMP:20260417T061801Z
 UID:56c7d22a-98b2-5a10-b11e-273695b8fc2a
-DESCRIPTION:The 2025-2027 Cycling Network Plan identified Davisville Ave i
- n Ward 12 Toronto—St. Paul's for road safety improvements. Proposals inc
- lude new protected bike lanes with concrete low walls along Davisville bet
- ween Yonge and Mount Pleasant Rd. Come.to the drop-in public consultation 
- to learn more. These projects don’t happen without public support. (http
- s://www.toronto.ca/community-people/get-involved/public-consultations/infr
- astructure-projects/improving-davisville-avenue/) Learn more and complete 
- the survey.\n\n(Rendering of proposed changes to Davisville including prot
- ected bike lanes. Image: City of Toronto)\nURL: https://www.cycleto.ca/pub
- lic_consultation_davisville
+DESCRIPTION:This event has already taken place.\nURL: https://www.cycleto.
+ ca/public_consultation_davisville
 LOCATION:Greenwood College School\n443 Mount Pleasant Rd\nToronto ON M4S 2
  L8\nCA
 URL:https://www.cycleto.ca/public_consultation_davisville
@@ -28,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:Cycle Toronto Midtown Screening: Changing Lanes
 DTSTART:20260422T230000Z
 DTEND:20260423T003000Z
-DTSTAMP:20260415T061646Z
+DTSTAMP:20260417T061804Z
 UID:646eeb26-3315-5a6c-a511-54b601a70ed5
 DESCRIPTION:Join Cycle Toronto Midtown on Earth Day for a group ride throu
  gh Mount Pleasant Cemetery followed by a screening of the critically accla
@@ -50,30 +61,10 @@ LOCATION:York School\, Senior Campus\n1320 Yonge Street\nToronto ON M4T 3B
 URL:https://www.cycleto.ca/cycle_toronto_midtown_earth_day
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Public Consultation: Elmhurst
-DTSTART:20260415T223000Z
-DTEND:20260416T003000Z
-DTSTAMP:20260415T061644Z
-UID:dd5ddffe-a435-584d-85b6-458540bd90cf
-DESCRIPTION:As part of planned road work\, changes are being proposed to E
- lmhurst Dr in Ward 1 Etobicoke North including new painted bike lanes. Als
- o being proposed are short new multi-use trails along Islington that would
-  connect Elmhurst to The Elms Park trail. What do you think? Attend the pu
- blic meeting on April 15 and have your say! (https://www.toronto.ca/commun
- ity-people/get-involved/public-consultations/infrastructure-projects/elmhu
- rst-drive-and-islington-avenue-safety-improvements/) Learn more and comple
- te the survey.\n\n(Rendering of proposed changes to Elmhurst including pai
- nted bike lanes. Image: City of Toronto)\nURL: https://www.cycleto.ca/publ
- ic_consultation
-LOCATION:St. Stephen Catholic School\n55 Golfdown Drive\nEtobicoke ON M9W 
- 2H8\nCA
-URL:https://www.cycleto.ca/public_consultation
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ride to Centennial Park 
 DTSTART:20260418T140000Z
 DTEND:20260418T160000Z
-DTSTAMP:20260415T061645Z
+DTSTAMP:20260417T061810Z
 UID:ed4468ca-b7f2-5709-ad85-a2f23b4f533d
 DESCRIPTION:Spring is here\, and Cycle Toronto is hosting a community grou
  p ride Saturday\, April 18th.\n\nWe'll be meeting across from the Line 5 M
