@@ -658,27 +658,6 @@ URL:https://www.communitybikewaysto.ca/events/the-future-of-e-bikes-commun
  ity-bikeways-fix
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Critical Mass Ride
-DTSTART:20241129T233000Z
-DTEND:20241130T023000Z
-DTSTAMP:20241130T201242Z
-UID:da418312-eaf5-5e61-9e6c-43a76082f807
-DESCRIPTION:Join us in High Park for the Critical Mass Ride to fight for o
- ur bike lanes!\n\n#block-40a338753591e9cdbf9f { --tweak-text-block-radius:
-  0px 0px 0px 0px\; --tweak-text-block-radius: unset\; --stroke-style: none
- \;--stroke-thickness: 6px\; --tweak-text-block-background-color: initial\;
-  } #block-40a338753591e9cdbf9f .sqs-html-content { --tweak-text-block-padd
- ing: 6% 6% 6% 6%\; --tweak-text-block-padding: initial\; } #block-40a33875
- 3591e9cdbf9f { mix-blend-mode: var(--tweak-text-block-blend )\; } #block-4
- 0a338753591e9cdbf9f { } #block-40a338753591e9cdbf9f { @media screen and (m
- ax-width: 767px) { } }#block-40a338753591e9cdbf9f .sqs-html-content { @med
- ia screen and (max-width: 767px) { } }@media screen and (max-width: 767px)
-  { }\nURL: https://www.communitybikewaysto.ca/events/critical-mass-high-pa
- rk
-LOCATION:1873 Bloor St W\, Toronto\, ON\, M6R 2Z3\, Canada
-URL:https://www.communitybikewaysto.ca/events/critical-mass-high-park
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:West Scarborough Rail Path (WSRP)
 DTSTART:20260222T193000Z
 DTEND:20260222T213000Z

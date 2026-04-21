@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Pedestrian Summit TO
 DTSTART:20260503T210000Z
 DTEND:20260504T003000Z
-DTSTAMP:20260419T061539Z
+DTSTAMP:20260421T061818Z
 UID:2895b1be-5a56-525b-b299-e33b5a77a0d0
 DESCRIPTION:Are you interested in creating a more vibrant and walkable Tor
  onto for everyone? Share your ideas\, socialize\, and enjoy a meal with us
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:Cycle Toronto Midtown Screening: Changing Lanes
 DTSTART:20260422T230000Z
 DTEND:20260423T003000Z
-DTSTAMP:20260419T061539Z
+DTSTAMP:20260421T061817Z
 UID:646eeb26-3315-5a6c-a511-54b601a70ed5
 DESCRIPTION:Join Cycle Toronto Midtown on Earth Day for a group ride throu
  gh Mount Pleasant Cemetery followed by a screening of the critically accla
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:RESCHEDULED: Ride to Centennial Park 
 DTSTART:20260425T140000Z
 DTEND:20260425T160000Z
-DTSTAMP:20260419T061544Z
+DTSTAMP:20260421T061816Z
 UID:ed4468ca-b7f2-5709-ad85-a2f23b4f533d
 DESCRIPTION:Event is rescheduled due to rain! NEW DATE is Saturday\, April
   25\, 2026.\n\nSpring is here\, and Cycle Toronto is hosting a community g
