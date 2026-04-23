@@ -24,11 +24,11 @@ DESCRIPTION:Join us for a leisurely 9km ride around North York to explore
   } #block-cc6ed61133ef916c7cce .sqs-html-content { --tweak-text-block-padd
  ing: 6% 6% 6% 6%\; --tweak-text-block-padding: initial\; } #block-cc6ed611
  33ef916c7cce { mix-blend-mode: var(--tweak-text-block-blend )\; } #block-c
- c6ed61133ef916c7cce { } #block-cc6ed61133ef916c7cce { @media screen and (m
- ax-width: 767px) { } }#block-cc6ed61133ef916c7cce .sqs-html-content { @med
- ia screen and (max-width: 767px) { } }@media screen and (max-width: 767px)
-  { }\nURL: https://www.communitybikewaysto.ca/events/earth-day-ride-in-nor
- th-york
+ c6ed61133ef916c7cce { } @media screen and (max-width: 767px) { #block-cc6e
+ d61133ef916c7cce { } } @media screen and (max-width: 767px) { #block-cc6ed
+ 61133ef916c7cce .sqs-html-content { } } @media screen and (max-width: 767p
+ x) { }\nURL: https://www.communitybikewaysto.ca/events/earth-day-ride-in-n
+ orth-york
 LOCATION:Aroma Espresso Bar\, 8 Park Home Avenue\, Toronto\, ON\, M2N 0J4\
  , Canada
 URL:https://www.communitybikewaysto.ca/events/earth-day-ride-in-north-york
@@ -52,11 +52,11 @@ DESCRIPTION:Join us at Café de Flore on December 6th!\n\nKoffee on the Ki
  eak-text-block-background-color: initial\; } #block-a257dc999bdc33b33c03 .
  sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%\; --tweak-text-
  block-padding: initial\; } #block-a257dc999bdc33b33c03 { mix-blend-mode: v
- ar(--tweak-text-block-blend )\; } #block-a257dc999bdc33b33c03 { } #block-a
- 257dc999bdc33b33c03 { @media screen and (max-width: 767px) { } }#block-a25
- 7dc999bdc33b33c03 .sqs-html-content { @media screen and (max-width: 767px)
-  { } }@media screen and (max-width: 767px) { }\nURL: https://www.community
- bikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5rj
+ ar(--tweak-text-block-blend )\; } #block-a257dc999bdc33b33c03 { } @media s
+ creen and (max-width: 767px) { #block-a257dc999bdc33b33c03 { } } @media sc
+ reen and (max-width: 767px) { #block-a257dc999bdc33b33c03 .sqs-html-conten
+ t { } } @media screen and (max-width: 767px) { }\nURL: https://www.communi
+ tybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5rj
 LOCATION:Café de Flore\, 2989 Bloor Street West\, Toronto\, ON\, M8X 1C1\
  , Canada
 URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
@@ -81,11 +81,11 @@ DESCRIPTION:Join us at Café Rouge on December 20th!\n\nKoffee on the King
  k-text-block-background-color: initial\; } #block-c5bbec50335033804510 .sq
  s-html-content { --tweak-text-block-padding: 6% 6% 6% 6%\; --tweak-text-bl
  ock-padding: initial\; } #block-c5bbec50335033804510 { mix-blend-mode: var
- (--tweak-text-block-blend )\; } #block-c5bbec50335033804510 { } #block-c5b
- bec50335033804510 { @media screen and (max-width: 767px) { } }#block-c5bbe
- c50335033804510 .sqs-html-content { @media screen and (max-width: 767px) {
-  } }@media screen and (max-width: 767px) { }\nURL: https://www.communitybi
- kewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5rj-hes9w-d6lmx-4ewd5
+ (--tweak-text-block-blend )\; } #block-c5bbec50335033804510 { } @media scr
+ een and (max-width: 767px) { #block-c5bbec50335033804510 { } } @media scre
+ en and (max-width: 767px) { #block-c5bbec50335033804510 .sqs-html-content 
+ { } } @media screen and (max-width: 767px) { }\nURL: https://www.community
+ bikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5rj-hes9w-d6lmx-4ewd5
 LOCATION:Café Rouge\, 2898 Bloor Street West\, Toronto\, ON\, M8X 1B5\, C
  anada
 URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
@@ -114,10 +114,10 @@ DESCRIPTION:Sunday\, April 19\, 2026\n\nJoin us for our 72km Ride the Loop
  nAn approximate itinerary will be sent to registrants.\n\n\n\n\n\n\n\n#blo
  ck-b8b758de027f728d7d53 { } #block-b8b758de027f728d7d53 .sqs-html-content 
  { } #block-b8b758de027f728d7d53 { mix-blend-mode: var(--tweak-text-block-b
- lend )\; } #block-b8b758de027f728d7d53 { @media screen and (max-width: 767
- px) { } }#block-b8b758de027f728d7d53 .sqs-html-content { @media screen and
-  (max-width: 767px) { } }@media screen and (max-width: 767px) { }\nURL: ht
- tps://www.communitybikewaysto.ca/events/ride-the-loop
+ lend )\; } @media screen and (max-width: 767px) { #block-b8b758de027f728d7
+ d53 { } } @media screen and (max-width: 767px) { #block-b8b758de027f728d7d
+ 53 .sqs-html-content { } } @media screen and (max-width: 767px) { }\nURL: 
+ https://www.communitybikewaysto.ca/events/ride-the-loop
 LOCATION:Fix Coffee + Bikes\, 486 Front Street West\, Toronto\, ON\, M5V 0
  V2\, Canada
 URL:https://www.communitybikewaysto.ca/events/ride-the-loop
@@ -167,11 +167,11 @@ DESCRIPTION:Koffee on the Kingsway is an informal get-together at a coffee
  block-1d52380b9bc3cbd6ef63 .sqs-html-content { --tweak-text-block-padding:
   6% 6% 6% 6%\; --tweak-text-block-padding: initial\; } #block-1d52380b9bc3
  cbd6ef63 { mix-blend-mode: var(--tweak-text-block-blend )\; } #block-1d523
- 80b9bc3cbd6ef63 { } #block-1d52380b9bc3cbd6ef63 { @media screen and (max-w
- idth: 767px) { } }#block-1d52380b9bc3cbd6ef63 .sqs-html-content { @media s
- creen and (max-width: 767px) { } }@media screen and (max-width: 767px) { }
- \nURL: https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl17
- 8l5rj-hes9w-d6lmx-bgrkn
+ 80b9bc3cbd6ef63 { } @media screen and (max-width: 767px) { #block-1d52380b
+ 9bc3cbd6ef63 { } } @media screen and (max-width: 767px) { #block-1d52380b9
+ bc3cbd6ef63 .sqs-html-content { } } @media screen and (max-width: 767px) {
+  }\nURL: https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl
+ 178l5rj-hes9w-d6lmx-bgrkn
 LOCATION:Café de Flore\, 2989 Bloor Street West\, Toronto\, ON\, M8X 1C1\
  , Canada
 URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
@@ -209,11 +209,11 @@ DESCRIPTION:[ { "shape": "underline"\, "isFront": false\, "isAnimationEnab
  ial\; } #block-6965156ed63bfc8ca755 .sqs-html-content { --tweak-text-block
  -padding: 6% 6% 6% 6%\; --tweak-text-block-padding: initial\; } #block-696
  5156ed63bfc8ca755 { mix-blend-mode: var(--tweak-text-block-blend )\; } #bl
- ock-6965156ed63bfc8ca755 { } #block-6965156ed63bfc8ca755 { @media screen a
- nd (max-width: 767px) { } }#block-6965156ed63bfc8ca755 .sqs-html-content {
-  @media screen and (max-width: 767px) { } }@media screen and (max-width: 7
- 67px) { }\nURL: https://www.communitybikewaysto.ca/events/cycling-good-che
- er-1
+ ock-6965156ed63bfc8ca755 { } @media screen and (max-width: 767px) { #block
+ -6965156ed63bfc8ca755 { } } @media screen and (max-width: 767px) { #block-
+ 6965156ed63bfc8ca755 .sqs-html-content { } } @media screen and (max-width:
+  767px) { }\nURL: https://www.communitybikewaysto.ca/events/cycling-good-c
+ heer-1
 LOCATION:
 URL:https://www.communitybikewaysto.ca/events/cycling-good-cheer-1
 END:VEVENT
@@ -236,11 +236,11 @@ DESCRIPTION:Join us at Café de Flore on December 20th!\n\nKoffee on the K
  weak-text-block-background-color: initial\; } #block-1238bd62475b94bc836b 
  .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%\; --tweak-text
  -block-padding: initial\; } #block-1238bd62475b94bc836b { mix-blend-mode: 
- var(--tweak-text-block-blend )\; } #block-1238bd62475b94bc836b { } #block-
- 1238bd62475b94bc836b { @media screen and (max-width: 767px) { } }#block-12
- 38bd62475b94bc836b .sqs-html-content { @media screen and (max-width: 767px
- ) { } }@media screen and (max-width: 767px) { }\nURL: https://www.communit
- ybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5rj-hes9w-d6lmx
+ var(--tweak-text-block-blend )\; } #block-1238bd62475b94bc836b { } @media 
+ screen and (max-width: 767px) { #block-1238bd62475b94bc836b { } } @media s
+ creen and (max-width: 767px) { #block-1238bd62475b94bc836b .sqs-html-conte
+ nt { } } @media screen and (max-width: 767px) { }\nURL: https://www.commun
+ itybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5rj-hes9w-d6lmx
 LOCATION:Café de Flore\, 2989 Bloor Street West\, Toronto\, ON\, M8X 1C1\
  , Canada
 URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
@@ -266,10 +266,10 @@ DESCRIPTION:Join us at the Toronto Public Library - S. Walter Stewart Bran
  a30b90 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%\; --twe
  ak-text-block-padding: initial\; } #block-29ffe2c2873cb8a30b90 { mix-blend
  -mode: var(--tweak-text-block-blend )\; } #block-29ffe2c2873cb8a30b90 { } 
- #block-29ffe2c2873cb8a30b90 { @media screen and (max-width: 767px) { } }#b
- lock-29ffe2c2873cb8a30b90 .sqs-html-content { @media screen and (max-width
- : 767px) { } }@media screen and (max-width: 767px) { }\nURL: https://www.c
- ommunitybikewaysto.ca/events/taking-action-on-cycling-safety
+ @media screen and (max-width: 767px) { #block-29ffe2c2873cb8a30b90 { } } @
+ media screen and (max-width: 767px) { #block-29ffe2c2873cb8a30b90 .sqs-htm
+ l-content { } } @media screen and (max-width: 767px) { }\nURL: https://www
+ .communitybikewaysto.ca/events/taking-action-on-cycling-safety
 LOCATION:S Walter Stewart branch of Toronto Public Library\, 170 Memorial 
  Park Avenue\, Toronto\, ON\, M4J 2K5\, Canada
 URL:https://www.communitybikewaysto.ca/events/taking-action-on-cycling-saf
@@ -293,10 +293,10 @@ DESCRIPTION:Launch of campaign to push City Hall to close remaining seven
  61016ff4e6231 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%\
  ; --tweak-text-block-padding: initial\; } #block-38b566961016ff4e6231 { mi
  x-blend-mode: var(--tweak-text-block-blend )\; } #block-38b566961016ff4e62
- 31 { } #block-38b566961016ff4e6231 { @media screen and (max-width: 767px) 
- { } }#block-38b566961016ff4e6231 .sqs-html-content { @media screen and (ma
- x-width: 767px) { } }@media screen and (max-width: 767px) { }\nURL: https:
- //www.communitybikewaysto.ca/events/closing-the-loop
+ 31 { } @media screen and (max-width: 767px) { #block-38b566961016ff4e6231 
+ { } } @media screen and (max-width: 767px) { #block-38b566961016ff4e6231 .
+ sqs-html-content { } } @media screen and (max-width: 767px) { }\nURL: http
+ s://www.communitybikewaysto.ca/events/closing-the-loop
 LOCATION:The Well\, 486 Front Street West\, Toronto\, ON\, M5V 0V2\, Canad
  a
 URL:https://www.communitybikewaysto.ca/events/closing-the-loop
@@ -314,11 +314,11 @@ DESCRIPTION:Join us for a free bike tune-up\, now on May 31st! The origina
  nd-color: initial\; } #block-703e80d106c785bf9960 .sqs-html-content { --tw
  eak-text-block-padding: 6% 6% 6% 6%\; --tweak-text-block-padding: initial\
  ; } #block-703e80d106c785bf9960 { mix-blend-mode: var(--tweak-text-block-b
- lend )\; } #block-703e80d106c785bf9960 { } #block-703e80d106c785bf9960 { @
- media screen and (max-width: 767px) { } }#block-703e80d106c785bf9960 .sqs-
- html-content { @media screen and (max-width: 767px) { } }@media screen and
-  (max-width: 767px) { }\nURL: https://www.communitybikewaysto.ca/events/w1
- qnw328gdyg0b25v5hvp5i25v57t8
+ lend )\; } #block-703e80d106c785bf9960 { } @media screen and (max-width: 7
+ 67px) { #block-703e80d106c785bf9960 { } } @media screen and (max-width: 76
+ 7px) { #block-703e80d106c785bf9960 .sqs-html-content { } } @media screen a
+ nd (max-width: 767px) { }\nURL: https://www.communitybikewaysto.ca/events/
+ w1qnw328gdyg0b25v5hvp5i25v57t8
 LOCATION:All Saints Kingsway parking lot (corner of Bloor St. W. and Princ
  e Edward Dr. N.)\, All Saints\, Toronto\, ON\, M8X 1B5\, Canada
 URL:https://www.communitybikewaysto.ca/events/w1qnw328gdyg0b25v5hvp5i25v57
@@ -360,11 +360,11 @@ DESCRIPTION:Join us for the 6th annual Cycling Good Cheer!\n\nParade start
   initial\; } #block-21c72fdabf6a87fdb2e8 .sqs-html-content { --tweak-text-
  block-padding: 6% 6% 6% 6%\; --tweak-text-block-padding: initial\; } #bloc
  k-21c72fdabf6a87fdb2e8 { mix-blend-mode: var(--tweak-text-block-blend )\; 
- } #block-21c72fdabf6a87fdb2e8 { } #block-21c72fdabf6a87fdb2e8 { @media scr
- een and (max-width: 767px) { } }#block-21c72fdabf6a87fdb2e8 .sqs-html-cont
- ent { @media screen and (max-width: 767px) { } }@media screen and (max-wid
- th: 767px) { }\nURL: https://www.communitybikewaysto.ca/events/roqzijbovna
- aa6t243n3f1xggq8mkk
+ } #block-21c72fdabf6a87fdb2e8 { } @media screen and (max-width: 767px) { #
+ block-21c72fdabf6a87fdb2e8 { } } @media screen and (max-width: 767px) { #b
+ lock-21c72fdabf6a87fdb2e8 .sqs-html-content { } } @media screen and (max-w
+ idth: 767px) { }\nURL: https://www.communitybikewaysto.ca/events/roqzijbov
+ naaa6t243n3f1xggq8mkk
 LOCATION:Raccoon Park\, 86 Soudan Avenue\, Toronto\, ON\, M4S 1V8\, Canada
 URL:https://www.communitybikewaysto.ca/events/roqzijbovnaaa6t243n3f1xggq8m
  kk
@@ -383,11 +383,11 @@ DESCRIPTION:Please join us for our fourth snow-clearing party. Meet at sou
   } #block-0760b6046b036bf0d62d .sqs-html-content { --tweak-text-block-padd
  ing: 6% 6% 6% 6%\; --tweak-text-block-padding: initial\; } #block-0760b604
  6b036bf0d62d { mix-blend-mode: var(--tweak-text-block-blend )\; } #block-0
- 760b6046b036bf0d62d { } #block-0760b6046b036bf0d62d { @media screen and (m
- ax-width: 767px) { } }#block-0760b6046b036bf0d62d .sqs-html-content { @med
- ia screen and (max-width: 767px) { } }@media screen and (max-width: 767px)
-  { }\nURL: https://www.communitybikewaysto.ca/events/bike-lane-snow-cleari
- ng-party
+ 760b6046b036bf0d62d { } @media screen and (max-width: 767px) { #block-0760
+ b6046b036bf0d62d { } } @media screen and (max-width: 767px) { #block-0760b
+ 6046b036bf0d62d .sqs-html-content { } } @media screen and (max-width: 767p
+ x) { }\nURL: https://www.communitybikewaysto.ca/events/bike-lane-snow-clea
+ ring-party
 LOCATION:Bloor and Bathurst\, Toronto\, ON\, M5S\, Canada
 URL:https://www.communitybikewaysto.ca/events/bike-lane-snow-clearing-part
  y
@@ -419,12 +419,12 @@ DESCRIPTION:Jane's Walk event. Saturday\, May 3\, starting at 3pm (and end
  ; --tweak-text-block-background-color: initial\; } #block-1b39c981641d523f
  021a .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%\; --tweak
  -text-block-padding: initial\; } #block-1b39c981641d523f021a { mix-blend-m
- ode: var(--tweak-text-block-blend )\; } #block-1b39c981641d523f021a { } #b
- lock-1b39c981641d523f021a { @media screen and (max-width: 767px) { } }#blo
- ck-1b39c981641d523f021a .sqs-html-content { @media screen and (max-width: 
- 767px) { } }@media screen and (max-width: 767px) { }\nURL: https://www.com
- munitybikewaysto.ca/events/bike-lanes-or-lack-thereof-the-pedestrian-exper
- ience
+ ode: var(--tweak-text-block-blend )\; } #block-1b39c981641d523f021a { } @m
+ edia screen and (max-width: 767px) { #block-1b39c981641d523f021a { } } @me
+ dia screen and (max-width: 767px) { #block-1b39c981641d523f021a .sqs-html-
+ content { } } @media screen and (max-width: 767px) { }\nURL: https://www.c
+ ommunitybikewaysto.ca/events/bike-lanes-or-lack-thereof-the-pedestrian-exp
+ erience
 LOCATION:Chester Station\, 22 Chester Avenue\, Toronto\, ON\, M4K 2Z9\, Ca
  nada
 URL:https://www.communitybikewaysto.ca/events/bike-lanes-or-lack-thereof-t
@@ -449,11 +449,11 @@ DESCRIPTION:Koffee on the Kingsway is an informal get-together at a coffee
  block-e8eab1e7ad57f88a672f .sqs-html-content { --tweak-text-block-padding:
   6% 6% 6% 6%\; --tweak-text-block-padding: initial\; } #block-e8eab1e7ad57
  f88a672f { mix-blend-mode: var(--tweak-text-block-blend )\; } #block-e8eab
- 1e7ad57f88a672f { } #block-e8eab1e7ad57f88a672f { @media screen and (max-w
- idth: 767px) { } }#block-e8eab1e7ad57f88a672f .sqs-html-content { @media s
- creen and (max-width: 767px) { } }@media screen and (max-width: 767px) { }
- \nURL: https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl17
- 8l5rj-hes9w-d6lmx-bgrkn-s9nbd
+ 1e7ad57f88a672f { } @media screen and (max-width: 767px) { #block-e8eab1e7
+ ad57f88a672f { } } @media screen and (max-width: 767px) { #block-e8eab1e7a
+ d57f88a672f .sqs-html-content { } } @media screen and (max-width: 767px) {
+  }\nURL: https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl
+ 178l5rj-hes9w-d6lmx-bgrkn-s9nbd
 LOCATION:Creme de la Creme Cafe\, 2991 Bloor Street West\, Toronto\, ON\, 
  M8X 1C1\, Canada
 URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
@@ -472,11 +472,11 @@ DESCRIPTION:Join us in High Park to support the Fridays for Future protest
  ground-color: initial\; } #block-2d047a75e3bbb497fb93 .sqs-html-content { 
  --tweak-text-block-padding: 6% 6% 6% 6%\; --tweak-text-block-padding: init
  ial\; } #block-2d047a75e3bbb497fb93 { mix-blend-mode: var(--tweak-text-blo
- ck-blend )\; } #block-2d047a75e3bbb497fb93 { } #block-2d047a75e3bbb497fb93
-  { @media screen and (max-width: 767px) { } }#block-2d047a75e3bbb497fb93 .
- sqs-html-content { @media screen and (max-width: 767px) { } }@media screen
-  and (max-width: 767px) { }\nURL: https://www.communitybikewaysto.ca/event
- s/nkkg0u6vc88va9g7rjhd1jeoc7nx0b
+ ck-blend )\; } #block-2d047a75e3bbb497fb93 { } @media screen and (max-widt
+ h: 767px) { #block-2d047a75e3bbb497fb93 { } } @media screen and (max-width
+ : 767px) { #block-2d047a75e3bbb497fb93 .sqs-html-content { } } @media scre
+ en and (max-width: 767px) { }\nURL: https://www.communitybikewaysto.ca/eve
+ nts/nkkg0u6vc88va9g7rjhd1jeoc7nx0b
 LOCATION:High Park\, Toronto\, ON\, M6R 2Z3\, Canada
 URL:https://www.communitybikewaysto.ca/events/nkkg0u6vc88va9g7rjhd1jeoc7nx
  0b
@@ -504,11 +504,11 @@ DESCRIPTION:Overview\n\nJoin us for a lively evening of discussion about e
  ground-color: initial\; } #block-eb7887e03a393b03e565 .sqs-html-content { 
  --tweak-text-block-padding: 6% 6% 6% 6%\; --tweak-text-block-padding: init
  ial\; } #block-eb7887e03a393b03e565 { mix-blend-mode: var(--tweak-text-blo
- ck-blend )\; } #block-eb7887e03a393b03e565 { } #block-eb7887e03a393b03e565
-  { @media screen and (max-width: 767px) { } }#block-eb7887e03a393b03e565 .
- sqs-html-content { @media screen and (max-width: 767px) { } }@media screen
-  and (max-width: 767px) { }\nURL: https://www.communitybikewaysto.ca/event
- s/e-bikes-an-evening-discussion-with-curbside-cycle-community-bikeways
+ ck-blend )\; } #block-eb7887e03a393b03e565 { } @media screen and (max-widt
+ h: 767px) { #block-eb7887e03a393b03e565 { } } @media screen and (max-width
+ : 767px) { #block-eb7887e03a393b03e565 .sqs-html-content { } } @media scre
+ en and (max-width: 767px) { }\nURL: https://www.communitybikewaysto.ca/eve
+ nts/e-bikes-an-evening-discussion-with-curbside-cycle-community-bikeways
 LOCATION:Curbside Cycle\, 412 Bloor Street West\, Toronto\, ON\, M5S 1X5\,
   Canada
 URL:https://www.communitybikewaysto.ca/events/e-bikes-an-evening-discussio
@@ -530,10 +530,10 @@ DESCRIPTION:Let’s SLOW DOWN Parkside Drive\n\nInaugural action is --- Fr
  72dbf26ff76abb7 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6
  %\; --tweak-text-block-padding: initial\; } #block-33c5a72dbf26ff76abb7 { 
  mix-blend-mode: var(--tweak-text-block-blend )\; } #block-33c5a72dbf26ff76
- abb7 { } #block-33c5a72dbf26ff76abb7 { @media screen and (max-width: 767px
- ) { } }#block-33c5a72dbf26ff76abb7 .sqs-html-content { @media screen and (
- max-width: 767px) { } }@media screen and (max-width: 767px) { }\nURL: http
- s://www.communitybikewaysto.ca/events/mdhcmlk5rjqmyb113km2k7lqpupvuv
+ abb7 { } @media screen and (max-width: 767px) { #block-33c5a72dbf26ff76abb
+ 7 { } } @media screen and (max-width: 767px) { #block-33c5a72dbf26ff76abb7
+  .sqs-html-content { } } @media screen and (max-width: 767px) { }\nURL: ht
+ tps://www.communitybikewaysto.ca/events/mdhcmlk5rjqmyb113km2k7lqpupvuv
 LOCATION:SW Corner of Bloor St W and Parkside Drive\, Toronto\, ON\, M6P 1
  B2\, Canada
 URL:https://www.communitybikewaysto.ca/events/mdhcmlk5rjqmyb113km2k7lqpupv
@@ -559,11 +559,11 @@ DESCRIPTION:Join us for our 100th get-together in the Kingsway!\n\nKoffee
  3f73285 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%\; --tw
  eak-text-block-padding: initial\; } #block-70f6b37c059bc3f73285 { mix-blen
  d-mode: var(--tweak-text-block-blend )\; } #block-70f6b37c059bc3f73285 { }
-  #block-70f6b37c059bc3f73285 { @media screen and (max-width: 767px) { } }#
- block-70f6b37c059bc3f73285 .sqs-html-content { @media screen and (max-widt
- h: 767px) { } }@media screen and (max-width: 767px) { }\nURL: https://www.
- communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5rj-hes9w-d6lmx-b
- grkn-yhlwe
+  @media screen and (max-width: 767px) { #block-70f6b37c059bc3f73285 { } } 
+ @media screen and (max-width: 767px) { #block-70f6b37c059bc3f73285 .sqs-ht
+ ml-content { } } @media screen and (max-width: 767px) { }\nURL: https://ww
+ w.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5rj-hes9w-d6lmx
+ -bgrkn-yhlwe
 LOCATION:Café de Flore\, 2989 Bloor Street West\, Toronto\, ON\, M8X 1C1\
  , Canada
 URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
@@ -588,11 +588,11 @@ DESCRIPTION:Join us at Café de Flore on December 20th!\n\nKoffee on the K
  weak-text-block-background-color: initial\; } #block-4d1f1a5d2e3e68f81ba4 
  .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%\; --tweak-text
  -block-padding: initial\; } #block-4d1f1a5d2e3e68f81ba4 { mix-blend-mode: 
- var(--tweak-text-block-blend )\; } #block-4d1f1a5d2e3e68f81ba4 { } #block-
- 4d1f1a5d2e3e68f81ba4 { @media screen and (max-width: 767px) { } }#block-4d
- 1f1a5d2e3e68f81ba4 .sqs-html-content { @media screen and (max-width: 767px
- ) { } }@media screen and (max-width: 767px) { }\nURL: https://www.communit
- ybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5rj-hes9w
+ var(--tweak-text-block-blend )\; } #block-4d1f1a5d2e3e68f81ba4 { } @media 
+ screen and (max-width: 767px) { #block-4d1f1a5d2e3e68f81ba4 { } } @media s
+ creen and (max-width: 767px) { #block-4d1f1a5d2e3e68f81ba4 .sqs-html-conte
+ nt { } } @media screen and (max-width: 767px) { }\nURL: https://www.commun
+ itybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5rj-hes9w
 LOCATION:Café de Flore\, 2989 Bloor Street West\, Toronto\, ON\, M8X 1C1\
  , Canada
 URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
@@ -616,11 +616,11 @@ DESCRIPTION:Jane's Walk event on Sunday\, May 4 at 10am (ending at about 1
  text-block-background-color: initial\; } #block-1680391a3c6dafe87424 .sqs-
  html-content { --tweak-text-block-padding: 6% 6% 6% 6%\; --tweak-text-bloc
  k-padding: initial\; } #block-1680391a3c6dafe87424 { mix-blend-mode: var(-
- -tweak-text-block-blend )\; } #block-1680391a3c6dafe87424 { } #block-16803
- 91a3c6dafe87424 { @media screen and (max-width: 767px) { } }#block-1680391
- a3c6dafe87424 .sqs-html-content { @media screen and (max-width: 767px) { }
-  }@media screen and (max-width: 767px) { }\nURL: https://www.communitybike
- waysto.ca/events/bikes-bikes-and-e-bikes
+ -tweak-text-block-blend )\; } #block-1680391a3c6dafe87424 { } @media scree
+ n and (max-width: 767px) { #block-1680391a3c6dafe87424 { } } @media screen
+  and (max-width: 767px) { #block-1680391a3c6dafe87424 .sqs-html-content { 
+ } } @media screen and (max-width: 767px) { }\nURL: https://www.communitybi
+ kewaysto.ca/events/bikes-bikes-and-e-bikes
 LOCATION:NE corner of Bloor Street West and Brunswick Avenue\, Toronto\, O
  N\, M5S 1X4\, Canada
 URL:https://www.communitybikewaysto.ca/events/bikes-bikes-and-e-bikes
@@ -647,11 +647,11 @@ DESCRIPTION:E-Bikes: Why we love them. Why we hate them (sometimes). And w
  647) REGISTER on eventbrite.\n\nWhere: Fix Coffee + Bikes\, 80 Gladstone A
  venue\, Toronto\n\n#block-89ad3a27837ee73183dc { } #block-89ad3a27837ee731
  83dc .sqs-html-content { } #block-89ad3a27837ee73183dc { mix-blend-mode: v
- ar(--tweak-text-block-blend )\; } #block-89ad3a27837ee73183dc { @media scr
- een and (max-width: 767px) { } }#block-89ad3a27837ee73183dc .sqs-html-cont
- ent { @media screen and (max-width: 767px) { } }@media screen and (max-wid
- th: 767px) { }\nURL: https://www.communitybikewaysto.ca/events/the-future-
- of-e-bikes-community-bikeways-fix
+ ar(--tweak-text-block-blend )\; } @media screen and (max-width: 767px) { #
+ block-89ad3a27837ee73183dc { } } @media screen and (max-width: 767px) { #b
+ lock-89ad3a27837ee73183dc .sqs-html-content { } } @media screen and (max-w
+ idth: 767px) { }\nURL: https://www.communitybikewaysto.ca/events/the-futur
+ e-of-e-bikes-community-bikeways-fix
 LOCATION:Fix Coffee + Bikes\, 80 Gladstone Avenue\, Toronto\, ON\, M6J 3K9
  \, Canada
 URL:https://www.communitybikewaysto.ca/events/the-future-of-e-bikes-commun
@@ -675,11 +675,11 @@ DESCRIPTION:(https://www.westscarboroughrailpath.ca/) West Scarborough Rai
   initial\; } #block-020448911272b5b4a8a1 .sqs-html-content { --tweak-text-
  block-padding: 6% 6% 6% 6%\; --tweak-text-block-padding: initial\; } #bloc
  k-020448911272b5b4a8a1 { mix-blend-mode: var(--tweak-text-block-blend )\; 
- } #block-020448911272b5b4a8a1 { } #block-020448911272b5b4a8a1 { @media scr
- een and (max-width: 767px) { } }#block-020448911272b5b4a8a1 .sqs-html-cont
- ent { @media screen and (max-width: 767px) { } }@media screen and (max-wid
- th: 767px) { }\nURL: https://www.communitybikewaysto.ca/events/west-scarbo
- rough-rail-path-wsrp
+ } #block-020448911272b5b4a8a1 { } @media screen and (max-width: 767px) { #
+ block-020448911272b5b4a8a1 { } } @media screen and (max-width: 767px) { #b
+ lock-020448911272b5b4a8a1 .sqs-html-content { } } @media screen and (max-w
+ idth: 767px) { }\nURL: https://www.communitybikewaysto.ca/events/west-scar
+ borough-rail-path-wsrp
 LOCATION:Albert Campbell Library\, 496 Birchmount Road\, Toronto\, ON\, M1
  K 1N8\, Canada
 URL:https://www.communitybikewaysto.ca/events/west-scarborough-rail-path-w
@@ -704,11 +704,11 @@ DESCRIPTION:Koffee on the Kingsway is an informal get-together at a coffee
  block-033db7540085bc51fd01 .sqs-html-content { --tweak-text-block-padding:
   6% 6% 6% 6%\; --tweak-text-block-padding: initial\; } #block-033db7540085
  bc51fd01 { mix-blend-mode: var(--tweak-text-block-blend )\; } #block-033db
- 7540085bc51fd01 { } #block-033db7540085bc51fd01 { @media screen and (max-w
- idth: 767px) { } }#block-033db7540085bc51fd01 .sqs-html-content { @media s
- creen and (max-width: 767px) { } }@media screen and (max-width: 767px) { }
- \nURL: https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl17
- 8l5rj-hes9w-d6lmx-4ewd5-7dj84
+ 7540085bc51fd01 { } @media screen and (max-width: 767px) { #block-033db754
+ 0085bc51fd01 { } } @media screen and (max-width: 767px) { #block-033db7540
+ 085bc51fd01 .sqs-html-content { } } @media screen and (max-width: 767px) {
+  }\nURL: https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl
+ 178l5rj-hes9w-d6lmx-4ewd5-7dj84
 LOCATION:Café Rouge\, 2898 Bloor Street West\, Toronto\, ON\, M8X 1B5\, C
  anada
 URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
@@ -742,11 +742,11 @@ DESCRIPTION:Join us at our table at the Chalk My Walk event on June 7th fr
  ground-color: initial\; } #block-018c47ad0e208ad47b83 .sqs-html-content { 
  --tweak-text-block-padding: 6% 6% 6% 6%\; --tweak-text-block-padding: init
  ial\; } #block-018c47ad0e208ad47b83 { mix-blend-mode: var(--tweak-text-blo
- ck-blend )\; } #block-018c47ad0e208ad47b83 { } #block-018c47ad0e208ad47b83
-  { @media screen and (max-width: 767px) { } }#block-018c47ad0e208ad47b83 .
- sqs-html-content { @media screen and (max-width: 767px) { } }@media screen
-  and (max-width: 767px) { }\nURL: https://www.communitybikewaysto.ca/event
- s/chalk-my-walk
+ ck-blend )\; } #block-018c47ad0e208ad47b83 { } @media screen and (max-widt
+ h: 767px) { #block-018c47ad0e208ad47b83 { } } @media screen and (max-width
+ : 767px) { #block-018c47ad0e208ad47b83 .sqs-html-content { } } @media scre
+ en and (max-width: 767px) { }\nURL: https://www.communitybikewaysto.ca/eve
+ nts/chalk-my-walk
 LOCATION:Mount Dennis\, Eglinton Ave West and Weston Road\, Toronto\, ON\,
   M6M 4P4\, Canada
 URL:https://www.communitybikewaysto.ca/events/chalk-my-walk

@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de Cafe to Dundurn Market - September 6
 DTSTART;TZID=America/Toronto:20250906T080000
 DTEND;TZID=America/Toronto:20250906T100000
-DTSTAMP:20260421T061814Z
+DTSTAMP:20260423T061936Z
 UID:3d42d6ba-c7fc-5f5f-b341-910b8391018f
 DESCRIPTION:Join us for a Tour de Cafe ride on July 26th at 8am!\nTour de 
  Cafe is a novice cycling group ride for women/folks identifying as women. 
@@ -76,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de Cafe - October 18
 DTSTART;TZID=America/Toronto:20251018T080000
 DTEND;TZID=America/Toronto:20251018T100000
-DTSTAMP:20260421T061814Z
+DTSTAMP:20260423T061936Z
 UID:63ae1f27-7940-5a3a-849a-17b97ae4291e
 DESCRIPTION:Join us for a Tour de Cafe ride on October 11th at 8am!\nTour 
  de Cafe is a novice cycling group ride for women/folks identifying as wome
@@ -92,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de Cafe to 541 Eatery & Exchange - September 20
 DTSTART;TZID=America/Toronto:20250920T080000
 DTEND;TZID=America/Toronto:20250920T100000
-DTSTAMP:20260421T061814Z
+DTSTAMP:20260423T061936Z
 UID:8f096b12-64ed-52a1-820d-e731062b93de
 DESCRIPTION:Join us for a Tour de Cafe ride on September 20th at 8am!\nTou
  r de Cafe is a novice cycling group ride for women/folks identifying as wo
@@ -108,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:Season Kickoff Ride
 DTSTART;TZID=America/Toronto:20260509T080000
 DTEND;TZID=America/Toronto:20260509T100000
-DTSTAMP:20260421T061814Z
+DTSTAMP:20260423T061936Z
 UID:8fa3cf23-acec-5d73-aee3-176f08e94762
 DESCRIPTION:Welcome back riders! Tour de Cafe kicks off the 2026 season Ma
  y 9 at 8am\nCreated by: Alex Lenarduzzi\nURL: https://www.facebook.com/eve

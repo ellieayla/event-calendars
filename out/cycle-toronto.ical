@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Pedestrian Summit TO
 DTSTART:20260503T210000Z
 DTEND:20260504T003000Z
-DTSTAMP:20260421T061818Z
+DTSTAMP:20260423T061943Z
 UID:2895b1be-5a56-525b-b299-e33b5a77a0d0
 DESCRIPTION:Are you interested in creating a more vibrant and walkable Tor
  onto for everyone? Share your ideas\, socialize\, and enjoy a meal with us
@@ -35,32 +35,40 @@ BEGIN:VEVENT
 SUMMARY:Cycle Toronto Midtown Screening: Changing Lanes
 DTSTART:20260422T230000Z
 DTEND:20260423T003000Z
-DTSTAMP:20260421T061817Z
+DTSTAMP:20260423T061940Z
 UID:646eeb26-3315-5a6c-a511-54b601a70ed5
-DESCRIPTION:Join Cycle Toronto Midtown on Earth Day for a group ride throu
- gh Mount Pleasant Cemetery followed by a screening of the critically accla
- imed documentary Changing Lanes.\n\nWhen: April 22\nRide: 5:30 p.m. at Mou
- nt Pleasant Cemetery\, South Entrance\nScreening: 7 p.m. at the York Schoo
- l\, Senior Campus (1320 Yonge St\, Toronto)\n\nAll are welcome on the ride
- \, but seating for Changing Lanes is limited. PWYC cash at venue ($10 reco
- mmended). RSVP to reserve your seat.\n\nChanging Lanes (2025): When a belo
- ved teacher is tragically killed in a hit-and-run crash in Greenpoint\, Br
- ooklyn\, a grassroots movement emerges to transform a notoriously dangerou
- s four-lane boulevard into a safer\, two-lane street with protected bike l
- anes. While many applaud the proposed road diet\, it also sparks a backlas
- h — led in part by a powerful local business owner. As government suppor
- t begins to waver\, neighbors unite to challenge entrenched interests and 
- fight for a safer Greenpoint.\nURL: https://www.cycleto.ca/cycle_toronto_m
- idtown_earth_day
+DESCRIPTION:This event has already taken place.\nURL: https://www.cycleto.
+ ca/cycle_toronto_midtown_earth_day
 LOCATION:York School\, Senior Campus\n1320 Yonge Street\nToronto ON M4T 3B
  2\nCA
 URL:https://www.cycleto.ca/cycle_toronto_midtown_earth_day
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Janes Walk
+DTSTART:20260501T213000Z
+DTEND:20260501T230000Z
+DTSTAMP:20260423T061941Z
+UID:e5dcce39-20a9-5664-a7db-6ad26aed2865
+DESCRIPTION:Join us for Janes Walk this Friday\, May 1!\n\nStarting at Que
+ en's Park\, we will be going over the story of how cycling in Toronto beca
+ me a contentious subject (plot twist: it always was! and it never was?)\, 
+ the challenges around Bill 212\, appreciate how far we’ve come\, and the
+  continued ways we can officially and unofficially fight for the right to 
+ bike.\n\n* Date: Friday\, May 1\, 2026\n* Time: 5:30 p.m. - 7:00 pm\n* Mee
+ ting Location: Queen's Park (111 Wellesley St W)\, in front of Legislative
+  Assembly of Toronto\n* Final Location: Bloor and Brunswick (The Annex)\n\
+ nFor information about accessibility for this tour and about Janes Walk Fe
+ stival\, please visit the (https://www.janeswalkfestivalto.com/friday-may-
+ 1-2026/how-to-save-a-bike-lane-a-cycling-story-on-foot) Janes Walk Festiva
+ l website.\nURL: https://www.cycleto.ca/jane_s_walk
+LOCATION:Queen's Park\n111 Wellesley Street W.\nToronto ON M7A 1A9\nCA
+URL:https://www.cycleto.ca/jane_s_walk
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:RESCHEDULED: Ride to Centennial Park 
 DTSTART:20260425T140000Z
 DTEND:20260425T160000Z
-DTSTAMP:20260421T061816Z
+DTSTAMP:20260423T061941Z
 UID:ed4468ca-b7f2-5709-ad85-a2f23b4f533d
 DESCRIPTION:Event is rescheduled due to rain! NEW DATE is Saturday\, April
   25\, 2026.\n\nSpring is here\, and Cycle Toronto is hosting a community g
