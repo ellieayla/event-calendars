@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Pedestrian Summit TO
 DTSTART:20260503T210000Z
 DTEND:20260504T003000Z
-DTSTAMP:20260423T061943Z
+DTSTAMP:20260425T061011Z
 UID:2895b1be-5a56-525b-b299-e33b5a77a0d0
 DESCRIPTION:Are you interested in creating a more vibrant and walkable Tor
  onto for everyone? Share your ideas\, socialize\, and enjoy a meal with us
@@ -21,34 +21,20 @@ DESCRIPTION:Are you interested in creating a more vibrant and walkable Tor
  representatives interested in making Toronto a pedestrian-friendly city.\n
  \nTickets include a light meal and refreshments.\n\nAfter the event there 
  will be an informal social at Trinity Common (a 10 minute walk from the ve
- nue).\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n
-  \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\
- n \n\nSponsored by:\n\n \n\nThe Biking Lawyer\n\n \n\nPresented by:\n\n \n
- \n8 80 Cities\, Cycle Toronto\, Friends and Families for Safe Streets\, Gr
- een Neighbours Network\, Jane's Walk\, Strong Towns Toronto\, Toronto Clim
- ate Action Network\, Toronto Environmental Alliance\, TTCriders\, Walk Tor
- onto\nURL: https://www.cycleto.ca/pedestrian_summit_2026
+ nue).\n\nSponsored by:\n\nThe Biking Lawyer\n\nPresented by:\n\n\n\n8 80 C
+ ities\, Cycle Toronto\, Friends and Families for Safe Streets\, Green Neig
+ hbours Network\, Jane's Walk\, Strong Towns Toronto\, Toronto Climate Acti
+ on Network\, Toronto Environmental Alliance\, TTCriders\, Walk Toronto\nUR
+ L: https://www.cycleto.ca/pedestrian_summit_2026
 LOCATION:Cecil Community Center\n58 Cecil St\nToronto ON M5T 1N6\nCA
 URL:https://www.cycleto.ca/pedestrian_summit_2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cycle Toronto Midtown Screening: Changing Lanes
-DTSTART:20260422T230000Z
-DTEND:20260423T003000Z
-DTSTAMP:20260423T061940Z
-UID:646eeb26-3315-5a6c-a511-54b601a70ed5
-DESCRIPTION:This event has already taken place.\nURL: https://www.cycleto.
- ca/cycle_toronto_midtown_earth_day
-LOCATION:York School\, Senior Campus\n1320 Yonge Street\nToronto ON M4T 3B
- 2\nCA
-URL:https://www.cycleto.ca/cycle_toronto_midtown_earth_day
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Janes Walk
+SUMMARY:Jane's Walk with Cycle Toronto
 DTSTART:20260501T213000Z
 DTEND:20260501T230000Z
-DTSTAMP:20260423T061941Z
-UID:e5dcce39-20a9-5664-a7db-6ad26aed2865
+DTSTAMP:20260425T061015Z
+UID:7e492eac-16af-591c-82e4-82e341d22b3e
 DESCRIPTION:Join us for Janes Walk this Friday\, May 1!\n\nStarting at Que
  en's Park\, we will be going over the story of how cycling in Toronto beca
  me a contentious subject (plot twist: it always was! and it never was?)\, 
@@ -60,15 +46,34 @@ DESCRIPTION:Join us for Janes Walk this Friday\, May 1!\n\nStarting at Que
  nFor information about accessibility for this tour and about Janes Walk Fe
  stival\, please visit the (https://www.janeswalkfestivalto.com/friday-may-
  1-2026/how-to-save-a-bike-lane-a-cycling-story-on-foot) Janes Walk Festiva
- l website.\nURL: https://www.cycleto.ca/jane_s_walk
+ l website.\nURL: https://www.cycleto.ca/janes_walk_2026
 LOCATION:Queen's Park\n111 Wellesley Street W.\nToronto ON M7A 1A9\nCA
-URL:https://www.cycleto.ca/jane_s_walk
+URL:https://www.cycleto.ca/janes_walk_2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bike to School Week
+DTSTART:20260601T110000Z
+DTEND:20260605T210000Z
+DTSTAMP:20260425T061011Z
+UID:c576f8ab-3a84-52db-a8d0-273df3d4a213
+DESCRIPTION:Register your school for Bike to School Week 2026!\n\nCommunit
+ ies that embrace active school travel help their kids lead healthier lifes
+ tyles and improve their school performance\, while also reducing traffic a
+ nd pollution and making school zones safer for vulnerable road users. Also
+ \, being able to bike to school with your friends is just plain fun.\n\nSc
+ hools in Ontario are encouraged to register for Bike to School Week using 
+ the form below and receive a suite of resources and materials to help orga
+ nize bike-friendly events in a school environment.\n\n(https://www.bikemon
+ th.ca/biketoschoolweek) REGISTER HERE\nURL: https://www.cycleto.ca/bike_to
+ _school_week
+LOCATION:
+URL:https://www.cycleto.ca/bike_to_school_week
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:RESCHEDULED: Ride to Centennial Park 
 DTSTART:20260425T140000Z
 DTEND:20260425T160000Z
-DTSTAMP:20260423T061941Z
+DTSTAMP:20260425T061010Z
 UID:ed4468ca-b7f2-5709-ad85-a2f23b4f533d
 DESCRIPTION:Event is rescheduled due to rain! NEW DATE is Saturday\, April
   25\, 2026.\n\nSpring is here\, and Cycle Toronto is hosting a community g
@@ -84,5 +89,16 @@ DESCRIPTION:Event is rescheduled due to rain! NEW DATE is Saturday\, April
 LOCATION:Eglinton Ave & Black Creek Dr (southwest corner)\nEglinton Avenue
   and Black Creek Drive\nToronto ON M6M 0A9\nCA
 URL:https://www.cycleto.ca/ride_to_centennial_park
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bike to Work Day 2026
+DTSTART:20260604T110000Z
+DTEND:20260604T130000Z
+DTSTAMP:20260425T061011Z
+UID:f96f1148-9a39-52f2-ab2e-94f9f8915999
+DESCRIPTION:SAVE THE DATE.\n\nBike to Work Day Group Commute is coming Jun
+ e 4!\nURL: https://www.cycleto.ca/bike_to_work_day_2026
+LOCATION:Nathan Phillips Square\n100 Queen St W\nToronto ON M5H 2N1\nCA
+URL:https://www.cycleto.ca/bike_to_work_day_2026
 END:VEVENT
 END:VCALENDAR

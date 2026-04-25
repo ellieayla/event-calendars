@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Holiday Lights Ride
 DTSTART;TZID=America/Toronto:20251215T180000
 DTEND;TZID=America/Toronto:20251215T190000
-DTSTAMP:20260423T061938Z
+DTSTAMP:20260425T061010Z
 UID:37384ceb-2363-5f67-a476-aa5950be83e0
 DESCRIPTION:Before we hibernate for the winter\, let's enjoy one last grou
  p ride together in 2025! This ride will take us through the Durand and Kir
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:Bike Share Birthday Party
 DTSTART;TZID=America/Toronto:20260320T183000
 DTEND;TZID=America/Toronto:20260320T203000
-DTSTAMP:20260423T061937Z
+DTSTAMP:20260425T061010Z
 UID:791cec38-1e47-5d04-a04f-39a9ad8ad50d
 DESCRIPTION:Come celebrate 11 years of Bike Share with us on Friday\, Marc
  h 20! We'll gather at the Workers Arts & Heritage Centre from 6:30-8:30 fo
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:Mural Ride
 DTSTART;TZID=America/Toronto:20251025T100000
 DTEND;TZID=America/Toronto:20251025T123000
-DTSTAMP:20260423T061938Z
+DTSTAMP:20260425T061011Z
 UID:98ec5fdd-83aa-50c7-9ee1-65e1151aebc8
 DESCRIPTION:If you love public art\, this ride is for you! Join us for a S
  aturday morning spin through the urban core as we discover murals old and 
@@ -118,7 +118,7 @@ BEGIN:VEVENT
 SUMMARY:Magnolia Ride
 DTSTART;TZID=America/Toronto:20260425T100000
 DTEND;TZID=America/Toronto:20260425T120000
-DTSTAMP:20260423T061937Z
+DTSTAMP:20260425T061011Z
 UID:d5c1c719-37da-56de-a7d8-782ec449cac8
 DESCRIPTION:🌸 Join us for our Annual Magnolia Ride on Saturday\, April 
  25th at 10am 🌸\n\nThis ride is a fun\, family-friendly\, rain or shine 
