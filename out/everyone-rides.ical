@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Holiday Lights Ride
 DTSTART;TZID=America/Toronto:20251215T180000
 DTEND;TZID=America/Toronto:20251215T190000
-DTSTAMP:20260425T061010Z
+DTSTAMP:20260427T063100Z
 UID:37384ceb-2363-5f67-a476-aa5950be83e0
 DESCRIPTION:Before we hibernate for the winter\, let's enjoy one last grou
  p ride together in 2025! This ride will take us through the Durand and Kir
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:Bike Share Birthday Party
 DTSTART;TZID=America/Toronto:20260320T183000
 DTEND;TZID=America/Toronto:20260320T203000
-DTSTAMP:20260425T061010Z
+DTSTAMP:20260427T063059Z
 UID:791cec38-1e47-5d04-a04f-39a9ad8ad50d
 DESCRIPTION:Come celebrate 11 years of Bike Share with us on Friday\, Marc
  h 20! We'll gather at the Workers Arts & Heritage Centre from 6:30-8:30 fo
@@ -93,32 +93,10 @@ LOCATION:Workers Arts & Heritage Centre\, 51 Stuart St\, Hamilton\, ON L8L
 URL:https://www.everyonerides.org/bike_share_birthday_party
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mural Ride
-DTSTART;TZID=America/Toronto:20251025T100000
-DTEND;TZID=America/Toronto:20251025T123000
-DTSTAMP:20260425T061011Z
-UID:98ec5fdd-83aa-50c7-9ee1-65e1151aebc8
-DESCRIPTION:If you love public art\, this ride is for you! Join us for a S
- aturday morning spin through the urban core as we discover murals old and 
- new. We will be joined by local art curator Rafal Tomczuk\, who will act a
- s tourguide and share insights and inspiration as we ride. The ride will e
- nd at a special pop-up art event near Ottawa Street. 🎨\n\nThe full rout
- e is about 11km\, and may take up to a couple hours including stops to cha
- t about the art.\n\nPlease note that this route is not a loop\, and we wil
- l end at a different point from where we begin. However\, if you prefer a 
- shorter ride\, there will be an opportunity to loop back to Corktown Park 
- around the 7km mark!\n\n📆 Saturday\, October 25th\n\n⏰10:00 am\n\n
- 📍Bike Share Hub @ Corktown Park\nURL: https://www.everyonerides.org/mur
- al_ride
-LOCATION:Corktown Park\, 175 Ferguson Ave S\, Hamilton\, ON L8N2M9\, Canad
- a
-URL:https://www.everyonerides.org/mural_ride
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Magnolia Ride
 DTSTART;TZID=America/Toronto:20260425T100000
 DTEND;TZID=America/Toronto:20260425T120000
-DTSTAMP:20260425T061011Z
+DTSTAMP:20260427T063059Z
 UID:d5c1c719-37da-56de-a7d8-782ec449cac8
 DESCRIPTION:🌸 Join us for our Annual Magnolia Ride on Saturday\, April 
  25th at 10am 🌸\n\nThis ride is a fun\, family-friendly\, rain or shine 

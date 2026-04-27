@@ -34,35 +34,6 @@ LOCATION:Aroma Espresso Bar\, 8 Park Home Avenue\, Toronto\, ON\, M2N 0J4\
 URL:https://www.communitybikewaysto.ca/events/earth-day-ride-in-north-york
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Koffee On The Kingsway (Biweekly)
-DTSTART:20241206T123000Z
-DTEND:20241206T141500Z
-DTSTAMP:20241218T205120Z
-UID:0ee5479f-8970-56d9-91a0-1fb416a5d31a
-DESCRIPTION:Join us at Café de Flore on December 6th!\n\nKoffee on the Ki
- ngsway is an informal get-together at a coffee shop or diner in The Kingsw
- ay area of Bloor West. Email us for specific details about the date (every
-  second Friday) and location of the event\, which usually runs between 7:3
- 0 and 9:15am. We rotate between local coffee shops\, including Hot Oven Ba
- kery\, Rouge Café\, Toast on Bloor\, Creme de la Creme\, Coffee Tree Roas
- tery (Bloor W Village)\, and Café de Flore.\n\n(mailto:Community.Bikeways
- .Toronto@gmail.com) Community.Bikeways.Toronto@gmail.com\n\n#block-a257dc9
- 99bdc33b33c03 { --tweak-text-block-radius: 0px 0px 0px 0px\; --tweak-text-
- block-radius: unset\; --stroke-style: none\;--stroke-thickness: 6px\; --tw
- eak-text-block-background-color: initial\; } #block-a257dc999bdc33b33c03 .
- sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%\; --tweak-text-
- block-padding: initial\; } #block-a257dc999bdc33b33c03 { mix-blend-mode: v
- ar(--tweak-text-block-blend )\; } #block-a257dc999bdc33b33c03 { } @media s
- creen and (max-width: 767px) { #block-a257dc999bdc33b33c03 { } } @media sc
- reen and (max-width: 767px) { #block-a257dc999bdc33b33c03 .sqs-html-conten
- t { } } @media screen and (max-width: 767px) { }\nURL: https://www.communi
- tybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5rj
-LOCATION:Café de Flore\, 2989 Bloor Street West\, Toronto\, ON\, M8X 1C1\
- , Canada
-URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
- rj
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Koffee On The Kingsway (Biweekly) 
 DTSTART:20250606T113000Z
 DTEND:20250606T131500Z
@@ -325,6 +296,23 @@ URL:https://www.communitybikewaysto.ca/events/w1qnw328gdyg0b25v5hvp5i25v57
  t8
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:EcoFair 2026
+DTSTART:20260426T150000Z
+DTEND:20260426T200000Z
+DTSTAMP:20260425T190353Z
+UID:86f9f7e5-a9f8-5659-96c3-fc1c907207a4
+DESCRIPTION:Come to visit our Community Bikeways table at the EcoFair 2026
+ .\n\n#block-3c511df9c6274e01ae4b { } #block-3c511df9c6274e01ae4b .sqs-html
+ -content { } #block-3c511df9c6274e01ae4b { mix-blend-mode: var(--tweak-tex
+ t-block-blend )\; } @media screen and (max-width: 767px) { #block-3c511df9
+ c6274e01ae4b { } } @media screen and (max-width: 767px) { #block-3c511df9c
+ 6274e01ae4b .sqs-html-content { } } @media screen and (max-width: 767px) {
+  }\nURL: https://www.communitybikewaysto.ca/events/ecofair-2026
+LOCATION:Evergreen Brick Works\, 550 Bayview Avenue\, Toronto\, ON\, M4W 3
+ X8\, Canada
+URL:https://www.communitybikewaysto.ca/events/ecofair-2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Islington Bike Day
 DTSTART:20250921T140000Z
 DTEND:20250921T170000Z
@@ -393,6 +381,18 @@ URL:https://www.communitybikewaysto.ca/events/bike-lane-snow-clearing-part
  y
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Great Bloor-Danforth Bike Lane Clean Up
+DTSTART:20260425T140000Z
+DTEND:20260425T180000Z
+DTSTAMP:20260425T185736Z
+UID:9aafb9d7-b019-50b2-9e42-f82058e45cac
+DESCRIPTION:\nURL: https://www.communitybikewaysto.ca/events/the-great-blo
+ or-danforth-bike-lane-clean-up
+LOCATION:Bloor-Danforth Bike Lane\, Toronto\, ON\, M5S 1X2\, Canada
+URL:https://www.communitybikewaysto.ca/events/the-great-bloor-danforth-bik
+ e-lane-clean-up
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Save School Safety Cameras - Provincial Day of Action
 DTSTART:20251020T120000Z
 DTEND:20251020T150000Z
@@ -458,28 +458,6 @@ LOCATION:Creme de la Creme Cafe\, 2991 Bloor Street West\, Toronto\, ON\,
  M8X 1C1\, Canada
 URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
  rj-hes9w-d6lmx-bgrkn-s9nbd
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fridays for Future
-DTSTART:20241207T190000Z
-DTEND:20241207T220000Z
-DTSTAMP:20241130T201916Z
-UID:b19537d4-c9f5-5b47-b7f1-e0c4ff0e7c69
-DESCRIPTION:Join us in High Park to support the Fridays for Future protest
-  in support of bike lanes in Toronto.\n\n#block-2d047a75e3bbb497fb93 { --t
- weak-text-block-radius: 0px 0px 0px 0px\; --tweak-text-block-radius: unset
- \; --stroke-style: none\;--stroke-thickness: 6px\; --tweak-text-block-back
- ground-color: initial\; } #block-2d047a75e3bbb497fb93 .sqs-html-content { 
- --tweak-text-block-padding: 6% 6% 6% 6%\; --tweak-text-block-padding: init
- ial\; } #block-2d047a75e3bbb497fb93 { mix-blend-mode: var(--tweak-text-blo
- ck-blend )\; } #block-2d047a75e3bbb497fb93 { } @media screen and (max-widt
- h: 767px) { #block-2d047a75e3bbb497fb93 { } } @media screen and (max-width
- : 767px) { #block-2d047a75e3bbb497fb93 .sqs-html-content { } } @media scre
- en and (max-width: 767px) { }\nURL: https://www.communitybikewaysto.ca/eve
- nts/nkkg0u6vc88va9g7rjhd1jeoc7nx0b
-LOCATION:High Park\, Toronto\, ON\, M6R 2Z3\, Canada
-URL:https://www.communitybikewaysto.ca/events/nkkg0u6vc88va9g7rjhd1jeoc7nx
- 0b
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:E-bikes: Lots to Love. Let's Deal with the Problems.
