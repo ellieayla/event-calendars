@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Pedestrian Summit TO
 DTSTART:20260503T210000Z
 DTEND:20260504T003000Z
-DTSTAMP:20260427T063103Z
+DTSTAMP:20260429T063016Z
 UID:2895b1be-5a56-525b-b299-e33b5a77a0d0
 DESCRIPTION:Are you interested in creating a more vibrant and walkable Tor
  onto for everyone? Share your ideas\, socialize\, and enjoy a meal with us
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Jane's Walk with Cycle Toronto
 DTSTART:20260501T213000Z
 DTEND:20260501T230000Z
-DTSTAMP:20260427T063102Z
+DTSTAMP:20260429T063016Z
 UID:7e492eac-16af-591c-82e4-82e341d22b3e
 DESCRIPTION:Join us for Janes Walk this Friday\, May 1!\n\nStarting at Que
  en's Park\, we will be going over the story of how cycling in Toronto beca
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:Bike to School Week
 DTSTART:20260601T110000Z
 DTEND:20260605T210000Z
-DTSTAMP:20260427T063103Z
+DTSTAMP:20260429T063016Z
 UID:c576f8ab-3a84-52db-a8d0-273df3d4a213
 DESCRIPTION:Register your school for Bike to School Week 2026!\n\nCommunit
  ies that embrace active school travel help their kids lead healthier lifes
@@ -73,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:Bike to Work Day 2026
 DTSTART:20260604T110000Z
 DTEND:20260604T130000Z
-DTSTAMP:20260427T063106Z
+DTSTAMP:20260429T063017Z
 UID:f96f1148-9a39-52f2-ab2e-94f9f8915999
 DESCRIPTION:SAVE THE DATE.\n\nBike to Work Day Group Commute is coming Jun
  e 4!\nURL: https://www.cycleto.ca/bike_to_work_day_2026

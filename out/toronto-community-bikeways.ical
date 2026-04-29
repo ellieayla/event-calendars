@@ -189,6 +189,32 @@ LOCATION:
 URL:https://www.communitybikewaysto.ca/events/cycling-good-cheer-1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Community Bikeways Bike Tune Up and Taco Run
+DTSTART:20260503T150000Z
+DTEND:20260503T170000Z
+DTSTAMP:20260428T191241Z
+UID:4d2b31ac-ad20-5aa0-941c-b626f0bf9b44
+DESCRIPTION:\nURL: https://www.communitybikewaysto.ca/events/community-bik
+ eways-bike-tune-up-and-taco-run
+LOCATION:Corner of Stephen Drive and Riverwood Parkway\, Toronto\, ON\, M8
+ Y 3N5\, Canada
+URL:https://www.communitybikewaysto.ca/events/community-bikeways-bike-tune
+ -up-and-taco-run
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Willowdale Community Bike Ride
+DTSTART:20260516T130000Z
+DTEND:20260516T180000Z
+DTSTAMP:20260428T192231Z
+UID:5580aea7-8411-56f9-a1fb-047036f0c7cd
+DESCRIPTION:\nURL: https://www.communitybikewaysto.ca/events/willowdale-co
+ mmunity-bike-ride
+LOCATION:Avondale Park\, 15 Humberstone Drive\, Toronto\, ON\, M2N 7G4\, C
+ anada
+URL:https://www.communitybikewaysto.ca/events/willowdale-community-bike-ri
+ de
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Koffee On The Kingsway (Biweekly) 
 DTSTART:20250228T123000Z
 DTEND:20250228T141500Z
@@ -323,6 +349,17 @@ DESCRIPTION:\nURL: https://www.communitybikewaysto.ca/events/islington-bik
 LOCATION:Mabelle Park\, 38 Mabelle Avenue\, Toronto\, ON\, M9A 5B1\, Canad
  a
 URL:https://www.communitybikewaysto.ca/events/islington-bike-day
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jane's Walk
+DTSTART:20260502T140000Z
+DTEND:20260502T153000Z
+DTSTAMP:20260428T190837Z
+UID:93bc291e-6b76-5315-b017-c47953aa3505
+DESCRIPTION:\nURL: https://www.communitybikewaysto.ca/events/janes-walk
+LOCATION:Southeast corner of Islington Avenue and Bloor Street West\, 3379
+  Bloor St W\, Toronto\, ON\, M8X 1G2\, Canada
+URL:https://www.communitybikewaysto.ca/events/janes-walk
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:6th annual Cycling Good Cheer
