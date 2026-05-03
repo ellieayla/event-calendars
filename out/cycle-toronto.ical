@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Pedestrian Summit TO
 DTSTART:20260503T210000Z
 DTEND:20260504T003000Z
-DTSTAMP:20260501T063306Z
+DTSTAMP:20260503T063056Z
 UID:2895b1be-5a56-525b-b299-e33b5a77a0d0
 DESCRIPTION:Are you interested in creating a more vibrant and walkable Tor
  onto for everyone? Share your ideas\, socialize\, and enjoy a meal with us
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 SUMMARY:Evergreen Brick Works Community Ride
 DTSTART:20260613T140000Z
 DTEND:20260613T160000Z
-DTSTAMP:20260501T063307Z
+DTSTAMP:20260503T063059Z
 UID:3dee8ecb-efee-518d-ad9b-16b95489e8c3
 DESCRIPTION:Celebrate Bike Month with a Community Ride! This year\, our ri
  de starts and ends at Cycle Toronto's new Rec Hub at Evergreen Brick Works
@@ -46,31 +46,10 @@ LOCATION:Evergreen Brick Works\n550 Bayview Avenue\nToronto ON M4W 3X8\nCA
 URL:https://www.cycleto.ca/evergreen_brick_works_community_ride
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jane's Walk with Cycle Toronto
-DTSTART:20260501T213000Z
-DTEND:20260501T230000Z
-DTSTAMP:20260501T063306Z
-UID:7e492eac-16af-591c-82e4-82e341d22b3e
-DESCRIPTION:Join us for Janes Walk this Friday\, May 1!\n\nStarting at Que
- en's Park\, we will be going over the story of how cycling in Toronto beca
- me a contentious subject (plot twist: it always was! and it never was?)\, 
- the challenges around Bill 212\, appreciate how far we’ve come\, and the
-  continued ways we can officially and unofficially fight for the right to 
- bike.\n\n* Date: Friday\, May 1\, 2026\n* Time: 5:30 p.m. - 7:00 pm\n* Mee
- ting Location: Queen's Park (111 Wellesley St W)\, in front of Legislative
-  Assembly of Toronto\n* Final Location: Bloor and Brunswick (The Annex)\n\
- nFor information about accessibility for this tour and about Janes Walk Fe
- stival\, please visit the (https://www.janeswalkfestivalto.com/friday-may-
- 1-2026/how-to-save-a-bike-lane-a-cycling-story-on-foot) Janes Walk Festiva
- l website.\nURL: https://www.cycleto.ca/janes_walk_2026
-LOCATION:Queen's Park\n111 Wellesley Street W.\nToronto ON M7A 1A9\nCA
-URL:https://www.cycleto.ca/janes_walk_2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bike to School Week
 DTSTART:20260601T110000Z
 DTEND:20260605T210000Z
-DTSTAMP:20260501T063308Z
+DTSTAMP:20260503T063059Z
 UID:c576f8ab-3a84-52db-a8d0-273df3d4a213
 DESCRIPTION:Register your school for Bike to School Week 2026!\n\nCommunit
  ies that embrace active school travel help their kids lead healthier lifes
@@ -89,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:Bike to Work Day 2026
 DTSTART:20260604T110000Z
 DTEND:20260604T130000Z
-DTSTAMP:20260501T063307Z
+DTSTAMP:20260503T063057Z
 UID:f96f1148-9a39-52f2-ab2e-94f9f8915999
 DESCRIPTION:Bike to Work Day is back!\n\nBike to Work Day Group Commute is
   on Thursday\, June 4. This event\, organized in collaboration with the Ci
