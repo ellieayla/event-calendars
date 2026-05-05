@@ -5,35 +5,26 @@ METHOD:PUBLISH
 NAME:Cycle TO
 X-WR-CALNAME:Cycle TO
 BEGIN:VEVENT
-SUMMARY:Pedestrian Summit TO
-DTSTART:20260503T210000Z
-DTEND:20260504T003000Z
-DTSTAMP:20260503T063056Z
-UID:2895b1be-5a56-525b-b299-e33b5a77a0d0
-DESCRIPTION:Are you interested in creating a more vibrant and walkable Tor
- onto for everyone? Share your ideas\, socialize\, and enjoy a meal with us
-  at Toronto's first community-organized Pedestrian Summit!\n\nAs cities li
- ke Montreal\, Paris\, and New York make big investments in pedestrian prio
- rity projects\, is Toronto lagging behind the global stage? Help us organi
- ze and shape an agenda for making the city a better and safer city for ped
- estrians of all ages.\n\nThe summit is open to all walkable city enthusias
- ts\, residents\, community advocates\, city builders\, and organizational 
- representatives interested in making Toronto a pedestrian-friendly city.\n
- \nTickets include a light meal and refreshments.\n\nAfter the event there 
- will be an informal social at Trinity Common (a 10 minute walk from the ve
- nue).\n\nSponsored by:\n\nThe Biking Lawyer\n\nPresented by:\n\n\n\n8 80 C
- ities\, Cycle Toronto\, Friends and Families for Safe Streets\, Green Neig
- hbours Network\, Jane's Walk\, Strong Towns Toronto\, Toronto Climate Acti
- on Network\, Toronto Environmental Alliance\, TTCriders\, Walk Toronto\nUR
- L: https://www.cycleto.ca/pedestrian_summit_2026
-LOCATION:Cecil Community Center\n58 Cecil St\nToronto ON M5T 1N6\nCA
-URL:https://www.cycleto.ca/pedestrian_summit_2026
+SUMMARY:Members Virtual Town Hall
+DTSTART:20260513T233000Z
+DTEND:20260514T023000Z
+DTSTAMP:20260505T062659Z
+UID:311d679d-3c59-5566-803d-c77128fe3ed2
+DESCRIPTION:Join your fellow Cycle Toronto members in this virtual town ha
+ ll to discuss priorities and vision to make Toronto a healthier and more v
+ ibrant cycling city ahead of the 2026 Municipal Election.\n\nCheck out our
+  (/scorecard) Toronto Cycling Council Cycling Scorecard and read (/city_co
+ uncil_cycling) our blog post.\n\nMust be a (/join) Cycle Toronto member to
+  attend. Not sure if you're a member? Email contribute[at]cycleto[dot]ca t
+ o confirm.\nURL: https://www.cycleto.ca/members_town_hall
+LOCATION:
+URL:https://www.cycleto.ca/members_town_hall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Evergreen Brick Works Community Ride
 DTSTART:20260613T140000Z
 DTEND:20260613T160000Z
-DTSTAMP:20260503T063059Z
+DTSTAMP:20260505T062700Z
 UID:3dee8ecb-efee-518d-ad9b-16b95489e8c3
 DESCRIPTION:Celebrate Bike Month with a Community Ride! This year\, our ri
  de starts and ends at Cycle Toronto's new Rec Hub at Evergreen Brick Works
@@ -46,10 +37,21 @@ LOCATION:Evergreen Brick Works\n550 Bayview Avenue\nToronto ON M4W 3X8\nCA
 URL:https://www.cycleto.ca/evergreen_brick_works_community_ride
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Annual General Meeting
+DTSTART:20260616T230000Z
+DTEND:20260617T020000Z
+DTSTAMP:20260505T062658Z
+UID:acece7b9-fd12-5fad-bfbe-d1f84c6da758
+DESCRIPTION:Save the date for our 2026 Annual General Meeting.\nURL: https
+ ://www.cycleto.ca/agm_2026
+LOCATION:
+URL:https://www.cycleto.ca/agm_2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bike to School Week
 DTSTART:20260601T110000Z
 DTEND:20260605T210000Z
-DTSTAMP:20260503T063059Z
+DTSTAMP:20260505T062702Z
 UID:c576f8ab-3a84-52db-a8d0-273df3d4a213
 DESCRIPTION:Register your school for Bike to School Week 2026!\n\nCommunit
  ies that embrace active school travel help their kids lead healthier lifes
@@ -68,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:Bike to Work Day 2026
 DTSTART:20260604T110000Z
 DTEND:20260604T130000Z
-DTSTAMP:20260503T063057Z
+DTSTAMP:20260505T062701Z
 UID:f96f1148-9a39-52f2-ab2e-94f9f8915999
 DESCRIPTION:Bike to Work Day is back!\n\nBike to Work Day Group Commute is
   on Thursday\, June 4. This event\, organized in collaboration with the Ci

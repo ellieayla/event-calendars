@@ -149,46 +149,6 @@ URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
  rj-hes9w-d6lmx-bgrkn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cycling Good Cheer Holiday Bicycle Ride
-DTSTART:20241208T163000Z
-DTEND:20241208T190000Z
-DTSTAMP:20241128T181325Z
-UID:3cb160e3-9847-5654-ae06-1046ed828600
-DESCRIPTION:[ { "shape": "underline"\, "isFront": false\, "isAnimationEnab
- led": false\, "animation": "draw"\, "duration": 0.5\, "direction": "right"
- \, "color": { "type": "THEME_COLOR" }\, "thickness": { "unit": "em"\, "val
- ue": 0.1 }\, "linecap": "square"\, "type": "highlight"\, "id": "955e8ac0-b
- 65b-4119-a44c-62c129377b47" } ]\n\nJoin our 5th annual Cycling Good Cheer 
- holiday bicycle ride through Toronto.\n\nBegin with us at one of four loca
- tions:\n\nWEST END with Santa Claus\, elves\, and of course reindeer! Meet
-  at Mabelle Park\, 38 Mabelle Ave\, at 11 am for free hot chocolate and co
- okies. Get a photo with Santa and the elves! Please bring a non-perishable
-  food or toy donation if possible. Santa will fly (roll) leaving at 11:45 
- am from Mabelle Park\, then ride east along Bloor Street.\n\nEAST END with
-  the Grinch beginning at the northwest corner of Victoria Park and Danfort
- h. at Noon. Join us for a decorating party on Saturday\, November 30. Emai
- l (mailto:toeastcyclists@gmail.com) toeastcyclists@gmail.com for details.\
- n\nCENTRAL meetup with the Kidical Mass ride and our Toronto Bicycle Mayor
- . Look for all the kids in Christie Pits Park at 12 noon for a 12:30 depar
- ture as Santa cycles by!\n\nNORTH POLE aka NORTH YORK\, Lawrence Ave at Yo
- nge St\, leaving at 12:15 pm.\n\nThe rides will converge at St George and 
- Bloor Street at 1pm\, then ride to the finale at Toronto Metropolitan Univ
- ersity.\n\n\n\nAll are welcome to join us and encouraged to dress up in ho
- liday costumes!\n\n\n\n#block-6965156ed63bfc8ca755 { --tweak-text-block-ra
- dius: 0px 0px 0px 0px\; --tweak-text-block-radius: unset\; --stroke-style:
-  none\;--stroke-thickness: 6px\; --tweak-text-block-background-color: init
- ial\; } #block-6965156ed63bfc8ca755 .sqs-html-content { --tweak-text-block
- -padding: 6% 6% 6% 6%\; --tweak-text-block-padding: initial\; } #block-696
- 5156ed63bfc8ca755 { mix-blend-mode: var(--tweak-text-block-blend )\; } #bl
- ock-6965156ed63bfc8ca755 { } @media screen and (max-width: 767px) { #block
- -6965156ed63bfc8ca755 { } } @media screen and (max-width: 767px) { #block-
- 6965156ed63bfc8ca755 .sqs-html-content { } } @media screen and (max-width:
-  767px) { }\nURL: https://www.communitybikewaysto.ca/events/cycling-good-c
- heer-1
-LOCATION:
-URL:https://www.communitybikewaysto.ca/events/cycling-good-cheer-1
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Community Bikeways Bike Tune Up and Taco Run
 DTSTART:20260503T150000Z
 DTEND:20260503T170000Z
