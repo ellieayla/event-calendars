@@ -6,9 +6,9 @@ NAME:Cycle TO
 X-WR-CALNAME:Cycle TO
 BEGIN:VEVENT
 SUMMARY:Members Virtual Town Hall
-DTSTART:20260513T233000Z
-DTEND:20260514T023000Z
-DTSTAMP:20260505T062659Z
+DTSTART:20260513T230000Z
+DTEND:20260514T003000Z
+DTSTAMP:20260507T063217Z
 UID:311d679d-3c59-5566-803d-c77128fe3ed2
 DESCRIPTION:Join your fellow Cycle Toronto members in this virtual town ha
  ll to discuss priorities and vision to make Toronto a healthier and more v
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:Evergreen Brick Works Community Ride
 DTSTART:20260613T140000Z
 DTEND:20260613T160000Z
-DTSTAMP:20260505T062700Z
+DTSTAMP:20260507T063217Z
 UID:3dee8ecb-efee-518d-ad9b-16b95489e8c3
 DESCRIPTION:Celebrate Bike Month with a Community Ride! This year\, our ri
  de starts and ends at Cycle Toronto's new Rec Hub at Evergreen Brick Works
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:Annual General Meeting
 DTSTART:20260616T230000Z
 DTEND:20260617T020000Z
-DTSTAMP:20260505T062658Z
+DTSTAMP:20260507T063218Z
 UID:acece7b9-fd12-5fad-bfbe-d1f84c6da758
 DESCRIPTION:Save the date for our 2026 Annual General Meeting.\nURL: https
  ://www.cycleto.ca/agm_2026
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:Bike to School Week
 DTSTART:20260601T110000Z
 DTEND:20260605T210000Z
-DTSTAMP:20260505T062702Z
+DTSTAMP:20260507T063218Z
 UID:c576f8ab-3a84-52db-a8d0-273df3d4a213
 DESCRIPTION:Register your school for Bike to School Week 2026!\n\nCommunit
  ies that embrace active school travel help their kids lead healthier lifes
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:Bike to Work Day 2026
 DTSTART:20260604T110000Z
 DTEND:20260604T130000Z
-DTSTAMP:20260505T062701Z
+DTSTAMP:20260507T063218Z
 UID:f96f1148-9a39-52f2-ab2e-94f9f8915999
 DESCRIPTION:Bike to Work Day is back!\n\nBike to Work Day Group Commute is
   on Thursday\, June 4. This event\, organized in collaboration with the Ci
