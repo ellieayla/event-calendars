@@ -5,10 +5,46 @@ METHOD:PUBLISH
 NAME:Cycle TO
 X-WR-CALNAME:Cycle TO
 BEGIN:VEVENT
+SUMMARY:Saxe's Spring Spectacular
+DTSTART:20260517T150000Z
+DTEND:20260517T180000Z
+DTSTAMP:20260513T063930Z
+UID:06b74f36-306d-5d1e-bc56-65c0ab22b337
+DESCRIPTION:Cycle Toronto will be at Councillor Dianne Saxe's Spring Spect
+ acular! This is a free community event held at Christie Pits Park on Victo
+ ria Day weekend. There will be a community BBQ\, ice cream\, music\, and l
+ ocal vendors.\n\nWe will have an engagement station\, so bring your bike a
+ nd one of our fabulous cycling educators will check it out for you!\n\n* D
+ ate: Sunday\, May 17th\n* Time: 11 am to 2 pm\n* Location: Christie Pits P
+ ark (750 Bloor St W.)\nURL: https://www.cycleto.ca/saxes_spring_spectacula
+ r
+LOCATION:Christie Pits Park
+URL:https://www.cycleto.ca/saxes_spring_spectacular
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bike Match Drop Off at Dufferin Grove Farmers' Market
+DTSTART:20260528T190000Z
+DTEND:20260528T223000Z
+DTSTAMP:20260513T063932Z
+UID:30e36bb2-5706-5a9a-87c9-cec1efc7dde0
+DESCRIPTION:Cycle Toronto is collecting bike donations at the Dufferin Gro
+ ve Farmers' Market on Thursday\, May 28 from 3:00 PM - 6:30 PM.\n\nAll don
+ ated bikes go toward our Bike Match program\, which was founded by Women's
+  Cycling Network and aims to increase access to cycling across the city wh
+ ile giving donated bikes a second life.\n\nCycle Toronto and our partner b
+ ike hubs collect donated bicycles\, repair them\, and provide them to comm
+ unity members in need. Interested participants can sign up through the (ht
+ tps://bikematchwcn.com/) Bike Match website.\nURL: https://www.cycleto.ca/
+ engagement_station_at_dufferin_grove_farmers_market
+LOCATION:
+URL:https://www.cycleto.ca/engagement_station_at_dufferin_grove_farmers_ma
+ rket
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Members Virtual Town Hall
 DTSTART:20260513T230000Z
 DTEND:20260514T003000Z
-DTSTAMP:20260511T065149Z
+DTSTAMP:20260513T063930Z
 UID:311d679d-3c59-5566-803d-c77128fe3ed2
 DESCRIPTION:Join your fellow Cycle Toronto members in this virtual town ha
  ll to discuss priorities and vision to make Toronto a healthier and more v
@@ -24,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Evergreen Brick Works Community Ride
 DTSTART:20260613T140000Z
 DTEND:20260613T160000Z
-DTSTAMP:20260511T065151Z
+DTSTAMP:20260513T063930Z
 UID:3dee8ecb-efee-518d-ad9b-16b95489e8c3
 DESCRIPTION:Celebrate Bike Month with a Community Ride! This year\, our ri
  de starts and ends at Cycle Toronto's new Rec Hub at Evergreen Brick Works
@@ -37,10 +73,31 @@ LOCATION:Evergreen Brick Works\n550 Bayview Avenue\nToronto ON M4W 3X8\nCA
 URL:https://www.cycleto.ca/evergreen_brick_works_community_ride
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Learn\, Plant\, Bike at Yorkview Public School
+DTSTART:20260519T200000Z
+DTEND:20260519T220000Z
+DTSTAMP:20260513T063931Z
+UID:9337157b-fa52-5a16-822c-e9d07e44c96b
+DESCRIPTION:Yorkview Public School is hosting a community event focused on
+  planting\, community and growth. In collaboration with the City of Toront
+ o as a part of our StreetSmartsTO initiative\, we are hosting a Bike Engag
+ ement Station at Yorkview Public School on Tuesday\, May 19 from 4-6 pm.\n
+ \nWe'll be there with some educational materials and will demonstrate how 
+ to perform safety checks for those who may not have access to a bike shop 
+ but want to get riding. We'll be able to help with things like inflating y
+ our tires\, lubricating your chain\, demonstrating how to do an (https://w
+ ww.cycleto.ca/abccheck) ABC safety check\, and anything else our teams can
+  safely accomplish in a few minutes.\nURL: https://www.cycleto.ca/learn_pl
+ ant_bike_at_yorkview_public_school
+LOCATION:Yorkview Public School\n130 Yorkview Drive\nNorth York ON M2R 1K1
+ \nCA
+URL:https://www.cycleto.ca/learn_plant_bike_at_yorkview_public_school
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Annual General Meeting
 DTSTART:20260616T230000Z
 DTEND:20260617T020000Z
-DTSTAMP:20260511T065149Z
+DTSTAMP:20260513T063930Z
 UID:acece7b9-fd12-5fad-bfbe-d1f84c6da758
 DESCRIPTION:Save the date for our 2026 Annual General Meeting.\nURL: https
  ://www.cycleto.ca/agm_2026
@@ -48,10 +105,26 @@ LOCATION:
 URL:https://www.cycleto.ca/agm_2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gateway Bike Hub: Giveaway
+DTSTART:20260523T150000Z
+DTEND:20260523T170000Z
+DTSTAMP:20260513T063930Z
+UID:ba373e17-6b32-52c6-a712-c2b3db30da34
+DESCRIPTION:Cycle Toronto will be at Gateway Bikehub's "Project Recycle: B
+ ike Giveaway" event on Saturday\, May 23 from 11:00 AM - 1:00 PM. Resident
+ s with eligible postal codes can get a FREE bike (1 bike per family\, firs
+ t come first served). Come learn more about the different organizations in
+  the Thorncliffe Park community!\n\nPlease note that this is a general out
+ reach station for Cycle Toronto. No mechanics are offered at this event.\n
+ URL: https://www.cycleto.ca/gateway_bike_hub_giveaway
+LOCATION:
+URL:https://www.cycleto.ca/gateway_bike_hub_giveaway
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bike to School Week
 DTSTART:20260601T110000Z
 DTEND:20260605T210000Z
-DTSTAMP:20260511T065150Z
+DTSTAMP:20260513T063932Z
 UID:c576f8ab-3a84-52db-a8d0-273df3d4a213
 DESCRIPTION:Register your school for Bike to School Week 2026!\n\nCommunit
  ies that embrace active school travel help their kids lead healthier lifes
@@ -70,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:Bike to Work Day 2026
 DTSTART:20260604T110000Z
 DTEND:20260604T130000Z
-DTSTAMP:20260511T065150Z
+DTSTAMP:20260513T063930Z
 UID:f96f1148-9a39-52f2-ab2e-94f9f8915999
 DESCRIPTION:Bike to Work Day is back!\n\nBike to Work Day Group Commute is
   on Thursday\, June 4. This event\, organized in collaboration with the Ci
