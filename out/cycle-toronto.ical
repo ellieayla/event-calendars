@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Saxe's Spring Spectacular
 DTSTART:20260517T150000Z
 DTEND:20260517T180000Z
-DTSTAMP:20260513T063930Z
+DTSTAMP:20260515T064604Z
 UID:06b74f36-306d-5d1e-bc56-65c0ab22b337
 DESCRIPTION:Cycle Toronto will be at Councillor Dianne Saxe's Spring Spect
  acular! This is a free community event held at Christie Pits Park on Victo
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 SUMMARY:Bike Match Drop Off at Dufferin Grove Farmers' Market
 DTSTART:20260528T190000Z
 DTEND:20260528T223000Z
-DTSTAMP:20260513T063932Z
+DTSTAMP:20260515T064605Z
 UID:30e36bb2-5706-5a9a-87c9-cec1efc7dde0
 DESCRIPTION:Cycle Toronto is collecting bike donations at the Dufferin Gro
  ve Farmers' Market on Thursday\, May 28 from 3:00 PM - 6:30 PM.\n\nAll don
@@ -41,34 +41,24 @@ URL:https://www.cycleto.ca/engagement_station_at_dufferin_grove_farmers_ma
  rket
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Members Virtual Town Hall
-DTSTART:20260513T230000Z
-DTEND:20260514T003000Z
-DTSTAMP:20260513T063930Z
-UID:311d679d-3c59-5566-803d-c77128fe3ed2
-DESCRIPTION:Join your fellow Cycle Toronto members in this virtual town ha
- ll to discuss priorities and vision to make Toronto a healthier and more v
- ibrant cycling city ahead of the 2026 Municipal Election.\n\nCheck out our
-  (/scorecard) Toronto Cycling Council Cycling Scorecard and read (/city_co
- uncil_cycling) our blog post.\n\nMust be a (/join) Cycle Toronto member to
-  attend. Not sure if you're a member? Email contribute[at]cycleto[dot]ca t
- o confirm.\nURL: https://www.cycleto.ca/members_town_hall
-LOCATION:
-URL:https://www.cycleto.ca/members_town_hall
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Evergreen Brick Works Community Ride
 DTSTART:20260613T140000Z
 DTEND:20260613T160000Z
-DTSTAMP:20260513T063930Z
+DTSTAMP:20260515T064603Z
 UID:3dee8ecb-efee-518d-ad9b-16b95489e8c3
 DESCRIPTION:Celebrate Bike Month with a Community Ride! This year\, our ri
  de starts and ends at Cycle Toronto's new Rec Hub at Evergreen Brick Works
  .\n\n* Date: Saturday\, June 13\n* Time: Meeting time 10:00 am\, departure
   time 10:30. Back at Cycle Toronto Rec Hub (Evergreen Brick Works) at 12:0
  0 pm\n* Location: 550 Bayview Avenue\, Toronto ON\, M4W 3X8\n* Route: http
- s://ridewithgps.com/routes/54801489\nURL: https://www.cycleto.ca/evergreen
- _brick_works_community_ride
+ s://ridewithgps.com/routes/54801489\n\nDon’t own a bike? No problem!\n\n
+ Our partners at Bike Share Toronto will be providing a LIMITED NUMBER OF C
+ OMPLIMENTARY bikes at the new Cycle Toronto Rec Hub (550 Bayview Ave).\n\n
+ SIGN UP IS REQUIRED - Please fill out this (https://docs.google.com/forms/
+ d/e/1FAIpQLSdRjz_HJGPbdOE3z1mYFLWQQM2b_cJdHwyeb0N5nODp_Ze2WQ/viewform?usp=
+ publish-editor) form if you are interested in borrowing a Bike Share bike 
+ for the ride.\nURL: https://www.cycleto.ca/evergreen_brick_works_community
+ _ride
 LOCATION:Evergreen Brick Works\n550 Bayview Avenue\nToronto ON M4W 3X8\nCA
 URL:https://www.cycleto.ca/evergreen_brick_works_community_ride
 END:VEVENT
@@ -76,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:Learn\, Plant\, Bike at Yorkview Public School
 DTSTART:20260519T200000Z
 DTEND:20260519T220000Z
-DTSTAMP:20260513T063931Z
+DTSTAMP:20260515T064605Z
 UID:9337157b-fa52-5a16-822c-e9d07e44c96b
 DESCRIPTION:Yorkview Public School is hosting a community event focused on
   planting\, community and growth. In collaboration with the City of Toront
@@ -97,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:Annual General Meeting
 DTSTART:20260616T230000Z
 DTEND:20260617T020000Z
-DTSTAMP:20260513T063930Z
+DTSTAMP:20260515T064605Z
 UID:acece7b9-fd12-5fad-bfbe-d1f84c6da758
 DESCRIPTION:Save the date for our 2026 Annual General Meeting.\nURL: https
  ://www.cycleto.ca/agm_2026
@@ -105,26 +95,10 @@ LOCATION:
 URL:https://www.cycleto.ca/agm_2026
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gateway Bike Hub: Giveaway
-DTSTART:20260523T150000Z
-DTEND:20260523T170000Z
-DTSTAMP:20260513T063930Z
-UID:ba373e17-6b32-52c6-a712-c2b3db30da34
-DESCRIPTION:Cycle Toronto will be at Gateway Bikehub's "Project Recycle: B
- ike Giveaway" event on Saturday\, May 23 from 11:00 AM - 1:00 PM. Resident
- s with eligible postal codes can get a FREE bike (1 bike per family\, firs
- t come first served). Come learn more about the different organizations in
-  the Thorncliffe Park community!\n\nPlease note that this is a general out
- reach station for Cycle Toronto. No mechanics are offered at this event.\n
- URL: https://www.cycleto.ca/gateway_bike_hub_giveaway
-LOCATION:
-URL:https://www.cycleto.ca/gateway_bike_hub_giveaway
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bike to School Week
 DTSTART:20260601T110000Z
 DTEND:20260605T210000Z
-DTSTAMP:20260513T063932Z
+DTSTAMP:20260515T064604Z
 UID:c576f8ab-3a84-52db-a8d0-273df3d4a213
 DESCRIPTION:Register your school for Bike to School Week 2026!\n\nCommunit
  ies that embrace active school travel help their kids lead healthier lifes
@@ -143,15 +117,67 @@ BEGIN:VEVENT
 SUMMARY:Bike to Work Day 2026
 DTSTART:20260604T110000Z
 DTEND:20260604T130000Z
-DTSTAMP:20260513T063930Z
+DTSTAMP:20260515T064605Z
 UID:f96f1148-9a39-52f2-ab2e-94f9f8915999
-DESCRIPTION:Bike to Work Day is back!\n\nBike to Work Day Group Commute is
-  on Thursday\, June 4. This event\, organized in collaboration with the Ci
- ty of Toronto\, has traditionally been the kick off event for Bike Month t
- hat has seen over a thousand commuters join Cycle Toronto and Bike Month p
- artners on a morning group commute to Nathan Phillips Square.\n\nDetails a
- bout start times & locations are coming soon\, so be sure to check back he
- re or RSVP!\nURL: https://www.cycleto.ca/bike_to_work_day_2026
+DESCRIPTION:Join us Thursday\, June 4th for the Bike to Work Day Group Com
+ mute!\n\nBike to Work Day is organized in collaboration with the City of T
+ oronto and has traditionally been the kick-off event for (https://www.bike
+ month.ca/) Bike Month in June. Over a thousand commuters join Cycle Toront
+ o and Bike Month partners on a morning group commute to Nathan Phillips Sq
+ uare. We will ride together down to Nathan Phillips Square at City Hall fo
+ r a community celebration with a Pancake Breakfast!\n\nWhether you ride ev
+ ery day or haven’t ridden in years\, this event is for you. The official
+  group ride will have well-trained Cycle Toronto Ride Guides to ensure rid
+ ers arrive safely.\n\nWhen and where is the ride?\n\nThis year we will hav
+ e four official start points across Toronto (see below). Three feeder ride
+ s will coalesce at Bay and Charles\, enroute to Nathan Phillips Square for
+  the post-ride celebration.\n\nWe ride rain or shine!\n\nMeet up Locations
+ :\n\nCentral Meetup\n\n\n\nLocation - Bay Street & Charles Street - Southw
+ est corner (south of Bloor Street)\n\n\n\nDeparture time: 7:30 AM\n\n\n\nR
+ oute: Bay Street > NPS\n\n\n\nDistance: ~2 km\n\n\n\nTTC Access: Bay Stati
+ on (elevator access)\n\n \n\nWestern Meetup\n\n \n\nLocation: Bloor Street
+  & High Park Avenue - Southeast corner\n\n \n\nDeparture time: 7:00 AM\n\n
+  \n\nRoute: Bloor Street > Bay Street > NPS\n\n \n\nDistance: ~9 km\n\n \n
+ \nTTC Access: High Park Station (no elevator) or nearby Runnymede & Keele 
+ Stations (elevator access)\n\n \n\nNorthern Meetup\n\n \n\nLocation: Davis
+ ville Avenue & Yonge Street - Southwest corner\n\n \n\nDeparture time: 7:1
+ 5 AM\n\n \n\nRoute: Yonge Street > Charles Street > Bay Street > NPS\n\n \
+ n\nDistance: ~5.5 km\n\n \n\nTTC Access: Davisville Station (elevator acce
+ ss)\n\n \n\nEastern Meetup\n\n \n\nLocation: East Lynn Park (Danforth Aven
+ ue west of Woodbine Avenue)\n\n \n\nDeparture time: 7:00 AM\n\n \n\nRoute:
+  Danforth Avenue > Bloor Street > Bay Street > NPS\n\n \n\nDistance: ~9 km
+ \n\n \n\nTTC Access: Woodbine Station (elevator access)\n\n \n\n*routes su
+ bject to change\n\n Don’t own a bike? No problem! \n\nOur partners at (h
+ ttps://bikesharetoronto.com/) Bike Share Toronto will be providing a LIMIT
+ ED NUMBER OF COMPLIMENTARY bikes at the Central Meetup (Bay St. and Charle
+ s St.). Bike Share will be onsite at Nathan Phillips Square to collect bik
+ es at the end of the ride — so no need to find a station to dock your bi
+ ke. \n\n \n\nSIGN UP IS REQUIRED - Please fill out this (https://docs.goog
+ le.com/forms/d/e/1FAIpQLSdXWOLwa3_p6ESy2XJ2CqGjM2LK6PIqR8tMI-541ep3oE66Iw/
+ viewform?usp=publish-editor) form if you are interested in borrowing a Bik
+ e Share bike for the ride. Bikes available at the Central meetup\, Bay and
+  Charles ONLY. \n\n Planning to arrive by TTC? \n\nPlease note that the TT
+ C prohibits bicycles on the subway between 6:30 a.m. and 10:00 a.m.\n\n Wh
+ at will the ride be like? \n\nOur Ride Guides try to keep a comfortable pa
+ ce for all riders\; that means no matter your fitness\, age\, style of bik
+ e\, you should be able to keep up a conversation. People are encouraged to
+  have fun\, bring along music\, and wear what you’re comfortable in.\n\n
+  \n\nWe will have one Ride Guide who will take the lead and navigate while
+  another rides in the back to make sure all riders are safe and they can a
+ ssist with any mechanical issues. \n\n Will the roads be closed for the ri
+ de? \n\nNo. Since the last edition of this ride\, Cycle Toronto has taken 
+ steps towards an Anti-Oppression and Anti-Racism Commitment that includes 
+ finding alternatives to police escorted rides. We have opted not to invite
+  uniformed police officers* to this year’s ride and will take advantage 
+ of newly installed/improved cycling infrastructure where possible.\n\n \n\
+ nAll riders will be expected to follow all traffic laws\, including signal
+ s such as stop lights\, during the ride.\n\n \n\n*We have informed Toronto
+  Police Service of our intent to hold the ride and cannot prevent them fro
+ m arriving of their own accord\n\n Post-Ride Celebration Nathan Phillips S
+ quare! \n\nAfter the group commute\, join us as we officially kick off Bik
+ e Month with good company\, speeches\, exhibitors and free coffee and panc
+ ake breakfast. We hope to see you there!\nURL: https://www.cycleto.ca/bike
+ _to_work_day_2026
 LOCATION:Nathan Phillips Square\n100 Queen St W\nToronto ON M5H 2N1\nCA
 URL:https://www.cycleto.ca/bike_to_work_day_2026
 END:VEVENT

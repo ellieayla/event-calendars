@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de Cafe to Pinch Bakery and Plant Shop - May 9
 DTSTART;TZID=America/Toronto:20260509T080000
 DTEND;TZID=America/Toronto:20260509T100000
-DTSTAMP:20260513T063925Z
+DTSTAMP:20260515T064558Z
 UID:2f91f790-eba0-513e-8bb2-d44dcfed4964
 DESCRIPTION:Tour de Cafe is a novice cycling group ride for women/folks id
  entifying as women. Each group ride incorporates knowledge about bikes and
@@ -74,10 +74,10 @@ LOCATION:New Hope Community Bikes\, 1249 Main Street East\, Hamilton Ontar
 URL:https://www.newhopecommunitybikes.com/womens-programming
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tour de Cafe to Cafe TBD - May 23
+SUMMARY:Tour de Cafe to Cafe Baffico - May 23
 DTSTART;TZID=America/Toronto:20260523T080000
 DTEND;TZID=America/Toronto:20260523T100000
-DTSTAMP:20260513T063925Z
+DTSTAMP:20260515T064558Z
 UID:2f91f790-eba0-513e-8bb2-d44dcfed4964
 DESCRIPTION:Tour de Cafe is a novice cycling group ride for women/folks id
  entifying as women. Each group ride incorporates knowledge about bikes and
@@ -91,10 +91,10 @@ LOCATION:New Hope Community Bikes\, 1249 Main Street East\, Hamilton Ontar
 URL:https://www.newhopecommunitybikes.com/womens-programming
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tour de Cafe to Cafe TBD - June 6
+SUMMARY:Tour de Cafe to Relay Coffee - June 6
 DTSTART;TZID=America/Toronto:20260606T080000
 DTEND;TZID=America/Toronto:20260606T100000
-DTSTAMP:20260513T063925Z
+DTSTAMP:20260515T064558Z
 UID:2f91f790-eba0-513e-8bb2-d44dcfed4964
 DESCRIPTION:Tour de Cafe is a novice cycling group ride for women/folks id
  entifying as women. Each group ride incorporates knowledge about bikes and
@@ -108,10 +108,10 @@ LOCATION:New Hope Community Bikes\, 1249 Main Street East\, Hamilton Ontar
 URL:https://www.newhopecommunitybikes.com/womens-programming
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tour de Cafe to Cafe TBD - June 20
+SUMMARY:Tour de Cafe to Strathcona Market - June 20
 DTSTART;TZID=America/Toronto:20260620T080000
 DTEND;TZID=America/Toronto:20260620T100000
-DTSTAMP:20260513T063925Z
+DTSTAMP:20260515T064558Z
 UID:2f91f790-eba0-513e-8bb2-d44dcfed4964
 DESCRIPTION:Tour de Cafe is a novice cycling group ride for women/folks id
  entifying as women. Each group ride incorporates knowledge about bikes and
@@ -125,10 +125,10 @@ LOCATION:New Hope Community Bikes\, 1249 Main Street East\, Hamilton Ontar
 URL:https://www.newhopecommunitybikes.com/womens-programming
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tour de Cafe to Cafe TBD - July 4
+SUMMARY:Tour de Cafe to Mulberry Cafe - July 4
 DTSTART;TZID=America/Toronto:20260704T080000
 DTEND;TZID=America/Toronto:20260704T100000
-DTSTAMP:20260513T063925Z
+DTSTAMP:20260515T064558Z
 UID:2f91f790-eba0-513e-8bb2-d44dcfed4964
 DESCRIPTION:Tour de Cafe is a novice cycling group ride for women/folks id
  entifying as women. Each group ride incorporates knowledge about bikes and
@@ -142,10 +142,10 @@ LOCATION:New Hope Community Bikes\, 1249 Main Street East\, Hamilton Ontar
 URL:https://www.newhopecommunitybikes.com/womens-programming
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tour de Cafe to Cafe TBD - July 18
+SUMMARY:Tour de Cafe to Vintage Coffee Roasters - July 18
 DTSTART;TZID=America/Toronto:20260718T080000
 DTEND;TZID=America/Toronto:20260718T100000
-DTSTAMP:20260513T063925Z
+DTSTAMP:20260515T064558Z
 UID:2f91f790-eba0-513e-8bb2-d44dcfed4964
 DESCRIPTION:Tour de Cafe is a novice cycling group ride for women/folks id
  entifying as women. Each group ride incorporates knowledge about bikes and
@@ -159,10 +159,10 @@ LOCATION:New Hope Community Bikes\, 1249 Main Street East\, Hamilton Ontar
 URL:https://www.newhopecommunitybikes.com/womens-programming
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tour de Cafe to Cafe TBD - August 1
+SUMMARY:Tour de Cafe to Detour Cafe - August 1
 DTSTART;TZID=America/Toronto:20260801T080000
 DTEND;TZID=America/Toronto:20260801T100000
-DTSTAMP:20260513T063925Z
+DTSTAMP:20260515T064558Z
 UID:2f91f790-eba0-513e-8bb2-d44dcfed4964
 DESCRIPTION:Tour de Cafe is a novice cycling group ride for women/folks id
  entifying as women. Each group ride incorporates knowledge about bikes and
@@ -176,10 +176,10 @@ LOCATION:New Hope Community Bikes\, 1249 Main Street East\, Hamilton Ontar
 URL:https://www.newhopecommunitybikes.com/womens-programming
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tour de Cafe to Cafe TBD - August 15
+SUMMARY:Tour de Cafe to Dundurn Market - August 15
 DTSTART;TZID=America/Toronto:20260815T080000
 DTEND;TZID=America/Toronto:20260815T100000
-DTSTAMP:20260513T063925Z
+DTSTAMP:20260515T064558Z
 UID:2f91f790-eba0-513e-8bb2-d44dcfed4964
 DESCRIPTION:Tour de Cafe is a novice cycling group ride for women/folks id
  entifying as women. Each group ride incorporates knowledge about bikes and
@@ -193,10 +193,10 @@ LOCATION:New Hope Community Bikes\, 1249 Main Street East\, Hamilton Ontar
 URL:https://www.newhopecommunitybikes.com/womens-programming
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tour de Cafe to Cafe TBD - August 29
+SUMMARY:Tour de Cafe to The Cannon - August 29
 DTSTART;TZID=America/Toronto:20260829T080000
 DTEND;TZID=America/Toronto:20260829T100000
-DTSTAMP:20260513T063925Z
+DTSTAMP:20260515T064558Z
 UID:2f91f790-eba0-513e-8bb2-d44dcfed4964
 DESCRIPTION:Tour de Cafe is a novice cycling group ride for women/folks id
  entifying as women. Each group ride incorporates knowledge about bikes and
@@ -210,10 +210,10 @@ LOCATION:New Hope Community Bikes\, 1249 Main Street East\, Hamilton Ontar
 URL:https://www.newhopecommunitybikes.com/womens-programming
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tour de Cafe to Cafe TBD - September 12
+SUMMARY:Tour de Cafe to SYNONYM - September 12
 DTSTART;TZID=America/Toronto:20260912T080000
 DTEND;TZID=America/Toronto:20260912T100000
-DTSTAMP:20260513T063925Z
+DTSTAMP:20260515T064558Z
 UID:2f91f790-eba0-513e-8bb2-d44dcfed4964
 DESCRIPTION:Tour de Cafe is a novice cycling group ride for women/folks id
  entifying as women. Each group ride incorporates knowledge about bikes and
@@ -227,10 +227,10 @@ LOCATION:New Hope Community Bikes\, 1249 Main Street East\, Hamilton Ontar
 URL:https://www.newhopecommunitybikes.com/womens-programming
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tour de Cafe to Cafe TBD - September 26
+SUMMARY:Tour de Cafe to Crown and Press - September 26
 DTSTART;TZID=America/Toronto:20260926T080000
 DTEND;TZID=America/Toronto:20260926T100000
-DTSTAMP:20260513T063925Z
+DTSTAMP:20260515T064558Z
 UID:2f91f790-eba0-513e-8bb2-d44dcfed4964
 DESCRIPTION:Tour de Cafe is a novice cycling group ride for women/folks id
  entifying as women. Each group ride incorporates knowledge about bikes and
@@ -244,10 +244,10 @@ LOCATION:New Hope Community Bikes\, 1249 Main Street East\, Hamilton Ontar
 URL:https://www.newhopecommunitybikes.com/womens-programming
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tour de Cafe to Cafe TBD - October 10
+SUMMARY:Tour de Cafe to Red Church - October 10
 DTSTART;TZID=America/Toronto:20261010T080000
 DTEND;TZID=America/Toronto:20261010T100000
-DTSTAMP:20260513T063925Z
+DTSTAMP:20260515T064558Z
 UID:2f91f790-eba0-513e-8bb2-d44dcfed4964
 DESCRIPTION:Tour de Cafe is a novice cycling group ride for women/folks id
  entifying as women. Each group ride incorporates knowledge about bikes and
@@ -261,10 +261,10 @@ LOCATION:New Hope Community Bikes\, 1249 Main Street East\, Hamilton Ontar
 URL:https://www.newhopecommunitybikes.com/womens-programming
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tour de Cafe to Cafe TBD - October 24
+SUMMARY:Tour de Cafe to Durand Coffee - October 24
 DTSTART;TZID=America/Toronto:20261024T080000
 DTEND;TZID=America/Toronto:20261024T100000
-DTSTAMP:20260513T063925Z
+DTSTAMP:20260515T064558Z
 UID:2f91f790-eba0-513e-8bb2-d44dcfed4964
 DESCRIPTION:Tour de Cafe is a novice cycling group ride for women/folks id
  entifying as women. Each group ride incorporates knowledge about bikes and
@@ -281,7 +281,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de Cafe to Season Closer - Halloween Ride! - October 31
 DTSTART;TZID=America/Toronto:20261031T080000
 DTEND;TZID=America/Toronto:20261031T100000
-DTSTAMP:20260513T063925Z
+DTSTAMP:20260515T064558Z
 UID:2f91f790-eba0-513e-8bb2-d44dcfed4964
 DESCRIPTION:Tour de Cafe is a novice cycling group ride for women/folks id
  entifying as women. Each group ride incorporates knowledge about bikes and
