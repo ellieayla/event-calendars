@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Saxe's Spring Spectacular
 DTSTART:20260517T150000Z
 DTEND:20260517T180000Z
-DTSTAMP:20260515T064604Z
+DTSTAMP:20260517T063716Z
 UID:06b74f36-306d-5d1e-bc56-65c0ab22b337
 DESCRIPTION:Cycle Toronto will be at Councillor Dianne Saxe's Spring Spect
  acular! This is a free community event held at Christie Pits Park on Victo
@@ -22,10 +22,41 @@ LOCATION:Christie Pits Park
 URL:https://www.cycleto.ca/saxes_spring_spectacular
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Volunteer Orientation
+DTSTART:20260520T213000Z
+DTEND:20260520T223000Z
+DTSTAMP:20260517T063716Z
+UID:0eca1c9b-46c3-5a07-a7e1-549fbaec0f71
+DESCRIPTION:Want to get more involved this summer including helping out at
+  outreach events\, group rides\, and election organizing? We’re hosting 
+ a virtual volunteer orientation session on Wednesday\, May 20th.\n\nWe wil
+ l cover various topics including\, but not limited to\, the basics of our 
+ organization\, our different outreach programs and advocacy campaigns\, an
+ d how you as a volunteer can help bolster our efforts in the coming weeks 
+ and months.\n\nRSVP for Zoom link.\nURL: https://www.cycleto.ca/volunteer_
+ orientation_20260520
+LOCATION:Zoom
+URL:https://www.cycleto.ca/volunteer_orientation_20260520
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rec Hub Orientation June 6
+DTSTART:20260606T170000Z
+DTEND:20260606T190000Z
+DTSTAMP:20260517T063716Z
+UID:1384dd15-f35a-5218-b1f6-033dfd8d05ab
+DESCRIPTION:Register to attend our volunteer orientation for Evergreen Bri
+ ck Works.\n\n(https://www.evergreen.ca/evergreen-brick-works/visitor-info/
+ plan-your-visit/getting-here/) How to get here.\nURL: https://www.cycleto.
+ ca/rec_hub_orientation_20260606
+LOCATION:Evergreen Brick Works Rec Hub\n550 Bayview Avenue \nToronto ON M4
+ W 3X8\nCA
+URL:https://www.cycleto.ca/rec_hub_orientation_20260606
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bike Match Drop Off at Dufferin Grove Farmers' Market
 DTSTART:20260528T190000Z
 DTEND:20260528T223000Z
-DTSTAMP:20260515T064605Z
+DTSTAMP:20260517T063716Z
 UID:30e36bb2-5706-5a9a-87c9-cec1efc7dde0
 DESCRIPTION:Cycle Toronto is collecting bike donations at the Dufferin Gro
  ve Farmers' Market on Thursday\, May 28 from 3:00 PM - 6:30 PM.\n\nAll don
@@ -44,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:Evergreen Brick Works Community Ride
 DTSTART:20260613T140000Z
 DTEND:20260613T160000Z
-DTSTAMP:20260515T064603Z
+DTSTAMP:20260517T063715Z
 UID:3dee8ecb-efee-518d-ad9b-16b95489e8c3
 DESCRIPTION:Celebrate Bike Month with a Community Ride! This year\, our ri
  de starts and ends at Cycle Toronto's new Rec Hub at Evergreen Brick Works
@@ -63,10 +94,24 @@ LOCATION:Evergreen Brick Works\n550 Bayview Avenue\nToronto ON M4W 3X8\nCA
 URL:https://www.cycleto.ca/evergreen_brick_works_community_ride
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rec Hub Orientation May 30
+DTSTART:20260530T170000Z
+DTEND:20260530T190000Z
+DTSTAMP:20260517T063716Z
+UID:60f46739-ac08-5710-b522-d7f66ec2043b
+DESCRIPTION:Register to attend our volunteer orientation for Evergreen Bri
+ ck Works.\n\n(https://www.evergreen.ca/evergreen-brick-works/visitor-info/
+ plan-your-visit/getting-here/) How to get here.\nURL: https://www.cycleto.
+ ca/rec_hub_orientation_20260530
+LOCATION:Evergreen Brick Works Rec Hub\n550 Bayview Avenue \nToronto ON M4
+ W 3X8\nCA
+URL:https://www.cycleto.ca/rec_hub_orientation_20260530
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Learn\, Plant\, Bike at Yorkview Public School
 DTSTART:20260519T200000Z
 DTEND:20260519T220000Z
-DTSTAMP:20260515T064605Z
+DTSTAMP:20260517T063715Z
 UID:9337157b-fa52-5a16-822c-e9d07e44c96b
 DESCRIPTION:Yorkview Public School is hosting a community event focused on
   planting\, community and growth. In collaboration with the City of Toront
@@ -84,10 +129,24 @@ LOCATION:Yorkview Public School\n130 Yorkview Drive\nNorth York ON M2R 1K1
 URL:https://www.cycleto.ca/learn_plant_bike_at_yorkview_public_school
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rec Hub Orientation June 3
+DTSTART:20260603T170000Z
+DTEND:20260603T190000Z
+DTSTAMP:20260517T063717Z
+UID:9a2024a7-7997-50da-91ff-46fad557c841
+DESCRIPTION:Register to attend our volunteer orientation for Evergreen Bri
+ ck Works.\n\n(https://www.evergreen.ca/evergreen-brick-works/visitor-info/
+ plan-your-visit/getting-here/) How to get here.\nURL: https://www.cycleto.
+ ca/rec_hub_orientation_20260603
+LOCATION:Evergreen Brick Works Rec Hub\n550 Bayview Avenue \nToronto ON M4
+ W 3X8\nCA
+URL:https://www.cycleto.ca/rec_hub_orientation_20260603
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Annual General Meeting
 DTSTART:20260616T230000Z
 DTEND:20260617T020000Z
-DTSTAMP:20260515T064605Z
+DTSTAMP:20260517T063717Z
 UID:acece7b9-fd12-5fad-bfbe-d1f84c6da758
 DESCRIPTION:Save the date for our 2026 Annual General Meeting.\nURL: https
  ://www.cycleto.ca/agm_2026
@@ -98,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:Bike to School Week
 DTSTART:20260601T110000Z
 DTEND:20260605T210000Z
-DTSTAMP:20260515T064604Z
+DTSTAMP:20260517T063714Z
 UID:c576f8ab-3a84-52db-a8d0-273df3d4a213
 DESCRIPTION:Register your school for Bike to School Week 2026!\n\nCommunit
  ies that embrace active school travel help their kids lead healthier lifes
@@ -117,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:Bike to Work Day 2026
 DTSTART:20260604T110000Z
 DTEND:20260604T130000Z
-DTSTAMP:20260515T064605Z
+DTSTAMP:20260517T063715Z
 UID:f96f1148-9a39-52f2-ab2e-94f9f8915999
 DESCRIPTION:Join us Thursday\, June 4th for the Bike to Work Day Group Com
  mute!\n\nBike to Work Day is organized in collaboration with the City of T
