@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost Bike Ride For Jean Louis
 DTSTART;TZID=America/Toronto:20251101T140000
 DTEND;TZID=America/Toronto:20251101T153000
-DTSTAMP:20260519T065514Z
+DTSTAMP:20260521T065850Z
 UID:2aeb2798-b16e-5847-8cef-2243fb7287ee
 DESCRIPTION:On Friday\,  17 October 2025\, Jean Louis\, a 66-year-old male
  \, was cycling on Appleby Line and Harvester Road in Burlington. At approx
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:Critical Mask Halloween Bike Ride 
 DTSTART;TZID=America/Toronto:20251031T180000
 DTEND;TZID=America/Toronto:20251031T200000
-DTSTAMP:20260519T065513Z
+DTSTAMP:20260521T065850Z
 UID:5765bffd-5e02-53a4-a58d-e468cf451089
 DESCRIPTION:a monthly group bicycle ride that takes place in many cities w
  orldwide\, occurring on the last Friday of each month. It serves as both a
@@ -91,34 +91,17 @@ DESCRIPTION:a monthly group bicycle ride that takes place in many cities w
 URL:https://www.facebook.com/events/2533827373664092/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ghost Bike Ride For Dave: Oakville
-DTSTART;TZID=America/Toronto:20251025T141500
-DTEND;TZID=America/Toronto:20251025T160000
-DTSTAMP:20260519T065513Z
-UID:7e211437-3194-5326-9896-5ab304595d69
-DESCRIPTION:On Tuesday\,  19 August 2025\, David Niblett\, a 67-year-old m
- ale\, was cycling westbound on Rebbecca Street\, near Third Line in Oakvil
- le. Then\, a motorist made a blind left-hook turn and collided with him ne
- ar the entrance to a mall. He was wearing high-visibility clothing\; the d
- river didn't take the proper care they needed to determine if it was safe 
- to turn. He succumbed to his injuries three days later at a hospital in Ha
- milton. Halton police announced his death on 24 August 2025.\n\nMEET at 2:
- 15 p.m. at the Bronte GO Station's SOUTH parking lot. We DEPART at 2:30 p.
- m. for Third Line and Rebbecca Street.\n\nCreated by: Joey Schwartz\nEvent
-  is in the past.\nURL: https://www.facebook.com/events/783985534010634/
-URL:https://www.facebook.com/events/783985534010634/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ride of Silence 2026
 DTSTART;TZID=America/Toronto:20260520T184500
 DTEND;TZID=America/Toronto:20260520T204500
-DTSTAMP:20260519T065514Z
+DTSTAMP:20260521T065850Z
 UID:cc7c3c64-a683-5134-afbb-633312ce27b3
 DESCRIPTION:The Ride of Silence is a world wide event where people ride at
   7 PM local time on the 3rd Wednesday of May to remember fellow cyclists w
  ho have been killed on our roads. This is the 23rd year for this event\, a
  nd Toronto has been doing these rides since 2010\nCreated by: Geoffrey Ber
- carich\nURL: https://www.facebook.com/events/1303246494511785/
+ carich\nEvent is in the past.\nURL: https://www.facebook.com/events/130324
+ 6494511785/
 URL:https://www.facebook.com/events/1303246494511785/
 END:VEVENT
 END:VCALENDAR
