@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Rec Hub Orientation June 6
 DTSTART:20260606T170000Z
 DTEND:20260606T190000Z
-DTSTAMP:20260523T063200Z
+DTSTAMP:20260525T070332Z
 UID:1384dd15-f35a-5218-b1f6-033dfd8d05ab
 DESCRIPTION:Register to attend our volunteer orientation for Evergreen Bri
  ck Works.\n\n(https://www.evergreen.ca/evergreen-brick-works/visitor-info/
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Engagement Station at Spring MRKT
 DTSTART:20260620T150000Z
 DTEND:20260620T200000Z
-DTSTAMP:20260523T063200Z
+DTSTAMP:20260525T070333Z
 UID:1f79c2ba-df4a-5f02-bb9b-aa5c73de4c6b
 DESCRIPTION:We are hosting a Bike Engagement Station at Spring MRKT on Sat
  urday\, June 6. We'll be there with some educational materials and will de
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 SUMMARY:Engagement Station at The Junction Farmers Market
 DTSTART:20260606T130000Z
 DTEND:20260606T170000Z
-DTSTAMP:20260523T063200Z
+DTSTAMP:20260525T070332Z
 UID:2bfe6889-72d6-5754-914e-0082bf35711e
 DESCRIPTION:We are hosting a Bike Engagement Station at The Junction Farme
  r's Market on Saturday\, June 6. We'll be there with some educational mate
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:Engagement Station at Dufferin Grove Farmers' Market
 DTSTART:20260625T190000Z
 DTEND:20260625T230000Z
-DTSTAMP:20260523T063202Z
+DTSTAMP:20260525T070332Z
 UID:30e36bb2-5706-5a9a-87c9-cec1efc7dde0
 DESCRIPTION:We are hosting a Bike Engagement Station at Dufferin Grove Far
  mer's Market on Thursday\, June 25. We'll be there with some educational m
@@ -92,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:Evergreen Brick Works Community Ride
 DTSTART:20260613T140000Z
 DTEND:20260613T160000Z
-DTSTAMP:20260523T063201Z
+DTSTAMP:20260525T070336Z
 UID:3dee8ecb-efee-518d-ad9b-16b95489e8c3
 DESCRIPTION:Celebrate Bike Month with a Community Ride! This year\, our ri
  de starts and ends at Cycle Toronto's new Rec Hub at Evergreen Brick Works
@@ -114,7 +114,7 @@ BEGIN:VEVENT
 SUMMARY:Volunteer Orientation
 DTSTART:20260528T160000Z
 DTEND:20260528T170000Z
-DTSTAMP:20260523T063201Z
+DTSTAMP:20260525T070331Z
 UID:57b5a472-57ff-5482-b748-8e01b2b1828b
 DESCRIPTION:Want to get more involved this summer including helping out at
   outreach events\, group rides\, and election organizing? We’re hosting 
@@ -132,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:Bike Match Drop Off at Dufferin Grove Farmers' Market
 DTSTART:20260528T190000Z
 DTEND:20260528T223000Z
-DTSTAMP:20260523T063201Z
+DTSTAMP:20260525T070335Z
 UID:585b679c-562c-5ce0-8ddc-5959a386ed5c
 DESCRIPTION:Cycle Toronto is collecting bike donations at the Dufferin Gro
  ve Farmers' Market on Thursday\, May 28 from 3:00 PM - 6:30 PM.\n\nAll don
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:Engagement Station - Harmony Hall Good Food Market
 DTSTART:20260609T184500Z
 DTEND:20260609T204500Z
-DTSTAMP:20260523T063201Z
+DTSTAMP:20260525T070338Z
 UID:5aa4c887-06b6-58d6-87af-a8da95146768
 DESCRIPTION:We are hosting a Bike Engagement Station at Harmony Hall Good 
  Food Market on Tuesday\, June 9. We'll be there with some educational mate
@@ -174,7 +174,7 @@ BEGIN:VEVENT
 SUMMARY:Rec Hub Orientation May 30
 DTSTART:20260530T170000Z
 DTEND:20260530T190000Z
-DTSTAMP:20260523T063202Z
+DTSTAMP:20260525T070332Z
 UID:60f46739-ac08-5710-b522-d7f66ec2043b
 DESCRIPTION:Register to attend our volunteer orientation for Evergreen Bri
  ck Works.\n\n(https://www.evergreen.ca/evergreen-brick-works/visitor-info/
@@ -188,7 +188,7 @@ BEGIN:VEVENT
 SUMMARY:Engagement Station at Little Trinity Church Food Market
 DTSTART:20260603T203000Z
 DTEND:20260603T223000Z
-DTSTAMP:20260523T063202Z
+DTSTAMP:20260525T070330Z
 UID:66abe4ec-8d29-5507-b25e-afa55d547791
 DESCRIPTION:We are hosting a Bike Engagement Station at Little Trinity Chu
  rch Food Market on Wednesday\, June 3. We'll be there with some educationa
@@ -212,7 +212,7 @@ BEGIN:VEVENT
 SUMMARY:Engagement Station at Sorauren Farmers Market
 DTSTART:20260601T190000Z
 DTEND:20260601T230000Z
-DTSTAMP:20260523T063201Z
+DTSTAMP:20260525T070331Z
 UID:7c376daf-37de-5302-b18f-0b0105a0634b
 DESCRIPTION:We are hosting a Bike Engagement Station at Sorauran Farmer's 
  Market on Monday\, June 1. We'll be there with some educational materials 
@@ -234,7 +234,7 @@ BEGIN:VEVENT
 SUMMARY:Volunteer Orientation
 DTSTART:20260527T213000Z
 DTEND:20260527T223000Z
-DTSTAMP:20260523T063207Z
+DTSTAMP:20260525T070351Z
 UID:95b68631-8433-507d-9774-f49c680563c6
 DESCRIPTION:Want to get more involved this summer including helping out at
   outreach events\, group rides\, and election organizing? We’re hosting 
@@ -251,7 +251,7 @@ BEGIN:VEVENT
 SUMMARY:Rec Hub Orientation June 3
 DTSTART:20260603T200000Z
 DTEND:20260603T220000Z
-DTSTAMP:20260523T063202Z
+DTSTAMP:20260525T070331Z
 UID:9a2024a7-7997-50da-91ff-46fad557c841
 DESCRIPTION:Register to attend our volunteer orientation for Evergreen Bri
  ck Works.\n\n(https://www.evergreen.ca/evergreen-brick-works/visitor-info/
@@ -265,7 +265,7 @@ BEGIN:VEVENT
 SUMMARY:Annual General Meeting
 DTSTART:20260616T230000Z
 DTEND:20260617T020000Z
-DTSTAMP:20260523T063202Z
+DTSTAMP:20260525T070336Z
 UID:acece7b9-fd12-5fad-bfbe-d1f84c6da758
 DESCRIPTION:Save the date for our 2026 Annual General Meeting.\nURL: https
  ://www.cycleto.ca/agm_2026
@@ -276,7 +276,7 @@ BEGIN:VEVENT
 SUMMARY:Bike Match Drop-Off at Withrow Park Farmers' Market
 DTSTART:20260627T130000Z
 DTEND:20260627T170000Z
-DTSTAMP:20260523T063205Z
+DTSTAMP:20260525T070329Z
 UID:c13f75d1-1304-5410-82c1-84831efd4a5c
 DESCRIPTION:Cycle Toronto is collecting bike donations at the Dufferin Gro
  ve Farmers' Market on Saturday\, June 27 from 9:00 AM - 1:00 PM.\n\nAll do
@@ -294,7 +294,7 @@ BEGIN:VEVENT
 SUMMARY:Bike to School Week
 DTSTART:20260601T110000Z
 DTEND:20260605T210000Z
-DTSTAMP:20260523T063202Z
+DTSTAMP:20260525T070332Z
 UID:c576f8ab-3a84-52db-a8d0-273df3d4a213
 DESCRIPTION:Register your school for Bike to School Week 2026!\n\nCommunit
  ies that embrace active school travel help their kids lead healthier lifes
@@ -313,7 +313,7 @@ BEGIN:VEVENT
 SUMMARY:Bike to Work Day 2026
 DTSTART:20260604T110000Z
 DTEND:20260604T130000Z
-DTSTAMP:20260523T063201Z
+DTSTAMP:20260525T070337Z
 UID:f96f1148-9a39-52f2-ab2e-94f9f8915999
 DESCRIPTION:Join us Thursday\, June 4th for the Bike to Work Day Group Com
  mute!\n\nBike to Work Day is organized in collaboration with the City of T
