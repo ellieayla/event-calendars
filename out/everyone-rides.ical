@@ -57,10 +57,42 @@ TZOFFSETTO:-0500
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+SUMMARY:Free Ride Day 2026
+DTSTART;TZID=America/Toronto:20260607T090000
+DTEND;TZID=America/Toronto:20260607T210000
+DTSTAMP:20260527T070211Z
+UID:06d74b8d-c48d-5239-b783-beb17f155db9
+DESCRIPTION:Hamilton Bike Share is excited to present our inaugural FREE R
+ IDE DAY\, brought to you by Cogeco. Free Ride Day is coming your way on Su
+ nday\, June 7th from 9 AM - 9 PM\, where you can ride for up to 3 hours on
+  us\, using any Hamilton Bike Share bike in our service area with an exist
+ ing HBS account.\n\nHow to Ride Free on June 7th:\n\n* Sign in to your exi
+ sting account OR create a new Pay As You Go account in the Social Bicycles
+  app. You will need a valid email and credit card to register. Select the 
+ $0 prefill option if you do not wish to add any additional credit.\n\n* Us
+ e the in-app map to find a bike near you. To unlock a bike\, scan the QR c
+ ode at the back of the bike and remove the U-Bar. Remember to always bring
+  the U-Bar with you! Store it securely in the holster slot parallel to the
+  rear wheel.\n\n \n* Ride for up to 3 hours in one trip or across multiple
+  smaller trips between 9 AM - 9 PM on Sunday\, June 7th. \n\n \n\n \n\n \n
+ \n \n* To end your trip\, use the U-Bar to lock your bike to any Bike Shar
+ e hub for free\, or lock to a public post or bike rack for a $1 convenienc
+ e fee. \n\n \n\n \n\n \n\nAll our regular operating rules and fees for add
+ itional features\, like out of hub locking and multi-bike rentals\, contin
+ ue to apply! Stay in our service area (between Dundas and Kenilworth Ave i
+ n the lower city) and never leave a bike unlocked and unattended. Always e
+ nsure bikes are locked to secure fixed objects when making a stop. \n\n \n
+ \n \n\n \n\nNeed help? Contact us:\n\n \n\n (/cdn-cgi/l/email-protection#a
+ 1c9c4cdd1e1c9c0ccc8cdd5cecfc3c8cac4d2c9c0d3c48fc2c0) [email protected]\n\n
+  \n\n289-768-2453\nURL: https://www.everyonerides.org/free_ride_day_2026
+LOCATION:See post
+URL:https://www.everyonerides.org/free_ride_day_2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Holiday Lights Ride
 DTSTART;TZID=America/Toronto:20251215T180000
 DTEND;TZID=America/Toronto:20251215T190000
-DTSTAMP:20260525T070325Z
+DTSTAMP:20260527T070211Z
 UID:37384ceb-2363-5f67-a476-aa5950be83e0
 DESCRIPTION:Before we hibernate for the winter\, let's enjoy one last grou
  p ride together in 2025! This ride will take us through the Durand and Kir
@@ -79,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Bike Share Birthday Party
 DTSTART;TZID=America/Toronto:20260320T183000
 DTEND;TZID=America/Toronto:20260320T203000
-DTSTAMP:20260525T070326Z
+DTSTAMP:20260527T070212Z
 UID:791cec38-1e47-5d04-a04f-39a9ad8ad50d
 DESCRIPTION:Come celebrate 11 years of Bike Share with us on Friday\, Marc
  h 20! We'll gather at the Workers Arts & Heritage Centre from 6:30-8:30 fo
@@ -96,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:Magnolia Ride
 DTSTART;TZID=America/Toronto:20260425T100000
 DTEND;TZID=America/Toronto:20260425T120000
-DTSTAMP:20260525T070325Z
+DTSTAMP:20260527T070211Z
 UID:d5c1c719-37da-56de-a7d8-782ec449cac8
 DESCRIPTION:🌸 Join us for our Annual Magnolia Ride on Saturday\, April 
  25th at 10am 🌸\n\nThis ride is a fun\, family-friendly\, rain or shine 

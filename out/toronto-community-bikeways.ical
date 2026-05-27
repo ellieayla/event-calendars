@@ -379,6 +379,17 @@ URL:https://www.communitybikewaysto.ca/events/87cj2keh2z8tk4ayu32jdpzjys2x
  7l
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chalk My Walk
+DTSTART:20260606T170000Z
+DTEND:20260606T200000Z
+DTSTAMP:20260526T043639Z
+UID:a8d29111-d887-5faf-826f-22271ecad6e9
+DESCRIPTION:\nURL: https://www.communitybikewaysto.ca/events/chalk-my-walk
+ -1
+LOCATION:Mount Dennis\, 1901 Weston Rd\, Toronto\, ON\, M9N 3P5\, Canada
+URL:https://www.communitybikewaysto.ca/events/chalk-my-walk-1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bike Lanes (or lack thereof): the Pedestrian Experience
 DTSTART:20250503T190000Z
 DTEND:20250503T203000Z
