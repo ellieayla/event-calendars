@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de Cafe - Ride to Relay
 DTSTART;TZID=America/Toronto:20260606T080000
 DTEND;TZID=America/Toronto:20260606T100000
-DTSTAMP:20260603T071842Z
+DTSTAMP:20260605T070301Z
 UID:0f6b0ecb-faa1-54d2-ab8e-8f24b2f53504
 DESCRIPTION:After getting rained out last week\, let's cross our fingers t
  he weather co-operates this week as we ride to Relay for our second ride o
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de Cafe - October 18
 DTSTART;TZID=America/Toronto:20251018T080000
 DTEND;TZID=America/Toronto:20251018T100000
-DTSTAMP:20260603T071842Z
+DTSTAMP:20260605T070258Z
 UID:63ae1f27-7940-5a3a-849a-17b97ae4291e
 DESCRIPTION:Join us for a Tour de Cafe ride on October 11th at 8am!\nTour 
  de Cafe is a novice cycling group ride for women/folks identifying as wome
@@ -91,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:Season Kickoff Ride to Pinch Cafe
 DTSTART;TZID=America/Toronto:20260509T080000
 DTEND;TZID=America/Toronto:20260509T100000
-DTSTAMP:20260603T071842Z
+DTSTAMP:20260605T070259Z
 UID:8fa3cf23-acec-5d73-aee3-176f08e94762
 DESCRIPTION:Welcome back riders! Tour de Cafe kicks off the 2026 season Ma
  y 9 (we meet at 8am behind the shop).\nCreated by: Alex Lenarduzzi\nEvent 
@@ -104,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de Cafe - Ride to Cafe Baffico
 DTSTART;TZID=America/Toronto:20260523T080000
 DTEND;TZID=America/Toronto:20260523T100000
-DTSTAMP:20260603T071842Z
+DTSTAMP:20260605T070301Z
 UID:bb52a43a-18a6-5d78-ab2b-b76d063d0211
 DESCRIPTION:Join us for the second Tour de Cafe ride of the season! We’l
  l be riding to Cafe Baffico. To help with efficiency at the cafe\, please 
