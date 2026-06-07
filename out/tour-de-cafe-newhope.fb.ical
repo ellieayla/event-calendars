@@ -60,38 +60,22 @@ BEGIN:VEVENT
 SUMMARY:Tour de Cafe - Ride to Relay
 DTSTART;TZID=America/Toronto:20260606T080000
 DTEND;TZID=America/Toronto:20260606T100000
-DTSTAMP:20260605T070301Z
+DTSTAMP:20260607T070222Z
 UID:0f6b0ecb-faa1-54d2-ab8e-8f24b2f53504
 DESCRIPTION:After getting rained out last week\, let's cross our fingers t
  he weather co-operates this week as we ride to Relay for our second ride o
  f the season\n\n. Approximately 12-15 km route social ride. Hope to see yo
- u there!\nCreated by: Alex Lenarduzzi\nURL: https://www.facebook.com/event
- s/1907484159765509/
+ u there!\nCreated by: Alex Lenarduzzi\nEvent is in the past.\nURL: https:/
+ /www.facebook.com/events/1907484159765509/
 LOCATION:New Hope Community Bikes\, 1249 Main Street East\, Hamilton Ontar
  io
 URL:https://www.facebook.com/events/1907484159765509/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tour de Cafe - October 18
-DTSTART;TZID=America/Toronto:20251018T080000
-DTEND;TZID=America/Toronto:20251018T100000
-DTSTAMP:20260605T070258Z
-UID:63ae1f27-7940-5a3a-849a-17b97ae4291e
-DESCRIPTION:Join us for a Tour de Cafe ride on October 11th at 8am!\nTour 
- de Cafe is a novice cycling group ride for women/folks identifying as wome
- n. Each group ride incorporates knowledge about bikes and safe cycling wit
- h a ride to a local cafe. No bike? No problem. Contact us as soon as possi
- ble!\nCreated by: New Hope Bikes\nEvent is in the past.\nURL: https://www.
- facebook.com/events/1936571343795753/
-LOCATION:New Hope Community Bikes\, 1249 Main Street East\, Hamilton Ontar
- io
-URL:https://www.facebook.com/events/1936571343795753/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Season Kickoff Ride to Pinch Cafe
 DTSTART;TZID=America/Toronto:20260509T080000
 DTEND;TZID=America/Toronto:20260509T100000
-DTSTAMP:20260605T070259Z
+DTSTAMP:20260607T070222Z
 UID:8fa3cf23-acec-5d73-aee3-176f08e94762
 DESCRIPTION:Welcome back riders! Tour de Cafe kicks off the 2026 season Ma
  y 9 (we meet at 8am behind the shop).\nCreated by: Alex Lenarduzzi\nEvent 
@@ -104,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de Cafe - Ride to Cafe Baffico
 DTSTART;TZID=America/Toronto:20260523T080000
 DTEND;TZID=America/Toronto:20260523T100000
-DTSTAMP:20260605T070301Z
+DTSTAMP:20260607T070222Z
 UID:bb52a43a-18a6-5d78-ab2b-b76d063d0211
 DESCRIPTION:Join us for the second Tour de Cafe ride of the season! We’l
  l be riding to Cafe Baffico. To help with efficiency at the cafe\, please 

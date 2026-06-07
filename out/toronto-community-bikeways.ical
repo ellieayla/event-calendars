@@ -177,6 +177,19 @@ URL:https://www.communitybikewaysto.ca/events/willowdale-community-bike-ri
  de
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Islington Bike Day
+DTSTART:20260620T140000Z
+DTEND:20260620T180000Z
+DTSTAMP:20260605T204242Z
+UID:57593424-66c1-5818-991b-456a912838af
+DESCRIPTION:\nURL: https://www.communitybikewaysto.ca/events/f7he4kh57hzu5
+ winjaylmc8o20464h
+LOCATION:Mabelle Park\, 38 Mabelle Avenue\, Toronto\, Ontario\, M9A 5B1\, 
+ Canada
+URL:https://www.communitybikewaysto.ca/events/f7he4kh57hzu5winjaylmc8o2046
+ 4h
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Taking Action on Cycling Safety
 DTSTART:20251115T190000Z
 DTEND:20251115T210000Z
@@ -379,10 +392,10 @@ URL:https://www.communitybikewaysto.ca/events/87cj2keh2z8tk4ayu32jdpzjys2x
  7l
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chalk My Walk Ride
+SUMMARY:Chalk My Walk Ride *POSTPONED*
 DTSTART:20260606T170000Z
 DTEND:20260606T180000Z
-DTSTAMP:20260603T033202Z
+DTSTAMP:20260605T204400Z
 UID:a8d29111-d887-5faf-826f-22271ecad6e9
 DESCRIPTION:\nURL: https://www.communitybikewaysto.ca/events/chalk-my-walk
  -1
