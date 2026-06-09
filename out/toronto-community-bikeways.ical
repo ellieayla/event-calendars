@@ -5,35 +5,6 @@ METHOD:PUBLISH
 NAME:Toronto Community Bikeways
 X-WR-CALNAME:Toronto Community Bikeways
 BEGIN:VEVENT
-SUMMARY:Earth Day Ride in North York
-DTSTART:20250426T140000Z
-DTEND:20250426T153000Z
-DTSTAMP:20250424T210048Z
-UID:02531c17-c594-5665-adf4-894676eeeb0a
-DESCRIPTION:Join us for a leisurely 9km ride around North York to explore 
- some local streets and the unfolding story about planned changes to make Y
- onge Street more people-friendly. Meet at the parkette at the corner of Yo
- nge Street and Park Home Avenue (in front of Aroma Espresso\, one block no
- rth of the North York Civic Centre). If arriving from outside North York\,
-  consider taking the TTC and renting a Bike Share bike nearby. (https://ww
- w.facebook.com/events/526071400571287/?post_id=528408233670937&view=permal
- ink&notif_id=1745329422975867&notif_t=feedback_reaction_generic&ref=notif)
-  Details here.\n\n#block-cc6ed61133ef916c7cce { --stroke-style: none\;--st
- roke-thickness: 6px\; --tweak-text-block-background-color: initial\; } #bl
- ock-cc6ed61133ef916c7cce .sqs-html-content { --tweak-text-block-padding: 6
- % 6% 6% 6%\; --tweak-text-block-padding: initial\; } #block-cc6ed61133ef91
- 6c7cce { mix-blend-mode: var(--tweak-text-block-blend )\; border-radius: v
- ar(--tweak-text-block-radius)\; } #block-cc6ed61133ef916c7cce { --tweak-te
- xt-block-radius: 0px 0px 0px 0px\; } #block-cc6ed61133ef916c7cce { } @medi
- a screen and (max-width: 767px) { #block-cc6ed61133ef916c7cce { } } @media
-  screen and (max-width: 767px) { #block-cc6ed61133ef916c7cce .sqs-html-con
- tent { } } @media screen and (max-width: 767px) { }\nURL: https://www.comm
- unitybikewaysto.ca/events/earth-day-ride-in-north-york
-LOCATION:Aroma Espresso Bar\, 8 Park Home Avenue\, Toronto\, ON\, M2N 0J4\
- , Canada
-URL:https://www.communitybikewaysto.ca/events/earth-day-ride-in-north-york
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Koffee On The Kingsway (Biweekly) 
 DTSTART:20250606T113000Z
 DTEND:20250606T131500Z
