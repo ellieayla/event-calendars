@@ -57,38 +57,10 @@ TZOFFSETTO:-0500
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Lane Swim - Ron Edwards - Thursday 7:30 AM
-DTSTART;TZID=America/Toronto:20260611T073000
-DTEND;TZID=America/Toronto:20260611T130000
-DTSTAMP:20260611T071524Z
-UID:00d4e8be-9eae-5ebf-81af-7b6cc03b7bab
-DESCRIPTION:Lane Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
- st/DIV-001/?instanceCode=INST-370031\nFacility: Ron Edwards Family YMCA\nC
- ategory: Lane Swim
-LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
-  L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-370031
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Swim - Ron Edwards - Friday 2:30 PM
-DTSTART;TZID=America/Toronto:20260612T143000
-DTEND;TZID=America/Toronto:20260612T153000
-DTSTAMP:20260611T071524Z
-UID:049d8879-8927-522c-bb83-f6ccb646afbe
-DESCRIPTION:Open Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
- st/DIV-001/?instanceCode=INST-370045\nFacility: Ron Edwards Family YMCA\nC
- ategory: Open Swim
-LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
-  L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-370045
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bodyfit - Ron Edwards - Tuesday 9:15 AM
 DTSTART;TZID=America/Toronto:20260616T091500
 DTEND;TZID=America/Toronto:20260616T100000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:0af290df-6e42-5f5a-947e-6e049c6562c3
 DESCRIPTION:Bodyfit\n\nURL: https://ymcahbb.my.site.com/#/app/program/list
  /DIV-001/?instanceCode=INST-370084\nFacility: Ron Edwards Family YMCA\nCat
@@ -102,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:Open Racquetball - Ron Edwards - Monday 6:00 AM
 DTSTART;TZID=America/Toronto:20260615T060000
 DTEND;TZID=America/Toronto:20260615T173000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:0c03a03d-c7bc-5e1b-9917-bbbd3fdded46
 DESCRIPTION:Racquetball\n\nURL: https://ymcahbb.my.site.com/#/app/program/
  list/DIV-001/?instanceCode=INST-370077\nFacility: Ron Edwards Family YMCA\
@@ -116,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:Open Swim - Ron Edwards - Wednesday 7:30 PM
 DTSTART;TZID=America/Toronto:20260617T193000
 DTEND;TZID=America/Toronto:20260617T201000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:0c736eb2-b2be-57d5-ad39-0828848d72da
 DESCRIPTION:Open Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-370119\nFacility: Ron Edwards Family YMCA\nC
@@ -130,7 +102,7 @@ BEGIN:VEVENT
 SUMMARY:Open Family Swim - Ron Edwards - Sunday 1:15 PM
 DTSTART;TZID=America/Toronto:20260614T131500
 DTEND;TZID=America/Toronto:20260614T144500
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070033Z
 UID:0d33d41a-3691-5b09-a6c9-8898e7531f1c
 DESCRIPTION:Family Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/
  list/DIV-001/?instanceCode=INST-370063\nFacility: Ron Edwards Family YMCA\
@@ -141,38 +113,10 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-370063
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Line Dancing - Ron Edwards - Friday 9:00 AM
-DTSTART;TZID=America/Toronto:20260612T090000
-DTEND;TZID=America/Toronto:20260612T100000
-DTSTAMP:20260611T071524Z
-UID:0f815289-9e37-59cc-8c40-243f6a18aef4
-DESCRIPTION:Line Dancing\n\nURL: https://ymcahbb.my.site.com/#/app/program
- /list/DIV-001/?instanceCode=INST-370039\nFacility: Ron Edwards Family YMCA
- \nCategory: Line Dancing
-LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
-  L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-370039
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Swim - Ron Edwards - Friday 7:30 PM
-DTSTART;TZID=America/Toronto:20260612T193000
-DTEND;TZID=America/Toronto:20260612T211500
-DTSTAMP:20260611T071524Z
-UID:11af2db8-00a4-5335-8769-2d03e4a2ed2c
-DESCRIPTION:Open Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
- st/DIV-001/?instanceCode=INST-370046\nFacility: Ron Edwards Family YMCA\nC
- ategory: Open Swim
-LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
-  L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-370046
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lane Swim - Ron Edwards - Tuesday 7:30 AM
 DTSTART;TZID=America/Toronto:20260616T073000
 DTEND;TZID=America/Toronto:20260616T130000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:14e67599-142f-5302-b250-2c387bebd86d
 DESCRIPTION:Lane Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-370097\nFacility: Ron Edwards Family YMCA\nC
@@ -183,10 +127,24 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-370097
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Zumba - Ron Edwards - Thursday 7:15 PM
+DTSTART;TZID=America/Toronto:20260618T191500
+DTEND;TZID=America/Toronto:20260618T201500
+DTSTAMP:20260613T070035Z
+UID:16b35f48-c254-5330-bd1a-f18d966e79dd
+DESCRIPTION:Zumba\n\nURL: https://ymcahbb.my.site.com/#/app/program/list/D
+ IV-001/?instanceCode=INST-370122\nFacility: Ron Edwards Family YMCA\nCateg
+ ory: Zumba
+LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
+  L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-370122
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Open Swim - Ron Edwards - Sunday 2:45 PM
 DTSTART;TZID=America/Toronto:20260614T144500
 DTEND;TZID=America/Toronto:20260614T154500
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070033Z
 UID:18bc0f44-10d9-549c-8c01-f3f076376505
 DESCRIPTION:Open Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-370064\nFacility: Ron Edwards Family YMCA\nC
@@ -200,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga - Ron Edwards - Monday 10:15 AM
 DTSTART;TZID=America/Toronto:20260615T101500
 DTEND;TZID=America/Toronto:20260615T114500
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:19108962-f512-50ae-b70f-ee07a402a2dc
 DESCRIPTION:Yoga\n\nURL: https://ymcahbb.my.site.com/#/app/program/list/DI
  V-001/?instanceCode=INST-370074\nFacility: Ron Edwards Family YMCA\nCatego
@@ -214,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:Lane Swim - Ron Edwards - Tuesday 2:30 PM
 DTSTART;TZID=America/Toronto:20260616T143000
 DTEND;TZID=America/Toronto:20260616T153000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:195b7347-2136-5092-a9eb-ae1d4755618e
 DESCRIPTION:Lane Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-370099\nFacility: Ron Edwards Family YMCA\nC
@@ -228,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:Cardio Kickboxing - Ron Edwards - Monday 7:00 PM
 DTSTART;TZID=America/Toronto:20260615T190000
 DTEND;TZID=America/Toronto:20260615T194500
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:1b34a16e-3c6d-5212-a1e5-5ed3d7741ed5
 DESCRIPTION:Yoga\n\nURL: https://ymcahbb.my.site.com/#/app/program/list/DI
  V-001/?instanceCode=INST-370075\nFacility: Ron Edwards Family YMCA\nCatego
@@ -239,24 +197,24 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-370075
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lane Swim - Ron Edwards - Friday 10:30 AM
-DTSTART;TZID=America/Toronto:20260612T103000
-DTEND;TZID=America/Toronto:20260612T143000
-DTSTAMP:20260611T071524Z
-UID:24a5dde6-15c0-5313-bfd3-4642790e0a38
-DESCRIPTION:Lane Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
- st/DIV-001/?instanceCode=INST-370044\nFacility: Ron Edwards Family YMCA\nC
- ategory: Lane Swim
+SUMMARY:Open Swim - Ron Edwards - Friday 2:30 PM
+DTSTART;TZID=America/Toronto:20260619T143000
+DTEND;TZID=America/Toronto:20260619T153000
+DTSTAMP:20260613T070035Z
+UID:1e8d4469-0447-59d3-a181-619ec89cf2fb
+DESCRIPTION:Open Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
+ st/DIV-001/?instanceCode=INST-370143\nFacility: Ron Edwards Family YMCA\nC
+ ategory: Open Swim
 LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
   L7R 2X2
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-370044
+ NST-370143
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Low Impact - Ron Edwards - Tuesday 10:15 AM
 DTSTART;TZID=America/Toronto:20260616T101500
 DTEND;TZID=America/Toronto:20260616T110000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:25c160f3-7fa8-57eb-b33a-7af021488aa2
 DESCRIPTION:Low Impact\n\nURL: https://ymcahbb.my.site.com/#/app/program/l
  ist/DIV-001/?instanceCode=INST-370085\nFacility: Ron Edwards Family YMCA\n
@@ -267,10 +225,24 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-370085
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MuscleFit - Ron Edwards - Friday 9:15 AM
+DTSTART;TZID=America/Toronto:20260619T091500
+DTEND;TZID=America/Toronto:20260619T100000
+DTSTAMP:20260613T070035Z
+UID:27d9ffca-30e6-5731-b46a-1f476e838404
+DESCRIPTION:MuscleFit\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
+ st/DIV-001/?instanceCode=INST-370133\nFacility: Ron Edwards Family YMCA\nC
+ ategory: MuscleFit
+LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
+  L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-370133
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CycleFit - Ron Edwards - Wednesday 7:00 PM
 DTSTART;TZID=America/Toronto:20260617T190000
 DTEND;TZID=America/Toronto:20260617T194500
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:29d2f61e-261d-5ac3-8c0d-dbfe2ba12f96
 DESCRIPTION:CycleFit\n\nURL: https://ymcahbb.my.site.com/#/app/program/lis
  t/DIV-001/?instanceCode=INST-370108\nFacility: Ron Edwards Family YMCA\nCa
@@ -284,7 +256,7 @@ BEGIN:VEVENT
 SUMMARY:Hydrotherapy - Ron Edwards - Tuesday 1:15 PM
 DTSTART;TZID=America/Toronto:20260616T131500
 DTEND;TZID=America/Toronto:20260616T140000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:2ca70045-86a9-51d5-81b3-8117ebaad90d
 DESCRIPTION:Hydrotherapy\n\nURL: https://ymcahbb.my.site.com/#/app/program
  /list/DIV-001/?instanceCode=INST-370098\nFacility: Ron Edwards Family YMCA
@@ -298,7 +270,7 @@ BEGIN:VEVENT
 SUMMARY:Core Fit - Ron Edwards - Saturday 10:15 AM
 DTSTART;TZID=America/Toronto:20260613T101500
 DTEND;TZID=America/Toronto:20260613T104500
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070033Z
 UID:2cd6c533-f426-538a-a479-8cf907a8626b
 DESCRIPTION:CORE FIT\n\nURL: https://ymcahbb.my.site.com/#/app/program/lis
  t/DIV-001/?instanceCode=INST-370051\nFacility: Ron Edwards Family YMCA\nCa
@@ -309,38 +281,24 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-370051
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:GentleFit - Ron Edwards - Thursday 10:15 AM
-DTSTART;TZID=America/Toronto:20260611T101500
-DTEND;TZID=America/Toronto:20260611T110000
-DTSTAMP:20260611T071524Z
-UID:2d4415af-537c-5065-914c-e8e53c48b1d3
-DESCRIPTION:GentleFit\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
- st/DIV-001/?instanceCode=INST-370028\nFacility: Ron Edwards Family YMCA\nC
- ategory: GentleFit
+SUMMARY:CycleFit VIBES - Ron Edwards - Thursday 7:15 PM
+DTSTART;TZID=America/Toronto:20260618T191500
+DTEND;TZID=America/Toronto:20260618T200000
+DTSTAMP:20260613T070035Z
+UID:319bcca5-7f30-506a-999b-8c4673fe6d7f
+DESCRIPTION:CycleFit VIBES\n\nURL: https://ymcahbb.my.site.com/#/app/progr
+ am/list/DIV-001/?instanceCode=INST-370125\nFacility: Ron Edwards Family YM
+ CA\nCategory: CycleFit VIBES
 LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
   L7R 2X2
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-370028
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lane Swim - Ron Edwards - Friday 7:30 AM
-DTSTART;TZID=America/Toronto:20260612T073000
-DTEND;TZID=America/Toronto:20260612T090000
-DTSTAMP:20260611T071524Z
-UID:31966242-730c-5c58-8118-7449b2cbe4a2
-DESCRIPTION:Lane Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
- st/DIV-001/?instanceCode=INST-370042\nFacility: Ron Edwards Family YMCA\nC
- ategory: Lane Swim
-LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
-  L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-370042
+ NST-370125
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open Courts - Ron Edwards - Saturday 8:00 AM
 DTSTART;TZID=America/Toronto:20260613T080000
 DTEND;TZID=America/Toronto:20260613T100000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070033Z
 UID:32094225-2486-5a4d-9084-88c1399621ce
 DESCRIPTION:Racquetball\n\nURL: https://ymcahbb.my.site.com/#/app/program/
  list/DIV-001/?instanceCode=INST-370053\nFacility: Ron Edwards Family YMCA\
@@ -354,7 +312,7 @@ BEGIN:VEVENT
 SUMMARY:Zumba - Ron Edwards - Saturday 10:30 AM
 DTSTART;TZID=America/Toronto:20260613T103000
 DTEND;TZID=America/Toronto:20260613T113000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070033Z
 UID:329780c6-148e-5779-abe2-79d28c399749
 DESCRIPTION:Zumba\n\nURL: https://ymcahbb.my.site.com/#/app/program/list/D
  IV-001/?instanceCode=INST-370052\nFacility: Ron Edwards Family YMCA\nCateg
@@ -368,7 +326,7 @@ BEGIN:VEVENT
 SUMMARY:Open Swim - Ron Edwards - Wednesday 2:00 PM
 DTSTART;TZID=America/Toronto:20260617T140000
 DTEND;TZID=America/Toronto:20260617T150000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:3455a53f-1dd8-5b79-821a-a4d308ef96c0
 DESCRIPTION:Open Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-370118\nFacility: Ron Edwards Family YMCA\nC
@@ -382,7 +340,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga - Ron Edwards - Sunday 9:15 AM
 DTSTART;TZID=America/Toronto:20260614T091500
 DTEND;TZID=America/Toronto:20260614T101500
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070033Z
 UID:3641dd9d-3d69-5ee0-bf61-18af9900e370
 DESCRIPTION:Yoga\n\nURL: https://ymcahbb.my.site.com/#/app/program/list/DI
  V-001/?instanceCode=INST-370059\nFacility: Ron Edwards Family YMCA\nCatego
@@ -393,24 +351,24 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-370059
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CycleFit - Ron Edwards - Thursday 9:15 AM
-DTSTART;TZID=America/Toronto:20260611T091500
-DTEND;TZID=America/Toronto:20260611T100000
-DTSTAMP:20260611T071524Z
-UID:36df05cf-3295-5ab4-914d-97b9dcdb0c01
-DESCRIPTION:CycleFit\n\nURL: https://ymcahbb.my.site.com/#/app/program/lis
- t/DIV-001/?instanceCode=INST-370026\nFacility: Ron Edwards Family YMCA\nCa
- tegory: CycleFit
+SUMMARY:Line Dancing - Ron Edwards - Friday 9:00 AM
+DTSTART;TZID=America/Toronto:20260619T090000
+DTEND;TZID=America/Toronto:20260619T100000
+DTSTAMP:20260613T070035Z
+UID:38f69356-1a10-5057-885e-6f48e79b6048
+DESCRIPTION:Line Dancing\n\nURL: https://ymcahbb.my.site.com/#/app/program
+ /list/DIV-001/?instanceCode=INST-370137\nFacility: Ron Edwards Family YMCA
+ \nCategory: Line Dancing
 LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
   L7R 2X2
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-370026
+ NST-370137
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open Courts - Ron Edwards - Tuesday 7:00 PM
 DTSTART;TZID=America/Toronto:20260616T190000
 DTEND;TZID=America/Toronto:20260616T213000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:4023779c-721b-58a3-81a5-df73f1cd0095
 DESCRIPTION:Racquetball\n\nURL: https://ymcahbb.my.site.com/#/app/program/
  list/DIV-001/?instanceCode=INST-370096\nFacility: Ron Edwards Family YMCA\
@@ -424,7 +382,7 @@ BEGIN:VEVENT
 SUMMARY:Open Swim - Ron Edwards - Monday 2:00 PM
 DTSTART;TZID=America/Toronto:20260615T140000
 DTEND;TZID=America/Toronto:20260615T154500
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:406fa856-c023-5ab0-a709-b174421287e6
 DESCRIPTION:Open Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-370082\nFacility: Ron Edwards Family YMCA\nC
@@ -435,25 +393,11 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-370082
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AquaFit - Ron Edwards - Friday 9:15 AM
-DTSTART;TZID=America/Toronto:20260612T091500
-DTEND;TZID=America/Toronto:20260612T100000
-DTSTAMP:20260611T071524Z
-UID:43876add-809f-5298-8e70-5350fe6fd07c
-DESCRIPTION:AquaFit\n\nURL: https://ymcahbb.my.site.com/#/app/program/list
- /DIV-001/?instanceCode=INST-370043\nFacility: Ron Edwards Family YMCA\nCat
- egory: AquaFit
-LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
-  L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-370043
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:In Motion Education - Topic: Meet your healthcare team - Anne Svet
  ik-Jones\, Phys
 DTSTART;TZID=America/Toronto:20260616T110000
 DTEND;TZID=America/Toronto:20260616T120000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:465262a6-8cfc-5cd7-bfe9-98cac89378a2
 DESCRIPTION:In Motion Education\n\nURL: https://ymcahbb.my.site.com/#/app/
  program/list/DIV-001/?instanceCode=INST-368369\nFacility: Ron Edwards Fami
@@ -464,10 +408,24 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-368369
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CycleFit - Ron Edwards - Thursday 9:15 AM
+DTSTART;TZID=America/Toronto:20260618T091500
+DTEND;TZID=America/Toronto:20260618T100000
+DTSTAMP:20260613T070035Z
+UID:481f30c3-59ad-57f5-a009-b39051cd0c69
+DESCRIPTION:CycleFit\n\nURL: https://ymcahbb.my.site.com/#/app/program/lis
+ t/DIV-001/?instanceCode=INST-370124\nFacility: Ron Edwards Family YMCA\nCa
+ tegory: CycleFit
+LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
+  L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-370124
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lane Swim - Ron Edwards - Saturday 8:00 AM
 DTSTART;TZID=America/Toronto:20260613T080000
 DTEND;TZID=America/Toronto:20260613T091500
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070033Z
 UID:4c14676c-2e36-5a2d-97bb-4df59378c8f1
 DESCRIPTION:Lane Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-370055\nFacility: Ron Edwards Family YMCA\nC
@@ -481,7 +439,7 @@ BEGIN:VEVENT
 SUMMARY:Family Swim - Ron Edwards - Saturday 1:15 PM
 DTSTART;TZID=America/Toronto:20260613T131500
 DTEND;TZID=America/Toronto:20260613T150000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070033Z
 UID:4d5932a4-042f-5fe7-970c-bc45658f4712
 DESCRIPTION:Family Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/
  list/DIV-001/?instanceCode=INST-370056\nFacility: Ron Edwards Family YMCA\
@@ -495,7 +453,7 @@ BEGIN:VEVENT
 SUMMARY:MuscleFit - Ron Edwards - Monday 10:15 AM
 DTSTART;TZID=America/Toronto:20260615T101500
 DTEND;TZID=America/Toronto:20260615T110000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:4d803873-4dfc-5f33-9b91-2344d06cc85d
 DESCRIPTION:MuscleFit\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-370067\nFacility: Ron Edwards Family YMCA\nC
@@ -506,10 +464,52 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-370067
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lane Swim - Ron Edwards - Thursday 7:45 PM
+DTSTART;TZID=America/Toronto:20260618T194500
+DTEND;TZID=America/Toronto:20260618T211500
+DTSTAMP:20260613T070035Z
+UID:4e84333d-390f-551f-b044-8e2c7d092655
+DESCRIPTION:Lane Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
+ st/DIV-001/?instanceCode=INST-370132\nFacility: Ron Edwards Family YMCA\nC
+ ategory: Lane Swim
+LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
+  L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-370132
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BodyFit - Ron Edwards - Thursday 9:15 AM
+DTSTART;TZID=America/Toronto:20260618T091500
+DTEND;TZID=America/Toronto:20260618T100000
+DTSTAMP:20260613T070035Z
+UID:5035c26d-aaa9-5cb8-8c14-1a8df77795b4
+DESCRIPTION:Bodyfit\n\nURL: https://ymcahbb.my.site.com/#/app/program/list
+ /DIV-001/?instanceCode=INST-370120\nFacility: Ron Edwards Family YMCA\nCat
+ egory: Bodyfit
+LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
+  L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-370120
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lane Swim - Ron Edwards - Friday 10:30 AM
+DTSTART;TZID=America/Toronto:20260619T103000
+DTEND;TZID=America/Toronto:20260619T143000
+DTSTAMP:20260613T070035Z
+UID:534ad555-8e38-5c9c-ad23-bb83df291cf3
+DESCRIPTION:Lane Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
+ st/DIV-001/?instanceCode=INST-370142\nFacility: Ron Edwards Family YMCA\nC
+ ategory: Lane Swim
+LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
+  L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-370142
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AquaFit High Intensity - Ron Edwards - Monday 7:30 PM
 DTSTART;TZID=America/Toronto:20260615T193000
 DTEND;TZID=America/Toronto:20260615T201000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:5454c7dd-231f-59e1-963b-d68a7c529014
 DESCRIPTION:AquaFit High Intensity\n\nURL: https://ymcahbb.my.site.com/#/a
  pp/program/list/DIV-001/?instanceCode=INST-370083\nFacility: Ron Edwards F
@@ -520,10 +520,24 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-370083
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Low Impact - Ron Edawrds - Friday 10:15 AM
+DTSTART;TZID=America/Toronto:20260619T101500
+DTEND;TZID=America/Toronto:20260619T110000
+DTSTAMP:20260613T070035Z
+UID:552d2e29-5dc5-5447-a059-bba661d0f1b5
+DESCRIPTION:Low Impact\n\nURL: https://ymcahbb.my.site.com/#/app/program/l
+ ist/DIV-001/?instanceCode=INST-370134\nFacility: Ron Edwards Family YMCA\n
+ Category: Low Impact
+LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
+  L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-370134
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AquaFit - Ron Edwards - Monday 9:15 AM
 DTSTART;TZID=America/Toronto:20260615T091500
 DTEND;TZID=America/Toronto:20260615T100000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:58992d33-7f94-5887-85be-f09ebb7675c9
 DESCRIPTION:AquaFit\n\nURL: https://ymcahbb.my.site.com/#/app/program/list
  /DIV-001/?instanceCode=INST-370080\nFacility: Ron Edwards Family YMCA\nCat
@@ -537,7 +551,7 @@ BEGIN:VEVENT
 SUMMARY:Chair Yoga - Ron Edwards - Wednesday 10:30 AM
 DTSTART;TZID=America/Toronto:20260617T103000
 DTEND;TZID=America/Toronto:20260617T113000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:5ca9be9c-fed8-58d6-8947-ffc723e1e061
 DESCRIPTION:Chair Yoga\n\nURL: https://ymcahbb.my.site.com/#/app/program/l
  ist/DIV-001/?instanceCode=INST-370109\nFacility: Ron Edwards Family YMCA\n
@@ -548,24 +562,24 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-370109
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lane Swim - Ron Edwards - Thursday 2:30 PM
-DTSTART;TZID=America/Toronto:20260611T143000
-DTEND;TZID=America/Toronto:20260611T153000
-DTSTAMP:20260611T071524Z
-UID:6093221b-dae4-5890-82cc-fb1d2d8e42e8
-DESCRIPTION:Lane Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
- st/DIV-001/?instanceCode=INST-370033\nFacility: Ron Edwards Family YMCA\nC
- ategory: Lane Swim
+SUMMARY:Hydrotherapy - Ron Edwards - Thursday 1:15 PM
+DTSTART;TZID=America/Toronto:20260618T131500
+DTEND;TZID=America/Toronto:20260618T140000
+DTSTAMP:20260613T070035Z
+UID:635af5b6-dfc1-5985-beb6-20708d7e9c96
+DESCRIPTION:Hydrotherapy\n\nURL: https://ymcahbb.my.site.com/#/app/program
+ /list/DIV-001/?instanceCode=INST-370130\nFacility: Ron Edwards Family YMCA
+ \nCategory: Hydrotherapy
 LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
   L7R 2X2
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-370033
+ NST-370130
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Homeschool Program - Ron Edwards - Tuesday 1:30 PM
 DTSTART;TZID=America/Toronto:20260407T133000
 DTEND;TZID=America/Toronto:20260407T150000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:667708fd-cd4b-5269-a3ca-3a22091a4b46
 DESCRIPTION:Homeschool Program\n\nURL: https://ymcahbb.my.site.com/#/app/p
  rogram/list/DIV-001/?instanceCode=INST-367685\nFacility: Ron Edwards Famil
@@ -576,10 +590,24 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-367685
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Open Courts - Ron Edwards - Thursday 6:00 AM
+DTSTART;TZID=America/Toronto:20260618T060000
+DTEND;TZID=America/Toronto:20260618T173000
+DTSTAMP:20260613T070035Z
+UID:6e627ba2-011d-5b4e-b3c3-21e578355ccc
+DESCRIPTION:Racquetball\n\nURL: https://ymcahbb.my.site.com/#/app/program/
+ list/DIV-001/?instanceCode=INST-370127\nFacility: Ron Edwards Family YMCA\
+ nCategory: Racquetball
+LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
+  L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-370127
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lane Swim - Ron Edwards - Wednesday 7:30 AM
 DTSTART;TZID=America/Toronto:20260617T073000
 DTEND;TZID=America/Toronto:20260617T090000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:725ab289-8002-5dee-b213-5ae17804017f
 DESCRIPTION:Lane Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-370115\nFacility: Ron Edwards Family YMCA\nC
@@ -593,7 +621,7 @@ BEGIN:VEVENT
 SUMMARY:Walk Fit - Ron Edwards - Wednesday 11:15 AM
 DTSTART;TZID=America/Toronto:20260617T111500
 DTEND;TZID=America/Toronto:20260617T120000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:76112097-966b-597d-a685-4794916cfc3e
 DESCRIPTION:Walk Fit\n\nURL: https://ymcahbb.my.site.com/#/app/program/lis
  t/DIV-001/?instanceCode=INST-370102\nFacility: Ron Edwards Family YMCA\nCa
@@ -607,7 +635,7 @@ BEGIN:VEVENT
 SUMMARY:30/30 - Ron Edwards - Wednesday 9:15 AM
 DTSTART;TZID=America/Toronto:20260617T091500
 DTEND;TZID=America/Toronto:20260617T101500
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:7fdbdd8b-39b9-5805-b8d6-4f1de959ba38
 DESCRIPTION:30/30\n\nURL: https://ymcahbb.my.site.com/#/app/program/list/D
  IV-001/?instanceCode=INST-370101\nFacility: Ron Edwards Family YMCA\nCateg
@@ -618,24 +646,10 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-370101
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lane Swim - Ron Edwards - Friday 7:30 PM
-DTSTART;TZID=America/Toronto:20260612T193000
-DTEND;TZID=America/Toronto:20260612T211500
-DTSTAMP:20260611T071524Z
-UID:819b750e-c0b2-5a4a-8ffc-ef81fd858535
-DESCRIPTION:Lane Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
- st/DIV-001/?instanceCode=INST-370047\nFacility: Ron Edwards Family YMCA\nC
- ategory: Lane Swim
-LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
-  L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-370047
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Zumba - Ron Edwards - Tuesday 7:15 PM
 DTSTART;TZID=America/Toronto:20260616T191500
 DTEND;TZID=America/Toronto:20260616T201500
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:82a589c4-e2bd-5abd-b995-ffa36a5fcefc
 DESCRIPTION:Zumba\n\nURL: https://ymcahbb.my.site.com/#/app/program/list/D
  IV-001/?instanceCode=INST-370087\nFacility: Ron Edwards Family YMCA\nCateg
@@ -646,10 +660,24 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-370087
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AquaFit - Ron Edwards - Friday 9:15 AM
+DTSTART;TZID=America/Toronto:20260619T091500
+DTEND;TZID=America/Toronto:20260619T100000
+DTSTAMP:20260613T070035Z
+UID:85bd3b67-40d7-564c-83b0-ca00c26dcfc1
+DESCRIPTION:AquaFit\n\nURL: https://ymcahbb.my.site.com/#/app/program/list
+ /DIV-001/?instanceCode=INST-370141\nFacility: Ron Edwards Family YMCA\nCat
+ egory: AquaFit
+LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
+  L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-370141
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ViPR - Ron Edwards - Monday 7:15 PM
 DTSTART;TZID=America/Toronto:20260615T191500
 DTEND;TZID=America/Toronto:20260615T200000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:85cd2bf9-121c-5c07-a60b-eee007a6fd3f
 DESCRIPTION:ViPR Pro\n\nURL: https://ymcahbb.my.site.com/#/app/program/lis
  t/DIV-001/?instanceCode=INST-370076\nFacility: Ron Edwards Family YMCA\nCa
@@ -661,65 +689,9 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:In Motion Exercise Program - Ron Edwards
-DTSTART;TZID=America/Toronto:20260106T080000
-DTEND;TZID=America/Toronto:20260106T220000
-DTSTAMP:20260611T071526Z
-UID:88fd23b9-12fc-5808-93ac-1da47a1be488
-DESCRIPTION:In Motion Exercise Program\n\nURL: https://ymcahbb.my.site.com
- /#/app/program/list/DIV-001/?instanceCode=INST-366757\nFacility: Ron Edwar
- ds Family YMCA\nCategory: In Motion Exercise Program
-LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
-  L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-366757
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:In Motion Exercise Program - Ron Edwards
-DTSTART;TZID=America/Toronto:20260106T080000
-DTEND;TZID=America/Toronto:20260106T220000
-DTSTAMP:20260611T071526Z
-UID:88fd23b9-12fc-5808-93ac-1da47a1be488
-DESCRIPTION:In Motion Exercise Program\n\nURL: https://ymcahbb.my.site.com
- /#/app/program/list/DIV-001/?instanceCode=INST-366757\nFacility: Ron Edwar
- ds Family YMCA\nCategory: In Motion Exercise Program
-LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
-  L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-366757
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:In Motion Exercise Program - Ron Edwards
 DTSTART;TZID=America/Toronto:20260107T080000
 DTEND;TZID=America/Toronto:20260107T220000
-DTSTAMP:20260611T071526Z
-UID:88fd23b9-12fc-5808-93ac-1da47a1be488
-DESCRIPTION:In Motion Exercise Program\n\nURL: https://ymcahbb.my.site.com
- /#/app/program/list/DIV-001/?instanceCode=INST-366757\nFacility: Ron Edwar
- ds Family YMCA\nCategory: In Motion Exercise Program
-LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
-  L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-366757
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:In Motion Exercise Program - Ron Edwards
-DTSTART;TZID=America/Toronto:20260107T080000
-DTEND;TZID=America/Toronto:20260107T220000
-DTSTAMP:20260611T071526Z
-UID:88fd23b9-12fc-5808-93ac-1da47a1be488
-DESCRIPTION:In Motion Exercise Program\n\nURL: https://ymcahbb.my.site.com
- /#/app/program/list/DIV-001/?instanceCode=INST-366757\nFacility: Ron Edwar
- ds Family YMCA\nCategory: In Motion Exercise Program
-LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
-  L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-366757
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:In Motion Exercise Program - Ron Edwards
-DTSTART;TZID=America/Toronto:20260107T080000
-DTEND;TZID=America/Toronto:20260107T220000
-DTSTAMP:20260611T071527Z
+DTSTAMP:20260613T070035Z
 UID:88fd23b9-12fc-5808-93ac-1da47a1be488
 DESCRIPTION:In Motion Exercise Program\n\nURL: https://ymcahbb.my.site.com
  /#/app/program/list/DIV-001/?instanceCode=INST-366757\nFacility: Ron Edwar
@@ -733,7 +705,7 @@ BEGIN:VEVENT
 SUMMARY:In Motion Exercise Program - Ron Edwards
 DTSTART;TZID=America/Toronto:20260106T080000
 DTEND;TZID=America/Toronto:20260106T220000
-DTSTAMP:20260611T071528Z
+DTSTAMP:20260613T070035Z
 UID:88fd23b9-12fc-5808-93ac-1da47a1be488
 DESCRIPTION:In Motion Exercise Program\n\nURL: https://ymcahbb.my.site.com
  /#/app/program/list/DIV-001/?instanceCode=INST-366757\nFacility: Ron Edwar
@@ -747,7 +719,7 @@ BEGIN:VEVENT
 SUMMARY:In Motion Exercise Program - Ron Edwards
 DTSTART;TZID=America/Toronto:20260106T080000
 DTEND;TZID=America/Toronto:20260106T220000
-DTSTAMP:20260611T071528Z
+DTSTAMP:20260613T070035Z
 UID:88fd23b9-12fc-5808-93ac-1da47a1be488
 DESCRIPTION:In Motion Exercise Program\n\nURL: https://ymcahbb.my.site.com
  /#/app/program/list/DIV-001/?instanceCode=INST-366757\nFacility: Ron Edwar
@@ -761,7 +733,63 @@ BEGIN:VEVENT
 SUMMARY:In Motion Exercise Program - Ron Edwards
 DTSTART;TZID=America/Toronto:20260107T080000
 DTEND;TZID=America/Toronto:20260107T220000
-DTSTAMP:20260611T071528Z
+DTSTAMP:20260613T070035Z
+UID:88fd23b9-12fc-5808-93ac-1da47a1be488
+DESCRIPTION:In Motion Exercise Program\n\nURL: https://ymcahbb.my.site.com
+ /#/app/program/list/DIV-001/?instanceCode=INST-366757\nFacility: Ron Edwar
+ ds Family YMCA\nCategory: In Motion Exercise Program
+LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
+  L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-366757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In Motion Exercise Program - Ron Edwards
+DTSTART;TZID=America/Toronto:20260106T080000
+DTEND;TZID=America/Toronto:20260106T220000
+DTSTAMP:20260613T070036Z
+UID:88fd23b9-12fc-5808-93ac-1da47a1be488
+DESCRIPTION:In Motion Exercise Program\n\nURL: https://ymcahbb.my.site.com
+ /#/app/program/list/DIV-001/?instanceCode=INST-366757\nFacility: Ron Edwar
+ ds Family YMCA\nCategory: In Motion Exercise Program
+LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
+  L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-366757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In Motion Exercise Program - Ron Edwards
+DTSTART;TZID=America/Toronto:20260106T080000
+DTEND;TZID=America/Toronto:20260106T220000
+DTSTAMP:20260613T070036Z
+UID:88fd23b9-12fc-5808-93ac-1da47a1be488
+DESCRIPTION:In Motion Exercise Program\n\nURL: https://ymcahbb.my.site.com
+ /#/app/program/list/DIV-001/?instanceCode=INST-366757\nFacility: Ron Edwar
+ ds Family YMCA\nCategory: In Motion Exercise Program
+LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
+  L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-366757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In Motion Exercise Program - Ron Edwards
+DTSTART;TZID=America/Toronto:20260107T080000
+DTEND;TZID=America/Toronto:20260107T220000
+DTSTAMP:20260613T070037Z
+UID:88fd23b9-12fc-5808-93ac-1da47a1be488
+DESCRIPTION:In Motion Exercise Program\n\nURL: https://ymcahbb.my.site.com
+ /#/app/program/list/DIV-001/?instanceCode=INST-366757\nFacility: Ron Edwar
+ ds Family YMCA\nCategory: In Motion Exercise Program
+LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
+  L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-366757
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In Motion Exercise Program - Ron Edwards
+DTSTART;TZID=America/Toronto:20260107T080000
+DTEND;TZID=America/Toronto:20260107T220000
+DTSTAMP:20260613T070037Z
 UID:88fd23b9-12fc-5808-93ac-1da47a1be488
 DESCRIPTION:In Motion Exercise Program\n\nURL: https://ymcahbb.my.site.com
  /#/app/program/list/DIV-001/?instanceCode=INST-366757\nFacility: Ron Edwar
@@ -775,7 +803,7 @@ BEGIN:VEVENT
 SUMMARY:Lane Swim - Ron Edwards - Monday 7:30 AM
 DTSTART;TZID=America/Toronto:20260615T073000
 DTEND;TZID=America/Toronto:20260615T090000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:8a05e6fe-54c3-51df-b32f-32d8d9ebaa2f
 DESCRIPTION:Lane Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-370079\nFacility: Ron Edwards Family YMCA\nC
@@ -789,7 +817,7 @@ BEGIN:VEVENT
 SUMMARY:Lane Swim - Ron Edwards - Wednesday 10:30 AM
 DTSTART;TZID=America/Toronto:20260617T103000
 DTEND;TZID=America/Toronto:20260617T140000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:8af27dc7-f3f7-5441-8024-383baf8b454f
 DESCRIPTION:Lane Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-370117\nFacility: Ron Edwards Family YMCA\nC
@@ -803,7 +831,7 @@ BEGIN:VEVENT
 SUMMARY:Open Courts - Ron Edwards - Saturday 12:00 PM
 DTSTART;TZID=America/Toronto:20260613T120000
 DTEND;TZID=America/Toronto:20260613T173000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070033Z
 UID:9340355c-b7b6-5d7b-abba-b697500b5122
 DESCRIPTION:Racquetball\n\nURL: https://ymcahbb.my.site.com/#/app/program/
  list/DIV-001/?instanceCode=INST-370054\nFacility: Ron Edwards Family YMCA\
@@ -814,10 +842,24 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-370054
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lane Swim - Ron Edwards - Friday 7:30 AM
+DTSTART;TZID=America/Toronto:20260619T073000
+DTEND;TZID=America/Toronto:20260619T090000
+DTSTAMP:20260613T070035Z
+UID:974b5e49-cd74-593a-9fde-fa57b48dd701
+DESCRIPTION:Lane Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
+ st/DIV-001/?instanceCode=INST-370140\nFacility: Ron Edwards Family YMCA\nC
+ ategory: Lane Swim
+LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
+  L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-370140
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CycleFit - Ron Edwards - Saturday 9:15 AM
 DTSTART;TZID=America/Toronto:20260613T091500
 DTEND;TZID=America/Toronto:20260613T100000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070033Z
 UID:9cbe787b-bbf1-553e-a691-5deeb6825f23
 DESCRIPTION:CycleFit\n\nURL: https://ymcahbb.my.site.com/#/app/program/lis
  t/DIV-001/?instanceCode=INST-370050\nFacility: Ron Edwards Family YMCA\nCa
@@ -828,25 +870,11 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-370050
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lane Swim - Ron Edwards - Thursday 7:45 PM
-DTSTART;TZID=America/Toronto:20260611T194500
-DTEND;TZID=America/Toronto:20260611T211500
-DTSTAMP:20260611T071524Z
-UID:a195dbe4-789c-545c-993b-20af3569be35
-DESCRIPTION:Lane Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
- st/DIV-001/?instanceCode=INST-370034\nFacility: Ron Edwards Family YMCA\nC
- ategory: Lane Swim
-LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
-  L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-370034
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:In Motion Education - Topic: Summary - Jessica Lammers\, Physiothe
  rapist
 DTSTART;TZID=America/Toronto:20260623T110000
 DTEND;TZID=America/Toronto:20260623T120000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:a49176fe-d044-5c37-99f7-75d7acc8159d
 DESCRIPTION:In Motion Education\n\nURL: https://ymcahbb.my.site.com/#/app/
  program/list/DIV-001/?instanceCode=INST-368370\nFacility: Ron Edwards Fami
@@ -860,7 +888,7 @@ BEGIN:VEVENT
 SUMMARY:Lane Swim - Ron Edwards - Saturday 3:15 PM
 DTSTART;TZID=America/Toronto:20260613T151500
 DTEND;TZID=America/Toronto:20260613T171500
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070033Z
 UID:ae12cc34-83bd-589f-a66d-091547482735
 DESCRIPTION:Lane Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-370057\nFacility: Ron Edwards Family YMCA\nC
@@ -871,24 +899,10 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-370057
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hydrotherapy - Ron Edwards - Thursday 1:15 PM
-DTSTART;TZID=America/Toronto:20260611T131500
-DTEND;TZID=America/Toronto:20260611T140000
-DTSTAMP:20260611T071524Z
-UID:b45d3841-5ba4-54b1-8600-014371200b16
-DESCRIPTION:Hydrotherapy\n\nURL: https://ymcahbb.my.site.com/#/app/program
- /list/DIV-001/?instanceCode=INST-370032\nFacility: Ron Edwards Family YMCA
- \nCategory: Hydrotherapy
-LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
-  L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-370032
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lane Swim - Ron Edwards - Monday 10:30 AM
 DTSTART;TZID=America/Toronto:20260615T103000
 DTEND;TZID=America/Toronto:20260615T140000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:b6153b4f-74f5-5629-8c0d-572e0c6c1426
 DESCRIPTION:Lane Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-370081\nFacility: Ron Edwards Family YMCA\nC
@@ -902,7 +916,7 @@ BEGIN:VEVENT
 SUMMARY:MuscleFit - Ron Edwards - Wednesday 7:00 PM
 DTSTART;TZID=America/Toronto:20260617T190000
 DTEND;TZID=America/Toronto:20260617T194500
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:b9a9659c-a1a6-590c-9352-47b6687246ff
 DESCRIPTION:MuscleFit\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-370110\nFacility: Ron Edwards Family YMCA\nC
@@ -913,24 +927,10 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-370110
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Zumba - Ron Edwards - Thursday 7:15 PM
-DTSTART;TZID=America/Toronto:20260611T191500
-DTEND;TZID=America/Toronto:20260611T201500
-DTSTAMP:20260611T071524Z
-UID:bb2b3b88-245d-5ba9-986a-2888e937ac5f
-DESCRIPTION:Zumba\n\nURL: https://ymcahbb.my.site.com/#/app/program/list/D
- IV-001/?instanceCode=INST-370024\nFacility: Ron Edwards Family YMCA\nCateg
- ory: Zumba
-LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
-  L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-370024
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CycleFit - Ron Edwards - Tuesday 9:15 AM
 DTSTART;TZID=America/Toronto:20260616T091500
 DTEND;TZID=America/Toronto:20260616T100000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:bcd53616-8adb-5dc3-af51-75b2976e68fb
 DESCRIPTION:CycleFit\n\nURL: https://ymcahbb.my.site.com/#/app/program/lis
  t/DIV-001/?instanceCode=INST-370089\nFacility: Ron Edwards Family YMCA\nCa
@@ -944,7 +944,7 @@ BEGIN:VEVENT
 SUMMARY:Open Courts - Ron Edwards - Sunday 8:00 AM
 DTSTART;TZID=America/Toronto:20260614T080000
 DTEND;TZID=America/Toronto:20260614T160000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070033Z
 UID:bde80c75-9933-5119-90cb-3532d8099ecb
 DESCRIPTION:Racquetball\n\nURL: https://ymcahbb.my.site.com/#/app/program/
  list/DIV-001/?instanceCode=INST-370061\nFacility: Ron Edwards Family YMCA\
@@ -955,38 +955,24 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-370061
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BodyFit - Ron Edwards - Thursday 9:15 AM
-DTSTART;TZID=America/Toronto:20260611T091500
-DTEND;TZID=America/Toronto:20260611T100000
-DTSTAMP:20260611T071524Z
-UID:c1fdf869-031c-56a3-a251-2b60c0dfa221
-DESCRIPTION:Bodyfit\n\nURL: https://ymcahbb.my.site.com/#/app/program/list
- /DIV-001/?instanceCode=INST-370022\nFacility: Ron Edwards Family YMCA\nCat
- egory: Bodyfit
+SUMMARY:Lane Swim - Ron Edwards - Thursday 7:30 AM
+DTSTART;TZID=America/Toronto:20260618T073000
+DTEND;TZID=America/Toronto:20260618T130000
+DTSTAMP:20260613T070035Z
+UID:bec009aa-68ad-504d-9839-1175311558d8
+DESCRIPTION:Lane Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
+ st/DIV-001/?instanceCode=INST-370129\nFacility: Ron Edwards Family YMCA\nC
+ ategory: Lane Swim
 LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
   L7R 2X2
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-370022
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Courts - Ron Edwards - Friday 6:00 AM
-DTSTART;TZID=America/Toronto:20260612T060000
-DTEND;TZID=America/Toronto:20260612T213000
-DTSTAMP:20260611T071524Z
-UID:c285ab61-9f33-5734-beac-1842e21b9adc
-DESCRIPTION:Racquetball\n\nURL: https://ymcahbb.my.site.com/#/app/program/
- list/DIV-001/?instanceCode=INST-370041\nFacility: Ron Edwards Family YMCA\
- nCategory: Racquetball
-LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
-  L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-370041
+ NST-370129
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga - Ron Edwards - Tuesday 7:00 PM
 DTSTART;TZID=America/Toronto:20260616T190000
 DTEND;TZID=America/Toronto:20260616T203000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:c2928c3d-bdb8-5f23-9532-cd28ac6186db
 DESCRIPTION:Yoga\n\nURL: https://ymcahbb.my.site.com/#/app/program/list/DI
  V-001/?instanceCode=INST-370092\nFacility: Ron Edwards Family YMCA\nCatego
@@ -997,24 +983,10 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-370092
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Low Impact - Ron Edawrds - Friday 10:15 AM
-DTSTART;TZID=America/Toronto:20260612T101500
-DTEND;TZID=America/Toronto:20260612T110000
-DTSTAMP:20260611T071524Z
-UID:c5f987d4-26c4-506e-8d82-094d7295f65e
-DESCRIPTION:Low Impact\n\nURL: https://ymcahbb.my.site.com/#/app/program/l
- ist/DIV-001/?instanceCode=INST-370036\nFacility: Ron Edwards Family YMCA\n
- Category: Low Impact
-LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
-  L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-370036
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lane Swim - Ron Edwards - Sunday 2:45 PM
 DTSTART;TZID=America/Toronto:20260614T144500
 DTEND;TZID=America/Toronto:20260614T154500
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070033Z
 UID:c76ca44d-76c0-5291-9d44-a85bb3302fa6
 DESCRIPTION:Lane Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-370065\nFacility: Ron Edwards Family YMCA\nC
@@ -1028,7 +1000,7 @@ BEGIN:VEVENT
 SUMMARY:Pilates - Ron Edwards - Wednesday 8:00 PM
 DTSTART;TZID=America/Toronto:20260617T200000
 DTEND;TZID=America/Toronto:20260617T204500
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:d1658c54-b410-57a9-a0ba-96d6cdc0beb4
 DESCRIPTION:Pilates\n\nURL: https://ymcahbb.my.site.com/#/app/program/list
  /DIV-001/?instanceCode=INST-370111\nFacility: Ron Edwards Family YMCA\nCat
@@ -1039,24 +1011,24 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-370111
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yoga - Ron Edwards - Friday 10:15 AM
-DTSTART;TZID=America/Toronto:20260612T101500
-DTEND;TZID=America/Toronto:20260612T114500
-DTSTAMP:20260611T071524Z
-UID:de332168-c8e7-523c-b114-160bbf5d8db3
-DESCRIPTION:Yoga\n\nURL: https://ymcahbb.my.site.com/#/app/program/list/DI
- V-001/?instanceCode=INST-370040\nFacility: Ron Edwards Family YMCA\nCatego
- ry: Yoga
+SUMMARY:Lane Swim - Ron Edwards - Friday 7:30 PM
+DTSTART;TZID=America/Toronto:20260619T193000
+DTEND;TZID=America/Toronto:20260619T211500
+DTSTAMP:20260613T070035Z
+UID:d79275b1-65b5-5671-9a36-5cc04c548613
+DESCRIPTION:Lane Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
+ st/DIV-001/?instanceCode=INST-370145\nFacility: Ron Edwards Family YMCA\nC
+ ategory: Lane Swim
 LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
   L7R 2X2
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-370040
+ NST-370145
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open Courts - Ron Edwards - Wednesday 6:00 AM
 DTSTART;TZID=America/Toronto:20260617T060000
 DTEND;TZID=America/Toronto:20260617T173000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:de707393-2d43-57f9-a994-763e9981b860
 DESCRIPTION:Racquetball\n\nURL: https://ymcahbb.my.site.com/#/app/program/
  list/DIV-001/?instanceCode=INST-370113\nFacility: Ron Edwards Family YMCA\
@@ -1067,10 +1039,24 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-370113
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Open Swim - Ron Edwards - Friday 7:30 PM
+DTSTART;TZID=America/Toronto:20260619T193000
+DTEND;TZID=America/Toronto:20260619T211500
+DTSTAMP:20260613T070035Z
+UID:e0858842-b5ad-52c9-95e7-b18a5b96e615
+DESCRIPTION:Open Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
+ st/DIV-001/?instanceCode=INST-370144\nFacility: Ron Edwards Family YMCA\nC
+ ategory: Open Swim
+LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
+  L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-370144
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lane Swim - Ron Edwards - Tuesday 7:45 PM
 DTSTART;TZID=America/Toronto:20260616T194500
 DTEND;TZID=America/Toronto:20260616T211500
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:e88a92aa-0d65-5bf1-a7a3-0585e765047d
 DESCRIPTION:Lane Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-370100\nFacility: Ron Edwards Family YMCA\nC
@@ -1081,10 +1067,24 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-370100
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GentleFit - Ron Edwards - Thursday 10:15 AM
+DTSTART;TZID=America/Toronto:20260618T101500
+DTEND;TZID=America/Toronto:20260618T110000
+DTSTAMP:20260613T070035Z
+UID:e9b706df-14bb-5e37-b79b-92af0cae73db
+DESCRIPTION:GentleFit\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
+ st/DIV-001/?instanceCode=INST-370126\nFacility: Ron Edwards Family YMCA\nC
+ ategory: GentleFit
+LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
+  L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-370126
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Open Courts - Ron Edwards - Tuesday 6:00 AM
 DTSTART;TZID=America/Toronto:20260616T060000
 DTEND;TZID=America/Toronto:20260616T173000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:ea5960aa-1a6c-5fad-bf31-55756fa77d79
 DESCRIPTION:Racquetball\n\nURL: https://ymcahbb.my.site.com/#/app/program/
  list/DIV-001/?instanceCode=INST-370094\nFacility: Ron Edwards Family YMCA\
@@ -1098,7 +1098,7 @@ BEGIN:VEVENT
 SUMMARY:GentleFit - Ron Edwards - Tuesday 10:15 AM
 DTSTART;TZID=America/Toronto:20260616T101500
 DTEND;TZID=America/Toronto:20260616T110000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:ecd47fec-b0e9-5724-885e-0e7aefd7fa94
 DESCRIPTION:GentleFit\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-370091\nFacility: Ron Edwards Family YMCA\nC
@@ -1109,38 +1109,10 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-370091
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Open Courts - Ron Edwards - Thursday 6:00 AM
-DTSTART;TZID=America/Toronto:20260611T060000
-DTEND;TZID=America/Toronto:20260611T173000
-DTSTAMP:20260611T071524Z
-UID:f232315e-d878-5a31-ab62-e5248004ce1e
-DESCRIPTION:Racquetball\n\nURL: https://ymcahbb.my.site.com/#/app/program/
- list/DIV-001/?instanceCode=INST-370029\nFacility: Ron Edwards Family YMCA\
- nCategory: Racquetball
-LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
-  L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-370029
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Balance + - Ron Edwards - Monday/Wednesday 1:00 PM
-DTSTART;TZID=America/Toronto:20260420T130000
-DTEND;TZID=America/Toronto:20260420T140000
-DTSTAMP:20260611T071526Z
-UID:f39f2322-a462-5940-8412-0f975194ce40
-DESCRIPTION:Balance +\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
- st/DIV-001/?instanceCode=INST-369090\nFacility: Ron Edwards Family YMCA\nC
- ategory: Balance +
-LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
-  L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-369090
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Balance + - Ron Edwards - Monday/Wednesday 1:00 PM
 DTSTART;TZID=America/Toronto:20260422T130000
 DTEND;TZID=America/Toronto:20260422T140000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:f39f2322-a462-5940-8412-0f975194ce40
 DESCRIPTION:Balance +\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-369090\nFacility: Ron Edwards Family YMCA\nC
@@ -1154,7 +1126,7 @@ BEGIN:VEVENT
 SUMMARY:Balance + - Ron Edwards - Monday/Wednesday 1:00 PM
 DTSTART;TZID=America/Toronto:20260420T130000
 DTEND;TZID=America/Toronto:20260420T140000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:f39f2322-a462-5940-8412-0f975194ce40
 DESCRIPTION:Balance +\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-369090\nFacility: Ron Edwards Family YMCA\nC
@@ -1168,7 +1140,21 @@ BEGIN:VEVENT
 SUMMARY:Balance + - Ron Edwards - Monday/Wednesday 1:00 PM
 DTSTART;TZID=America/Toronto:20260422T130000
 DTEND;TZID=America/Toronto:20260422T140000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
+UID:f39f2322-a462-5940-8412-0f975194ce40
+DESCRIPTION:Balance +\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
+ st/DIV-001/?instanceCode=INST-369090\nFacility: Ron Edwards Family YMCA\nC
+ ategory: Balance +
+LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
+  L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-369090
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Balance + - Ron Edwards - Monday/Wednesday 1:00 PM
+DTSTART;TZID=America/Toronto:20260420T130000
+DTEND;TZID=America/Toronto:20260420T140000
+DTSTAMP:20260613T070035Z
 UID:f39f2322-a462-5940-8412-0f975194ce40
 DESCRIPTION:Balance +\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-369090\nFacility: Ron Edwards Family YMCA\nC
@@ -1182,7 +1168,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga - Ron Edwards - Wednesday 8:00 PM
 DTSTART;TZID=America/Toronto:20260617T200000
 DTEND;TZID=America/Toronto:20260617T204500
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:f580f3b5-e3c8-55dd-ae42-3915c24f2f1c
 DESCRIPTION:Yoga\n\nURL: https://ymcahbb.my.site.com/#/app/program/list/DI
  V-001/?instanceCode=INST-370112\nFacility: Ron Edwards Family YMCA\nCatego
@@ -1193,24 +1179,38 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-370112
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CycleFit VIBES - Ron Edwards - Thursday 7:15 PM
-DTSTART;TZID=America/Toronto:20260611T191500
-DTEND;TZID=America/Toronto:20260611T200000
-DTSTAMP:20260611T071524Z
-UID:f734f373-d44b-5752-a9e7-34d289af1585
-DESCRIPTION:CycleFit VIBES\n\nURL: https://ymcahbb.my.site.com/#/app/progr
- am/list/DIV-001/?instanceCode=INST-370027\nFacility: Ron Edwards Family YM
- CA\nCategory: CycleFit VIBES
+SUMMARY:Yoga - Ron Edwards - Friday 10:15 AM
+DTSTART;TZID=America/Toronto:20260619T101500
+DTEND;TZID=America/Toronto:20260619T114500
+DTSTAMP:20260613T070035Z
+UID:f654ca6f-bf7c-5237-936f-b75d35c0dc2b
+DESCRIPTION:Yoga\n\nURL: https://ymcahbb.my.site.com/#/app/program/list/DI
+ V-001/?instanceCode=INST-370138\nFacility: Ron Edwards Family YMCA\nCatego
+ ry: Yoga
 LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
   L7R 2X2
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-370027
+ NST-370138
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Courts - Ron Edwards - Friday 6:00 AM
+DTSTART;TZID=America/Toronto:20260619T060000
+DTEND;TZID=America/Toronto:20260619T213000
+DTSTAMP:20260613T070035Z
+UID:f7841a06-9409-5131-8c00-9f690dccc785
+DESCRIPTION:Racquetball\n\nURL: https://ymcahbb.my.site.com/#/app/program/
+ list/DIV-001/?instanceCode=INST-370139\nFacility: Ron Edwards Family YMCA\
+ nCategory: Racquetball
+LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
+  L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-370139
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ViPR - Ron Edwards - Tuesday 8:15 AM
 DTSTART;TZID=America/Toronto:20260616T081500
 DTEND;TZID=America/Toronto:20260616T090000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:f7abf9b7-2d7d-539c-9c52-94ded30b1ee2
 DESCRIPTION:ViPR Pro\n\nURL: https://ymcahbb.my.site.com/#/app/program/lis
  t/DIV-001/?instanceCode=INST-370093\nFacility: Ron Edwards Family YMCA\nCa
@@ -1221,10 +1221,24 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-370093
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lane Swim - Ron Edwards - Thursday 2:30 PM
+DTSTART;TZID=America/Toronto:20260618T143000
+DTEND;TZID=America/Toronto:20260618T153000
+DTSTAMP:20260613T070035Z
+UID:f9516406-3232-57ae-90d8-67489a40d338
+DESCRIPTION:Lane Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
+ st/DIV-001/?instanceCode=INST-370131\nFacility: Ron Edwards Family YMCA\nC
+ ategory: Lane Swim
+LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
+  L7R 2X2
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-370131
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Walk Fit - Ron Edwards - Monday 11:15 AM
 DTSTART;TZID=America/Toronto:20260615T111500
 DTEND;TZID=America/Toronto:20260615T120000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:fbe758a1-b89d-5ac3-a919-bb2c1627d062
 DESCRIPTION:Walk Fit\n\nURL: https://ymcahbb.my.site.com/#/app/program/lis
  t/DIV-001/?instanceCode=INST-370068\nFacility: Ron Edwards Family YMCA\nCa
@@ -1238,7 +1252,7 @@ BEGIN:VEVENT
 SUMMARY:Lane Swim - Ron Edwards - Sunday 8:00 AM
 DTSTART;TZID=America/Toronto:20260614T080000
 DTEND;TZID=America/Toronto:20260614T091500
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070033Z
 UID:fde10027-2817-51b3-b28c-1d83354d6b0e
 DESCRIPTION:Lane Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-370062\nFacility: Ron Edwards Family YMCA\nC
@@ -1252,7 +1266,7 @@ BEGIN:VEVENT
 SUMMARY:AquaFit - Ron Edwards - Wednesday 9:15 AM
 DTSTART;TZID=America/Toronto:20260617T091500
 DTEND;TZID=America/Toronto:20260617T100000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:ff2ca604-56bd-541f-9417-dfff1245afff
 DESCRIPTION:AquaFit\n\nURL: https://ymcahbb.my.site.com/#/app/program/list
  /DIV-001/?instanceCode=INST-370116\nFacility: Ron Edwards Family YMCA\nCat
@@ -1261,19 +1275,5 @@ LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
   L7R 2X2
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-370116
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MuscleFit - Ron Edwards - Friday 9:15 AM
-DTSTART;TZID=America/Toronto:20260612T091500
-DTEND;TZID=America/Toronto:20260612T100000
-DTSTAMP:20260611T071524Z
-UID:ff4c885f-1d90-503a-84f6-3b4ec1111aea
-DESCRIPTION:MuscleFit\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
- st/DIV-001/?instanceCode=INST-370035\nFacility: Ron Edwards Family YMCA\nC
- ategory: MuscleFit
-LOCATION:Ron Edwards Family YMCA\, 500 Drury Lane\, Burlington\, ON\, CA\,
-  L7R 2X2
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-370035
 END:VEVENT
 END:VCALENDAR

@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Free Ride Day 2026
 DTSTART;TZID=America/Toronto:20260607T090000
 DTEND;TZID=America/Toronto:20260607T210000
-DTSTAMP:20260611T071526Z
+DTSTAMP:20260613T070035Z
 UID:06d74b8d-c48d-5239-b783-beb17f155db9
 DESCRIPTION:Hamilton Bike Share is excited to present our inaugural FREE R
  IDE DAY\, brought to you by Cogeco. Free Ride Day is coming your way on Su
@@ -82,8 +82,8 @@ DESCRIPTION:Hamilton Bike Share is excited to present our inaugural FREE R
  ue to apply! Stay in our service area (between Dundas and Kenilworth Ave i
  n the lower city) and never leave a bike unlocked and unattended. Always e
  nsure bikes are locked to secure fixed objects when making a stop. \n\n \n
- \n \n\n \n\nNeed help? Contact us:\n\n \n\n (/cdn-cgi/l/email-protection#2
- 9414c45596941484440455d46474b40424c5a41485b4c074a48) [email protected]\n\n
+ \n \n\n \n\nNeed help? Contact us:\n\n \n\n (/cdn-cgi/l/email-protection#0
+ a626f667a4a626b6763667e65646863616f79626b786f24696b) [email protected]\n\n
   \n\n289-768-2453\nURL: https://www.everyonerides.org/free_ride_day_2026
 LOCATION:See post
 URL:https://www.everyonerides.org/free_ride_day_2026
@@ -92,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:Bike Share Birthday Party
 DTSTART;TZID=America/Toronto:20260320T183000
 DTEND;TZID=America/Toronto:20260320T203000
-DTSTAMP:20260611T071527Z
+DTSTAMP:20260613T070036Z
 UID:791cec38-1e47-5d04-a04f-39a9ad8ad50d
 DESCRIPTION:Come celebrate 11 years of Bike Share with us on Friday\, Marc
  h 20! We'll gather at the Workers Arts & Heritage Centre from 6:30-8:30 fo
@@ -109,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:Magnolia Ride
 DTSTART;TZID=America/Toronto:20260425T100000
 DTEND;TZID=America/Toronto:20260425T120000
-DTSTAMP:20260611T071527Z
+DTSTAMP:20260613T070037Z
 UID:d5c1c719-37da-56de-a7d8-782ec449cac8
 DESCRIPTION:🌸 Join us for our Annual Magnolia Ride on Saturday\, April 
  25th at 10am 🌸\n\nThis ride is a fun\, family-friendly\, rain or shine 
