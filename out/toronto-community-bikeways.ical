@@ -375,32 +375,6 @@ LOCATION:NW corner of Weston Rd at Eglinton Ave (adjacent to the Mount Den
 URL:https://www.communitybikewaysto.ca/events/chalk-my-walk-1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bike Lanes (or lack thereof): the Pedestrian Experience
-DTSTART:20250503T190000Z
-DTEND:20250503T203000Z
-DTSTAMP:20250424T211405Z
-UID:aa34a99d-dadd-524c-958b-82ac696bb444
-DESCRIPTION:Jane's Walk event. Saturday\, May 3\, starting at 3pm (and end
- ing at about 4:30pm). Chester Station on Danforth Avenue. With Albert Koeh
- l\, Lee Scott\, and Dylan Reid. (https://www.janeswalkfestivalto.com/satur
- day-may-3-2025/bike-lanes-pedestrian-experience) Details here.\n\n#block-1
- b39c981641d523f021a { --stroke-style: none\;--stroke-thickness: 6px\; --tw
- eak-text-block-background-color: initial\; } #block-1b39c981641d523f021a .
- sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%\; --tweak-text-
- block-padding: initial\; } #block-1b39c981641d523f021a { mix-blend-mode: v
- ar(--tweak-text-block-blend )\; border-radius: var(--tweak-text-block-radi
- us)\; } #block-1b39c981641d523f021a { --tweak-text-block-radius: 0px 0px 0
- px 0px\; } #block-1b39c981641d523f021a { } @media screen and (max-width: 7
- 67px) { #block-1b39c981641d523f021a { } } @media screen and (max-width: 76
- 7px) { #block-1b39c981641d523f021a .sqs-html-content { } } @media screen a
- nd (max-width: 767px) { }\nURL: https://www.communitybikewaysto.ca/events/
- bike-lanes-or-lack-thereof-the-pedestrian-experience
-LOCATION:Chester Station\, 22 Chester Avenue\, Toronto\, ON\, M4K 2Z9\, Ca
- nada
-URL:https://www.communitybikewaysto.ca/events/bike-lanes-or-lack-thereof-t
- he-pedestrian-experience
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Koffee On The Kingsway (Biweekly)
 DTSTART:20250725T113000Z
 DTEND:20250725T131500Z
