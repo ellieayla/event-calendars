@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Stretch & Mobility - Downtown - Tuesday 7:45 PM
 DTSTART;TZID=America/Toronto:20260630T194500
 DTEND;TZID=America/Toronto:20260630T203000
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071334Z
 UID:00b8f21e-0fcf-5a54-b2b8-3383ac63def4
 DESCRIPTION:Stretch & Mobility\n\nURL: https://ymcahbb.my.site.com/#/app/p
  rogram/list/DIV-001/?instanceCode=INST-393883\nFacility: Hamilton Downtown
@@ -74,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:Table Tennis - Downtown - Friday 6:00 AM
 DTSTART;TZID=America/Toronto:20260703T060000
 DTEND;TZID=America/Toronto:20260703T213000
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071335Z
 UID:052fd16b-a5c6-5ef5-8a32-036df7b0d5d1
 DESCRIPTION:Table Tennis\n\nURL: https://ymcahbb.my.site.com/#/app/program
  /list/DIV-001/?instanceCode=INST-391181\nFacility: Hamilton Downtown Famil
@@ -85,10 +85,24 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-391181
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Open Swim - Downtown - Saturday 2:00 PM
+DTSTART;TZID=America/Toronto:20260704T140000
+DTEND;TZID=America/Toronto:20260704T160000
+DTSTAMP:20260629T071335Z
+UID:0d962792-0e0d-5877-b14f-f89798e6801b
+DESCRIPTION:Open Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
+ st/DIV-001/?instanceCode=INST-391001\nFacility: Hamilton Downtown Family Y
+ MCA\nCategory: Open Swim
+LOCATION:Hamilton Downtown Family YMCA\, 79 James Street South\, Hamilton\
+ , ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-391001
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Stretch & Mobility - Downtown - Tuesday 1:00 PM
 DTSTART;TZID=America/Toronto:20260630T130000
 DTEND;TZID=America/Toronto:20260630T140000
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071334Z
 UID:0ed012f4-037c-5d6d-af32-f4b9eca1afe7
 DESCRIPTION:Stretch & Mobility\n\nURL: https://ymcahbb.my.site.com/#/app/p
  rogram/list/DIV-001/?instanceCode=INST-391137\nFacility: Hamilton Downtown
@@ -102,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:Handball - Downtown - Thursday 6:00 AM
 DTSTART;TZID=America/Toronto:20260702T060000
 DTEND;TZID=America/Toronto:20260702T213000
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071334Z
 UID:14e3b249-32b7-5b03-b262-05cccc844af5
 DESCRIPTION:Handball\n\nURL: https://ymcahbb.my.site.com/#/app/program/lis
  t/DIV-001/?instanceCode=INST-391164\nFacility: Hamilton Downtown Family YM
@@ -116,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:Handball - Downtown - Tuesday 6:00 AM
 DTSTART;TZID=America/Toronto:20260630T060000
 DTEND;TZID=America/Toronto:20260630T213000
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071334Z
 UID:17651df5-3102-54af-a0b4-bf093ceda129
 DESCRIPTION:Handball\n\nURL: https://ymcahbb.my.site.com/#/app/program/lis
  t/DIV-001/?instanceCode=INST-391132\nFacility: Hamilton Downtown Family YM
@@ -130,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:Raquetball - Downtown - Tuesday 6:00 AM
 DTSTART;TZID=America/Toronto:20260630T060000
 DTEND;TZID=America/Toronto:20260630T213000
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071334Z
 UID:1b8e750b-c9b4-5587-a6bd-0082df14bc99
 DESCRIPTION:Raquetball\n\nURL: https://ymcahbb.my.site.com/#/app/program/l
  ist/DIV-001/?instanceCode=INST-391134\nFacility: Hamilton Downtown Family 
@@ -144,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:Squash - Downtown - Friday 6:00 AM
 DTSTART;TZID=America/Toronto:20260703T060000
 DTEND;TZID=America/Toronto:20260703T213000
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071335Z
 UID:1c7d50b8-6bbd-5dac-9226-c083a57a4488
 DESCRIPTION:Squash\n\nURL: https://ymcahbb.my.site.com/#/app/program/list/
  DIV-001/?instanceCode=INST-391179\nFacility: Hamilton Downtown Family YMCA
@@ -158,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga - Downtown - Monday 9:15 AM
 DTSTART;TZID=America/Toronto:20260629T091500
 DTEND;TZID=America/Toronto:20260629T101500
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071333Z
 UID:1cd51d14-d760-5256-8a09-a92f92b047be
 DESCRIPTION:Yoga\n\nURL: https://ymcahbb.my.site.com/#/app/program/list/DI
  V-001/?instanceCode=INST-391122\nFacility: Hamilton Downtown Family YMCA\n
@@ -172,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:Squash - Downtown - Monday 6:00 AM
 DTSTART;TZID=America/Toronto:20260629T060000
 DTEND;TZID=America/Toronto:20260629T213000
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071333Z
 UID:20ce30e7-8dab-520e-ab1b-6ead203d3c5b
 DESCRIPTION:Squash\n\nURL: https://ymcahbb.my.site.com/#/app/program/list/
  DIV-001/?instanceCode=INST-391116\nFacility: Hamilton Downtown Family YMCA
@@ -186,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:Table Tennis - Downtown - Thursday 6:00 AM
 DTSTART;TZID=America/Toronto:20260702T060000
 DTEND;TZID=America/Toronto:20260702T213000
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071334Z
 UID:253ee692-26aa-5c7f-b159-f0aeb9428efe
 DESCRIPTION:Table Tennis\n\nURL: https://ymcahbb.my.site.com/#/app/program
  /list/DIV-001/?instanceCode=INST-391165\nFacility: Hamilton Downtown Famil
@@ -197,10 +211,24 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-391165
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Zumba - Downtown - Sunday 10:30 AM
+DTSTART;TZID=America/Toronto:20260705T103000
+DTEND;TZID=America/Toronto:20260705T113000
+DTSTAMP:20260629T071335Z
+UID:291dcce0-c19f-57d0-b0b0-0af1ca67ec8e
+DESCRIPTION:Zumba\n\nURL: https://ymcahbb.my.site.com/#/app/program/list/D
+ IV-001/?instanceCode=INST-391207\nFacility: Hamilton Downtown Family YMCA\
+ nCategory: Zumba
+LOCATION:Hamilton Downtown Family YMCA\, 79 James Street South\, Hamilton\
+ , ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-391207
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Handball - Downtown - Monday 6:00 AM
 DTSTART;TZID=America/Toronto:20260629T060000
 DTEND;TZID=America/Toronto:20260629T213000
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071333Z
 UID:2b5588ed-ab7f-559c-b9b6-cf84c74d7ea3
 DESCRIPTION:Handball\n\nURL: https://ymcahbb.my.site.com/#/app/program/lis
  t/DIV-001/?instanceCode=INST-391117\nFacility: Hamilton Downtown Family YM
@@ -214,7 +242,7 @@ BEGIN:VEVENT
 SUMMARY:Lane Swim - Downtown - Tuesday 7:45 PM
 DTSTART;TZID=America/Toronto:20260630T194500
 DTEND;TZID=America/Toronto:20260630T210000
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071334Z
 UID:2d6465ec-d7a1-52b6-a32e-01b3bc5df795
 DESCRIPTION:Lane Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-390985\nFacility: Hamilton Downtown Family Y
@@ -228,7 +256,7 @@ BEGIN:VEVENT
 SUMMARY:ViPR Golf - Downtown -  Wednesday 8:15 AM
 DTSTART;TZID=America/Toronto:20260603T081500
 DTEND;TZID=America/Toronto:20260603T090000
-DTSTAMP:20260627T064250Z
+DTSTAMP:20260629T071334Z
 UID:2df7fabe-083f-5d06-8afa-9e06f5c3a2d2
 DESCRIPTION:ViPR Golf\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-386888\nFacility: Hamilton Downtown Family Y
@@ -242,7 +270,7 @@ BEGIN:VEVENT
 SUMMARY:ViPR Golf - Downtown -  Wednesday 8:15 AM
 DTSTART;TZID=America/Toronto:20260603T081500
 DTEND;TZID=America/Toronto:20260603T090000
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071335Z
 UID:2df7fabe-083f-5d06-8afa-9e06f5c3a2d2
 DESCRIPTION:ViPR Golf\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-386888\nFacility: Hamilton Downtown Family Y
@@ -256,7 +284,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga - Downtown - Thursday 7:45 PM
 DTSTART;TZID=America/Toronto:20260702T194500
 DTEND;TZID=America/Toronto:20260702T204500
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071334Z
 UID:2f5cfc99-b0e5-5cfb-bd3b-498f5eb8206f
 DESCRIPTION:Yoga\n\nURL: https://ymcahbb.my.site.com/#/app/program/list/DI
  V-001/?instanceCode=INST-391172\nFacility: Hamilton Downtown Family YMCA\n
@@ -267,10 +295,38 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-391172
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Squash - Downtown - Saturday 8:00 AM
+DTSTART;TZID=America/Toronto:20260704T080000
+DTEND;TZID=America/Toronto:20260704T173000
+DTSTAMP:20260629T071335Z
+UID:308c2dee-b43f-56af-a736-3efcc922e56e
+DESCRIPTION:Squash\n\nURL: https://ymcahbb.my.site.com/#/app/program/list/
+ DIV-001/?instanceCode=INST-391190\nFacility: Hamilton Downtown Family YMCA
+ \nCategory: Squash
+LOCATION:Hamilton Downtown Family YMCA\, 79 James Street South\, Hamilton\
+ , ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-391190
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Table Tennis - Downtown - Saturday 8:00 AM
+DTSTART;TZID=America/Toronto:20260704T080000
+DTEND;TZID=America/Toronto:20260704T173000
+DTSTAMP:20260629T071335Z
+UID:373d99ba-ba68-5893-a3a2-4cfb0fe8abd3
+DESCRIPTION:Table Tennis\n\nURL: https://ymcahbb.my.site.com/#/app/program
+ /list/DIV-001/?instanceCode=INST-391192\nFacility: Hamilton Downtown Famil
+ y YMCA\nCategory: Table Tennis
+LOCATION:Hamilton Downtown Family YMCA\, 79 James Street South\, Hamilton\
+ , ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-391192
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cyclefit - Downtown - Monday 5:15 PM
 DTSTART;TZID=America/Toronto:20260629T171500
 DTEND;TZID=America/Toronto:20260629T180000
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071333Z
 UID:37746545-7fda-56db-b401-eea08f8ae392
 DESCRIPTION:CycleFit\n\nURL: https://ymcahbb.my.site.com/#/app/program/lis
  t/DIV-001/?instanceCode=INST-391123\nFacility: Hamilton Downtown Family YM
@@ -284,7 +340,7 @@ BEGIN:VEVENT
 SUMMARY:Zumba - Downtown - Monday 7:15 PM
 DTSTART;TZID=America/Toronto:20260629T191500
 DTEND;TZID=America/Toronto:20260629T201500
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071333Z
 UID:3ec0a408-96cd-50af-a1a1-9dd87082001d
 DESCRIPTION:Zumba\n\nURL: https://ymcahbb.my.site.com/#/app/program/list/D
  IV-001/?instanceCode=INST-391125\nFacility: Hamilton Downtown Family YMCA\
@@ -295,10 +351,24 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-391125
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Table Tennis - Downtown - Sunday 8:00 AM
+DTSTART;TZID=America/Toronto:20260705T080000
+DTEND;TZID=America/Toronto:20260705T160000
+DTSTAMP:20260629T071335Z
+UID:41472770-b230-58d0-a80c-e0e1dab9098c
+DESCRIPTION:Table Tennis\n\nURL: https://ymcahbb.my.site.com/#/app/program
+ /list/DIV-001/?instanceCode=INST-391204\nFacility: Hamilton Downtown Famil
+ y YMCA\nCategory: Table Tennis
+LOCATION:Hamilton Downtown Family YMCA\, 79 James Street South\, Hamilton\
+ , ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-391204
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Table Tennis - Downtown - Tuesday 6:00 AM
 DTSTART;TZID=America/Toronto:20260630T060000
 DTEND;TZID=America/Toronto:20260630T213000
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071334Z
 UID:43c0b898-75af-5e82-8ff4-7f0bfd58aa74
 DESCRIPTION:Table Tennis\n\nURL: https://ymcahbb.my.site.com/#/app/program
  /list/DIV-001/?instanceCode=INST-391133\nFacility: Hamilton Downtown Famil
@@ -312,7 +382,7 @@ BEGIN:VEVENT
 SUMMARY:Open Swim - Downtown - Tuesday 6:00 PM
 DTSTART;TZID=America/Toronto:20260630T180000
 DTEND;TZID=America/Toronto:20260630T194500
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071334Z
 UID:461b7c10-6c47-59f6-a269-22a593c2e028
 DESCRIPTION:Open Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-390997\nFacility: Hamilton Downtown Family Y
@@ -326,7 +396,7 @@ BEGIN:VEVENT
 SUMMARY:Lane Swim - Downtown - Monday 6:00 AM
 DTSTART;TZID=America/Toronto:20260629T060000
 DTEND;TZID=America/Toronto:20260629T101500
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071333Z
 UID:48803ea9-81c4-5e49-bc34-19cf16d6580a
 DESCRIPTION:Lane Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-390982\nFacility: Hamilton Downtown Family Y
@@ -337,10 +407,38 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-390982
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Open Swim - Downtown - Friday 8:00 PM
+DTSTART;TZID=America/Toronto:20260703T200000
+DTEND;TZID=America/Toronto:20260703T210000
+DTSTAMP:20260629T071335Z
+UID:4dc30eae-eade-56c1-8681-d743dc10b9e8
+DESCRIPTION:Open Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
+ st/DIV-001/?instanceCode=INST-390999\nFacility: Hamilton Downtown Family Y
+ MCA\nCategory: Open Swim
+LOCATION:Hamilton Downtown Family YMCA\, 79 James Street South\, Hamilton\
+ , ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-390999
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Table Tennis League - Downtown - Sunday 9:00 AM
+DTSTART;TZID=America/Toronto:20260705T090000
+DTEND;TZID=America/Toronto:20260705T110000
+DTSTAMP:20260629T071335Z
+UID:4dedbee2-c046-531d-ac01-c722539ec169
+DESCRIPTION:Table Tennis League\n\nURL: https://ymcahbb.my.site.com/#/app/
+ program/list/DIV-001/?instanceCode=INST-391206\nFacility: Hamilton Downtow
+ n Family YMCA\nCategory: Table Tennis League
+LOCATION:Hamilton Downtown Family YMCA\, 79 James Street South\, Hamilton\
+ , ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-391206
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Raquetball - Downtown - Monday 6:00 AM
 DTSTART;TZID=America/Toronto:20260629T060000
 DTEND;TZID=America/Toronto:20260629T213000
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071333Z
 UID:53bb89b0-3b25-56fd-972c-925119bfa425
 DESCRIPTION:Raquetball\n\nURL: https://ymcahbb.my.site.com/#/app/program/l
  ist/DIV-001/?instanceCode=INST-391119\nFacility: Hamilton Downtown Family 
@@ -351,10 +449,24 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-391119
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Squash - Downtown - Sunday 8:00 AM
+DTSTART;TZID=America/Toronto:20260705T080000
+DTEND;TZID=America/Toronto:20260705T160000
+DTSTAMP:20260629T071335Z
+UID:5470804a-bc5d-5afd-bd3f-06a974d696b1
+DESCRIPTION:Squash\n\nURL: https://ymcahbb.my.site.com/#/app/program/list/
+ DIV-001/?instanceCode=INST-391202\nFacility: Hamilton Downtown Family YMCA
+ \nCategory: Squash
+LOCATION:Hamilton Downtown Family YMCA\, 79 James Street South\, Hamilton\
+ , ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-391202
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Open Swim - Downtown - Thursday 8:00 PM
 DTSTART;TZID=America/Toronto:20260702T200000
 DTEND;TZID=America/Toronto:20260702T210000
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071334Z
 UID:54aab264-6fd5-57c4-b03b-14cabc998803
 DESCRIPTION:Open Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-390998\nFacility: Hamilton Downtown Family Y
@@ -365,10 +477,24 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-390998
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Raquetball - Downtown - Saturday 8:00 AM
+DTSTART;TZID=America/Toronto:20260704T080000
+DTEND;TZID=America/Toronto:20260704T173000
+DTSTAMP:20260629T071335Z
+UID:5c1fe4d3-5ca3-55b8-a7f9-8bf14906c7ff
+DESCRIPTION:Raquetball\n\nURL: https://ymcahbb.my.site.com/#/app/program/l
+ ist/DIV-001/?instanceCode=INST-391193\nFacility: Hamilton Downtown Family 
+ YMCA\nCategory: Raquetball
+LOCATION:Hamilton Downtown Family YMCA\, 79 James Street South\, Hamilton\
+ , ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-391193
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Strength & Conditioning - Downtown - Thursday 6:45 PM
 DTSTART;TZID=America/Toronto:20260702T184500
 DTEND;TZID=America/Toronto:20260702T193000
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071334Z
 UID:63cc6d81-13ad-5b1e-bd14-91a28f004069
 DESCRIPTION:Strength & Conditioning\n\nURL: https://ymcahbb.my.site.com/#/
  app/program/list/DIV-001/?instanceCode=INST-391171\nFacility: Hamilton Dow
@@ -382,7 +508,7 @@ BEGIN:VEVENT
 SUMMARY:Open Swim - Downtown - Friday 4:00 PM
 DTSTART;TZID=America/Toronto:20260703T160000
 DTEND;TZID=America/Toronto:20260703T174500
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071335Z
 UID:69ae981f-90e1-58e6-b761-dce4fad36437
 DESCRIPTION:Open Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-391000\nFacility: Hamilton Downtown Family Y
@@ -396,7 +522,7 @@ BEGIN:VEVENT
 SUMMARY:Table Tennis - Downtown - Monday 6:00 AM
 DTSTART;TZID=America/Toronto:20260629T060000
 DTEND;TZID=America/Toronto:20260629T213000
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071333Z
 UID:820159e7-e77b-5b8a-817d-fd8bca228f83
 DESCRIPTION:Table Tennis\n\nURL: https://ymcahbb.my.site.com/#/app/program
  /list/DIV-001/?instanceCode=INST-391118\nFacility: Hamilton Downtown Famil
@@ -410,7 +536,7 @@ BEGIN:VEVENT
 SUMMARY:Lane Swim - Downtown - Monday 11:30 AM
 DTSTART;TZID=America/Toronto:20260629T113000
 DTEND;TZID=America/Toronto:20260629T164500
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071333Z
 UID:85fdeefe-b08b-5a97-86d4-6ac287a5e9c9
 DESCRIPTION:Lane Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-390983\nFacility: Hamilton Downtown Family Y
@@ -421,10 +547,24 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-390983
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Raquetball - Downtown - Sunday 8:00 AM
+DTSTART;TZID=America/Toronto:20260705T080000
+DTEND;TZID=America/Toronto:20260705T160000
+DTSTAMP:20260629T071335Z
+UID:89c826a9-b2c8-5553-a40d-7558ef2db722
+DESCRIPTION:Raquetball\n\nURL: https://ymcahbb.my.site.com/#/app/program/l
+ ist/DIV-001/?instanceCode=INST-391205\nFacility: Hamilton Downtown Family 
+ YMCA\nCategory: Raquetball
+LOCATION:Hamilton Downtown Family YMCA\, 79 James Street South\, Hamilton\
+ , ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-391205
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pilates - Downtown - Monday 6:15 PM
 DTSTART;TZID=America/Toronto:20260629T181500
 DTEND;TZID=America/Toronto:20260629T190000
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071333Z
 UID:8acb2d52-e119-5037-99ed-d126ef288751
 DESCRIPTION:Pilates\n\nURL: https://ymcahbb.my.site.com/#/app/program/list
  /DIV-001/?instanceCode=INST-391124\nFacility: Hamilton Downtown Family YMC
@@ -438,7 +578,7 @@ BEGIN:VEVENT
 SUMMARY:Squash - Downtown - Tuesday 6:00 AM
 DTSTART;TZID=America/Toronto:20260630T060000
 DTEND;TZID=America/Toronto:20260630T213000
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071334Z
 UID:9689e28f-7c26-50e9-bf85-3ef80be8c5e2
 DESCRIPTION:Squash\n\nURL: https://ymcahbb.my.site.com/#/app/program/list/
  DIV-001/?instanceCode=INST-391131\nFacility: Hamilton Downtown Family YMCA
@@ -449,10 +589,24 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-391131
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Table Tennis League - Downtown - Saturday 9:00 AM
+DTSTART;TZID=America/Toronto:20260704T090000
+DTEND;TZID=America/Toronto:20260704T110000
+DTSTAMP:20260629T071335Z
+UID:9a82e0df-5470-52c2-b7fe-d30d3f6a85c7
+DESCRIPTION:Table Tennis League\n\nURL: https://ymcahbb.my.site.com/#/app/
+ program/list/DIV-001/?instanceCode=INST-391194\nFacility: Hamilton Downtow
+ n Family YMCA\nCategory: Table Tennis League
+LOCATION:Hamilton Downtown Family YMCA\, 79 James Street South\, Hamilton\
+ , ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-391194
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pilates - Downtown - Thursday 5:30 PM
 DTSTART;TZID=America/Toronto:20260702T173000
 DTEND;TZID=America/Toronto:20260702T181500
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071334Z
 UID:9acbdcc3-aae2-5846-a01f-630dfff8289b
 DESCRIPTION:Pilates\n\nURL: https://ymcahbb.my.site.com/#/app/program/list
  /DIV-001/?instanceCode=INST-391170\nFacility: Hamilton Downtown Family YMC
@@ -463,10 +617,24 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-391170
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lane Swim - Downtown - Saturday 8:00 AM
+DTSTART;TZID=America/Toronto:20260704T080000
+DTEND;TZID=America/Toronto:20260704T090000
+DTSTAMP:20260629T071335Z
+UID:9ba9f187-55b7-5655-971a-44818ec05dd8
+DESCRIPTION:Lane Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
+ st/DIV-001/?instanceCode=INST-390991\nFacility: Hamilton Downtown Family Y
+ MCA\nCategory: Lane Swim
+LOCATION:Hamilton Downtown Family YMCA\, 79 James Street South\, Hamilton\
+ , ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-390991
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Strength & Conditioning - Downtown - Tuesday 6:45 PM
 DTSTART;TZID=America/Toronto:20260630T184500
 DTEND;TZID=America/Toronto:20260630T193000
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071334Z
 UID:a357ce66-039d-5b3d-ba1b-e009ec473fc7
 DESCRIPTION:Strength & Conditioning\n\nURL: https://ymcahbb.my.site.com/#/
  app/program/list/DIV-001/?instanceCode=INST-391138\nFacility: Hamilton Dow
@@ -480,7 +648,7 @@ BEGIN:VEVENT
 SUMMARY:Cyclefit - Downtown - Friday 12:15 PM
 DTSTART;TZID=America/Toronto:20260703T121500
 DTEND;TZID=America/Toronto:20260703T130000
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071335Z
 UID:a3b60129-d3ce-5621-905a-e21cbbeb5262
 DESCRIPTION:CycleFit\n\nURL: https://ymcahbb.my.site.com/#/app/program/lis
  t/DIV-001/?instanceCode=INST-391183\nFacility: Hamilton Downtown Family YM
@@ -494,7 +662,7 @@ BEGIN:VEVENT
 SUMMARY:Gentlefit - Downtown - Thursday 10:00 AM
 DTSTART;TZID=America/Toronto:20260702T100000
 DTEND;TZID=America/Toronto:20260702T104500
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071334Z
 UID:a7904c6c-49e1-56d0-aa75-211fd03d59f4
 DESCRIPTION:GentleFit\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-391167\nFacility: Hamilton Downtown Family Y
@@ -508,7 +676,7 @@ BEGIN:VEVENT
 SUMMARY:Aquafit - Downtown - Monday 10:30 AM
 DTSTART;TZID=America/Toronto:20260629T103000
 DTEND;TZID=America/Toronto:20260629T111500
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071333Z
 UID:a83654c7-a68a-5623-a590-5cbcd684fd5f
 DESCRIPTION:AquaFit\n\nURL: https://ymcahbb.my.site.com/#/app/program/list
  /DIV-001/?instanceCode=INST-390994\nFacility: Hamilton Downtown Family YMC
@@ -522,7 +690,7 @@ BEGIN:VEVENT
 SUMMARY:Lane Swim - Downtown - Tuesday 7:30 AM
 DTSTART;TZID=America/Toronto:20260630T073000
 DTEND;TZID=America/Toronto:20260630T180000
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071334Z
 UID:a964a241-ef45-5d3c-8c0f-89f478b6f044
 DESCRIPTION:Lane Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-390984\nFacility: Hamilton Downtown Family Y
@@ -536,7 +704,7 @@ BEGIN:VEVENT
 SUMMARY:Gentlefit - Downtown - Tuesday 10:00 AM
 DTSTART;TZID=America/Toronto:20260630T100000
 DTEND;TZID=America/Toronto:20260630T104500
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071334Z
 UID:a9d95b0f-79c6-5654-867a-7ee4f8d409a7
 DESCRIPTION:GentleFit\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-391135\nFacility: Hamilton Downtown Family Y
@@ -550,7 +718,7 @@ BEGIN:VEVENT
 SUMMARY:Handball - Downtown - Friday 6:00 AM
 DTSTART;TZID=America/Toronto:20260703T060000
 DTEND;TZID=America/Toronto:20260703T213000
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071335Z
 UID:aa8e3a30-4b90-510c-aa14-b521d2fe2347
 DESCRIPTION:Handball\n\nURL: https://ymcahbb.my.site.com/#/app/program/lis
  t/DIV-001/?instanceCode=INST-391180\nFacility: Hamilton Downtown Family YM
@@ -564,7 +732,7 @@ BEGIN:VEVENT
 SUMMARY:Raquetball - Downtown - Thursday 6:00 AM
 DTSTART;TZID=America/Toronto:20260702T060000
 DTEND;TZID=America/Toronto:20260702T213000
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071334Z
 UID:ab4ee659-3ac8-52fd-99be-8af339488ad1
 DESCRIPTION:Raquetball\n\nURL: https://ymcahbb.my.site.com/#/app/program/l
  ist/DIV-001/?instanceCode=INST-391166\nFacility: Hamilton Downtown Family 
@@ -575,10 +743,24 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-391166
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Open Swim - Downtown - Sunday 12:00 PM
+DTSTART;TZID=America/Toronto:20260705T120000
+DTEND;TZID=America/Toronto:20260705T140000
+DTSTAMP:20260629T071335Z
+UID:b00e4ae0-fe0a-502c-9078-b76e594a9e3d
+DESCRIPTION:Open Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
+ st/DIV-001/?instanceCode=INST-391002\nFacility: Hamilton Downtown Family Y
+ MCA\nCategory: Open Swim
+LOCATION:Hamilton Downtown Family YMCA\, 79 James Street South\, Hamilton\
+ , ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-391002
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Squash - Downtown - Thursday 6:00 AM
 DTSTART;TZID=America/Toronto:20260702T060000
 DTEND;TZID=America/Toronto:20260702T213000
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071334Z
 UID:b20d584f-78f0-5bb5-9b75-f60c2c3053b3
 DESCRIPTION:Squash\n\nURL: https://ymcahbb.my.site.com/#/app/program/list/
  DIV-001/?instanceCode=INST-391163\nFacility: Hamilton Downtown Family YMCA
@@ -589,10 +771,24 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-391163
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lane Swim - Downtown - Saturday 12:15 PM
+DTSTART;TZID=America/Toronto:20260704T121500
+DTEND;TZID=America/Toronto:20260704T140000
+DTSTAMP:20260629T071335Z
+UID:b26849dd-7273-5151-b62d-45b8e96fe056
+DESCRIPTION:Lane Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
+ st/DIV-001/?instanceCode=INST-390992\nFacility: Hamilton Downtown Family Y
+ MCA\nCategory: Lane Swim
+LOCATION:Hamilton Downtown Family YMCA\, 79 James Street South\, Hamilton\
+ , ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-390992
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ViPR Pro Golf - Downtown - Wednesday 8:15 AM
 DTSTART;TZID=America/Toronto:20260701T081500
 DTEND;TZID=America/Toronto:20260701T090000
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071334Z
 UID:b26b82c2-20a8-5793-9bd7-45fab05e1301
 DESCRIPTION:ViPR Golf\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-391150\nFacility: Hamilton Downtown Family Y
@@ -603,24 +799,10 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-391150
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Zumba - Downtown - Saturday 10:30 AM
-DTSTART;TZID=America/Toronto:20260627T103000
-DTEND;TZID=America/Toronto:20260627T113000
-DTSTAMP:20260627T064250Z
-UID:b4d9b51d-59ac-54ec-b51f-9fd4fa629d2e
-DESCRIPTION:Zumba\n\nURL: https://ymcahbb.my.site.com/#/app/program/list/D
- IV-001/?instanceCode=INST-374231\nFacility: Hamilton Downtown Family YMCA\
- nCategory: Zumba
-LOCATION:Hamilton Downtown Family YMCA\, 79 James Street South\, Hamilton\
- , ON\, CA\, L8P 2Z1
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-374231
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Raquetball - Downtown - Friday 6:00 AM
 DTSTART;TZID=America/Toronto:20260703T060000
 DTEND;TZID=America/Toronto:20260703T213000
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071335Z
 UID:b8481361-c3f8-5204-a29e-f7ed016c1f61
 DESCRIPTION:Raquetball\n\nURL: https://ymcahbb.my.site.com/#/app/program/l
  ist/DIV-001/?instanceCode=INST-391182\nFacility: Hamilton Downtown Family 
@@ -634,7 +816,7 @@ BEGIN:VEVENT
 SUMMARY:Express Circuit - Downtown - Thursday 12:15 PM
 DTSTART;TZID=America/Toronto:20260702T121500
 DTEND;TZID=America/Toronto:20260702T130000
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071334Z
 UID:bbf9eef1-a829-56fb-b363-af3865781b55
 DESCRIPTION:Express Circuit\n\nURL: https://ymcahbb.my.site.com/#/app/prog
  ram/list/DIV-001/?instanceCode=INST-391168\nFacility: Hamilton Downtown Fa
@@ -648,7 +830,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga - Downtown - Friday 1:15 PM
 DTSTART;TZID=America/Toronto:20260703T131500
 DTEND;TZID=America/Toronto:20260703T141500
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071335Z
 UID:c0b516e8-88d0-58b5-982e-f20b093d8dbb
 DESCRIPTION:Yoga\n\nURL: https://ymcahbb.my.site.com/#/app/program/list/DI
  V-001/?instanceCode=INST-391184\nFacility: Hamilton Downtown Family YMCA\n
@@ -662,7 +844,7 @@ BEGIN:VEVENT
 SUMMARY:Lane Swim - Downtown - Friday 6:00 AM
 DTSTART;TZID=America/Toronto:20260703T060000
 DTEND;TZID=America/Toronto:20260703T101500
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071335Z
 UID:c0cebb16-3e71-5a31-b1d4-980db6c3578f
 DESCRIPTION:Lane Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-390989\nFacility: Hamilton Downtown Family Y
@@ -676,7 +858,7 @@ BEGIN:VEVENT
 SUMMARY:Lane Swim - Downtown - Friday 11:30 AM
 DTSTART;TZID=America/Toronto:20260703T113000
 DTEND;TZID=America/Toronto:20260703T160000
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071335Z
 UID:c5e5f531-16e0-5761-bbb9-6e42c82c2720
 DESCRIPTION:Lane Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-390990\nFacility: Hamilton Downtown Family Y
@@ -687,10 +869,38 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-390990
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Strength & Conditioning - Downtown - Saturday 11:45 AM
+DTSTART;TZID=America/Toronto:20260704T114500
+DTEND;TZID=America/Toronto:20260704T124500
+DTSTAMP:20260629T071335Z
+UID:cfa87c21-da7c-5ad4-8566-f3ffa3e55316
+DESCRIPTION:Strength & Conditioning\n\nURL: https://ymcahbb.my.site.com/#/
+ app/program/list/DIV-001/?instanceCode=INST-391197\nFacility: Hamilton Dow
+ ntown Family YMCA\nCategory: Strength & Conditioning
+LOCATION:Hamilton Downtown Family YMCA\, 79 James Street South\, Hamilton\
+ , ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-391197
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ViPR Pro - Downtown - Friday 4:30 PM
+DTSTART;TZID=America/Toronto:20260703T183000
+DTEND;TZID=America/Toronto:20260703T191500
+DTSTAMP:20260629T071335Z
+UID:d436b930-e616-5af1-a8dc-b94581868adb
+DESCRIPTION:ViPR Pro\n\nURL: https://ymcahbb.my.site.com/#/app/program/lis
+ t/DIV-001/?instanceCode=INST-391185\nFacility: Hamilton Downtown Family YM
+ CA\nCategory: ViPR Pro
+LOCATION:Hamilton Downtown Family YMCA\, 79 James Street South\, Hamilton\
+ , ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-391185
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Table Tennis League - Downtown - Monday 6:00 AM
 DTSTART;TZID=America/Toronto:20260629T060000
 DTEND;TZID=America/Toronto:20260629T213000
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071333Z
 UID:d67a8f14-fa7d-5846-a67b-60ab2396ebb6
 DESCRIPTION:Table Tennis League\n\nURL: https://ymcahbb.my.site.com/#/app/
  program/list/DIV-001/?instanceCode=INST-391120\nFacility: Hamilton Downtow
@@ -701,38 +911,24 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-391120
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Strength & Conditioning - Downtown - Saturday 11:45 AM
-DTSTART;TZID=America/Toronto:20260627T114500
-DTEND;TZID=America/Toronto:20260627T124500
-DTSTAMP:20260627T064250Z
-UID:e2af76f8-7a8c-5f44-ae3c-7bb7cd04b440
-DESCRIPTION:Strength & Conditioning\n\nURL: https://ymcahbb.my.site.com/#/
- app/program/list/DIV-001/?instanceCode=INST-374232\nFacility: Hamilton Dow
- ntown Family YMCA\nCategory: Strength & Conditioning
+SUMMARY:Handball - Downtown - Sunday 8:00 AM
+DTSTART;TZID=America/Toronto:20260705T080000
+DTEND;TZID=America/Toronto:20260705T160000
+DTSTAMP:20260629T071335Z
+UID:dc392a18-2441-5434-8d64-34f91ffcedfb
+DESCRIPTION:Handball\n\nURL: https://ymcahbb.my.site.com/#/app/program/lis
+ t/DIV-001/?instanceCode=INST-391203\nFacility: Hamilton Downtown Family YM
+ CA\nCategory: Handball
 LOCATION:Hamilton Downtown Family YMCA\, 79 James Street South\, Hamilton\
  , ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-374232
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zumba - Downtown - Sunday 10:30 AM
-DTSTART;TZID=America/Toronto:20260628T103000
-DTEND;TZID=America/Toronto:20260628T113000
-DTSTAMP:20260627T064250Z
-UID:e4dbfbf2-405d-5397-87de-e1c8e762bbf4
-DESCRIPTION:Zumba\n\nURL: https://ymcahbb.my.site.com/#/app/program/list/D
- IV-001/?instanceCode=INST-374237\nFacility: Hamilton Downtown Family YMCA\
- nCategory: Zumba
-LOCATION:Hamilton Downtown Family YMCA\, 79 James Street South\, Hamilton\
- , ON\, CA\, L8P 2Z1
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-374237
+ NST-391203
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyclefit - Downtown - Thursday 4:30 PM
 DTSTART;TZID=America/Toronto:20260702T163000
 DTEND;TZID=America/Toronto:20260702T171500
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071334Z
 UID:ec32affe-f33c-5726-8d73-cb0ba3b603e8
 DESCRIPTION:CycleFit\n\nURL: https://ymcahbb.my.site.com/#/app/program/lis
  t/DIV-001/?instanceCode=INST-391169\nFacility: Hamilton Downtown Family YM
@@ -746,7 +942,7 @@ BEGIN:VEVENT
 SUMMARY:Lane Swim - Downtown - Thursday 7:30 AM
 DTSTART;TZID=America/Toronto:20260702T073000
 DTEND;TZID=America/Toronto:20260702T180000
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071334Z
 UID:f52e8670-96b8-5104-a3a0-dbc276e8e010
 DESCRIPTION:Lane Swim\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-390988\nFacility: Hamilton Downtown Family Y
@@ -760,7 +956,7 @@ BEGIN:VEVENT
 SUMMARY:Aquafit - Downtown - Friday 10:30 AM
 DTSTART;TZID=America/Toronto:20260703T103000
 DTEND;TZID=America/Toronto:20260703T111500
-DTSTAMP:20260627T064251Z
+DTSTAMP:20260629T071335Z
 UID:f6b042dc-0066-514e-b560-56581ebb488c
 DESCRIPTION:AquaFit\n\nURL: https://ymcahbb.my.site.com/#/app/program/list
  /DIV-001/?instanceCode=INST-390996\nFacility: Hamilton Downtown Family YMC
@@ -769,5 +965,33 @@ LOCATION:Hamilton Downtown Family YMCA\, 79 James Street South\, Hamilton\
  , ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-390996
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Handball - Downtown - Saturday 8:00 AM
+DTSTART;TZID=America/Toronto:20260704T080000
+DTEND;TZID=America/Toronto:20260704T173000
+DTSTAMP:20260629T071335Z
+UID:fb32075f-248b-5e10-8fe6-ccb9c71ef4d7
+DESCRIPTION:Handball\n\nURL: https://ymcahbb.my.site.com/#/app/program/lis
+ t/DIV-001/?instanceCode=INST-391191\nFacility: Hamilton Downtown Family YM
+ CA\nCategory: Handball
+LOCATION:Hamilton Downtown Family YMCA\, 79 James Street South\, Hamilton\
+ , ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-391191
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zumba - Downtown - Saturday 10:30 AM
+DTSTART;TZID=America/Toronto:20260704T103000
+DTEND;TZID=America/Toronto:20260704T113000
+DTSTAMP:20260629T071335Z
+UID:ff70e83f-9b39-5e00-ab68-06d9d66f79a9
+DESCRIPTION:Zumba\n\nURL: https://ymcahbb.my.site.com/#/app/program/list/D
+ IV-001/?instanceCode=INST-391196\nFacility: Hamilton Downtown Family YMCA\
+ nCategory: Zumba
+LOCATION:Hamilton Downtown Family YMCA\, 79 James Street South\, Hamilton\
+ , ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-391196
 END:VEVENT
 END:VCALENDAR
