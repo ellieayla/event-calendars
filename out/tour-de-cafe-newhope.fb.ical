@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de Cafe - Ride to Relay
 DTSTART;TZID=America/Toronto:20260606T080000
 DTEND;TZID=America/Toronto:20260606T100000
-DTSTAMP:20260629T071335Z
+DTSTAMP:20260701T070323Z
 UID:0f6b0ecb-faa1-54d2-ab8e-8f24b2f53504
 DESCRIPTION:After getting rained out last week\, let's cross our fingers t
  he weather co-operates this week as we ride to Relay for our second ride o
@@ -72,10 +72,24 @@ LOCATION:New Hope Community Bikes\, 1249 Main Street East\, Hamilton Ontar
 URL:https://www.facebook.com/events/1907484159765509/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mulberry Coffeehouse 
+DTSTART;TZID=America/Toronto:20260704T080000
+DTEND;TZID=America/Toronto:20260704T100000
+DTSTAMP:20260701T070326Z
+UID:307cd7f9-3380-50bb-8414-c708a1abac25
+DESCRIPTION:Hope to see you this Saturday July 4th as we ride to Mulberry 
+ Coffeehouse (James St. N). Hope you can join us! Meet behind New Hope at 8
+ am-remember to hydrate!!\nCreated by: Krista Kleinwort\nURL: https://www.f
+ acebook.com/events/1027072116532259/
+LOCATION:New Hope Community Bikes\, 1249 Main Street East\, Hamilton Ontar
+ io
+URL:https://www.facebook.com/events/1027072116532259/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Season Kickoff Ride to Pinch Cafe
 DTSTART;TZID=America/Toronto:20260509T080000
 DTEND;TZID=America/Toronto:20260509T100000
-DTSTAMP:20260629T071335Z
+DTSTAMP:20260701T070324Z
 UID:8fa3cf23-acec-5d73-aee3-176f08e94762
 DESCRIPTION:Welcome back riders! Tour de Cafe kicks off the 2026 season Ma
  y 9 (we meet at 8am behind the shop).\nCreated by: Alex Lenarduzzi\nEvent 
@@ -88,7 +102,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de Cafe - Ride to Cafe Baffico
 DTSTART;TZID=America/Toronto:20260523T080000
 DTEND;TZID=America/Toronto:20260523T100000
-DTSTAMP:20260629T071335Z
+DTSTAMP:20260701T070324Z
 UID:bb52a43a-18a6-5d78-ab2b-b76d063d0211
 DESCRIPTION:Join us for the second Tour de Cafe ride of the season! We’l
  l be riding to Cafe Baffico. To help with efficiency at the cafe\, please 
