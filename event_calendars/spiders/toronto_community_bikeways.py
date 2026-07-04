@@ -37,7 +37,7 @@ class TorontoCommunityBikeways(scrapy.Spider):
         try:
             content = response.css(".events-item .html-block")[0].root
             description = readable_text_content(content)
-        except (AttributeError, IndexError):
+        except AttributeError, IndexError:
             description = ""
 
         return scrapy.Request(

@@ -3,11 +3,16 @@ from datetime import date, datetime, timedelta
 
 import dateutil
 import scrapy
+import scrapy.http
 from scrapy.exceptions import CloseSpider
 from scrapy.http import HtmlResponse, Response, TextResponse
 from scrapy.http.request.form import FormdataType
 
 from ..items import BookableEvent
+
+
+class FormRequest(scrapy.http.FormRequest):  # TODO: Temporary shim for https://github.com/ellieayla/event-calendars/issues/73
+    ...
 
 
 def _parse_date_time(formatted_date: str, formatted_time: str) -> datetime:
@@ -44,7 +49,7 @@ class BurlingtonPools(scrapy.Spider):
         f"https://cityofburlington.perfectmind.com/22818/Clients/BookMe4BookingPages/Classes?calendarId={calendarId}&widgetId={widgetId}",
     ]
 
-    def parse(self, response: Response) -> scrapy.FormRequest:
+    def parse(self, response: Response) -> FormRequest:
         assert isinstance(response, HtmlResponse)  # guard because signature of parse() doesn't declare `response`
 
         # this page contains a form with an Input element "__RequestVerificationToken" whose value must be included on subsequent requests
@@ -60,14 +65,14 @@ class BurlingtonPools(scrapy.Spider):
             "__RequestVerificationToken": verification_token,
         }
 
-        return scrapy.FormRequest(
+        return FormRequest(
             url="https://cityofburlington.perfectmind.com/22818/Clients/BookMe4BookingPagesV2/ClassesV2",
             formdata=form_request_kv_data,
             callback=self.parse_classes_v2_json,
             cb_kwargs={"verification_token": verification_token},
         )
 
-    def parse_classes_v2_json(self, response: TextResponse, verification_token: str) -> Iterator[BookableEvent | scrapy.FormRequest]:
+    def parse_classes_v2_json(self, response: TextResponse, verification_token: str) -> Iterator[BookableEvent | FormRequest]:
         payload = response.json()
         # assert isinstance(self.crawler.stats, StatsCollector)  # TODO: just generate in Dataclass?
 
@@ -91,7 +96,7 @@ class BurlingtonPools(scrapy.Spider):
             yield b
 
         if payload["nextKey"] and payload["nextKey"] != "0001-01-01":
-            yield scrapy.FormRequest(
+            yield FormRequest(
                 url="https://cityofburlington.perfectmind.com/22818/Clients/BookMe4BookingPagesV2/ClassesV2",
                 formdata={
                     "calendarId": self.calendarId,
