@@ -1,0 +1,55 @@
+name: Smoke Test
+
+on:
+  # test as-merged
+  pull_request:
+
+jobs:
+  matrix:
+    runs-on: ubuntu-latest
+
+    outputs:
+      scrapers: ${{ steps.scrapers-matrix.outputs.scrapers }}
+
+    steps:
+    - uses: actions/checkout@v7
+
+    - name: Install uv
+      uses: astral-sh/setup-uv@v7
+      with:
+        activate-environment: true
+
+    - name: Install the project
+      run: uv sync --locked
+
+    - id: scrapers-matrix
+      name: Produce matrix of scrapers
+      run: |
+        (echo -n "scrapers="; uv run scrapy list | jq --raw-input '.' | jq -s -c '.') >> "$GITHUB_OUTPUT"
+
+  scrape:
+    needs: [matrix]
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        scraper: ${{ fromJSON(needs.matrix.outputs.scrapers) }}
+        #python-version: ["3.14", "3.15"]
+    steps:
+    - uses: actions/checkout@v7
+
+    - name: Install uv
+      uses: astral-sh/setup-uv@v7
+      with:
+        activate-environment: true
+
+    - name: Install the project
+      run: uv sync --locked
+
+    - name: Scrape latest data
+      env:
+        scraper: ${{ matrix.scraper }}
+      run: |
+        uv run scrapy crawl "$scraper" -o "$GITHUB_STEP_SUMMARY":jsonlines
+
+    - run: git diff --stat
