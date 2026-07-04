@@ -1,12 +1,12 @@
 from pathlib import Path
 
 import pytest
-from scrapy import FormRequest, Request
+from scrapy import Request
 from scrapy.exceptions import CloseSpider
 from scrapy.http import HtmlResponse, TextResponse
 
 from event_calendars.items import BookableEvent
-from event_calendars.spiders.burlington_pools import BurlingtonPools
+from event_calendars.spiders.burlington_pools import BurlingtonPools, FormRequest
 
 FIXTURE_DIR = Path(__file__).parent.parent.parent.resolve() / "test_data"
 
