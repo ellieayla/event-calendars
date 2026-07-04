@@ -18,11 +18,17 @@ class CycleToronto(scrapy.Spider):
     start_urls = ["https://www.cycleto.ca/events"]
 
     def parse(self, response: scrapy.http.Response) -> Iterator[scrapy.Request]:
-        for event_url in response.css(".calendar-list li.calendar-day-events-event a::attr(href)").getall():
+        found = 0
+        for event_url in response.css(".main-slug-events h3 a::attr(href)").getall():
+            print(f"Yielding a request url {response.urljoin(event_url)}")
             yield scrapy.Request(
                 url=response.urljoin(event_url),
                 callback=self.parse_details_page,
             )
+            found += 1
+
+        if not found:
+            raise ValueError("No events!")
 
     def parse_details_page(self, response: scrapy.http.Response) -> Event:
         ics_blob = response.xpath('//a[contains(@download, "event.ics")]/@href').get()
