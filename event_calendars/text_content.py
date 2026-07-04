@@ -81,9 +81,9 @@ def readable_text_content(node: HtmlElement) -> str:
 
     text = text.replace("\xa0", " ")  # non-breaking space
     text = re.sub("[ ]+", " ", text)  # combine runs of adjacent spaces
-    text = re.sub("\n +", "\n", text, re.MULTILINE)  # drop spaes alongside newlines
-    text = re.sub(" +\n", "\n", text, re.MULTILINE)
-    text = re.sub("\n\n+", "\n\n", text, re.MULTILINE)  # drop 3+ newlines back to 2
+    text = re.sub("\n +", "\n", text, flags=re.MULTILINE)  # drop spaes alongside newlines
+    text = re.sub(" +\n", "\n", text, flags=re.MULTILINE)
+    text = re.sub("\n\n+", "\n\n", text, flags=re.MULTILINE)  # drop 3+ newlines back to 2
     text = text.strip()  # drop leading and trailing whitespace
 
     return text

@@ -3,14 +3,14 @@ name = "event-calendars"
 version = "1.0.0"
 description = "Periodically checks community websites and export an iCalendar (.ical / .ics) feed of upcoming events."
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.14"
 dependencies = [
     "datauri>=1.1.0",
     "gql>=4.0.0",
     "html2text>=2025.4.15",
     "humanize>=4.15.0",
     "icalendar>=7.0.0",
-    "scrapy>=2.14.1",
+    "scrapy>=2.15.2,<2.16",  # Wait for https://github.com/scrapy/form2request
     "waybackpy>=3.0.6",
 ]
 
