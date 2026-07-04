@@ -11,7 +11,7 @@ from scrapy.http.request.form import FormdataType
 from ..items import BookableEvent
 
 
-class FormRequest(scrapy.http.FormRequest):  # TODO: Temporary shim for https://github.com/ellieayla/event-calendars/issues/72
+class FormRequest(scrapy.http.FormRequest):  # TODO: Temporary shim for https://github.com/ellieayla/event-calendars/issues/73
     ...
 
 
