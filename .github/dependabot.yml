@@ -11,10 +11,8 @@ updates:
       interval: "quarterly"
 
     groups:
-      development-dependencies:
-        dependency-type: "development"
-      production-dependencies:
-        dependency-type: "production"
+      dependencies:
+        dependency-type: "direct"
 
   - package-ecosystem: "pre-commit"
     directory: "/"
