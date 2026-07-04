@@ -50,5 +50,8 @@ jobs:
       env:
         scraper: ${{ matrix.scraper }}
       run: uv run scrapy crawl "$scraper" -o test.ical:ical
-    - run: uv run icalendar test.ical | head --bytes=1000000 >> "$GITHUB_STEP_SUMMARY"
+    - run: |
+        uv run icalendar test.ical > test.txt
+        head --bytes=1000000 test.txt >> "$GITHUB_STEP_SUMMARY"
+        rm test.txt
     - run: git diff --stat
