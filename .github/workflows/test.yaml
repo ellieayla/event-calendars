@@ -30,11 +30,3 @@ jobs:
     - name: pytest  # also runs mypy
       run: |
         pytest
-
-    # todo:
-    # "uv run scrapy list" to get a list of spiders
-    # github job matrix
-    - name: Fetch latest data
-      run: |
-        uv run scrapy list
-        uv run scrapy crawl httpbin
