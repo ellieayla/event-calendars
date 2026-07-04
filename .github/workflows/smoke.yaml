@@ -49,7 +49,6 @@ jobs:
     - name: Scrape latest data
       env:
         scraper: ${{ matrix.scraper }}
-      run: |
-        uv run scrapy crawl "$scraper" -o "$GITHUB_STEP_SUMMARY":jsonlines
-
+      run: uv run scrapy crawl "$scraper" -o test.ical:ical
+    - run: uv run icalendar test.ical | head --bytes=1000000 >> "$GITHUB_STEP_SUMMARY"
     - run: git diff --stat
