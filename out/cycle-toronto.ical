@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
 DTSTART:20260711T140000Z
 DTEND:20260711T210000Z
-DTSTAMP:20260705T082914Z
+DTSTAMP:20260707T085226Z
 UID:31f5be1c-df77-55fd-9e16-33e1f33da0e3
 DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
  at Evergreen Brick Works is a welcoming community space that takes the int
@@ -24,10 +24,35 @@ LOCATION:Rec Hub at Evergreen Brick Works\n550 Bayview Avenue\nToronto ON
 URL:https://www.cycleto.ca/rec_hub_diy_20260711
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FIFA Bike Valet
+DTSTART:20260714T163000Z
+DTEND:20260715T003000Z
+DTSTAMP:20260707T085222Z
+UID:3885ce9e-8ecf-5b87-8f6c-13c96360b00c
+DESCRIPTION:Did you know that football fans can take advantage of FREE bik
+ e parking with Cycle Toronto Bike Valet? Skip the traffic and bike with pe
+ ace of mind!\n\nBike Valet opens one hour before and closes one hour after
+  gates (subject to change).\n\nAll Fan Festival days (June 10 until July 1
+ 9):\n\n* Inukshuk (789 Lake Shore Blvd W\, Toronto)\n\nMatch days (June 12
+ \, June 17\, June 20\, June 23\, June 26\, July 2):\n\n* Inukshuk (789 Lak
+ e Shore Blvd W\, Toronto)\n* Hanna (15 Hanna Ave\, Toronto)\n* Ordnance (8
+ 01 Wellington St W\, Toronto)\n\nFind out more: (https://torontofwc26.ca/g
+ etting-around) torontofwc26.ca/getting-around\n\nFAQ What does it cost?\n\
+ nCycle Toronto Bike Valet is free! But if you appreciate the service\, con
+ sider (https://www.cycleto.ca/join) becoming a member to support our work.
+ \n\nCan I leave my helmet and bag?\n\nYes\, we can keep it all with your b
+ ike.\n\nDo I need a lock?\n\nNo\, your bike is kept under the watchful eye
+ s of our attendants in our secure perimeter.\n\nHow can I get Bike Valet f
+ or my event?\n\nContact us: (https://www.cycleto.ca/bikevalet) cycleto.ca/
+ bikevalet\nURL: https://www.cycleto.ca/fifa_bike_valet_20260714
+LOCATION:
+URL:https://www.cycleto.ca/fifa_bike_valet_20260714
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
 DTSTART:20260708T200000Z
 DTEND:20260708T230000Z
-DTSTAMP:20260705T082913Z
+DTSTAMP:20260707T085222Z
 UID:47292d02-b16e-5fa4-8d66-e8652dbf88ba
 DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
  at Evergreen Brick Works is a welcoming community space that takes the int
@@ -43,10 +68,35 @@ LOCATION:Rec Hub at Evergreen Brick Works\n550 Bayview Avenue\nToronto ON
 URL:https://www.cycleto.ca/rec_hub_diy_20260708
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FIFA Bike Valet
+DTSTART:20260715T163000Z
+DTEND:20260716T003000Z
+DTSTAMP:20260707T085224Z
+UID:5894a9d8-84b5-5424-b802-665f28072ba5
+DESCRIPTION:Did you know that football fans can take advantage of FREE bik
+ e parking with Cycle Toronto Bike Valet? Skip the traffic and bike with pe
+ ace of mind!\n\nBike Valet opens one hour before and closes one hour after
+  gates (subject to change).\n\nAll Fan Festival days (June 10 until July 1
+ 9):\n\n* Inukshuk (789 Lake Shore Blvd W\, Toronto)\n\nMatch days (June 12
+ \, June 17\, June 20\, June 23\, June 26\, July 2):\n\n* Inukshuk (789 Lak
+ e Shore Blvd W\, Toronto)\n* Hanna (15 Hanna Ave\, Toronto)\n* Ordnance (8
+ 01 Wellington St W\, Toronto)\n\nFind out more: (https://torontofwc26.ca/g
+ etting-around) torontofwc26.ca/getting-around\n\nFAQ What does it cost?\n\
+ nCycle Toronto Bike Valet is free! But if you appreciate the service\, con
+ sider (https://www.cycleto.ca/join) becoming a member to support our work.
+ \n\nCan I leave my helmet and bag?\n\nYes\, we can keep it all with your b
+ ike.\n\nDo I need a lock?\n\nNo\, your bike is kept under the watchful eye
+ s of our attendants in our secure perimeter.\n\nHow can I get Bike Valet f
+ or my event?\n\nContact us: (https://www.cycleto.ca/bikevalet) cycleto.ca/
+ bikevalet\nURL: https://www.cycleto.ca/fifa_bike_valet_20260715
+LOCATION:
+URL:https://www.cycleto.ca/fifa_bike_valet_20260715
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
 DTSTART:20260712T140000Z
 DTEND:20260712T210000Z
-DTSTAMP:20260705T082914Z
+DTSTAMP:20260707T085223Z
 UID:5904c03e-daac-59dd-ab7c-6e98e3ece332
 DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
  at Evergreen Brick Works is a welcoming community space that takes the int
@@ -62,29 +112,10 @@ LOCATION:Rec Hub at Evergreen Brick Works\n550 Bayview Avenue\nToronto ON
 URL:https://www.cycleto.ca/rec_hub_diy_20260712
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rec Hub DIY
-DTSTART:20260705T140000Z
-DTEND:20260705T210000Z
-DTSTAMP:20260705T082913Z
-UID:60f49c15-40e8-5f34-a928-e7d275b1dbc2
-DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
- at Evergreen Brick Works is a welcoming community space that takes the int
- imidation out of bike maintenance and repair.\n\nIF YOU'RE ALREADY A TRAIN
- ED CYCLE TORONTO REC HUB VOLUNTEER\, SIGN UP FOR SUPPORT SHIFTS.\n\nOur fr
- iendly staff and volunteers will help guide you through the basics to keep
-  you rolling. Even expert home mechanics are also welcome to use our facil
- ities.\n\nDIY service is first come\, first serve.\n\nFind out more: (http
- s://www.cycleto.ca/rec_hub) cycleto.ca/rec_hub\nURL: https://www.cycleto.c
- a/rec_hub_diy_20260705
-LOCATION:Rec Hub at Evergreen Brick Works\n550 Bayview Avenue\nToronto ON 
- M4W 3X8\nCA
-URL:https://www.cycleto.ca/rec_hub_diy_20260705
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FIFA Bike Valet
 DTSTART:20260711T163000Z
 DTEND:20260712T003000Z
-DTSTAMP:20260705T082915Z
+DTSTAMP:20260707T085222Z
 UID:75fc5600-dbe7-5faf-b65d-b98c6d1f036a
 DESCRIPTION:Did you know that football fans can take advantage of FREE bik
  e parking with Cycle Toronto Bike Valet? Skip the traffic and bike with pe
@@ -106,52 +137,11 @@ LOCATION:
 URL:https://www.cycleto.ca/fifa_bike_valet_20260711
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rec Hub DIY
-DTSTART:20260704T140000Z
-DTEND:20260704T210000Z
-DTSTAMP:20260705T082914Z
-UID:7f6ba8c3-211b-5f35-ae4d-0c980a4fd9f0
-DESCRIPTION:This event has already taken place.\nURL: https://www.cycleto.
- ca/rec_hub_diy_20260704
-LOCATION:Rec Hub at Evergreen Brick Works\n550 Bayview Avenue\nToronto ON 
- M4W 3X8\nCA
-URL:https://www.cycleto.ca/rec_hub_diy_20260704
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FIFA Bike Valet
-DTSTART:20260704T163000Z
-DTEND:20260705T003000Z
-DTSTAMP:20260705T082915Z
-UID:ddf989fc-d7a3-597c-8270-c1ac11128f40
-DESCRIPTION:This event has already taken place.\nURL: https://www.cycleto.
- ca/fifa_bike_valet_20260704
-LOCATION:
-URL:https://www.cycleto.ca/fifa_bike_valet_20260704
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bike Match Drop-Off at Sorauren Farmers' Market
-DTSTART:20260713T190000Z
-DTEND:20260713T230000Z
-DTSTAMP:20260705T082914Z
-UID:e0183686-f0a7-58fe-ae89-d5d159cade70
-DESCRIPTION:Cycle Toronto is collecting bike donations at the Sorauren Far
- mers' Market on Monday\, July 13 from 3:00 PM - 7:00 PM.\n\nAll donated bi
- kes go toward our Bike Match program\, which was founded by Women's Cyclin
- g Network and aims to increase access to cycling across the city while giv
- ing donated bikes a second life.\n\nCycle Toronto and our partner bike hub
- s collect donated bicycles\, repair them\, and provide them to community m
- embers in need. Interested participants can sign up through the (https://b
- ikematchwcn.com/) Bike Match website.\nURL: https://www.cycleto.ca/bike_ma
- tch_20260713
-LOCATION:Sorauren Farmers' Market\n50 Wabash Ave\nToronto ON M6R 1N2\nCA
-URL:https://www.cycleto.ca/bike_match_20260713
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FIFA Bike Valet
-DTSTART:20260705T163000Z
-DTEND:20260706T003000Z
-DTSTAMP:20260705T082914Z
-UID:e19c6dec-d5ad-55c1-be1e-999aa9039d60
+DTSTART:20260718T163000Z
+DTEND:20260719T003000Z
+DTSTAMP:20260707T085223Z
+UID:954ce58a-a430-5bfc-956d-7915570d75aa
 DESCRIPTION:Did you know that football fans can take advantage of FREE bik
  e parking with Cycle Toronto Bike Valet? Skip the traffic and bike with pe
  ace of mind!\n\nBike Valet opens one hour before and closes one hour after
@@ -167,15 +157,58 @@ DESCRIPTION:Did you know that football fans can take advantage of FREE bik
  ike.\n\nDo I need a lock?\n\nNo\, your bike is kept under the watchful eye
  s of our attendants in our secure perimeter.\n\nHow can I get Bike Valet f
  or my event?\n\nContact us: (https://www.cycleto.ca/bikevalet) cycleto.ca/
- bikevalet\nURL: https://www.cycleto.ca/fifa_bike_valet_20260705
+ bikevalet\nURL: https://www.cycleto.ca/fifa_bike_valet_20260718
 LOCATION:
-URL:https://www.cycleto.ca/fifa_bike_valet_20260705
+URL:https://www.cycleto.ca/fifa_bike_valet_20260718
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bike Match Drop-Off at Sorauren Farmers' Market
+DTSTART:20260713T190000Z
+DTEND:20260713T230000Z
+DTSTAMP:20260707T085222Z
+UID:e0183686-f0a7-58fe-ae89-d5d159cade70
+DESCRIPTION:Cycle Toronto is collecting bike donations at the Sorauren Far
+ mers' Market on Monday\, July 13 from 3:00 PM - 7:00 PM.\n\nAll donated bi
+ kes go toward our Bike Match program\, which was founded by Women's Cyclin
+ g Network and aims to increase access to cycling across the city while giv
+ ing donated bikes a second life.\n\nCycle Toronto and our partner bike hub
+ s collect donated bicycles\, repair them\, and provide them to community m
+ embers in need. Interested participants can sign up through the (https://b
+ ikematchwcn.com/) Bike Match website.\nURL: https://www.cycleto.ca/bike_ma
+ tch_20260713
+LOCATION:Sorauren Farmers' Market\n50 Wabash Ave\nToronto ON M6R 1N2\nCA
+URL:https://www.cycleto.ca/bike_match_20260713
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FIFA Bike Valet
+DTSTART:20260719T163000Z
+DTEND:20260720T003000Z
+DTSTAMP:20260707T085223Z
+UID:e6f3664b-6ad0-5a1d-9cfb-f9007d4e7b1d
+DESCRIPTION:Did you know that football fans can take advantage of FREE bik
+ e parking with Cycle Toronto Bike Valet? Skip the traffic and bike with pe
+ ace of mind!\n\nBike Valet opens one hour before and closes one hour after
+  gates (subject to change).\n\nAll Fan Festival days (June 10 until July 1
+ 9):\n\n* Inukshuk (789 Lake Shore Blvd W\, Toronto)\n\nMatch days (June 12
+ \, June 17\, June 20\, June 23\, June 26\, July 2):\n\n* Inukshuk (789 Lak
+ e Shore Blvd W\, Toronto)\n* Hanna (15 Hanna Ave\, Toronto)\n* Ordnance (8
+ 01 Wellington St W\, Toronto)\n\nFind out more: (https://torontofwc26.ca/g
+ etting-around) torontofwc26.ca/getting-around\n\nFAQ What does it cost?\n\
+ nCycle Toronto Bike Valet is free! But if you appreciate the service\, con
+ sider (https://www.cycleto.ca/join) becoming a member to support our work.
+ \n\nCan I leave my helmet and bag?\n\nYes\, we can keep it all with your b
+ ike.\n\nDo I need a lock?\n\nNo\, your bike is kept under the watchful eye
+ s of our attendants in our secure perimeter.\n\nHow can I get Bike Valet f
+ or my event?\n\nContact us: (https://www.cycleto.ca/bikevalet) cycleto.ca/
+ bikevalet\nURL: https://www.cycleto.ca/fifa_bike_valet_20260719
+LOCATION:
+URL:https://www.cycleto.ca/fifa_bike_valet_20260719
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Engagement Station - Willowdale Summer Environment Day 2026
 DTSTART:20260711T140000Z
 DTEND:20260711T180000Z
-DTSTAMP:20260705T082914Z
+DTSTAMP:20260707T085223Z
 UID:f4332e51-7476-5547-b845-94099f65e0f8
 DESCRIPTION:We are hosting a Bike Engagement Station at Willowdale Summer 
  Environment Day on Saturday\, July 11. We'll be there with some educationa
