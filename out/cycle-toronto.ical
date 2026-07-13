@@ -5,29 +5,10 @@ METHOD:PUBLISH
 NAME:Cycle TO
 X-WR-CALNAME:Cycle TO
 BEGIN:VEVENT
-SUMMARY:Rec Hub DIY
-DTSTART:20260711T140000Z
-DTEND:20260711T210000Z
-DTSTAMP:20260711T072558Z
-UID:31f5be1c-df77-55fd-9e16-33e1f33da0e3
-DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
- at Evergreen Brick Works is a welcoming community space that takes the int
- imidation out of bike maintenance and repair.\n\nIF YOU'RE ALREADY A TRAIN
- ED CYCLE TORONTO REC HUB VOLUNTEER\, SIGN UP FOR SUPPORT SHIFTS.\n\nOur fr
- iendly staff and volunteers will help guide you through the basics to keep
-  you rolling. Even expert home mechanics are also welcome to use our facil
- ities.\n\nDIY service is first come\, first serve.\n\nFind out more: (http
- s://www.cycleto.ca/rec_hub) cycleto.ca/rec_hub\nURL: https://www.cycleto.c
- a/rec_hub_diy_20260711
-LOCATION:Rec Hub at Evergreen Brick Works\n550 Bayview Avenue\nToronto ON 
- M4W 3X8\nCA
-URL:https://www.cycleto.ca/rec_hub_diy_20260711
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FIFA Bike Valet
 DTSTART:20260714T163000Z
 DTEND:20260715T003000Z
-DTSTAMP:20260711T072558Z
+DTSTAMP:20260713T083509Z
 UID:3885ce9e-8ecf-5b87-8f6c-13c96360b00c
 DESCRIPTION:Did you know that football fans can take advantage of FREE bik
  e parking with Cycle Toronto Bike Valet? Skip the traffic and bike with pe
@@ -49,10 +30,30 @@ LOCATION:
 URL:https://www.cycleto.ca/fifa_bike_valet_20260714
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kidical Mass TO
+DTSTART:20260725T124500Z
+DTEND:20260725T143000Z
+DTSTAMP:20260713T083509Z
+UID:4e4419fe-3580-50b5-8cab-777eec4a7b48
+DESCRIPTION:Cycle Toronto is proud to be powering the return of KidicalMas
+ sTO on the last Saturday of every month until October.\n\nKidical Mass is 
+ an international movement for child- and cycling-friendly cities. Kidical 
+ Mass rides are an all-ages\, all-abilities celebration of cycling that hig
+ hlights the need for healthier cities. Kids and their grown-ups ride their
+  bikes together.\n\nWhen: Meet at 8:45 AM\, depart at 9 AM\nWhere: Cycle T
+ oronto Rec Hub at Evergreen Brick Works (550 Bayview Ave)\nWhat: ~6 km fam
+ ily-friendly ride along multi-use paths\, quiet streets\, and dedicated cy
+ cling infrastructure\, supported by Cycle Toronto ride guides (Route TBD)\
+ nURL: https://www.cycleto.ca/kidical_mass_20260725
+LOCATION:Cycle Toronto Rec Hub at Evergreen Brick Works\n550 Bayview Avenu
+ e\nToronto ON M4W 3X8\nCA
+URL:https://www.cycleto.ca/kidical_mass_20260725
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FIFA Bike Valet
 DTSTART:20260715T163000Z
 DTEND:20260716T003000Z
-DTSTAMP:20260711T072558Z
+DTSTAMP:20260713T083510Z
 UID:5894a9d8-84b5-5424-b802-665f28072ba5
 DESCRIPTION:Did you know that football fans can take advantage of FREE bik
  e parking with Cycle Toronto Bike Valet? Skip the traffic and bike with pe
@@ -77,51 +78,19 @@ BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
 DTSTART:20260712T140000Z
 DTEND:20260712T210000Z
-DTSTAMP:20260711T072556Z
+DTSTAMP:20260713T083509Z
 UID:5904c03e-daac-59dd-ab7c-6e98e3ece332
-DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
- at Evergreen Brick Works is a welcoming community space that takes the int
- imidation out of bike maintenance and repair.\n\nIF YOU'RE ALREADY A TRAIN
- ED CYCLE TORONTO REC HUB VOLUNTEER\, SIGN UP FOR SUPPORT SHIFTS.\n\nOur fr
- iendly staff and volunteers will help guide you through the basics to keep
-  you rolling. Even expert home mechanics are also welcome to use our facil
- ities.\n\nDIY service is first come\, first serve.\n\nFind out more: (http
- s://www.cycleto.ca/rec_hub) cycleto.ca/rec_hub\nURL: https://www.cycleto.c
- a/rec_hub_diy_20260712
+DESCRIPTION:This event has already taken place.\nURL: https://www.cycleto.
+ ca/rec_hub_diy_20260712
 LOCATION:Rec Hub at Evergreen Brick Works\n550 Bayview Avenue\nToronto ON 
  M4W 3X8\nCA
 URL:https://www.cycleto.ca/rec_hub_diy_20260712
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FIFA Bike Valet
-DTSTART:20260711T163000Z
-DTEND:20260712T003000Z
-DTSTAMP:20260711T072558Z
-UID:75fc5600-dbe7-5faf-b65d-b98c6d1f036a
-DESCRIPTION:Did you know that football fans can take advantage of FREE bik
- e parking with Cycle Toronto Bike Valet? Skip the traffic and bike with pe
- ace of mind!\n\nBike Valet opens one hour before and closes one hour after
-  gates (subject to change).\n\nAll Fan Festival days (June 10 until July 1
- 9):\n\n* Inukshuk (789 Lake Shore Blvd W\, Toronto)\n\nMatch days (June 12
- \, June 17\, June 20\, June 23\, June 26\, July 2):\n\n* Inukshuk (789 Lak
- e Shore Blvd W\, Toronto)\n* Hanna (15 Hanna Ave\, Toronto)\n* Ordnance (8
- 01 Wellington St W\, Toronto)\n\nFind out more: (https://torontofwc26.ca/g
- etting-around) torontofwc26.ca/getting-around\n\nFAQ What does it cost?\n\
- nCycle Toronto Bike Valet is free! But if you appreciate the service\, con
- sider (https://www.cycleto.ca/join) becoming a member to support our work.
- \n\nCan I leave my helmet and bag?\n\nYes\, we can keep it all with your b
- ike.\n\nDo I need a lock?\n\nNo\, your bike is kept under the watchful eye
- s of our attendants in our secure perimeter.\n\nHow can I get Bike Valet f
- or my event?\n\nContact us: (https://www.cycleto.ca/bikevalet) cycleto.ca/
- bikevalet\nURL: https://www.cycleto.ca/fifa_bike_valet_20260711
-LOCATION:
-URL:https://www.cycleto.ca/fifa_bike_valet_20260711
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FIFA Bike Valet
 DTSTART:20260718T163000Z
 DTEND:20260719T003000Z
-DTSTAMP:20260711T072559Z
+DTSTAMP:20260713T083508Z
 UID:954ce58a-a430-5bfc-956d-7915570d75aa
 DESCRIPTION:Did you know that football fans can take advantage of FREE bik
  e parking with Cycle Toronto Bike Valet? Skip the traffic and bike with pe
@@ -146,7 +115,7 @@ BEGIN:VEVENT
 SUMMARY:Bike Match Drop-Off at Sorauren Farmers' Market
 DTSTART:20260713T190000Z
 DTEND:20260713T230000Z
-DTSTAMP:20260711T072558Z
+DTSTAMP:20260713T083509Z
 UID:e0183686-f0a7-58fe-ae89-d5d159cade70
 DESCRIPTION:Cycle Toronto is collecting bike donations at the Sorauren Far
  mers' Market on Monday\, July 13 from 3:00 PM - 6:30 PM.\n\nAll donated bi
@@ -164,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:FIFA Bike Valet
 DTSTART:20260719T163000Z
 DTEND:20260720T003000Z
-DTSTAMP:20260711T072557Z
+DTSTAMP:20260713T083509Z
 UID:e6f3664b-6ad0-5a1d-9cfb-f9007d4e7b1d
 DESCRIPTION:Did you know that football fans can take advantage of FREE bik
  e parking with Cycle Toronto Bike Valet? Skip the traffic and bike with pe
@@ -184,55 +153,5 @@ DESCRIPTION:Did you know that football fans can take advantage of FREE bik
  bikevalet\nURL: https://www.cycleto.ca/fifa_bike_valet_20260719
 LOCATION:
 URL:https://www.cycleto.ca/fifa_bike_valet_20260719
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Engagement Station - Leslieville Farmers' Market
-DTSTART:20260712T130000Z
-DTEND:20260712T180000Z
-DTSTAMP:20260711T072557Z
-UID:f2a700cc-281b-5d6c-ae7b-4da018da643a
-DESCRIPTION:We are hosting a Bike Engagement Station at Leslieville Farmer
- s' Market on Sunday\, July 12. We'll be there with some educational materi
- als and will demonstrate how to perform safety checks for those who may no
- t have access to a bike shop but want to get riding. We'll be able to help
-  with things like inflating your tires\, lubricating your chain\, demonstr
- ating how to do an (https://www.cycleto.ca/abccheck) ABC safety check\, an
- d anything else our teams can safely accomplish in a few minutes.\n\nSee t
- he details below:\n\n* Date: Sunday\, July 12\, 2026\n* Time: 9:00 am - 2:
- 00 pm\n* Location: 150 Greenwood Ave\, Toronto\, ON M4L 1Y5 (Greenwood Par
- k)\n\nBike Month is a month long celebration of cycling across Toronto. Jo
- in us on community rides\, learn more about the joys of cycling or visit o
- ne of our bike engagement stations. Visit (https://www.cycleto.ca/toronto.
- ca/bikemonth) toronto.ca/bikemonth.\n\nSee you there!\nURL: https://www.cy
- cleto.ca/engagement_station_willowdale_summer_environment_day_20260712
-LOCATION:Greenwood Park\n150 Greenwood Ave\nToronto ON M4L 1Y5\nCA
-URL:https://www.cycleto.ca/engagement_station_willowdale_summer_environmen
- t_day_20260712
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Engagement Station - Willowdale Summer Environment Day 2026
-DTSTART:20260711T140000Z
-DTEND:20260711T180000Z
-DTSTAMP:20260711T072558Z
-UID:f4332e51-7476-5547-b845-94099f65e0f8
-DESCRIPTION:We are hosting a Bike Engagement Station at Willowdale Summer 
- Environment Day on Saturday\, July 11. We'll be there with some educationa
- l materials and will demonstrate how to perform safety checks for those wh
- o may not have access to a bike shop but want to get riding. We'll be able
-  to help with things like inflating your tires\, lubricating your chain\, 
- demonstrating how to do an (https://www.cycleto.ca/abccheck) ABC safety ch
- eck\, and anything else our teams can safely accomplish in a few minutes.\
- n\nSee the details below:\n\n* Date: Saturday\, July 11\, 2026\n* Time: 10
- :00 am - 2:00 pm\n* Location: 6464 Yonge St\, North York M2M 3X4 (Center P
- oint Mall Parking Lot)\n\nBike Month is a month long celebration of cyclin
- g across Toronto. Join us on community rides\, learn more about the joys o
- f cycling or visit one of our bike engagement stations. Visit (https://www
- .cycleto.ca/toronto.ca/bikemonth) toronto.ca/bikemonth.\n\nSee you there!\
- nURL: https://www.cycleto.ca/engagement_station_willowdale_summer_environm
- ent_day_20260711
-LOCATION:Centrepoint Mall North Parking Lot\n6464 Yonge St\nNorth York ON 
- M2M 3X4\nCA
-URL:https://www.cycleto.ca/engagement_station_willowdale_summer_environmen
- t_day_20260711
 END:VEVENT
 END:VCALENDAR
