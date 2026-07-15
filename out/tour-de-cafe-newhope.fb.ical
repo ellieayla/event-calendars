@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de Cafe - Ride to Relay
 DTSTART;TZID=America/Toronto:20260606T080000
 DTEND;TZID=America/Toronto:20260606T100000
-DTSTAMP:20260713T083503Z
+DTSTAMP:20260715T073107Z
 UID:0f6b0ecb-faa1-54d2-ab8e-8f24b2f53504
 DESCRIPTION:After getting rained out last week\, let's cross our fingers t
  he weather co-operates this week as we ride to Relay for our second ride o
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:Mulberry Coffeehouse 
 DTSTART;TZID=America/Toronto:20260704T080000
 DTEND;TZID=America/Toronto:20260704T100000
-DTSTAMP:20260713T083503Z
+DTSTAMP:20260715T073108Z
 UID:307cd7f9-3380-50bb-8414-c708a1abac25
 DESCRIPTION:Hope to see you this Saturday July 4th as we ride to Mulberry 
  Coffeehouse (James St. N). Hope you can join us! Meet behind New Hope at 8
@@ -89,7 +89,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de Cafe - Ride to Cafe Baffico
 DTSTART;TZID=America/Toronto:20260523T080000
 DTEND;TZID=America/Toronto:20260523T100000
-DTSTAMP:20260713T083502Z
+DTSTAMP:20260715T073106Z
 UID:bb52a43a-18a6-5d78-ab2b-b76d063d0211
 DESCRIPTION:Join us for the second Tour de Cafe ride of the season! We’l
  l be riding to Cafe Baffico. To help with efficiency at the cafe\, please 
