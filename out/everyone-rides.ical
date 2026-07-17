@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Free Ride Day 2026
 DTSTART;TZID=America/Toronto:20260607T090000
 DTEND;TZID=America/Toronto:20260607T210000
-DTSTAMP:20260715T073106Z
+DTSTAMP:20260717T073519Z
 UID:06d74b8d-c48d-5239-b783-beb17f155db9
 DESCRIPTION:Hamilton Bike Share is excited to present our inaugural FREE R
  IDE DAY\, brought to you by Cogeco. Free Ride Day is coming your way on Su
@@ -82,7 +82,7 @@ DESCRIPTION:Hamilton Bike Share is excited to present our inaugural FREE R
  (between Dundas and Kenilworth Ave in the lower city) and never leave a bi
  ke unlocked and unattended. Always ensure bikes are locked to secure fixed
   objects when making a stop.\n\nNeed help? Contact us:\n\n(/cdn-cgi/l/emai
- l-protection#79111c15093911181410150d16171b10121c0a11180b1c571a18) [email 
+ l-protection#ff979a938fbf979e9296938b90919d96949a8c979e8d9ad19c9e) [email 
  protected]\n\n289-768-2453\nURL: https://www.everyonerides.org/free_ride_d
  ay_2026
 LOCATION:See post
@@ -92,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:Bike Share Birthday Party
 DTSTART;TZID=America/Toronto:20260320T183000
 DTEND;TZID=America/Toronto:20260320T203000
-DTSTAMP:20260715T073106Z
+DTSTAMP:20260717T073520Z
 UID:791cec38-1e47-5d04-a04f-39a9ad8ad50d
 DESCRIPTION:Come celebrate 11 years of Bike Share with us on Friday\, Marc
  h 20! We'll gather at the Workers Arts & Heritage Centre from 6:30-8:30 fo
@@ -109,18 +109,23 @@ BEGIN:VEVENT
 SUMMARY:Valley Park Seasonal Hub Launch
 DTSTART;TZID=America/Toronto:20260715T183000
 DTEND;TZID=America/Toronto:20260715T193000
-DTSTAMP:20260715T073105Z
+DTSTAMP:20260717T073520Z
 UID:ab36ac79-08aa-56e2-b2cd-005b08c5c01f
-DESCRIPTION:We're excited to share our new seasonal pilot program for Summ
- er 2026: Bike Share at Valley Park!\n\nFor the months of July and August\,
-  you can find a Bike Share Hub in the rec centre parking lot at Valley Par
- k and enjoy a bike ride on the many beautiful trails there.\n\nJoin us for
-  our launch event and enjoy some delicious baked goods while mingling with
-  your neighbours from the City of Hamilton and Ward 9!\n\nWe'd like to ext
- end our thanks to Councillor Brad Clark and the leadership of Ward 9 for p
- artnering with us on this exciting project. See you at the park!\n\n📆 W
- ednesday\, July 15th\n\n⏰6:30PM-7:30PM\n\n📍Hamilton Bike Share Hub @ 
- Valley Park parking lot\nURL: https://www.everyonerides.org/valley_park
+DESCRIPTION:🚨PSA for tonight's event!🚨\nDue to smoke/air quality thi
+ s afternoon\, our Valley Park Launch Event is moving inside the rec centre
+ . Join us inside to beat the heat and chat about our new pilot expansion w
+ ith some delicious goodies. Here's hoping the air clears and we can enjoy 
+ a ride soon!\n\n---\n\nWe're excited to share our new seasonal pilot progr
+ am for Summer 2026: Bike Share at Valley Park!\n\nFor the months of July a
+ nd August\, you can find a Bike Share Hub in the rec centre parking lot at
+  Valley Park and enjoy a bike ride on the many beautiful trails there.\n\n
+ Join us for our launch event and enjoy some delicious baked goods while mi
+ ngling with your neighbours from the City of Hamilton and Ward 9!\n\nWe'd 
+ like to extend our thanks to Councillor Brad Clark and the leadership of W
+ ard 9 for partnering with us on this exciting project. See you at the park
+ !\n\n📆 Wednesday\, July 15th\n\n⏰6:30PM-7:30PM\n\n📍Hamilton Bike S
+ hare Hub @ Valley Park parking lot\nURL: https://www.everyonerides.org/val
+ ley_park
 LOCATION:See post
 URL:https://www.everyonerides.org/valley_park
 END:VEVENT
@@ -128,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:Magnolia Ride
 DTSTART;TZID=America/Toronto:20260425T100000
 DTEND;TZID=America/Toronto:20260425T120000
-DTSTAMP:20260715T073106Z
+DTSTAMP:20260717T073520Z
 UID:d5c1c719-37da-56de-a7d8-782ec449cac8
 DESCRIPTION:🌸 Join us for our Annual Magnolia Ride on Saturday\, April 
  25th at 10am 🌸\n\nThis ride is a fun\, family-friendly\, rain or shine 

@@ -5,36 +5,22 @@ METHOD:PUBLISH
 NAME:Cycle TO
 X-WR-CALNAME:Cycle TO
 BEGIN:VEVENT
-SUMMARY:Canvassing Training
+SUMMARY:CANCELED - Canvassing Training
 DTSTART:20260716T213000Z
 DTEND:20260716T230000Z
-DTSTAMP:20260715T073110Z
+DTSTAMP:20260717T073522Z
 UID:0679cc4a-9e03-5201-9673-f38d72d30012
-DESCRIPTION:Learn about Cycle Toronto Summer Cycling Campaigns and how to 
- canvas! We will give a presentation of everything we are working on\, have
-  time to practice canvassing conversations\, and show you how to sign up f
- or future shifts.\n\nSome snacks will be provided.\nURL: https://www.cycle
- to.ca/canvassing_training_20260716
+DESCRIPTION:This event has already taken place.\nURL: https://www.cycleto.
+ ca/canvassing_training_20260716
 LOCATION:AccessPoint on Danforth (APOD)\, Community Room 6\n3079 Danforth 
  Avenue\nToronto ON M1L 1A8\nCA
 URL:https://www.cycleto.ca/canvassing_training_20260716
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FIFA Bike Valet
-DTSTART:20260714T163000Z
-DTEND:20260715T003000Z
-DTSTAMP:20260715T073110Z
-UID:3885ce9e-8ecf-5b87-8f6c-13c96360b00c
-DESCRIPTION:This event has already taken place.\nURL: https://www.cycleto.
- ca/fifa_bike_valet_20260714
-LOCATION:
-URL:https://www.cycleto.ca/fifa_bike_valet_20260714
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
 DTSTART:20260722T200000Z
 DTEND:20260722T230000Z
-DTSTAMP:20260715T073108Z
+DTSTAMP:20260717T073524Z
 UID:3d75c5e7-7e94-5c67-a716-76a5612a97e2
 DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
  at Evergreen Brick Works is a welcoming community space that takes the int
@@ -53,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
 DTSTART:20260718T140000Z
 DTEND:20260718T210000Z
-DTSTAMP:20260715T073108Z
+DTSTAMP:20260717T073524Z
 UID:4714e656-fcf9-5fb2-9ee1-e8436a0ece19
 DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
  at Evergreen Brick Works is a welcoming community space that takes the int
@@ -69,27 +55,33 @@ LOCATION:Rec Hub at Evergreen Brick Works\n550 Bayview Avenue\nToronto ON
 URL:https://www.cycleto.ca/rec_hub_diy_20260718
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FIFA Bike Valet
+SUMMARY:Kidical Mass TO
+DTSTART:20260725T124500Z
+DTEND:20260725T143000Z
+DTSTAMP:20260717T073524Z
+UID:4e4419fe-3580-50b5-8cab-777eec4a7b48
+DESCRIPTION:Cycle Toronto is proud to power the return of Kidical Mass TO\
+ , riding the last Saturday of every month through October.\n\nKidical Mass
+  is an international movement for child- and cycling-friendly cities. Thes
+ e rides are an all-ages\, all-abilities celebration of cycling that highli
+ ghts the need for healthier\, safer streets.\n\nWhen: Meet at 8:45 AM\, de
+ part at 9 AM\nWhere: Cycle Toronto Rec Hub at Evergreen Brick Works (550 B
+ ayview Ave)\nWhat: ~6 km family-friendly ride along multi-use paths\, quie
+ t streets\, and dedicated cycling infrastructure\, supported by Cycle Toro
+ nto ride guides (Route TBD)\nURL: https://www.cycleto.ca/kidical_mass_2026
+ 0725
+LOCATION:Cycle Toronto Rec Hub at Evergreen Brick Works\n550 Bayview Avenu
+ e\nToronto ON M4W 3X8\nCA
+URL:https://www.cycleto.ca/kidical_mass_20260725
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED - FIFA Bike Valet
 DTSTART:20260715T163000Z
 DTEND:20260716T003000Z
-DTSTAMP:20260715T073109Z
+DTSTAMP:20260717T073523Z
 UID:5894a9d8-84b5-5424-b802-665f28072ba5
-DESCRIPTION:Did you know that football fans can take advantage of FREE bik
- e parking with Cycle Toronto Bike Valet? Skip the traffic and bike with pe
- ace of mind!\n\nBike Valet opens one hour before and closes one hour after
-  gates (subject to change).\n\nAll Fan Festival days (June 10 until July 1
- 9):\n\n* Inukshuk (789 Lake Shore Blvd W\, Toronto)\n\nMatch days (June 12
- \, June 17\, June 20\, June 23\, June 26\, July 2):\n\n* Inukshuk (789 Lak
- e Shore Blvd W\, Toronto)\n* Hanna (15 Hanna Ave\, Toronto)\n* Ordnance (8
- 01 Wellington St W\, Toronto)\n\nFind out more: (https://torontofwc26.ca/g
- etting-around) torontofwc26.ca/getting-around\n\nFAQ What does it cost?\n\
- nCycle Toronto Bike Valet is free! But if you appreciate the service\, con
- sider (https://www.cycleto.ca/join) becoming a member to support our work.
- \n\nCan I leave my helmet and bag?\n\nYes\, we can keep it all with your b
- ike.\n\nDo I need a lock?\n\nNo\, your bike is kept under the watchful eye
- s of our attendants in our secure perimeter.\n\nHow can I get Bike Valet f
- or my event?\n\nContact us: (https://www.cycleto.ca/bikevalet) cycleto.ca/
- bikevalet\nURL: https://www.cycleto.ca/fifa_bike_valet_20260715
+DESCRIPTION:This event has already taken place.\nURL: https://www.cycleto.
+ ca/fifa_bike_valet_20260715
 LOCATION:
 URL:https://www.cycleto.ca/fifa_bike_valet_20260715
 END:VEVENT
@@ -97,7 +89,7 @@ BEGIN:VEVENT
 SUMMARY:FIFA Bike Valet
 DTSTART:20260718T163000Z
 DTEND:20260719T003000Z
-DTSTAMP:20260715T073109Z
+DTSTAMP:20260717T073526Z
 UID:954ce58a-a430-5bfc-956d-7915570d75aa
 DESCRIPTION:Did you know that football fans can take advantage of FREE bik
  e parking with Cycle Toronto Bike Valet? Skip the traffic and bike with pe
@@ -119,20 +111,13 @@ LOCATION:
 URL:https://www.cycleto.ca/fifa_bike_valet_20260718
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rec Hub DIY
+SUMMARY:CANCELLED - Rec Hub DIY
 DTSTART:20260715T200000Z
 DTEND:20260715T230000Z
-DTSTAMP:20260715T073109Z
+DTSTAMP:20260717T073525Z
 UID:bcf7b480-23bd-53ee-baa3-72b8bc115606
-DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
- at Evergreen Brick Works is a welcoming community space that takes the int
- imidation out of bike maintenance and repair.\n\nIF YOU'RE ALREADY A TRAIN
- ED CYCLE TORONTO REC HUB VOLUNTEER\, SIGN UP FOR SUPPORT SHIFTS.\n\nOur fr
- iendly staff and volunteers will help guide you through the basics to keep
-  you rolling. Even expert home mechanics are also welcome to use our facil
- ities.\n\nDIY service is first come\, first serve.\n\nFind out more: (http
- s://www.cycleto.ca/rec_hub) cycleto.ca/rec_hub\nURL: https://www.cycleto.c
- a/rec_hub_diy_20260715
+DESCRIPTION:This event has already taken place.\nURL: https://www.cycleto.
+ ca/rec_hub_diy_20260715
 LOCATION:Rec Hub at Evergreen Brick Works\n550 Bayview Avenue\nToronto ON 
  M4W 3X8\nCA
 URL:https://www.cycleto.ca/rec_hub_diy_20260715
@@ -141,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
 DTSTART:20260719T140000Z
 DTEND:20260719T210000Z
-DTSTAMP:20260715T073108Z
+DTSTAMP:20260717T073525Z
 UID:cca26217-c79a-515f-b1f1-76b335373ce5
 DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
  at Evergreen Brick Works is a welcoming community space that takes the int
@@ -157,21 +142,29 @@ LOCATION:Rec Hub at Evergreen Brick Works\n550 Bayview Avenue\nToronto ON
 URL:https://www.cycleto.ca/rec_hub_diy_20260719
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bike Match Drop-Off at Sorauren Farmers' Market
-DTSTART:20260713T190000Z
-DTEND:20260713T230000Z
-DTSTAMP:20260715T073108Z
-UID:e0183686-f0a7-58fe-ae89-d5d159cade70
-DESCRIPTION:This event has already taken place.\nURL: https://www.cycleto.
- ca/bike_match_20260713
-LOCATION:Sorauren Farmers' Market\n50 Wabash Ave\nToronto ON M6R 1N2\nCA
-URL:https://www.cycleto.ca/bike_match_20260713
+SUMMARY:Rec Hub DIY
+DTSTART:20260725T140000Z
+DTEND:20260725T210000Z
+DTSTAMP:20260717T073524Z
+UID:d3479ba6-e8cc-5a28-9516-2b955c221ee6
+DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
+ at Evergreen Brick Works is a welcoming community space that takes the int
+ imidation out of bike maintenance and repair.\n\nIF YOU'RE A TRAINED CYCLE
+  TORONTO REC HUB VOLUNTEER\, SIGN UP FOR SUPPORT SHIFTS.\n\nOur friendly s
+ taff and volunteers will help guide you through the basics to keep you rol
+ ling. Even expert home mechanics are also welcome to use our facilities.\n
+ \nDIY service is first come\, first serve.\n\nFind out more: (https://www.
+ cycleto.ca/rec_hub) cycleto.ca/rec_hub\nURL: https://www.cycleto.ca/rec_hu
+ b_diy_20260725
+LOCATION:Rec Hub at Evergreen Brick Works\n550 Bayview Avenue\nToronto ON 
+ M4W 3X8\nCA
+URL:https://www.cycleto.ca/rec_hub_diy_20260725
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FIFA Bike Valet
 DTSTART:20260719T163000Z
 DTEND:20260720T003000Z
-DTSTAMP:20260715T073110Z
+DTSTAMP:20260717T073523Z
 UID:e6f3664b-6ad0-5a1d-9cfb-f9007d4e7b1d
 DESCRIPTION:Did you know that football fans can take advantage of FREE bik
  e parking with Cycle Toronto Bike Valet? Skip the traffic and bike with pe
