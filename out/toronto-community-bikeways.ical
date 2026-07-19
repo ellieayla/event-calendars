@@ -351,6 +351,18 @@ URL:https://www.communitybikewaysto.ca/events/the-great-bloor-danforth-bik
  e-lane-clean-up
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Get to know bikes workshop
+DTSTART:20260725T150000Z
+DTEND:20260725T170000Z
+DTSTAMP:20260717T193913Z
+UID:9d7de6f8-16a8-5aed-a9a4-fe442679c243
+DESCRIPTION:\nURL: https://www.communitybikewaysto.ca/events/get-to-know-b
+ ikes-workshop
+LOCATION:Mabelle Park\, 38 Mabelle Avenue\, Toronto\, Ontario\, M9A 5B1\, 
+ Canada
+URL:https://www.communitybikewaysto.ca/events/get-to-know-bikes-workshop
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Save School Safety Cameras - Provincial Day of Action
 DTSTART:20251020T120000Z
 DTEND:20251020T150000Z
