@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Bike Repair 101
 DTSTART:20260729T200000Z
 DTEND:20260729T220000Z
-DTSTAMP:20260719T074726Z
+DTSTAMP:20260721T075643Z
 UID:11e68ec0-aea4-5c1f-888a-33d519ad9edb
 DESCRIPTION:Join our Basic Bike Maintenance Workshop at the Cycle Toronto 
  Rec Hub to learn hands-on skills including bike fit\, safety checks\, and 
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
 DTSTART:20260726T140000Z
 DTEND:20260726T210000Z
-DTSTAMP:20260719T074726Z
+DTSTAMP:20260721T075641Z
 UID:1feabfcb-c86e-576b-83e0-f9cb4d58fc76
 DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
  at Evergreen Brick Works is a welcoming community space that takes the int
@@ -41,9 +41,28 @@ URL:https://www.cycleto.ca/rec_hub_diy_20260726
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
+DTSTART:20260801T140000Z
+DTEND:20260801T210000Z
+DTSTAMP:20260721T075641Z
+UID:3a0bfd6f-13e9-5a44-8aaa-ac904fedf2ef
+DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
+ at Evergreen Brick Works is a welcoming community space that takes the int
+ imidation out of bike maintenance and repair.\n\nIF YOU'RE A TRAINED CYCLE
+  TORONTO REC HUB VOLUNTEER\, SIGN UP FOR SUPPORT SHIFTS.\n\nOur friendly s
+ taff and volunteers will help guide you through the basics to keep you rol
+ ling. Even expert home mechanics are also welcome to use our facilities.\n
+ \nDIY service is first come\, first serve.\n\nFind out more: (https://www.
+ cycleto.ca/rec_hub) cycleto.ca/rec_hub\nURL: https://www.cycleto.ca/rec_hu
+ b_diy_20260801
+LOCATION:Rec Hub at Evergreen Brick Works\n550 Bayview Avenue\nToronto ON 
+ M4W 3X8\nCA
+URL:https://www.cycleto.ca/rec_hub_diy_20260801
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rec Hub DIY
 DTSTART:20260722T200000Z
 DTEND:20260722T230000Z
-DTSTAMP:20260719T074726Z
+DTSTAMP:20260721T075641Z
 UID:3d75c5e7-7e94-5c67-a716-76a5612a97e2
 DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
  at Evergreen Brick Works is a welcoming community space that takes the int
@@ -59,22 +78,10 @@ LOCATION:Rec Hub at Evergreen Brick Works\n550 Bayview Avenue\nToronto ON
 URL:https://www.cycleto.ca/rec_hub_diy_20260722
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rec Hub DIY
-DTSTART:20260718T140000Z
-DTEND:20260718T210000Z
-DTSTAMP:20260719T074725Z
-UID:4714e656-fcf9-5fb2-9ee1-e8436a0ece19
-DESCRIPTION:This event has already taken place.\nURL: https://www.cycleto.
- ca/rec_hub_diy_20260718
-LOCATION:Rec Hub at Evergreen Brick Works\n550 Bayview Avenue\nToronto ON 
- M4W 3X8\nCA
-URL:https://www.cycleto.ca/rec_hub_diy_20260718
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kidical Mass TO
 DTSTART:20260725T124500Z
 DTEND:20260725T143000Z
-DTSTAMP:20260719T074726Z
+DTSTAMP:20260721T075642Z
 UID:4e4419fe-3580-50b5-8cab-777eec4a7b48
 DESCRIPTION:Cycle Toronto is proud to power the return of Kidical Mass TO\
  , riding the last Saturday of every month through October.\n\nKidical Mass
@@ -91,22 +98,30 @@ LOCATION:Cycle Toronto Rec Hub at Evergreen Brick Works\n550 Bayview Avenu
 URL:https://www.cycleto.ca/kidical_mass_20260725
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FIFA Bike Valet
-DTSTART:20260718T163000Z
-DTEND:20260719T003000Z
-DTSTAMP:20260719T074726Z
-UID:954ce58a-a430-5bfc-956d-7915570d75aa
-DESCRIPTION:This event has already taken place.\nURL: https://www.cycleto.
- ca/fifa_bike_valet_20260718
-LOCATION:
-URL:https://www.cycleto.ca/fifa_bike_valet_20260718
+SUMMARY:Rec Hub DIY
+DTSTART:20260805T200000Z
+DTEND:20260805T230000Z
+DTSTAMP:20260721T075643Z
+UID:5f21f19f-fbf0-5b16-a43f-8c1c97b13308
+DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
+ at Evergreen Brick Works is a welcoming community space that takes the int
+ imidation out of bike maintenance and repair.\n\nIF YOU'RE ALREADY A TRAIN
+ ED CYCLE TORONTO REC HUB VOLUNTEER\, SIGN UP FOR SUPPORT SHIFTS.\n\nOur fr
+ iendly staff and volunteers will help guide you through the basics to keep
+  you rolling. Even expert home mechanics are also welcome to use our facil
+ ities.\n\nDIY service is first come\, first serve.\n\nFind out more: (http
+ s://www.cycleto.ca/rec_hub) cycleto.ca/rec_hub\nURL: https://www.cycleto.c
+ a/rec_hub_diy_20260805
+LOCATION:Rec Hub at Evergreen Brick Works\n550 Bayview Avenue\nToronto ON 
+ M4W 3X8\nCA
+URL:https://www.cycleto.ca/rec_hub_diy_20260805
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
-DTSTART:20260719T140000Z
-DTEND:20260719T210000Z
-DTSTAMP:20260719T074728Z
-UID:cca26217-c79a-515f-b1f1-76b335373ce5
+DTSTART:20260802T140000Z
+DTEND:20260802T210000Z
+DTSTAMP:20260721T075643Z
+UID:9d2e712e-51fe-5cca-8ec1-06f491e82b2d
 DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
  at Evergreen Brick Works is a welcoming community space that takes the int
  imidation out of bike maintenance and repair.\n\nIF YOU'RE A TRAINED CYCLE
@@ -115,16 +130,16 @@ DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub
  ling. Even expert home mechanics are also welcome to use our facilities.\n
  \nDIY service is first come\, first serve.\n\nFind out more: (https://www.
  cycleto.ca/rec_hub) cycleto.ca/rec_hub\nURL: https://www.cycleto.ca/rec_hu
- b_diy_20260719
+ b_diy_20260802
 LOCATION:Rec Hub at Evergreen Brick Works\n550 Bayview Avenue\nToronto ON 
  M4W 3X8\nCA
-URL:https://www.cycleto.ca/rec_hub_diy_20260719
+URL:https://www.cycleto.ca/rec_hub_diy_20260802
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
 DTSTART:20260725T140000Z
 DTEND:20260725T210000Z
-DTSTAMP:20260719T074726Z
+DTSTAMP:20260721T075641Z
 UID:d3479ba6-e8cc-5a28-9516-2b955c221ee6
 DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
  at Evergreen Brick Works is a welcoming community space that takes the int
@@ -140,35 +155,24 @@ LOCATION:Rec Hub at Evergreen Brick Works\n550 Bayview Avenue\nToronto ON
 URL:https://www.cycleto.ca/rec_hub_diy_20260725
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FIFA Bike Valet
-DTSTART:20260719T163000Z
-DTEND:20260720T003000Z
-DTSTAMP:20260719T074726Z
-UID:e6f3664b-6ad0-5a1d-9cfb-f9007d4e7b1d
-DESCRIPTION:Did you know that football fans can take advantage of FREE bik
- e parking with Cycle Toronto Bike Valet? Skip the traffic and bike with pe
- ace of mind!\n\nBike Valet opens one hour before and closes one hour after
-  gates (subject to change).\n\nAll Fan Festival days (June 10 until July 1
- 9):\n\n* Inukshuk (789 Lake Shore Blvd W\, Toronto)\n\nMatch days (June 12
- \, June 17\, June 20\, June 23\, June 26\, July 2):\n\n* Inukshuk (789 Lak
- e Shore Blvd W\, Toronto)\n* Hanna (15 Hanna Ave\, Toronto)\n* Ordnance (8
- 01 Wellington St W\, Toronto)\n\nFind out more: (https://torontofwc26.ca/g
- etting-around) torontofwc26.ca/getting-around\n\nFAQ What does it cost?\n\
- nCycle Toronto Bike Valet is free! But if you appreciate the service\, con
- sider (https://www.cycleto.ca/join) becoming a member to support our work.
- \n\nCan I leave my helmet and bag?\n\nYes\, we can keep it all with your b
- ike.\n\nDo I need a lock?\n\nNo\, your bike is kept under the watchful eye
- s of our attendants in our secure perimeter.\n\nHow can I get Bike Valet f
- or my event?\n\nContact us: (https://www.cycleto.ca/bikevalet) cycleto.ca/
- bikevalet\nURL: https://www.cycleto.ca/fifa_bike_valet_20260719
-LOCATION:
-URL:https://www.cycleto.ca/fifa_bike_valet_20260719
+SUMMARY:Rec Hub Volunteer Orientation August 7
+DTSTART:20260807T200000Z
+DTEND:20260807T220000Z
+DTSTAMP:20260721T075642Z
+UID:e8442c1d-b6aa-5b0e-b376-b07f027886cd
+DESCRIPTION:Register to attend our volunteer orientation for Evergreen Bri
+ ck Works.\n\n(https://www.evergreen.ca/evergreen-brick-works/visitor-info/
+ plan-your-visit/getting-here/) How to get here.\nURL: https://www.cycleto.
+ ca/rec_hub_orientation_20260807
+LOCATION:Evergreen Brick Works Rec Hub\n550 Bayview Avenue \nToronto ON M4
+ W 3X8\nCA
+URL:https://www.cycleto.ca/rec_hub_orientation_20260807
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
 DTSTART:20260729T200000Z
 DTEND:20260729T230000Z
-DTSTAMP:20260719T074726Z
+DTSTAMP:20260721T075642Z
 UID:ed79307e-f77e-592b-8caf-87dd94e67422
 DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
  at Evergreen Brick Works is a welcoming community space that takes the int
