@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Free Ride Day 2026
 DTSTART;TZID=America/Toronto:20260607T090000
 DTEND;TZID=America/Toronto:20260607T210000
-DTSTAMP:20260721T075637Z
+DTSTAMP:20260723T075924Z
 UID:06d74b8d-c48d-5239-b783-beb17f155db9
 DESCRIPTION:Hamilton Bike Share is excited to present our inaugural FREE R
  IDE DAY\, brought to you by Cogeco. Free Ride Day is coming your way on Su
@@ -82,7 +82,7 @@ DESCRIPTION:Hamilton Bike Share is excited to present our inaugural FREE R
  (between Dundas and Kenilworth Ave in the lower city) and never leave a bi
  ke unlocked and unattended. Always ensure bikes are locked to secure fixed
   objects when making a stop.\n\nNeed help? Contact us:\n\n(/cdn-cgi/l/emai
- l-protection#7d1518110d3d151c1014110912131f1416180e151c0f18531e1c) [email 
+ l-protection#39515c55497951585450554d56575b50525c4a51584b5c175a58) [email 
  protected]\n\n289-768-2453\nURL: https://www.everyonerides.org/free_ride_d
  ay_2026
 LOCATION:See post
@@ -92,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:Valley Park Seasonal Hub Launch
 DTSTART;TZID=America/Toronto:20260715T183000
 DTEND;TZID=America/Toronto:20260715T193000
-DTSTAMP:20260721T075637Z
+DTSTAMP:20260723T075924Z
 UID:ab36ac79-08aa-56e2-b2cd-005b08c5c01f
 DESCRIPTION:🚨PSA for tonight's event!🚨\nDue to smoke/air quality thi
  s afternoon\, our Valley Park Launch Event is moving inside the rec centre
@@ -116,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:Magnolia Ride
 DTSTART;TZID=America/Toronto:20260425T100000
 DTEND;TZID=America/Toronto:20260425T120000
-DTSTAMP:20260721T075637Z
+DTSTAMP:20260723T075925Z
 UID:d5c1c719-37da-56de-a7d8-782ec449cac8
 DESCRIPTION:🌸 Join us for our Annual Magnolia Ride on Saturday\, April 
  25th at 10am 🌸\n\nThis ride is a fun\, family-friendly\, rain or shine 
