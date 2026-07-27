@@ -499,33 +499,6 @@ URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
  rj-hes9w-d6lmx-bgrkn-yhlwe
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bikes\, Bikes\, and E-Bikes
-DTSTART:20250504T140000Z
-DTEND:20250504T153000Z
-DTSTAMP:20250426T001614Z
-UID:ce7858b4-8853-5987-a6c1-34270e9e30a9
-DESCRIPTION:Jane's Walk event on Sunday\, May 4 at 10am (ending at about 1
- 1:30am). Start point NE corner of Bloor Street and Brunswick Ave. Total wa
- lk distance: 1.5km. Hosted by Eric Kamphof\, Pedaal Coffee + Bikes and Alb
- ert Koehl\, Coordinator\, Community Bikeways. Learn about the desirable pr
- oliferation of e-bikes on city streets\, and work that needs to be done by
-  governments to regulate the growing size\, weight and power of some e-bik
- es. Free. Family-friendly. No registration required.\n\n#block-1680391a3c6
- dafe87424 { --stroke-style: none\;--stroke-thickness: 6px\; } #block-16803
- 91a3c6dafe87424 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6
- %\; --tweak-text-block-padding: initial\; } #block-1680391a3c6dafe87424 { 
- mix-blend-mode: var(--tweak-text-block-blend )\; border-radius: var(--twea
- k-text-block-radius)\; } #block-1680391a3c6dafe87424 { --tweak-text-block-
- radius: 0px 0px 0px 0px\; } #block-1680391a3c6dafe87424 { } @media screen 
- and (max-width: 767px) { #block-1680391a3c6dafe87424 { } } @media screen a
- nd (max-width: 767px) { #block-1680391a3c6dafe87424 .sqs-html-content { } 
- } @media screen and (max-width: 767px) { }\nURL: https://www.communitybike
- waysto.ca/events/bikes-bikes-and-e-bikes
-LOCATION:NE corner of Bloor Street West and Brunswick Avenue\, Toronto\, O
- N\, M5S 1X4\, Canada
-URL:https://www.communitybikewaysto.ca/events/bikes-bikes-and-e-bikes
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Future of E-bikes: Community Bikeways + Fix
 DTSTART:20260324T223000Z
 DTEND:20260325T003000Z
