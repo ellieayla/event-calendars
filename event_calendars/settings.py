@@ -50,9 +50,9 @@ TELNETCONSOLE_ENABLED = False
 
 # Enable or disable extensions
 # See https://docs.scrapy.org/en/latest/topics/extensions.html
-#EXTENSIONS = {
-#    "scrapy.extensions.telnet.TelnetConsole": None,
-#}
+EXTENSIONS = {
+    "scrapy.extensions.closespider.CloseSpider": 500,
+}
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
@@ -115,6 +115,7 @@ FEED_URI_PARAMS = "event_calendars.exporters.uri_params"
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 DOWNLOADER_MIDDLEWARES = {
     "event_calendars.middleware_worker.CloudflareWorker": 500,
+    "event_calendars.middleware_warn_cloudflare.DetectCloudflareIntercepted": 600,
 }
 
 WAYBACK_DOMAINS = [
@@ -126,6 +127,7 @@ WAYBACK_ACCEPTED_AGE_DAYS = 0
 CLOUDFLARE_WORKER_DOMAINS = [
     "www.cycleto.ca",
     "www.everyonerides.org",
+    "www.burlingtongreen.org",
 ]
 
 CLOUDFLARE_WORKER_DOMAIN = "fetch-events.accounts-224.workers.dev"
