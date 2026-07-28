@@ -9,7 +9,7 @@ dependencies = [
     "gql>=4.0.0",
     "html2text>=2025.4.15",
     "humanize>=4.15.0",
-    "icalendar>=7.0.0",
+    "icalendar>=7.2.2",
     "scrapy>=2.17.0",
     "waybackpy>=3.0.6",
 ]
