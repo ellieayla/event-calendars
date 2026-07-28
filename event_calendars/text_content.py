@@ -10,6 +10,8 @@ from parsel import Selector as ParselSelector
 from scrapy.selector import Selector, SelectorList
 from w3lib.html import remove_tags
 
+logger = logging.getLogger()
+
 
 def extract_text_visitor(node: HtmlElement | str, indent: int = 0, skip_block_newlines: bool = False) -> Iterator[str]:
     """
@@ -136,7 +138,7 @@ def extract_dates_from_description(description: str, default_tzinfo: ZoneInfo) -
             match m.group("key").lower():
                 case "date":
                     start_date = dateutil.parser.parse(m.group("value"))
-                    logging.getLogger().debug(f"Found start date in description key: {possible_date=} {start_date=}")
+                    logger.debug(f"Found start date in description key: {possible_date=} {start_date=}")
                     continue
                 case "time":
                     start_time = dateutil.parser.parse(m.group("value")).time().replace(tzinfo=default_tzinfo)
@@ -145,17 +147,21 @@ def extract_dates_from_description(description: str, default_tzinfo: ZoneInfo) -
                     pass
 
         try:
-            simple_description = RE_URL.sub("", possible_date)
+            simple_description = RE_URL.sub("", possible_date).strip()
+            if simple_description.endswith("-"):
+                simple_description = simple_description.removesuffix("-")
+            logger.info(f"Trying to find date from simple_description {simple_description=}")
             _start_datetime = dateutil.parser.parse(simple_description, fuzzy=True)
             start_date = _start_datetime.date()
             start_time = _start_datetime.time().replace(tzinfo=default_tzinfo)
 
             logging.getLogger().debug(f"Found start date in description body: {possible_date=} {start_date=}")
-        except dateutil.parser.ParserError:
-            pass
+        except dateutil.parser.ParserError as e:
+            logging.getLogger().info(f"That's not a date: {e=}")
+            pass  # try something else
 
     if start_date is None:
-        raise ValueError("Failed to find a start date in description")
+        raise ValueError(f"Failed to find a start date in {description=}")
 
     start_datetime: datetime = datetime.combine(start_date, start_time)
     end_datetime = None

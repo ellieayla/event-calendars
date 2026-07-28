@@ -43,3 +43,18 @@ def test_parse_single_event_page(datafiles: Path) -> None:
     assert event.start_datetime == datetime(2026, 3, 20, 18, 30, 0, tzinfo=ZoneInfo('America/Toronto'))
     assert event.url == response.url
     assert "Sterling & Forsyth" in event.description
+
+
+@pytest.mark.datafiles(FIXTURE_DIR / "everyonerides.org-start-date-in-description.html")
+def test_find_start_date_in_description(datafiles: Path) -> None:
+    assert datafiles.is_dir()
+
+    html: bytes = (datafiles / "everyonerides.org-start-date-in-description.html").read_bytes()
+
+    spider = EveryoneRides()
+    response = HtmlResponse(url="https://www.everyonerides.org/", status=200, body=html)
+
+    event: Event = spider.parse_details_page(response)
+
+    assert event.start_datetime == datetime(2026, 7, 28, 18, 30, 0, tzinfo=ZoneInfo('America/Toronto'))
+    assert event.url == response.url
