@@ -3,16 +3,11 @@ from datetime import date, datetime, timedelta
 
 import dateutil
 import scrapy
-import scrapy.http
 from scrapy.exceptions import CloseSpider
-from scrapy.http import HtmlResponse, Response, TextResponse
+from scrapy.http import FormRequest, HtmlResponse, Response, TextResponse
 from scrapy.http.request.form import FormdataType
 
 from ..items import BookableEvent
-
-
-class FormRequest(scrapy.http.FormRequest):  # TODO: Temporary shim for https://github.com/ellieayla/event-calendars/issues/73
-    ...
 
 
 def _parse_date_time(formatted_date: str, formatted_time: str) -> datetime:
