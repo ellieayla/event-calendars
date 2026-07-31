@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Free Ride Day 2026
 DTSTART;TZID=America/Toronto:20260607T090000
 DTEND;TZID=America/Toronto:20260607T210000
-DTSTAMP:20260729T080830Z
+DTSTAMP:20260731T081935Z
 UID:06d74b8d-c48d-5239-b783-beb17f155db9
 DESCRIPTION:Hamilton Bike Share is excited to present our inaugural FREE R
  IDE DAY\, brought to you by Cogeco. Free Ride Day is coming your way on Su
@@ -82,7 +82,7 @@ DESCRIPTION:Hamilton Bike Share is excited to present our inaugural FREE R
  (between Dundas and Kenilworth Ave in the lower city) and never leave a bi
  ke unlocked and unattended. Always ensure bikes are locked to secure fixed
   objects when making a stop.\n\nNeed help? Contact us:\n\n(/cdn-cgi/l/emai
- l-protection#f59d909985b59d94989c99819a9b979c9e90869d948790db9694) [email 
+ l-protection#0d6568617d4d656c6064617962636f6466687e656c7f68236e6c) [email 
  protected]\n\n289-768-2453\nURL: https://www.everyonerides.org/free_ride_d
  ay_2026
 LOCATION:See post
@@ -92,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:Mural Ride
 DTSTART;TZID=America/Toronto:20260808T100000
 DTEND;TZID=America/Toronto:20260808T120000
-DTSTAMP:20260729T080830Z
+DTSTAMP:20260731T081935Z
 UID:90e2091d-efe1-5bcd-ad66-92db91dbb3f9
 DESCRIPTION:Our Annual Mural Ride is SO back and this time with a sweet su
  rprise from one of our sponsors\, Cogeco! ☀️🍦🚲\n\nJoin us on Sat
@@ -117,7 +117,7 @@ BEGIN:VEVENT
 SUMMARY:Eco-Ride Series with Environment Hamilton
 DTSTART;TZID=America/Toronto:20260728T183000
 DTEND;TZID=America/Toronto:20260728T203000
-DTSTAMP:20260729T080830Z
+DTSTAMP:20260731T081936Z
 UID:a38e4242-6899-57f1-8bb1-6afbdaffe7e3
 DESCRIPTION:When you ride a bike\, do you notice your environment more? Ar
  e you curious about the ecological story of Hamilton? We're launching a sp
@@ -149,7 +149,7 @@ BEGIN:VEVENT
 SUMMARY:Valley Park Seasonal Hub Launch
 DTSTART;TZID=America/Toronto:20260715T183000
 DTEND;TZID=America/Toronto:20260715T193000
-DTSTAMP:20260729T080830Z
+DTSTAMP:20260731T081935Z
 UID:ab36ac79-08aa-56e2-b2cd-005b08c5c01f
 DESCRIPTION:🚨PSA for tonight's event!🚨\nDue to smoke/air quality thi
  s afternoon\, our Valley Park Launch Event is moving inside the rec centre
@@ -168,24 +168,5 @@ DESCRIPTION:🚨PSA for tonight's event!🚨\nDue to smoke/air quality thi
  ley_park
 LOCATION:See post
 URL:https://www.everyonerides.org/valley_park
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Magnolia Ride
-DTSTART;TZID=America/Toronto:20260425T100000
-DTEND;TZID=America/Toronto:20260425T120000
-DTSTAMP:20260729T080830Z
-UID:d5c1c719-37da-56de-a7d8-782ec449cac8
-DESCRIPTION:🌸 Join us for our Annual Magnolia Ride on Saturday\, April 
- 25th at 10am 🌸\n\nThis ride is a fun\, family-friendly\, rain or shine 
- slow roll around the Delta and Stinson neighbourhoods to check out some of
-  the beautiful magnolias we have blooming here in Hamilton. The ride will 
- begin at the Maple & Rothsay Hub and end at Carter Park.\n\n**Please note 
- that the ride date is subject to change! While we'll do our best to predic
- t the blossoms\, we may have to reschedule depending.\n\n🗓 Saturday\, A
- pril 25th\n📍 Maple & Rothsay Hub (by Gage Park)\n⏰ 10am\n🚲 ~7-10km
- \nURL: https://www.everyonerides.org/magnolia
-LOCATION:Maple & Rothsay Bike Share Hub\, Maple Avenue & Rothsay Avenue\, 
- Hamilton\, ON L8M 2C4\, Canada
-URL:https://www.everyonerides.org/magnolia
 END:VEVENT
 END:VCALENDAR

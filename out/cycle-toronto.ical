@@ -5,26 +5,10 @@ METHOD:PUBLISH
 NAME:Cycle TO
 X-WR-CALNAME:Cycle TO
 BEGIN:VEVENT
-SUMMARY:Bike Repair 101
-DTSTART:20260729T200000Z
-DTEND:20260729T220000Z
-DTSTAMP:20260729T080832Z
-UID:11e68ec0-aea4-5c1f-888a-33d519ad9edb
-DESCRIPTION:Join our Basic Bike Maintenance Workshop at the Cycle Toronto 
- Rec Hub to learn hands-on skills including bike fit\, safety checks\, and 
- drive train care. This session provides access to all recommended tools an
- d staff guidance to help you keep your bike safe and road-ready. You'll le
- ave knowing how to perform routine maintenance yourself and clearly unders
- tand the basics of fixing your bike.\n\nDoors: 4 PM\n\nSession: 4:00-6:00 
- PM\nURL: https://www.cycleto.ca/bike_repair_101
-LOCATION:Evergreen Brickworks\n550 Bayview ave\n10\nToronto ON M4W 3X8\nCA
-URL:https://www.cycleto.ca/bike_repair_101
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
 DTSTART:20260801T140000Z
 DTEND:20260801T210000Z
-DTSTAMP:20260729T080831Z
+DTSTAMP:20260731T081939Z
 UID:3a0bfd6f-13e9-5a44-8aaa-ac904fedf2ef
 DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
  at Evergreen Brick Works is a welcoming community space that takes the int
@@ -40,10 +24,41 @@ LOCATION:Rec Hub at Evergreen Brick Works\n550 Bayview Avenue\nToronto ON
 URL:https://www.cycleto.ca/rec_hub_diy_20260801
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ride The Track 2026
+DTSTART:20260814T210000Z
+DTEND:20260815T003000Z
+DTSTAMP:20260731T081938Z
+UID:45d2330b-583c-523c-beb2-990318df30d9
+DESCRIPTION:Ride the Track 2026 on the Markham Indy Track!\n\nExperience t
+ he thrill of riding the Honda Indy track on your own bicycle while support
+ ing a great cause!\n\nRide the Track returns on Friday\, August 14\, 2026\
+ , at the Markham Pan Am Centre\, giving cyclists\, families\, and communit
+ y members the unique opportunity to ride the closed course in support of T
+ he Children's Breakfast Clubs.\n\nWhether you're a seasoned cyclist or sim
+ ply looking for a fun family activity\, everyone is welcome to join us for
+  an unforgettable evening of cycling and community spirit.\n\nEvent Detail
+ s\n\nDate: Friday\, August 14\, 2026\nTime: Registration opens at 5:00 PM 
+ | Ride begins at 6:30 PM\nLocation: Markham Pan Am Centre\, Markham\, ON\n
+ Registration: $25 per rider\n\nNote: Children under 6 ride free when ridin
+ g on an adult's bicycle with a parent or guardian. Children aged 6 and old
+ er may ride independently.\n\nEvery registration helps support The Childre
+ n's Breakfast Clubs\, providing hot\, nutritious meals to children in more
+  than 40 communities across Southern Ontario. With $0.87 of every dollar r
+ aised going directly toward programs and services\, your ride makes a real
+  difference.\n\nGather your friends\, bring the family\, and enjoy this on
+ e-of-a-kind opportunity to ride the track while helping children start the
+ ir day with a healthy breakfast.\n\nLearn more and register: (https://brea
+ kfastclubs.ca/) https://breakfastclubs.ca/\nURL: https://www.cycleto.ca/14
+ 9988/ride_the_track_2026
+LOCATION:Markham Pan Am Centre\n16 Main St Unionville\nMarkham ON L3R 0W7\
+ nCA
+URL:https://www.cycleto.ca/149988/ride_the_track_2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
 DTSTART:20260809T140000Z
 DTEND:20260809T210000Z
-DTSTAMP:20260729T080832Z
+DTSTAMP:20260731T081939Z
 UID:59934872-25d1-5e6b-b933-311f7cd49b5e
 DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
  at Evergreen Brick Works is a welcoming community space that takes the int
@@ -62,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
 DTSTART:20260805T200000Z
 DTEND:20260805T230000Z
-DTSTAMP:20260729T080831Z
+DTSTAMP:20260731T081939Z
 UID:5f21f19f-fbf0-5b16-a43f-8c1c97b13308
 DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
  at Evergreen Brick Works is a welcoming community space that takes the int
@@ -81,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
 DTSTART:20260812T200000Z
 DTEND:20260812T230000Z
-DTSTAMP:20260729T080830Z
+DTSTAMP:20260731T081941Z
 UID:723f32cd-ebc6-592b-86d4-6458c844eabe
 DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
  at Evergreen Brick Works is a welcoming community space that takes the int
@@ -100,7 +115,7 @@ BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
 DTSTART:20260802T140000Z
 DTEND:20260802T210000Z
-DTSTAMP:20260729T080831Z
+DTSTAMP:20260731T081938Z
 UID:9d2e712e-51fe-5cca-8ec1-06f491e82b2d
 DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
  at Evergreen Brick Works is a welcoming community space that takes the int
@@ -116,32 +131,32 @@ LOCATION:Rec Hub at Evergreen Brick Works\n550 Bayview Avenue\nToronto ON
 URL:https://www.cycleto.ca/rec_hub_diy_20260802
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rec Hub DIY
+DTSTART:20260815T140000Z
+DTEND:20260815T210000Z
+DTSTAMP:20260731T081940Z
+UID:9e6735a5-1e5f-5fd8-9301-09dba3fcd176
+DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
+ at Evergreen Brick Works is a welcoming community space that takes the int
+ imidation out of bike maintenance and repair.\n\nIF YOU'RE A TRAINED CYCLE
+  TORONTO REC HUB VOLUNTEER\, SIGN UP FOR SUPPORT SHIFTS.\n\nOur friendly s
+ taff and volunteers will help guide you through the basics to keep you rol
+ ling. Even expert home mechanics are also welcome to use our facilities.\n
+ \nDIY service is first come\, first serve.\n\nFind out more: (https://www.
+ cycleto.ca/rec_hub) cycleto.ca/rec_hub\nURL: https://www.cycleto.ca/rec_hu
+ b_diy_20260815
+LOCATION:Rec Hub at Evergreen Brick Works\n550 Bayview Avenue\nToronto ON 
+ M4W 3X8\nCA
+URL:https://www.cycleto.ca/rec_hub_diy_20260815
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:One Year Later: Legal Victory Ride and Rally
 DTSTART:20260730T220000Z
 DTEND:20260730T230000Z
-DTSTAMP:20260729T080829Z
+DTSTAMP:20260731T081938Z
 UID:e5dca330-adc3-5b7e-a6be-34f71c354a6f
-DESCRIPTION:(Cyclists rallying at Queen’s Park. Photo: Joshua Best)\n\nO
- n July 30\, 2025\, the Ontario Superior Court ruled in Cycle Toronto v. On
- tario that the province's attempt to remove 19 km of protected bike lanes 
- was reckless and arbitrary and violated Canadians' Charter rights under Se
- ction 7. Far from establishing a positive right to bike lanes\, the court'
- s decision affirmed that governments cannot take actions such as removing 
- existing protected bike lanes that knowingly increase danger without breac
- hing fundamental Charter protections. (https://ecojustice.ca/wp-content/up
- loads/2025/07/Cycle-Toronto-v.-AGO-Reasons-for-Judgment-PBS-July-30-2025.p
- df) Read the decision.\n\nThe province appealed\, and at the time of writi
- ng\, that decision is still pending.\n\nRegardless of what comes next\, we
-  don't expect a decision to be the end of the road. The threat of the notw
- ithstanding clause continues to loom. And even if we do prevail on Bill 21
- 2 and stop the removal of bike lanes\, a decision affirming the court's ru
- ling does nothing to reverse Bill 60's provincial restrictions on new bike
-  lanes.\n\nJoin us to celebrate this victory and stand up against this ong
- oing pattern of provincial interference and undermining of local democracy
- .\n\nOur friends at (https://environmentaldefence.ca/nojetsto/) No Jets TO
-  and (https://www.tenantunion.ca/) Toronto Tenant Union will be joining us
-  in solidarity.\n\n6 PM meet\; 6:15 PM ride.\nURL: https://www.cycleto.ca/
- oneyearlater
+DESCRIPTION:This event has already taken place.\nURL: https://www.cycleto.
+ ca/oneyearlater
 LOCATION:Ramsden Park\n1010 Yonge St\nToronto ON M4W 2K1\nCA
 URL:https://www.cycleto.ca/oneyearlater
 END:VEVENT
@@ -149,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:Rec Hub Volunteer Orientation August 7
 DTSTART:20260807T200000Z
 DTEND:20260807T220000Z
-DTSTAMP:20260729T080830Z
+DTSTAMP:20260731T081939Z
 UID:e8442c1d-b6aa-5b0e-b376-b07f027886cd
 DESCRIPTION:Register to attend our volunteer orientation for Evergreen Bri
  ck Works.\n\n(https://www.evergreen.ca/evergreen-brick-works/visitor-info/
@@ -161,28 +176,9 @@ URL:https://www.cycleto.ca/rec_hub_orientation_20260807
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
-DTSTART:20260729T200000Z
-DTEND:20260729T230000Z
-DTSTAMP:20260729T080831Z
-UID:ed79307e-f77e-592b-8caf-87dd94e67422
-DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
- at Evergreen Brick Works is a welcoming community space that takes the int
- imidation out of bike maintenance and repair.\n\nIF YOU'RE ALREADY A TRAIN
- ED CYCLE TORONTO REC HUB VOLUNTEER\, SIGN UP FOR SUPPORT SHIFTS.\n\nOur fr
- iendly staff and volunteers will help guide you through the basics to keep
-  you rolling. Even expert home mechanics are also welcome to use our facil
- ities.\n\nDIY service is first come\, first serve.\n\nFind out more: (http
- s://www.cycleto.ca/rec_hub) cycleto.ca/rec_hub\nURL: https://www.cycleto.c
- a/rec_hub_diy_20260729
-LOCATION:Rec Hub at Evergreen Brick Works\n550 Bayview Avenue\nToronto ON 
- M4W 3X8\nCA
-URL:https://www.cycleto.ca/rec_hub_diy_20260729
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rec Hub DIY
 DTSTART:20260808T140000Z
 DTEND:20260808T210000Z
-DTSTAMP:20260729T080830Z
+DTSTAMP:20260731T081939Z
 UID:f0fd8d18-b162-56ef-8da1-38baf653f244
 DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
  at Evergreen Brick Works is a welcoming community space that takes the int

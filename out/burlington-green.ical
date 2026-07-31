@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Zero-Waste Drop-Off Event & More!
 DTSTART;TZID=America/Toronto:20260523T000000
 DTEND;TZID=America/Toronto:20260524T000000
-DTSTAMP:20260729T080830Z
+DTSTAMP:20260731T081937Z
 UID:08dffccb-c17a-544d-8a5f-2084e959d1d0
 DESCRIPTION:Saturday\, May 23\, 2026 / 10 am to 4 pm & Indoor activities: 
  10:30 am to 3:30 pm.\n\nHeld in partnership with the (https://burlingtonce
@@ -90,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:Spring Events!
 DTSTART;TZID=America/Toronto:20260301T000000
 DTEND;TZID=America/Toronto:20260531T000000
-DTSTAMP:20260729T080832Z
+DTSTAMP:20260731T081939Z
 UID:29c78515-802b-5e21-b75e-2c911e197ba3
 DESCRIPTION:We’re excited to share a (https://www.burlingtongreen.org/sp
  ring-into-action/) terrific lineup of inclusive opportunities for Burlingt
@@ -108,43 +108,82 @@ DESCRIPTION:We’re excited to share a (https://www.burlingtongreen.org/sp
 URL:https://www.burlingtongreen.org/events/spring-events/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:An Inspiring Evening with David Suzuki & Tara Cullis!
-DTSTART;TZID=America/Toronto:20260308T000000
-DTEND;TZID=America/Toronto:20260309T000000
-DTSTAMP:20260729T080831Z
-UID:4c6fd260-75a1-5e15-b869-d7280969b7b5
-DESCRIPTION:David Suzuki and Tara Cullis are coming to the Burlington Perf
- orming Arts Centre (BPAC) on March 8th\, and BurlingtonGreen is proud to b
- e a partner for this special event.\n\n(https://burlingtonpac.ca/events/wh
- at-you-wont-do-for-love/) What You Won’t Do For Love is a special event 
- that is expected to sell out.\n\nJoin us for a powerful opportunity to gat
- her\, reflect\, and feel inspired by voices that have shaped environmental
-  action for decades.\n\nSPECIAL OFFER: (https://www.burlingtongreen.org/ne
- wsletter-signup/) Sign up to receive BurlingtonGreen’s popular e-newslet
- ter\, and you’ll receive a promo code for 25% off your tickets. (while t
- ickets remain available)\n\nYou can also purchase tickets https://burlingt
- onpac.ca/events/what-you-wont-do-for-love/\, while seats remain.\n\n(https
- ://burlingtonpac.ca/events/what-you-wont-do-for-love/)\n\n(https://burling
- tonpac.ca/events/what-you-wont-do-for-love/) EVENT TICKETS\n\nWhat others 
- are saying:\n\n“A deeply personal\, totally enchanting love story. David
-  and Tara take us on a magical journey into the heart of commitment – to
-  one another\, to family\, to community\, to justice and to the planet. A 
- testament to hope.”\n\n– Maude Barlow (Author and activist\, founding 
- member of the Council of Canadians\, co-founder of the Blue Planet Project
- )\n\n“Warm\, wise and overflowing with generosity\, this is a love story
-  so epic it embraces all of creation. Yet another reminder of how blessed 
- we are to be in the struggle with elders like David and Tara.”\n\n– Na
- omi Klein (author\, journalist\, social activist\, and filmmaker) and Avi 
- Lewis (filmmaker\, climate activist\, educator)\nURL: https://www.burlingt
- ongreen.org/events/an-inspiring-evening-with-david-suzuki-tara-cullis/
-URL:https://www.burlingtongreen.org/events/an-inspiring-evening-with-david
- -suzuki-tara-cullis/
+SUMMARY:Back to School Beach Clean Up-August 29
+DTSTART;TZID=America/Toronto:20260829T093000
+DTEND;TZID=America/Toronto:20260829T113000
+DTSTAMP:20260731T081937Z
+UID:474dd88d-fd8d-504f-9cb1-6b2bbaf3c130
+DESCRIPTION:Start the new school year by making a positive impact on our l
+ ocal environment! BurlingtonGreen invites you to our Back to School Beach 
+ Clean-Up\, where community members of all ages can come together to help p
+ rotect Burlington Beach while learning about the importance of keeping our
+  shoreline healthy and litter-free.\nJoin us for a morning of environmenta
+ l action as we search for and remove microplastics and nurdles—tiny plas
+ tic pieces that can harm wildlife and enter our waterways.\n\nHosted by: B
+ urlingtonGreen\nWhen: Saturday\, August 29th\, 2026 from 9:30 a.m. – 11:
+ 30 a.m.\nWhere: Burlington Beach – meet at BG’s Eco-Hub ( (https://g.c
+ o/kgs/3ANJBcH) 1094 Lakeshore Road)\n\nNote: Please register in advance\, 
+ using the form below.\n\nWhether you’re a student\, family\, educator\, 
+ or community member\, this is a great opportunity to wrap up the summer by
+  giving back to nature\, connecting with others\, and helping create a cle
+ aner\, healthier shoreline for everyone.\n\nWhy join?\n\nHelp keep Burling
+ ton Beach clean and beautiful\nMake a positive environmental impact before
+  heading back to school\nLearn about plastic pollution and shoreline stewa
+ rdship\nConnect with fellow community members who care about the environme
+ nt\nEarn volunteer hours\nEnjoy a fun and meaningful outdoor community eve
+ nt\n\nThis FREE event is open to everyone who wants to make a difference. 
+ Whether you’re returning to school\, supporting your family\, or simply 
+ looking for a rewarding way to spend your Saturday morning\, we’d love t
+ o see you there.\n\nActivities take place outdoors\, rain or shine. If you
+  have accessibility needs\, please let BurlingtonGreen know in advance so 
+ we can support your participation.\n\nLet’s head back to school by takin
+ g action for a cleaner\, healthier Burlington Beach. We look forward to se
+ eing you there!\n\nUse the form below to sign up.\nURL: https://www.burlin
+ gtongreen.org/events/back-to-school-beach-clean-up-august-29/
+URL:https://www.burlingtongreen.org/events/back-to-school-beach-clean-up-a
+ ugust-29/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Back to School Beach Clean Up -August 15
+DTSTART;TZID=America/Toronto:20260815T093000
+DTEND;TZID=America/Toronto:20260815T110000
+DTSTAMP:20260731T081941Z
+UID:4920ac0b-9bda-5f04-956a-49734fcba764
+DESCRIPTION:Start the new school year by making a positive impact on our l
+ ocal environment! BurlingtonGreen invites you to our Back to School Beach 
+ Clean-Up\, where community members of all ages can come together to help p
+ rotect Burlington Beach while learning about the importance of keeping our
+  shoreline healthy and litter-free.\n\nJoin us for a morning of environmen
+ tal action as we search for and remove microplastics and nurdles—tiny pl
+ astic pieces that can harm wildlife and enter our waterways.\n\nHosted by:
+  BurlingtonGreen\nWhen: Saturday\, August 15th\, 2026 from 9:30 a.m. – 1
+ 1:30 a.m.\nWhere: Burlington Beach – meet at BG’s Eco-Hub ( (https://g
+ .co/kgs/3ANJBcH) 1094 Lakeshore Road)\n\nNote: Please register in advance\
+ , using the form below.\n\nWhether you’re a student\, family\, educator\
+ , or community member\, this is a great opportunity to wrap up the summer 
+ by giving back to nature\, connecting with others\, and helping create a c
+ leaner\, healthier shoreline for everyone.\n\nWhy join?\n\n* Help keep Bur
+ lington Beach clean and beautiful\n* Make a positive environmental impact 
+ before heading back to school\n* Learn about plastic pollution and shoreli
+ ne stewardship\n* Connect with fellow community members who care about the
+  environment\n* Earn volunteer hours\n* Enjoy a fun and meaningful outdoor
+  community event\n\nThis FREE event is open to everyone who wants to make 
+ a difference. Whether you’re returning to school\, supporting your famil
+ y\, or simply looking for a rewarding way to spend your Saturday morning\,
+  we’d love to see you there.\n\nActivities take place outdoors\, rain or
+  shine. If you have accessibility needs\, please let BurlingtonGreen know 
+ in advance so we can support your participation.\n\nLet’s head back to s
+ chool by taking action for a cleaner\, healthier Burlington Beach. We look
+  forward to seeing you there!\n\nUse the form below to sign up to particip
+ ate.\nURL: https://www.burlingtongreen.org/events/back-to-school-beach-cle
+ an-up/
+URL:https://www.burlingtongreen.org/events/back-to-school-beach-clean-up/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Green Up Community Tree Planting Event
 DTSTART;TZID=America/Toronto:20260502T000000
 DTEND;TZID=America/Toronto:20260503T000000
-DTSTAMP:20260729T080830Z
+DTSTAMP:20260731T081939Z
 UID:6eb4f6d1-ace3-5a16-b7ee-a43cde3c391c
 DESCRIPTION:Let’s Grow Burlington’s Tree Canopy Together!\n\nBurlingto
  nGreen and City of Burlington Forestry staff are organizing a community tr
@@ -175,7 +214,7 @@ BEGIN:VEVENT
 SUMMARY:Join us at the beach this summer!
 DTSTART;TZID=America/Toronto:20260701T000000
 DTEND;TZID=America/Toronto:20260907T000000
-DTSTAMP:20260729T080830Z
+DTSTAMP:20260731T081939Z
 UID:79abb066-8970-55db-adf2-8f2db26ab1e5
 DESCRIPTION:Our team is leading eco-activities and sharing resources at ou
  r (https://maps.google.com/?cid=5383717800969327865&g_mp=CiVnb29nbGUubWFwc
@@ -200,7 +239,7 @@ BEGIN:VEVENT
 SUMMARY:Volunteer Celebration & AGM
 DTSTART;TZID=America/Toronto:20260611T000000
 DTEND;TZID=America/Toronto:20260612T000000
-DTSTAMP:20260729T080830Z
+DTSTAMP:20260731T081939Z
 UID:7f4f47a9-5344-571c-9f96-ac299ab74487
 DESCRIPTION:All community members are invited to our brief Annual General 
  Meeting\, followed by an informative opportunity to discover and celebrate
@@ -226,7 +265,7 @@ BEGIN:VEVENT
 SUMMARY:Join Spring Eco Action at the Beach!
 DTSTART;TZID=America/Toronto:20260516T083000
 DTEND;TZID=America/Toronto:20260516T120000
-DTSTAMP:20260729T080831Z
+DTSTAMP:20260731T081936Z
 UID:8a3f5579-0d94-5239-b209-c4bcb61cc34a
 DESCRIPTION:The (https://portal.clubrunner.ca/144) Rotary Club of Burlingt
  on Central and BurlingtonGreen invite you to a FREE Spring Eco Action at t
@@ -283,7 +322,7 @@ BEGIN:VEVENT
 SUMMARY:Get ‘EM by the Roots
 DTSTART;TZID=America/Toronto:20260530T000000
 DTEND;TZID=America/Toronto:20260531T000000
-DTSTAMP:20260729T080830Z
+DTSTAMP:20260731T081937Z
 UID:8c1f4a7f-a974-550b-80d6-b5cd0241e347
 DESCRIPTION:Join Invasive Species Action Month when you sign up to partici
  pate in a morning of ‘digging in’ and getting dirty as we come togethe
@@ -320,70 +359,10 @@ DESCRIPTION:Join Invasive Species Action Month when you sign up to partici
 URL:https://www.burlingtongreen.org/events/get-em-by-the-roots/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Decoding Bird Names with Bob Bell
-DTSTART;TZID=America/Toronto:20260312T190000
-DTEND;TZID=America/Toronto:20260312T210000
-DTSTAMP:20260729T080831Z
-UID:b7ac7e65-e686-5f86-ae55-4a5666ad877e
-DESCRIPTION:Thank you to everyone who attending this event. A recording of
-  the webinar is available (https://www.burlingtongreen.org/programs/nature
- -friendly-burlington/feathered-friends/) here.\n\nDate:Thursday\, March 12
- th\, 2026\nTime: 7pm\nLocation: Zoom Webinar\n\nRegister for this FREE eve
- nt further below.\n\nJoin us for an interactive and educational birding we
- binar with Bob Bell\, aka The Birder Bob\, on Thursday\, March 12th\, from
-  7:00–8:15 pm on Zoom.\n\nHave you ever wondered why some bird names are
-  so confusing? Bob will demystify them in a fun and approachable way. You
- ’ll also get a chance to test your bird ID skills with photos\, songs\, 
- and calls.\n\nBook Giveaway!\n\nThanks to Bob’s generosity\, one webinar
-  participant will win a copy of his book (https://www.hancockhouse.com/pro
- ducts/out-of-the-lyme-light-and-into-the-sunlight) Out of the Lyme Light a
- nd Into the Sunlight: Birding as Therapy for the Chronically Ill.\n\nA gre
- at evening for curious beginners and seasoned birders alike.\n\nBob has pr
- eviously given six talks for BurlingtonGreen\, which are available for fre
- e to view on our YouTube channel:\n\n(https://www.youtube.com/watch?v=OS0P
- 27zRMKk) Backyard Birding with Bob Bell\n\n(https://www.youtube.com/watch?
- v=6YId2j9hC0Y) Out of the Lyme Light: Wellness Through Birding with Bob Be
- ll\n\n(https://www.youtube.com/watch?v=R4t30gOYpMI) Introduction to Birdin
- g in Burlington and Hamilton with Bob Bell\n\n(https://www.youtube.com/wat
- ch?v=-1zcW08eINo) The Mystique of Owls: An Introduction to Owling in Ontar
- io with Bob Bell\n\n(https://www.youtube.com/watch?v=TclIU5DIGlk) The Wond
- erful World of Warblers with Bob Bell\n\n(https://youtu.be/Msyd5VaeaX0?si=
- tFJ9AmRg8XDQnno7) Mysteries of Migration Birding Webinar with Bob Bell\n\n
- Bob would be delighted to have you follow his book and birding activity\, 
- by sending a friend request (https://www.facebook.com/TheBirderBob/) on Fa
- cebook\, or by following him on (https://bsky.app/profile/thebirderbob.bsk
- y.social) Bluesky and (https://www.instagram.com/thebirderbob/) Instagram.
- \n\nBob’s book\, “ (https://www.hancockhouse.com/products/out-of-the-l
- yme-light-and-into-the-sunlight) Out of the Lyme Light and Into the Sunlig
- ht: Birding as Therapy for the Chronically Ill” can be bought locally at
-  (https://burlington.wbu.com/) Wild Birds Unlimited and (https://www.diffe
- rentdrummerbooks.ca/) A Different Drummer Books in Burlington\, and at (ht
- tps://kingwestbooks.com/) King W. Books in Hamilton. It is also available 
- online from Amazon\, Indigo\, or directly (https://www.hancockhouse.com/pr
- oducts/out-of-the-lyme-light-and-into-the-sunlight) from the publisher.\n\
- nMore about Bob Bell:\n\nBob Bell spent 35 years as a mineral exploration 
- geologist before retiring to Ancaster in 2015. He quickly discovered that 
- the area\, with its multitude of habitats and environments\, was fantastic
-  for birding.\n\nBob is passionate about sharing the joy of birding with p
- eople of all skill levels and enjoys introducing them to the huge variety 
- of beautiful birds that can be seen in the Hamilton and Burlington areas.\
- n\nHe hopes that his passion will inspire others to take in the sights and
-  sounds of nature that surround us\, and that this interest will translate
-  into support and protection of local birds.\n\nLearn more about Burlingto
- nGreen’s (https://www.burlingtongreen.org/programs/nature-friendly-burli
- ngton/) Nature Friendly Burlington Program.\n\nSign up for our monthly (ht
- tps://www.burlingtongreen.org/newsletter-signup/) Eco Newsletter to learn 
- about more events\, opportunities and eco-living tips!\n\n(https://www.bur
- lingtongreen.org/donate/) GIVE TODAY FOR A GREENER TOMORROW\nURL: https://
- www.burlingtongreen.org/events/decoding-bird-names-with-bob-bell/
-URL:https://www.burlingtongreen.org/events/decoding-bird-names-with-bob-be
- ll/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Native Plant Sale!
 DTSTART;TZID=America/Toronto:20260305T000000
 DTEND;TZID=America/Toronto:20260525T000000
-DTSTAMP:20260729T080831Z
+DTSTAMP:20260731T081938Z
 UID:e28ae05f-54b4-517a-a983-4486de242ea9
 DESCRIPTION:Our 2026 Native Plant Sale is NOW CLOSED. ( while supplies las
  t)\n\nORDER PICK UP\n\nAll purchases are for pick up only ( no shipping av
