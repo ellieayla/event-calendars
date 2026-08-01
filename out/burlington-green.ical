@@ -57,10 +57,26 @@ TZOFFSETTO:-0500
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+SUMMARY:Municipal Election All Candidates Event/ Mayoral Debate
+DTSTART;TZID=America/Toronto:20261008T180000
+DTEND;TZID=America/Toronto:20261008T210000
+DTSTAMP:20260801T075016Z
+UID:0263ff7d-0b17-563e-b9c7-143b8f883623
+DESCRIPTION:Get ready to experience local democracy in action!\n\nBurlingt
+ onGreen is teaming up with our friends at (https://safestreetshalton.ca/) 
+ Safe Streets Halton to host an engaging and informative All-Candidates Mee
+ t & Greet & Mayoral Candidates Debate on October 8th.\n\nSave the date\, a
+ nd stay tuned for details.\n\nInquiries: election@burlingtongreen.org\nURL
+ : https://www.burlingtongreen.org/events/all-candidates-event-mayoral-deba
+ te/
+URL:https://www.burlingtongreen.org/events/all-candidates-event-mayoral-de
+ bate/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Zero-Waste Drop-Off Event & More!
 DTSTART;TZID=America/Toronto:20260523T000000
 DTEND;TZID=America/Toronto:20260524T000000
-DTSTAMP:20260731T081937Z
+DTSTAMP:20260801T075017Z
 UID:08dffccb-c17a-544d-8a5f-2084e959d1d0
 DESCRIPTION:Saturday\, May 23\, 2026 / 10 am to 4 pm & Indoor activities: 
  10:30 am to 3:30 pm.\n\nHeld in partnership with the (https://burlingtonce
@@ -87,31 +103,59 @@ DESCRIPTION:Saturday\, May 23\, 2026 / 10 am to 4 pm & Indoor activities:
 URL:https://www.burlingtongreen.org/events/zero-waste-drop-off-event-more/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spring Events!
-DTSTART;TZID=America/Toronto:20260301T000000
-DTEND;TZID=America/Toronto:20260531T000000
-DTSTAMP:20260731T081939Z
-UID:29c78515-802b-5e21-b75e-2c911e197ba3
-DESCRIPTION:We’re excited to share a (https://www.burlingtongreen.org/sp
- ring-into-action/) terrific lineup of inclusive opportunities for Burlingt
- on residents\, youth\, groups\, and businesses to have fun and help the pl
- anet locally.\n\nCity-wide clean ups\, community tree planting\, Earth Mon
- th activities\, a variety of volunteer opportunities\, a zero waste extrav
- aganza\, a native plant sale\, and more.\n\nTogether we can take action on
-  climate change and make a difference for a cleaner\, greener Burlington.\
- n\n(https://www.burlingtongreen.org/spring-into-action/) Spring into ACTIO
- N with BurlingtonGreen!\n\n(https://www.burlingtongreen.org/spring-into-ac
- tion/)\n\nOpportunities supported by the City of Burlington plus community
-  sponsors\n\n(https://www.burlington.ca/en/home-property-and-environment/e
- nvironment.aspx)\nURL: https://www.burlingtongreen.org/events/spring-event
- s/
-URL:https://www.burlingtongreen.org/events/spring-events/
+SUMMARY:Give Thanks by Caring for Nature
+DTSTART;TZID=America/Toronto:20261010T100000
+DTEND;TZID=America/Toronto:20261010T120000
+DTSTAMP:20260801T075016Z
+UID:204a4c1f-ed25-5334-8de6-7c6b9a1cf930
+DESCRIPTION:Celebrate Thanksgiving by spending time outdoors and giving ba
+ ck to the environment. BurlingtonGreen invites you to a Thanksgiving Beach
+  Clean-Up\, where community members of all ages can come together to help 
+ protect Burlington Beach and learn about the importance of keeping our sho
+ reline healthy.\n\nJoin us for a meaningful morning of environmental actio
+ n as we remove litter and search for microplastics and nurdles— small pl
+ astic pieces that can harm wildlife and make their way into our waterways.
+  Through this hands-on activity\, participants will learn how these pollut
+ ants impact our environment and how we can all help create cleaner\, healt
+ hier spaces for nature and our community.\n\nHosted by: BurlingtonGreen\nW
+ hen: Saturday\, October 10th\, 2026 from 10:00 a.m. – 12:00 p.m.\nWhere:
+  Burlington Beach – meet at BG’s Eco-Hub ( (https://maps.app.goo.gl/mK
+ dfqLdN9jqbZHvd8) 1094 Lakeshore Road)\n\nJoin with fellow community member
+ s to take action for our environment and learn about local nature with a m
+ eaningful day of community engagement!\n\nWhy join?\n\n* Give back to the 
+ environment during the Thanksgiving season\n* Help protect Burlington Beac
+ h and local wildlife\n* Learn about plastic pollution and solutions\n* Spe
+ nd meaningful time outdoors with family and community\n* Connect with othe
+ rs who care about protecting nature\n\nThis FREE event is open to everyone
+ . Activities take place outdoors\, rain or shine. Please share any accessi
+ bility needs with BurlingtonGreen in advance so we can support your partic
+ ipation.\n\nGive thanks. Take action. Protect our shoreline. We look forwa
+ rd to seeing you at the beach!\n\nRegistration for this event is coming so
+ on!\n\n(None) DONATE\nURL: https://www.burlingtongreen.org/events/thanksgi
+ ving-clean-up-2026/
+URL:https://www.burlingtongreen.org/events/thanksgiving-clean-up-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Annual Tree Photo Contest
+DTSTART;TZID=America/Toronto:20260921T000000
+DTEND;TZID=America/Toronto:20260922T000000
+DTSTAMP:20260801T075018Z
+UID:3dd1b1a6-5c19-5a9a-be1d-26fc88a1ad00
+DESCRIPTION:BG’s annual Tree Photo Contest returns!\n\nGet ready to snap
+  a photo of one of your favorite trees in Burlington\, send it to us\, and
+  you will be entered into the contest.\n\nThe community will vote for thei
+ r favourite photo and the image with the most votes will be the winner of 
+ a $50 gift card to Connon Nurseries!\n\nStay tuned for further details and
+  (https://www.burlingtongreen.org/events/tree-photo-contest-2025/) enjoy t
+ he photos submitted last year.\nURL: https://www.burlingtongreen.org/event
+ s/tree-photo-contest-2026/
+URL:https://www.burlingtongreen.org/events/tree-photo-contest-2026/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Back to School Beach Clean Up-August 29
 DTSTART;TZID=America/Toronto:20260829T093000
 DTEND;TZID=America/Toronto:20260829T113000
-DTSTAMP:20260731T081937Z
+DTSTAMP:20260801T075017Z
 UID:474dd88d-fd8d-504f-9cb1-6b2bbaf3c130
 DESCRIPTION:Start the new school year by making a positive impact on our l
  ocal environment! BurlingtonGreen invites you to our Back to School Beach 
@@ -147,7 +191,7 @@ BEGIN:VEVENT
 SUMMARY:Back to School Beach Clean Up -August 15
 DTSTART;TZID=America/Toronto:20260815T093000
 DTEND;TZID=America/Toronto:20260815T110000
-DTSTAMP:20260731T081941Z
+DTSTAMP:20260801T075015Z
 UID:4920ac0b-9bda-5f04-956a-49734fcba764
 DESCRIPTION:Start the new school year by making a positive impact on our l
  ocal environment! BurlingtonGreen invites you to our Back to School Beach 
@@ -180,41 +224,37 @@ DESCRIPTION:Start the new school year by making a positive impact on our l
 URL:https://www.burlingtongreen.org/events/back-to-school-beach-clean-up/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Green Up Community Tree Planting Event
-DTSTART;TZID=America/Toronto:20260502T000000
-DTEND;TZID=America/Toronto:20260503T000000
-DTSTAMP:20260731T081939Z
-UID:6eb4f6d1-ace3-5a16-b7ee-a43cde3c391c
-DESCRIPTION:Let’s Grow Burlington’s Tree Canopy Together!\n\nBurlingto
- nGreen and City of Burlington Forestry staff are organizing a community tr
- ee planting to take place from 9:30 am to noon on Saturday\, September 26\
- , 2026\, at a location to be announced this summer.\n\nTogether we will pl
- ant 500+ native trees PLUS some lucky participants will each win a beautif
- ul tree to plant at their Burlington homes!\n\nSpace is limited for this p
- opular event.\n\n(https://www.burlingtongreen.org/newsletter-signup/) Sign
-  up to receive our popular monthly eco-newsletter\, which will include not
- ifications about when registration will open for this event.\n\nCheck out 
- our fabulous line-up of (https://www.burlingtongreen.org/donate/sponsorshi
- p-opportunities/) sponsorship opportunities and be a part of collective lo
- cal impact for a cleaner\, greener Burlington.\n\n2026 COMMUNITY CLEAN UP 
- GREEN UP SUPPORTERS\n\nLEAD SUPPORTERS\n\n(https://www.burlington.ca/en/in
- dex.asp)\n\n(https://otf.ca/)\n\nCOMMUNITY PARTNER\n\n(https://portal.club
- runner.ca/144/)\n\nTREE SPONSOR\n\n(https://burlingtoncentre.ca/sustainabi
- lity/)\n\nLEAF SPONSORS\n\n(https://rsales.ca/)\n\n(https://bunzlcanada.ca
- /)\n\nSEED SPONSOR\n\n(https://djb.com/) DJB Chartered Professional Accoun
- tants\n\nHelp BurlingtonGreen (a Registered Canadian Charity)\, continue t
- o provide impactful\, community-based environmental programs.\nDonations o
- f all amounts are greatly appreciated.\n\n(https://www.burlingtongreen.org
- /donate/) DONATE TODAY!\nURL: https://www.burlingtongreen.org/events/green
- -up-community-tree-planting-event/
-URL:https://www.burlingtongreen.org/events/green-up-community-tree-plantin
- g-event/
+SUMMARY:Ask An Arborist Webinar
+DTSTART;TZID=America/Toronto:20250924T190000
+DTEND;TZID=America/Toronto:20250924T210000
+DTSTAMP:20260801T075016Z
+UID:540e275a-c9f6-5265-b947-5ff3f973fd61
+DESCRIPTION:WEDNESDAY\, SEPTEMBER 23rd @ 7 PM ONLINE WEBINAR!\n\nThe alway
+ s popular Kyle McLoughlin\, Master Arborist and Supervisor of Forest Plann
+ ing and Health at the City of Burlington\, joins us as our local subject m
+ atter expert.\n\nKyle will share another fascinating presentation with tim
+ e to follow to address tree-related questions.\n\nWe invite you to send us
+  your tree-related questions when you register or email them to us before 
+ September 23rd.\n\n*Please note: If you have specific questions about Burl
+ ington’s tree-bylaw\, city tree planting/removing/trimming\, please visi
+ t the (https://www.burlington.ca/en/services-for-you/Forestry-Operations.a
+ sp) City of Burlington website.\n\nBONUS! All Burlington resident attendee
+ s will be entered into a draw for a chance to win a FREE tree!\n\n(https:/
+ /www.burlingtongreen.org/wp-content/uploads/2023/07/arborist_event_custom.
+ jpg)\n\nLearn about more fall eco-opportunities (https://www.burlingtongre
+ en.org/news/fall-events-opportunities/) here.\n\nSTAY TUNED FOR REGISTRATI
+ ON TO OPEN SOON\n\nClick (https://www.burlingtongreen.org/news/fall-events
+ -opportunities/) here to learn about more of our fall events and opportuni
+ ties!\n\nCheck out past Ask an Arborist webinars (https://www.youtube.com/
+ playlist?list=PL7K4mljSU5jRphqs79ihS00END99O_XbN) here.\nURL: https://www.
+ burlingtongreen.org/events/ask-an-arborist-2026/
+URL:https://www.burlingtongreen.org/events/ask-an-arborist-2026/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Join us at the beach this summer!
 DTSTART;TZID=America/Toronto:20260701T000000
 DTEND;TZID=America/Toronto:20260907T000000
-DTSTAMP:20260731T081939Z
+DTSTAMP:20260801T075017Z
 UID:79abb066-8970-55db-adf2-8f2db26ab1e5
 DESCRIPTION:Our team is leading eco-activities and sharing resources at ou
  r (https://maps.google.com/?cid=5383717800969327865&g_mp=CiVnb29nbGUubWFwc
@@ -239,7 +279,7 @@ BEGIN:VEVENT
 SUMMARY:Volunteer Celebration & AGM
 DTSTART;TZID=America/Toronto:20260611T000000
 DTEND;TZID=America/Toronto:20260612T000000
-DTSTAMP:20260731T081939Z
+DTSTAMP:20260801T075017Z
 UID:7f4f47a9-5344-571c-9f96-ac299ab74487
 DESCRIPTION:All community members are invited to our brief Annual General 
  Meeting\, followed by an informative opportunity to discover and celebrate
@@ -262,107 +302,10 @@ DESCRIPTION:All community members are invited to our brief Annual General
 URL:https://www.burlingtongreen.org/events/volunteer-celebration-agm-2026/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Join Spring Eco Action at the Beach!
-DTSTART;TZID=America/Toronto:20260516T083000
-DTEND;TZID=America/Toronto:20260516T120000
-DTSTAMP:20260731T081936Z
-UID:8a3f5579-0d94-5239-b209-c4bcb61cc34a
-DESCRIPTION:The (https://portal.clubrunner.ca/144) Rotary Club of Burlingt
- on Central and BurlingtonGreen invite you to a FREE Spring Eco Action at t
- he Beach event\, with opportunities including a guided walk to learn about
-  birds in this sensitive ecosystem\, an all-ages teaching about the Four S
- isters of Mother with WhiteEagle\, and a collective beach clean up to care
-  for our beautiful shoreline.\n\nHosted by: Rotary Club of Burlington Cent
- ral & BurlingtonGreen\n\nWhen: Saturday\, May 16th\, 2026\n\nWhere: Burlin
- gton Beach – meet at BG’s Eco-Hub (https://www.google.com/search?q=109
- 4+Lakeshore+Rd.\,+Burlington\,+ON+L7S+1A7&shndl=40&source=sh/x/loc/geo/m1/
- 1&kgs=f095e45074c197e0) (1094 Lakeshore Road)\n\nNote: Please register in 
- advance\, using the form below.\n\nJoin with fellow community members to t
- ake action for our environment and learn about local nature with a meaning
- ful day of community engagement!\n\nEvent Highlights and Schedule:\n\nBird
-  Walk (8:30 am – 9:30 am)\nIn celebration of spring bird migration and W
- orld Migratory Bird Day\, join us for a free guided bird walk to learn abo
- ut the interesting birds that live at the beach and those that migrate thr
- ough our area each year\, with avid birder Dave Tourchin of (https://birdf
- riendlyhamiltonburlington.wordpress.com/) Bird Friendly Hamilton-Burlingto
- n. Bring binoculars if you have them (there will be a few pairs available 
- to lend out). A BFHB information table will also be onsite all morning\, w
- here you can learn about ways you can help conserve birds.\n\nThe Four Sis
- ters of Mother – A Teaching by WhiteEagle (9:30 am – 10:00 am)\nBring 
- your beach blanket or chair to join together with other community members 
- for story telling\, reflection and connection led by WhiteEagle\, Indigeno
- us Healer.\n\nBeach Litter Clean-up (10:00 am – noon)\nLearn about plast
- ic pollution and help remove litter\, plastic waste and debris from Burlin
- gton Beach\, ensuring a healthier habitat for wildlife and a cleaner shore
- line for all to enjoy.\n\nFun Eco Activities for all ages (10:30 am – no
- on)\nGet hands-on with fun\, drop-in family-friendly activities such as ma
- king pollinator-friendly seedballs\, sharing your eco actions as part of o
- ur interactive campaign\, and nurdle discovery activity.\n\nWhy join?\nCon
- nect with like-minded community members\, learn valuable locally-informed 
- insights into reducing your carbon footprint\, and have fun while giving b
- ack to local nature!\n\nThis FREE event is open to all Burlington communit
- y members who care about the environment and is a local community offering
-  as part of (https://www.epicdayofservice.org/) Rotary International’s E
- pic Day of Service 2026.\n\nLet’s build our awareness and take action to
-  protect our local environment and the planet.\n\nActivities are outdoors\
- , rain or shine. Participant accessibility needs to be shared in advance w
- ith BurlingtonGreen\, please.\n\nSee you at the beach!\n\nUse the form bel
- ow to sign up for these exciting opportunities.\n\nUnpublished form\n\nTha
- nk you to the following for helping to make this event possible:\n\n(https
- ://birdfriendlyhamiltonburlington.wordpress.com/) 			 				 			 		\n\n			 	
- 			 			 		 			 				 			 		 			 				 			 		\n\n(https://portal.clubrunner.c
- a/144/)\n\n(https://www.burlington.ca/en/index.aspx)\n\n(https://otf.ca/)\
- n\n(https://burlingtoncentre.ca/sustainability)\n\n(https://rsales.ca/)\nU
- RL: https://www.burlingtongreen.org/events/join-spring-eco-action-at-the-b
- each-2/
-URL:https://www.burlingtongreen.org/events/join-spring-eco-action-at-the-b
- each-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Get ‘EM by the Roots
-DTSTART;TZID=America/Toronto:20260530T000000
-DTEND;TZID=America/Toronto:20260531T000000
-DTSTAMP:20260731T081937Z
-UID:8c1f4a7f-a974-550b-80d6-b5cd0241e347
-DESCRIPTION:Join Invasive Species Action Month when you sign up to partici
- pate in a morning of ‘digging in’ and getting dirty as we come togethe
- r with our friends at (https://portal.clubrunner.ca/144) Rotary Club of Bu
- rlington Central to improve biodiversity along a section of the (https://b
- rucetrail.org) Bruce Trail running through (https://www.burlington.ca/en/n
- ews/current-city-projects-and-construction/city-view-park.aspx) City View 
- Park.\n\nTogether we will tackle invasive (https://www.invasivespeciescent
- re.ca/invasive-species/meet-the-species/invasive-plants/buckthorn/) Buckth
- orn and (https://www.invasivespeciescentre.ca/invasive-species/meet-the-sp
- ecies/invasive-plants/garlic-mustard/) Garlic Mustard plants.\n\nThis is a
-  great opportunity to learn about the negative effects of invasive plant s
- pecies\, while helping to support native plants and wildlife in our local 
- greenspace.\n\nLet’s make a difference together!\n\nPlease note:\n\n* Ga
- rlic Mustard removal requires bending and or kneeling to carefully remove 
- plants by hand at ground level. This activity is open to ages 10 and above
- . Children ages 10-13 must be accompanied by an adult.\n\n* Buckthorn remo
- val involves a number of tasks such as digging with shovels\, operating ex
- tractigators\, and carrying removed bushes/branches.\n\nSpace is limited f
- or this event with advance registration required.\n\nDiscover more (https:
- //www.burlingtongreen.org/spring-into-action/) fun and rewarding opportuni
- ties this Spring to take ACTION for the planet\, locally.\n\nCheck out our
-  fabulous line-up of (https://www.burlingtongreen.org/donate/sponsorship-o
- pportunities/) sponsorship opportunities and (https://www.burlingtongreen.
- org/live-green/businesses-and-community-groups/) facilitated volunteer opp
- ortunities for businesses and community groups – be a part of collective
-  local impact for a cleaner\, greener Burlington.\n\n			 				 			 		 			 	
- 			 			 		\n\nEvent funding provided by:\n\nCO HOST\n\n(https://portal.clu
- brunner.ca/144/)\n\n(https://www.burlington.ca/en/index.aspx)\n\n(https://
- otf.ca/)\n\nHelp BurlingtonGreen (a Registered Canadian Charity)\, continu
- e to provide impactful\, community-based environmental programs.\nDonation
- s of all amounts are greatly appreciated.\n\n(None) DONATE\nURL: https://w
- ww.burlingtongreen.org/events/get-em-by-the-roots/
-URL:https://www.burlingtongreen.org/events/get-em-by-the-roots/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Native Plant Sale!
 DTSTART;TZID=America/Toronto:20260305T000000
 DTEND;TZID=America/Toronto:20260525T000000
-DTSTAMP:20260731T081938Z
+DTSTAMP:20260801T075017Z
 UID:e28ae05f-54b4-517a-a983-4486de242ea9
 DESCRIPTION:Our 2026 Native Plant Sale is NOW CLOSED. ( while supplies las
  t)\n\nORDER PICK UP\n\nAll purchases are for pick up only ( no shipping av
