@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Municipal Election All Candidates Event/ Mayoral Debate
 DTSTART;TZID=America/Toronto:20261008T180000
 DTEND;TZID=America/Toronto:20261008T210000
-DTSTAMP:20260805T080602Z
+DTSTAMP:20260807T065104Z
 UID:0263ff7d-0b17-563e-b9c7-143b8f883623
 DESCRIPTION:Get ready to experience local democracy in action!\n\nBurlingt
  onGreen is teaming up with our friends at (https://safestreetshalton.ca/) 
@@ -73,40 +73,10 @@ URL:https://www.burlingtongreen.org/events/all-candidates-event-mayoral-de
  bate/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Zero-Waste Drop-Off Event & More!
-DTSTART;TZID=America/Toronto:20260523T000000
-DTEND;TZID=America/Toronto:20260524T000000
-DTSTAMP:20260805T080601Z
-UID:08dffccb-c17a-544d-8a5f-2084e959d1d0
-DESCRIPTION:Saturday\, May 23\, 2026 / 10 am to 4 pm & Indoor activities: 
- 10:30 am to 3:30 pm.\n\nHeld in partnership with the (https://burlingtonce
- ntre.ca/sustainability/) Burlington Centre and (https://techgenius.ca/) Te
- ch Genius Burlington Inc\, we’re excited to host another impactful event
-  at the Burlington Centre’s convenient parking area (corner of Guelph Li
- ne & Fairview) to accept computer and cell phone electronics.\n\nDiscover 
- below how you can further grow the impact of these events by organizing co
- llections with your networks!\n\nThere’s more. A series of (https://shop
- .terracycle.com/en-CA) Terracycle Zero Waste (https://chopvalue.com/en-ca?
- srsltid=AfmBOoqeso5s1WdcIgiSNQdM9XjR6CSPw6VXZGsllncMOkznzBFacN8p.) bins ar
- e also on site to accept more unique waste items not currently accepted in
-  Halton Region’s recycling program. And you can even drop off wooden cho
- psticks to the (https://chopvalue.com/en-ca?srsltid=AfmBOoqeso5s1WdcIgiSNQ
- dM9XjR6CSPw6VXZGsllncMOkznzBFacN8p.) ChopValue bin we will have available 
- at the event.\n\nAfter dropping off your items outside\, come inside betwe
- en 10:30 AM and 3:30 PM to explore our interactive Towards Zero Waste spac
- e. Families can enjoy games and hands-on activities for all ages\, while a
- dults and youth can dive deeper into solutions.\n\nAn optional suggested d
- onation of $5 will be gratefully accepted to advance our work – and free
-  pollinator-friendly wildflower seed packets are available!\n\n(https://ww
- w.burlingtongreen.org/programs/zero-waste-events/) LEARN MORE HERE!\nURL: 
- https://www.burlingtongreen.org/events/zero-waste-drop-off-event-more/
-URL:https://www.burlingtongreen.org/events/zero-waste-drop-off-event-more/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Give Thanks by Caring for Nature
 DTSTART;TZID=America/Toronto:20261010T100000
 DTEND;TZID=America/Toronto:20261010T120000
-DTSTAMP:20260805T080600Z
+DTSTAMP:20260807T065101Z
 UID:204a4c1f-ed25-5334-8de6-7c6b9a1cf930
 DESCRIPTION:Celebrate Thanksgiving by spending time outdoors and giving ba
  ck to the environment. BurlingtonGreen invites you to a Thanksgiving Beach
@@ -139,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:Annual Tree Photo Contest
 DTSTART;TZID=America/Toronto:20260921T000000
 DTEND;TZID=America/Toronto:20260922T000000
-DTSTAMP:20260805T080601Z
+DTSTAMP:20260807T065102Z
 UID:3dd1b1a6-5c19-5a9a-be1d-26fc88a1ad00
 DESCRIPTION:BG’s annual Tree Photo Contest returns!\n\nGet ready to snap
   a photo of one of your favorite trees in Burlington\, send it to us\, and
@@ -155,7 +125,7 @@ BEGIN:VEVENT
 SUMMARY:Back to School Beach Clean Up-August 29
 DTSTART;TZID=America/Toronto:20260829T093000
 DTEND;TZID=America/Toronto:20260829T113000
-DTSTAMP:20260805T080602Z
+DTSTAMP:20260807T065101Z
 UID:474dd88d-fd8d-504f-9cb1-6b2bbaf3c130
 DESCRIPTION:Start the new school year by making a positive impact on our l
  ocal environment! BurlingtonGreen invites you to our Back to School Beach 
@@ -191,7 +161,7 @@ BEGIN:VEVENT
 SUMMARY:Back to School Beach Clean Up -August 15
 DTSTART;TZID=America/Toronto:20260815T093000
 DTEND;TZID=America/Toronto:20260815T113000
-DTSTAMP:20260805T080601Z
+DTSTAMP:20260807T065059Z
 UID:4920ac0b-9bda-5f04-956a-49734fcba764
 DESCRIPTION:Start the new school year by making a positive impact on our l
  ocal environment! BurlingtonGreen invites you to our Back to School Beach 
@@ -227,7 +197,7 @@ BEGIN:VEVENT
 SUMMARY:Ask An Arborist Webinar
 DTSTART;TZID=America/Toronto:20260923T190000
 DTEND;TZID=America/Toronto:20260923T210000
-DTSTAMP:20260805T080602Z
+DTSTAMP:20260807T065103Z
 UID:540e275a-c9f6-5265-b947-5ff3f973fd61
 DESCRIPTION:WEDNESDAY\, SEPTEMBER 23rd @ 7 PM ONLINE WEBINAR!\n\nThe alway
  s popular Kyle McLoughlin\, Master Arborist and Supervisor of Forest Plann
@@ -251,10 +221,40 @@ DESCRIPTION:WEDNESDAY\, SEPTEMBER 23rd @ 7 PM ONLINE WEBINAR!\n\nThe alway
 URL:https://www.burlingtongreen.org/events/ask-an-arborist-2026/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Green Up Community Tree Planting Event
+DTSTART;TZID=America/Toronto:20260926T093000
+DTEND;TZID=America/Toronto:20260926T113000
+DTSTAMP:20260807T065102Z
+UID:6eb4f6d1-ace3-5a16-b7ee-a43cde3c391c
+DESCRIPTION:Let’s Grow Burlington’s Tree Canopy Together!\n\nBurlingto
+ nGreen and City of Burlington Forestry staff are organizing a community tr
+ ee planting to take place from 9:30 am to noon on Saturday\, September 26\
+ , 2026\, at Longmoor Park.\n\nTogether we will plant 500+ native trees PLU
+ S some lucky participants will each win a beautiful tree to plant at their
+  Burlington homes!\n\nSpace is limited for this popular event.\n\n(https:/
+ /www.burlingtongreen.org/newsletter-signup/) Sign up to receive our popula
+ r monthly eco-newsletter\, which will include notifications about when reg
+ istration will open for this event.\n\n(https://treecanada.ca/)\n\nThis pr
+ oject was made possible in large part thanks to a Tree Canada (https://tre
+ ecanada.ca/grants-awards/community-tree-grants/) Community Tree Grant.\n\n
+ 2026 COMMUNITY CLEAN UP GREEN UP SUPPORTERS\n\nLEAD SUPPORTERS\n\n(https:/
+ /www.burlington.ca/en/index.asp)\n\n(https://otf.ca/)\n\nCOMMUNITY PARTNER
+ \n\n(https://portal.clubrunner.ca/144/)\n\nTREE SPONSOR\n\n(https://burlin
+ gtoncentre.ca/sustainability/)\n\nLEAF SPONSORS\n\n(https://rsales.ca/)\n\
+ n(https://bunzlcanada.ca/)\n\nSEED SPONSOR\n\n(https://djb.com/) DJB Chart
+ ered Professional Accountants\n\nHelp BurlingtonGreen (a Registered Canadi
+ an Charity)\, continue to provide impactful\, community-based environmenta
+ l programs.\nDonations of all amounts are greatly appreciated.\n\n(https:/
+ /www.burlingtongreen.org/donate/) DONATE TODAY!\n\n_\nURL: https://www.bur
+ lingtongreen.org/events/green-up-community-tree-planting-event/
+URL:https://www.burlingtongreen.org/events/green-up-community-tree-plantin
+ g-event/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Join us at the beach this summer!
 DTSTART;TZID=America/Toronto:20260701T000000
 DTEND;TZID=America/Toronto:20260907T000000
-DTSTAMP:20260805T080601Z
+DTSTAMP:20260807T065102Z
 UID:79abb066-8970-55db-adf2-8f2db26ab1e5
 DESCRIPTION:Our team is leading eco-activities and sharing resources at ou
  r (https://maps.google.com/?cid=5383717800969327865&g_mp=CiVnb29nbGUubWFwc
@@ -279,7 +279,7 @@ BEGIN:VEVENT
 SUMMARY:Volunteer Celebration & AGM
 DTSTART;TZID=America/Toronto:20260611T000000
 DTEND;TZID=America/Toronto:20260612T000000
-DTSTAMP:20260805T080601Z
+DTSTAMP:20260807T065103Z
 UID:7f4f47a9-5344-571c-9f96-ac299ab74487
 DESCRIPTION:All community members are invited to our brief Annual General 
  Meeting\, followed by an informative opportunity to discover and celebrate
@@ -305,7 +305,7 @@ BEGIN:VEVENT
 SUMMARY:Native Plant Sale!
 DTSTART;TZID=America/Toronto:20260305T000000
 DTEND;TZID=America/Toronto:20260525T000000
-DTSTAMP:20260805T080600Z
+DTSTAMP:20260807T065101Z
 UID:e28ae05f-54b4-517a-a983-4486de242ea9
 DESCRIPTION:Our 2026 Native Plant Sale is NOW CLOSED. ( while supplies las
  t)\n\nORDER PICK UP\n\nAll purchases are for pick up only ( no shipping av

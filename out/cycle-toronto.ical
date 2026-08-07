@@ -5,10 +5,31 @@ METHOD:PUBLISH
 NAME:Cycle TO
 X-WR-CALNAME:Cycle TO
 BEGIN:VEVENT
+SUMMARY:Zine Making Workshop
+DTSTART:20260821T200000Z
+DTEND:20260821T220000Z
+DTSTAMP:20260807T065104Z
+UID:11c91c57-eb63-5c5f-85b7-d974caaebb09
+DESCRIPTION:Join us at the Cycle Toronto Rec Hub for a hands-on Zine Makin
+ g Workshop\, where you'll learn to fold\, cut\, and assemble a punk zine u
+ sing the classic one-fold\, one-cut method. This session covers everything
+  from the DIY ethos and history of zines to planning your content\, adding
+  collage or drawings\, and finishing your creation. No experience or speci
+ al tools are needed. Just bring your ideas\, and leave with new skills and
+  a completed zine.\n\nDoors: 4 PM\n\nSession: 4:00-6:00 PM\n\n"SF punk zin
+ es at Prelinger Library" by Lindsay Eyink is licensed under CC BY 2.0. (ht
+ tps://en.wikipedia.org/wiki/Zine#/media/File:SF_punk_zines_at_Prelinger_Li
+ brary.jpg) Source: Wikimedia Commons\nURL: https://www.cycleto.ca/zine_mak
+ ing_workshop
+LOCATION:Evergreen Brickworks\n550 Bayview Ave\n10\nToronto  ON M4W 3X8\nC
+ A
+URL:https://www.cycleto.ca/zine_making_workshop
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
 DTSTART:20260816T140000Z
 DTEND:20260816T210000Z
-DTSTAMP:20260805T080604Z
+DTSTAMP:20260807T065102Z
 UID:3ebe5225-8af7-5e70-b460-6c6bfcbc33c1
 DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
  at Evergreen Brick Works is a welcoming community space that takes the int
@@ -27,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:Coffee Outside Group Ride
 DTSTART:20260816T120000Z
 DTEND:20260816T120000Z
-DTSTAMP:20260805T080604Z
+DTSTAMP:20260807T065103Z
 UID:41aaaca6-f17a-5239-ba5a-87b151e82a0f
 DESCRIPTION:Join us for Coffee Outside\, a leisurely group ride along the 
  Don River trail system. We'll roll at a chill pace\, take in the greenery\
@@ -43,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:Ride The Track 2026
 DTSTART:20260814T210000Z
 DTEND:20260815T003000Z
-DTSTAMP:20260805T080604Z
+DTSTAMP:20260807T065104Z
 UID:45d2330b-583c-523c-beb2-990318df30d9
 DESCRIPTION:Ride the Track 2026 on the Markham Indy Track!\n\nExperience t
  he thrill of riding the Honda Indy track on your own bicycle while support
@@ -74,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
 DTSTART:20260819T200000Z
 DTEND:20260819T230000Z
-DTSTAMP:20260805T080604Z
+DTSTAMP:20260807T065103Z
 UID:4989856a-62ae-54b7-aa11-7b6707ae5851
 DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
  at Evergreen Brick Works is a welcoming community space that takes the int
@@ -93,7 +114,7 @@ BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
 DTSTART:20260809T140000Z
 DTEND:20260809T210000Z
-DTSTAMP:20260805T080604Z
+DTSTAMP:20260807T065103Z
 UID:59934872-25d1-5e6b-b933-311f7cd49b5e
 DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
  at Evergreen Brick Works is a welcoming community space that takes the int
@@ -110,28 +131,9 @@ URL:https://www.cycleto.ca/rec_hub_diy_20260809
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
-DTSTART:20260805T200000Z
-DTEND:20260805T230000Z
-DTSTAMP:20260805T080604Z
-UID:5f21f19f-fbf0-5b16-a43f-8c1c97b13308
-DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
- at Evergreen Brick Works is a welcoming community space that takes the int
- imidation out of bike maintenance and repair.\n\nIF YOU'RE ALREADY A TRAIN
- ED CYCLE TORONTO REC HUB VOLUNTEER\, SIGN UP FOR SUPPORT SHIFTS.\n\nOur fr
- iendly staff and volunteers will help guide you through the basics to keep
-  you rolling. Even expert home mechanics are also welcome to use our facil
- ities.\n\nDIY service is first come\, first serve.\n\nFind out more: (http
- s://www.cycleto.ca/rec_hub) cycleto.ca/rec_hub\nURL: https://www.cycleto.c
- a/rec_hub_diy_20260805
-LOCATION:Rec Hub at Evergreen Brick Works\n550 Bayview Avenue\nToronto ON 
- M4W 3X8\nCA
-URL:https://www.cycleto.ca/rec_hub_diy_20260805
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rec Hub DIY
 DTSTART:20260812T200000Z
 DTEND:20260812T230000Z
-DTSTAMP:20260805T080604Z
+DTSTAMP:20260807T065103Z
 UID:723f32cd-ebc6-592b-86d4-6458c844eabe
 DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
  at Evergreen Brick Works is a welcoming community space that takes the int
@@ -150,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
 DTSTART:20260815T140000Z
 DTEND:20260815T210000Z
-DTSTAMP:20260805T080605Z
+DTSTAMP:20260807T065103Z
 UID:9e6735a5-1e5f-5fd8-9301-09dba3fcd176
 DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
  at Evergreen Brick Works is a welcoming community space that takes the int
@@ -169,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:Rec Hub Volunteer Orientation August 7
 DTSTART:20260807T200000Z
 DTEND:20260807T220000Z
-DTSTAMP:20260805T080604Z
+DTSTAMP:20260807T065103Z
 UID:e8442c1d-b6aa-5b0e-b376-b07f027886cd
 DESCRIPTION:Register to attend our volunteer orientation for Evergreen Bri
  ck Works.\n\n(https://www.evergreen.ca/evergreen-brick-works/visitor-info/
@@ -183,7 +185,7 @@ BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
 DTSTART:20260808T140000Z
 DTEND:20260808T210000Z
-DTSTAMP:20260805T080604Z
+DTSTAMP:20260807T065103Z
 UID:f0fd8d18-b162-56ef-8da1-38baf653f244
 DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
  at Evergreen Brick Works is a welcoming community space that takes the int

@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost Bike Ride For Jean Louis
 DTSTART;TZID=America/Toronto:20251101T140000
 DTEND;TZID=America/Toronto:20251101T153000
-DTSTAMP:20260805T080601Z
+DTSTAMP:20260807T065059Z
 UID:2aeb2798-b16e-5847-8cef-2243fb7287ee
 DESCRIPTION:On Friday\,  17 October 2025\, Jean Louis\, a 66-year-old male
  \, was cycling on Appleby Line and Harvester Road in Burlington. At approx
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:Critical Mask Halloween Bike Ride 
 DTSTART;TZID=America/Toronto:20251031T180000
 DTEND;TZID=America/Toronto:20251031T200000
-DTSTAMP:20260805T080601Z
+DTSTAMP:20260807T065101Z
 UID:5765bffd-5e02-53a4-a58d-e468cf451089
 DESCRIPTION:a monthly group bicycle ride that takes place in many cities w
  orldwide\, occurring on the last Friday of each month. It serves as both a
@@ -91,10 +91,30 @@ DESCRIPTION:a monthly group bicycle ride that takes place in many cities w
 URL:https://www.facebook.com/events/2533827373664092/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:DAS 17
+DTSTART;TZID=America/Toronto:20260831T180000
+DTEND;TZID=America/Toronto:20260831T200000
+DTSTAMP:20260807T065059Z
+UID:5f06e69d-58ec-58ac-9d98-50db1b5a2b0f
+DESCRIPTION:Please join us for DAS17. \n\nIt's been now 17 years since Abo
+ riginal cyclist and bike messenger Darcy Allan Sheppard was killed by the 
+ former Ontario Attorney General (Ontario Liberal Party)\, Michael Bryant. 
+ \n\nThe case was never brought to trial\, evidence was never tested\, Brya
+ nt walked free\, and still maintains political ambitions tracked by http:/
+ /bryantwatch.wordpress.com/\n\nCome join old and new friends as we remembe
+ r Darcy. We will meet at Darcy's Ghost Bike located in front of the Max Ma
+ ra store located at 151 Bloor Street West. We will also remember fallen me
+ ssengers who have passed and who burnt the candle brightly to restore just
+ ice to this tragic event.\n\nWe will never forget.\n\nYou never ride alone
+ .\n\nhttps://vimeo.com/42810630\nCreated by: Nicholas Kovats\nURL: https:/
+ /www.facebook.com/events/1104804925439275/
+URL:https://www.facebook.com/events/1104804925439275/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ride of Silence 2026
 DTSTART;TZID=America/Toronto:20260520T184500
 DTEND;TZID=America/Toronto:20260520T204500
-DTSTAMP:20260805T080601Z
+DTSTAMP:20260807T065059Z
 UID:cc7c3c64-a683-5134-afbb-633312ce27b3
 DESCRIPTION:The Ride of Silence is a world wide event where people ride at
   7 PM local time on the 3rd Wednesday of May to remember fellow cyclists w
