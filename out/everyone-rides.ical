@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Free Ride Day 2026
 DTSTART;TZID=America/Toronto:20260607T090000
 DTEND;TZID=America/Toronto:20260607T210000
-DTSTAMP:20260813T070120Z
+DTSTAMP:20260815T055706Z
 UID:06d74b8d-c48d-5239-b783-beb17f155db9
 DESCRIPTION:Hamilton Bike Share is excited to present our inaugural FREE R
  IDE DAY\, brought to you by Cogeco. Free Ride Day is coming your way on Su
@@ -82,7 +82,7 @@ DESCRIPTION:Hamilton Bike Share is excited to present our inaugural FREE R
  (between Dundas and Kenilworth Ave in the lower city) and never leave a bi
  ke unlocked and unattended. Always ensure bikes are locked to secure fixed
   objects when making a stop.\n\nNeed help? Contact us:\n\n(/cdn-cgi/l/emai
- l-protection#b5ddd0d9c5f5ddd4d8dcd9c1dadbd7dcded0c6ddd4c7d09bd6d4) [email 
+ l-protection#365e535a46765e575b5f5a425958545f5d53455e574453185557) [email 
  protected]\n\n289-768-2453\nURL: https://www.everyonerides.org/free_ride_d
  ay_2026
 LOCATION:See post
@@ -92,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:Mural Ride
 DTSTART;TZID=America/Toronto:20260808T100000
 DTEND;TZID=America/Toronto:20260808T120000
-DTSTAMP:20260813T070120Z
+DTSTAMP:20260815T055706Z
 UID:90e2091d-efe1-5bcd-ad66-92db91dbb3f9
 DESCRIPTION:Our Annual Mural Ride is SO back and this time with a sweet su
  rprise from one of our sponsors\, Cogeco! ☀️🍦🚲\n\nJoin us on Sat
@@ -117,7 +117,7 @@ BEGIN:VEVENT
 SUMMARY:Eco-Ride Series with Environment Hamilton
 DTSTART;TZID=America/Toronto:20260820T183000
 DTEND;TZID=America/Toronto:20260820T203000
-DTSTAMP:20260813T070119Z
+DTSTAMP:20260815T055705Z
 UID:a38e4242-6899-57f1-8bb1-6afbdaffe7e3
 DESCRIPTION:When you ride a bike\, do you notice your environment more? Ar
  e you curious about the ecological story of Hamilton? We're launching a sp
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:Valley Park Seasonal Hub Launch
 DTSTART;TZID=America/Toronto:20260715T183000
 DTEND;TZID=America/Toronto:20260715T193000
-DTSTAMP:20260813T070120Z
+DTSTAMP:20260815T055706Z
 UID:ab36ac79-08aa-56e2-b2cd-005b08c5c01f
 DESCRIPTION:🚨PSA for tonight's event!🚨\nDue to smoke/air quality thi
  s afternoon\, our Valley Park Launch Event is moving inside the rec centre

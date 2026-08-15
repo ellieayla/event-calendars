@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de Cafe - Ride to Relay
 DTSTART;TZID=America/Toronto:20260606T080000
 DTEND;TZID=America/Toronto:20260606T100000
-DTSTAMP:20260813T070119Z
+DTSTAMP:20260815T055705Z
 UID:0f6b0ecb-faa1-54d2-ab8e-8f24b2f53504
 DESCRIPTION:After getting rained out last week\, let's cross our fingers t
  he weather co-operates this week as we ride to Relay for our second ride o
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:Mulberry Coffeehouse 
 DTSTART;TZID=America/Toronto:20260704T080000
 DTEND;TZID=America/Toronto:20260704T100000
-DTSTAMP:20260813T070119Z
+DTSTAMP:20260815T055705Z
 UID:307cd7f9-3380-50bb-8414-c708a1abac25
 DESCRIPTION:Hope to see you this Saturday July 4th as we ride to Mulberry 
  Coffeehouse (James St. N). Hope you can join us! Meet behind New Hope at 8
@@ -89,7 +89,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de Cafe to Vintage Coffee Roasters
 DTSTART;TZID=America/Toronto:20260718T080000
 DTEND;TZID=America/Toronto:20260718T103000
-DTSTAMP:20260813T070119Z
+DTSTAMP:20260815T055705Z
 UID:5ca62848-3dec-57e4-8d71-e15f6c3474ce
 DESCRIPTION:This Saturday morning the Tour de Cafe ride will be visiting V
  intage Coffee Roasters. Meet at 8am behind the shop at New Hope Bikes. \nC
@@ -103,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de Cafe - Ride to Dundurn Market
 DTSTART;TZID=America/Toronto:20260815T080000
 DTEND;TZID=America/Toronto:20260815T100000
-DTSTAMP:20260813T070119Z
+DTSTAMP:20260815T055705Z
 UID:9456fe74-8362-5a4e-bd25-5c39d86b9701
 DESCRIPTION:Our Tour de Cafe ride this week takes us to Dundurn Market. Me
  et behind the shop  at 8am - hope to see you there! \nCreated by: Alex Len

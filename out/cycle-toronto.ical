@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Zine Making Workshop
 DTSTART:20260821T200000Z
 DTEND:20260821T220000Z
-DTSTAMP:20260813T070122Z
+DTSTAMP:20260815T055708Z
 UID:11c91c57-eb63-5c5f-85b7-d974caaebb09
 DESCRIPTION:Join us at the Cycle Toronto Rec Hub for a hands-on Zine Makin
  g Workshop\, where you'll learn to fold\, cut\, and assemble a punk zine u
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:Election Townhall 2026
 DTSTART:20260825T220000Z
 DTEND:20260826T010000Z
-DTSTAMP:20260813T070122Z
+DTSTAMP:20260815T055709Z
 UID:35e8dcf9-348b-5817-88d2-04d0042c8134
 DESCRIPTION:Let’s talk about cycling!\n\nThis October\, you have the cha
  nce to send a message that streets are for people\, and that Toronto can't
@@ -44,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
 DTSTART:20260816T140000Z
 DTEND:20260816T210000Z
-DTSTAMP:20260813T070122Z
+DTSTAMP:20260815T055709Z
 UID:3ebe5225-8af7-5e70-b460-6c6bfcbc33c1
 DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
  at Evergreen Brick Works is a welcoming community space that takes the int
@@ -62,46 +62,28 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coffee Outside Group Ride
 DTSTART:20260816T120000Z
-DTEND:20260816T120000Z
-DTSTAMP:20260813T070122Z
+DTEND:20260816T140000Z
+DTSTAMP:20260815T055709Z
 UID:41aaaca6-f17a-5239-ba5a-87b151e82a0f
 DESCRIPTION:Join us for Coffee Outside\, a leisurely group ride along the 
  Don River trail system. We'll roll at a chill pace\, take in the greenery\
  , and stop for coffee and conversation at a scenic spot along the way. All
   bikes and all speeds are welcome. Just bring your mug\, your favourite br
- ew fixings\, and enjoy the morning.\n\nDoors: 8 AM\n\nSession: 8:00-10 AM\
- n\nLight snacks provided\nURL: https://www.cycleto.ca/coffee_outside_group
- _ride
-LOCATION:Evergreen Brickworks\n550 Bayview Ave\n10\nToronto ON M4W 3X8\nCA
+ ew fixings\, and enjoy the morning.\n\nRide with GPS: https://ridewithgps.
+ com/routes/56528830\n\nDoors: 8 AM\n\nSession: 8:00-10 AM\n\nLight snacks 
+ provided\nURL: https://www.cycleto.ca/coffee_outside_group_ride
+LOCATION:Woodborough Park\n1460 Castlefield Ave\n10\nToronto ON  M6M 1Y7\n
+ CA
 URL:https://www.cycleto.ca/coffee_outside_group_ride
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ride The Track 2026
 DTSTART:20260814T210000Z
 DTEND:20260815T003000Z
-DTSTAMP:20260813T070121Z
+DTSTAMP:20260815T055709Z
 UID:45d2330b-583c-523c-beb2-990318df30d9
-DESCRIPTION:Ride the Track 2026 on the Markham Indy Track!\n\nExperience t
- he thrill of riding the Honda Indy track on your own bicycle while support
- ing a great cause!\n\nRide the Track returns on Friday\, August 14\, 2026\
- , at the Markham Pan Am Centre\, giving cyclists\, families\, and communit
- y members the unique opportunity to ride the closed course in support of T
- he Children's Breakfast Clubs.\n\nWhether you're a seasoned cyclist or sim
- ply looking for a fun family activity\, everyone is welcome to join us for
-  an unforgettable evening of cycling and community spirit.\n\nEvent Detail
- s\n\nDate: Friday\, August 14\, 2026\nTime: Registration opens at 5:00 PM 
- | Ride begins at 6:30 PM\nLocation: Markham Pan Am Centre\, Markham\, ON\n
- Registration: $25 per rider\n\nNote: Children under 6 ride free when ridin
- g on an adult's bicycle with a parent or guardian. Children aged 6 and old
- er may ride independently.\n\nEvery registration helps support The Childre
- n's Breakfast Clubs\, providing hot\, nutritious meals to children in more
-  than 40 communities across Southern Ontario. With $0.87 of every dollar r
- aised going directly toward programs and services\, your ride makes a real
-  difference.\n\nGather your friends\, bring the family\, and enjoy this on
- e-of-a-kind opportunity to ride the track while helping children start the
- ir day with a healthy breakfast.\n\nLearn more and register: (https://brea
- kfastclubs.ca/) https://breakfastclubs.ca/\nURL: https://www.cycleto.ca/14
- 9988/ride_the_track_2026
+DESCRIPTION:This event has already taken place.\nURL: https://www.cycleto.
+ ca/149988/ride_the_track_2026
 LOCATION:Markham Pan Am Centre\n16 Main St Unionville\nMarkham ON L3R 0W7\
  nCA
 URL:https://www.cycleto.ca/149988/ride_the_track_2026
@@ -110,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
 DTSTART:20260819T200000Z
 DTEND:20260819T230000Z
-DTSTAMP:20260813T070123Z
+DTSTAMP:20260815T055709Z
 UID:4989856a-62ae-54b7-aa11-7b6707ae5851
 DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
  at Evergreen Brick Works is a welcoming community space that takes the int
@@ -126,10 +108,23 @@ LOCATION:Rec Hub at Evergreen Brick Works\n550 Bayview Avenue\nToronto ON
 URL:https://www.cycleto.ca/rec_hub_diy_20260819
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Virtual Canvassing Training
+DTSTART:20260817T213000Z
+DTEND:20260817T223000Z
+DTSTAMP:20260815T055712Z
+UID:5a39d6d6-f537-5743-86e1-7d6bf41bc606
+DESCRIPTION:Join us Monday to learn about how to canvas with Cycle Toronto
+  this Summer/Fall.\n\nRegister on zoom here: https://us06web.zoom.us/meeti
+ ng/register/v32qS_rlQN6XibbJq3Vk4A#/registration\nURL: https://www.cycleto
+ .ca/virtual_canvassing_training
+LOCATION:Online - Zoom
+URL:https://www.cycleto.ca/virtual_canvassing_training
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
 DTSTART:20260822T140000Z
 DTEND:20260822T210000Z
-DTSTAMP:20260813T070122Z
+DTSTAMP:20260815T055709Z
 UID:70a9a336-643f-55e0-ac40-35010495c3ad
 DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
  at Evergreen Brick Works is a welcoming community space that takes the int
@@ -146,21 +141,9 @@ URL:https://www.cycleto.ca/rec_hub_diy_20260822
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
-DTSTART:20260812T200000Z
-DTEND:20260812T230000Z
-DTSTAMP:20260813T070122Z
-UID:723f32cd-ebc6-592b-86d4-6458c844eabe
-DESCRIPTION:This event has already taken place.\nURL: https://www.cycleto.
- ca/rec_hub_diy_20260812
-LOCATION:Rec Hub at Evergreen Brick Works\n550 Bayview Avenue\nToronto ON 
- M4W 3X8\nCA
-URL:https://www.cycleto.ca/rec_hub_diy_20260812
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rec Hub DIY
 DTSTART:20260815T140000Z
 DTEND:20260815T210000Z
-DTSTAMP:20260813T070122Z
+DTSTAMP:20260815T055709Z
 UID:9e6735a5-1e5f-5fd8-9301-09dba3fcd176
 DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
  at Evergreen Brick Works is a welcoming community space that takes the int
@@ -179,7 +162,7 @@ BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
 DTSTART:20260823T140000Z
 DTEND:20260823T210000Z
-DTSTAMP:20260813T070121Z
+DTSTAMP:20260815T055711Z
 UID:cb3ab79f-6d0a-5e04-a04d-cb50431aecc9
 DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
  at Evergreen Brick Works is a welcoming community space that takes the int
