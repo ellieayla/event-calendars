@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Mural Ride
 DTSTART;TZID=America/Toronto:20260808T100000
 DTEND;TZID=America/Toronto:20260808T120000
-DTSTAMP:20260823T055912Z
+DTSTAMP:20260825T060134Z
 UID:90e2091d-efe1-5bcd-ad66-92db91dbb3f9
 DESCRIPTION:Our Annual Mural Ride is SO back and this time with a sweet su
  rprise from one of our sponsors\, Cogeco! ☀️🍦🚲\n\nJoin us on Sat
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Eco-Ride Series with Environment Hamilton
 DTSTART;TZID=America/Toronto:20260820T183000
 DTEND;TZID=America/Toronto:20260820T203000
-DTSTAMP:20260823T055911Z
+DTSTAMP:20260825T060133Z
 UID:a38e4242-6899-57f1-8bb1-6afbdaffe7e3
 DESCRIPTION:When you ride a bike\, do you notice your environment more? Ar
  e you curious about the ecological story of Hamilton? We're launching a sp
@@ -118,7 +118,7 @@ BEGIN:VEVENT
 SUMMARY:Valley Park Seasonal Hub Launch
 DTSTART;TZID=America/Toronto:20260715T183000
 DTEND;TZID=America/Toronto:20260715T193000
-DTSTAMP:20260823T055912Z
+DTSTAMP:20260825T060133Z
 UID:ab36ac79-08aa-56e2-b2cd-005b08c5c01f
 DESCRIPTION:🚨PSA for tonight's event!🚨\nDue to smoke/air quality thi
  s afternoon\, our Valley Park Launch Event is moving inside the rec centre
