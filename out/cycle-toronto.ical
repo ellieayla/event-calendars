@@ -5,35 +5,13 @@ METHOD:PUBLISH
 NAME:Cycle TO
 X-WR-CALNAME:Cycle TO
 BEGIN:VEVENT
-SUMMARY:Election Townhall 2026
-DTSTART:20260825T220000Z
-DTEND:20260826T010000Z
-DTSTAMP:20260825T060135Z
-UID:35e8dcf9-348b-5817-88d2-04d0042c8134
-DESCRIPTION:Let’s talk about cycling!\n\nThis October\, you have the cha
- nce to send a message that streets are for people\, and that Toronto can't
-  wait! Come chat with your neighbours about cycling and contribute to Cycl
- e Toronto’s election strategy.\nURL: https://www.cycleto.ca/2026election
- townhall
-LOCATION:Swansea Townhall\n95 Lavinia Avenue\nToronto\, Ontario ON M6S 3H9
- \nCA
-URL:https://www.cycleto.ca/2026electiontownhall
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
 DTSTART:20260826T200000Z
 DTEND:20260826T230000Z
-DTSTAMP:20260825T060136Z
+DTSTAMP:20260827T164703Z
 UID:58985861-6abc-5d3a-9a46-4954e69892a6
-DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
- at Evergreen Brick Works is a welcoming community space that takes the int
- imidation out of bike maintenance and repair.\n\nIF YOU'RE ALREADY A TRAIN
- ED CYCLE TORONTO REC HUB VOLUNTEER\, SIGN UP FOR SUPPORT SHIFTS.\n\nOur fr
- iendly staff and volunteers will help guide you through the basics to keep
-  you rolling. Even expert home mechanics are also welcome to use our facil
- ities.\n\nDIY service is first come\, first serve.\n\nFind out more: (http
- s://www.cycleto.ca/rec_hub) cycleto.ca/rec_hub\nURL: https://www.cycleto.c
- a/rec_hub_diy_20260826
+DESCRIPTION:This event has already taken place.\nURL: https://www.cycleto.
+ ca/rec_hub_diy_20260826
 LOCATION:Rec Hub at Evergreen Brick Works\n550 Bayview Avenue\nToronto ON 
  M4W 3X8\nCA
 URL:https://www.cycleto.ca/rec_hub_diy_20260826
@@ -42,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:The Parts Bin Bazaar
 DTSTART:20260912T170000Z
 DTEND:20260912T200000Z
-DTSTAMP:20260825T060135Z
+DTSTAMP:20260827T164703Z
 UID:89bcdcb1-2535-55e3-a5ba-9fe1f8e44db1
 DESCRIPTION:Think of it as autumn cleaning. We've all got that extra stem\
  , wheelset\, or handlebar laying around our parts bins. Bring a blanket\, 
@@ -58,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:Bike Repair 101
 DTSTART:20260828T200000Z
 DTEND:20260828T220000Z
-DTSTAMP:20260825T060137Z
+DTSTAMP:20260827T164702Z
 UID:8abf1eba-d7ab-5e25-8a19-22bede5fca2a
 DESCRIPTION:Join our Basic Bike Maintenance Workshop at the Cycle Toronto 
  Rec Hub to learn hands-on skills including bike fit\, safety checks\, and 
@@ -71,10 +49,31 @@ LOCATION:Evergreen Brickworks\n550 Bayview ave\n10\nToronto ON M4W 3X8\nCA
 URL:https://www.cycleto.ca/bike_repair_101_20260828
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bike Engagement Station - Stanley Greene Park
+DTSTART:20260828T130000Z
+DTEND:20260828T180000Z
+DTSTAMP:20260827T164702Z
+UID:9388036b-7829-5105-af11-45d1b41257fe
+DESCRIPTION:We are hosting a Bike Engagement Station at Stanley Greene Par
+ k on Friday\, August 28th. We'll be there with some educational materials 
+ and will demonstrate how to perform safety checks for those who may not ha
+ ve access to a bike shop but want to get riding. We'll be able to help wit
+ h things like inflating your tires\, lubricating your chain\, demonstratin
+ g how to do an (https://www.cycleto.ca/abccheck) ABC safety check\, and an
+ ything else our teams can safely accomplish in a few minutes.\n\nSee the d
+ etails below:\n\n* Date: Friday\, August 28\, 2026\n* Time: 4:00 pm - 7:00
+  pm\n* Location: 55 Stanley Greene Blvd\, Toronto\, ON M3K 0A8\n\nSee you 
+ there!\nURL: https://www.cycleto.ca/engagement_station_stanley_greene_2026
+ 0828
+LOCATION:Stanley Greene Park\n55 Stanley Greene Blvd.\nToronto ON M3K 0A8\
+ nCA
+URL:https://www.cycleto.ca/engagement_station_stanley_greene_20260828
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Coffee Outside Group Ride: East Don Trail
 DTSTART:20260920T120000Z
 DTEND:20260920T140000Z
-DTSTAMP:20260825T060135Z
+DTSTAMP:20260827T164703Z
 UID:b1a4d846-1168-59ce-b541-410af1dff571
 DESCRIPTION:Join us for Coffee Outside\, a leisurely group ride along the 
  East Don River trail system. We'll roll at a chill pace\, take in the gree
@@ -87,25 +86,27 @@ LOCATION:East Don Trail\n179 Bermondsey Rd\nToronto ON M4A 1X9\nCA
 URL:https://www.cycleto.ca/coffee_outside_group_ride_20260920
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Big Toronto Bike Ride 2026
+SUMMARY:The Big Toronto Bike Ride presented by McLeish Orlando
 DTSTART:20260919T170000Z
 DTEND:20260920T000000Z
-DTSTAMP:20260825T060137Z
+DTSTAMP:20260827T164702Z
 UID:b77bf480-9e2f-5fb3-a834-9c8a6dd8ea4c
-DESCRIPTION:Our biggest fundraising event of the year is here!\n\nBTBR 202
- 6||V3__PHNjcmlwdCBpZD0iY2hfcDJwX2VtYmVkIiB0eXBlPSd0ZXh0L2phdmFzY3JpcHQnIHN
- yYz0iaHR0cHM6Ly93d3cuY2FuYWRhaGVscHMub3JnL3NlY3VyZS9qcy9wMnBfZW1iZWQuanMiI
- GNoYXJzZXQ9J3V0Zi04JyBkYXRhLWxhbmd1YWdlPSJlbiIgZGF0YS1wYWdlLXVybD0iaHR0cHM
- 6Ly93d3cuY2FuYWRhaGVscHMub3JnL2VuL2NoYXJpdGllcy9jeWNsZS10b3JvbnRvL3AycC9ia
- Wd0b3JvbnRvYmlrZXJpZGUyMDI2LyI+PC9zY3JpcHQ+\n\n2026 Route (subject to chan
- ge):\n\nAlex Amaro Cycling Kindness Award\n\n(https://www.cycleto.ca/alex_
- amaro_award) Nominations are open for the Alex Amaro Cycling Kindness Awar
- d. The award is designed to recognize an individual or not-for-profit grou
- p/organization who exemplifies a positive approach to making cycling frien
- dlier\, more accessible\, inclusive\, environmentally healthier and sustai
- nable for everyone. This year’s recipient will be announced at the ride.
- \n\n(https://www.cycleto.ca/alex_amaro_award)\nURL: https://www.cycleto.ca
- /2026btbr
+DESCRIPTION:Our biggest fundraising event of the year is here! Presented b
+ y (https://www.mcleishorlando.com/) McLeish Orlando.\n\nBTBR 2026||V3__PHN
+ jcmlwdCBpZD0iY2hfcDJwX2VtYmVkIiB0eXBlPSd0ZXh0L2phdmFzY3JpcHQnIHNyYz0iaHR0c
+ HM6Ly93d3cuY2FuYWRhaGVscHMub3JnL3NlY3VyZS9qcy9wMnBfZW1iZWQuanMiIGNoYXJzZXQ
+ 9J3V0Zi04JyBkYXRhLWxhbmd1YWdlPSJlbiIgZGF0YS1wYWdlLXVybD0iaHR0cHM6Ly93d3cuY
+ 2FuYWRhaGVscHMub3JnL2VuL2NoYXJpdGllcy9jeWNsZS10b3JvbnRvL3AycC9iaWd0b3JvbnR
+ vYmlrZXJpZGUyMDI2LyI+PC9zY3JpcHQ+\n\nStill not sure? See our (https://www.
+ cycleto.ca/the_big_toronto_bike_ride_2026_faq) Frequently Asked Questions.
+ \n\n2026 Route (subject to change):\n\nAlex Amaro Cycling Kindness Award\n
+ \n(https://www.cycleto.ca/alex_amaro_award) Nominations are open for the A
+ lex Amaro Cycling Kindness Award. The award is designed to recognize an in
+ dividual or not-for-profit group/organization who exemplifies a positive a
+ pproach to making cycling friendlier\, more accessible\, inclusive\, envir
+ onmentally healthier and sustainable for everyone. This year’s recipient
+  will be announced at the ride.\n\n(https://www.cycleto.ca/alex_amaro_awar
+ d)\nURL: https://www.cycleto.ca/2026btbr
 LOCATION:Evergreen Brick Works
 URL:https://www.cycleto.ca/2026btbr
 END:VEVENT
@@ -113,7 +114,7 @@ BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
 DTSTART:20260829T140000Z
 DTEND:20260829T210000Z
-DTSTAMP:20260825T060137Z
+DTSTAMP:20260827T164703Z
 UID:c8d986ab-fca2-5136-ad4a-d39a4271b0d0
 DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
  at Evergreen Brick Works is a welcoming community space that takes the int
@@ -132,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:Bike Repair 101
 DTSTART:20260909T200000Z
 DTEND:20260909T220000Z
-DTSTAMP:20260825T060138Z
+DTSTAMP:20260827T164703Z
 UID:d174eaa4-63d9-5760-b5eb-3b6bd93a1c46
 DESCRIPTION:Join our Basic Bike Maintenance Workshop at the Cycle Toronto 
  Rec Hub to learn hands-on skills including bike fit\, safety checks\, and 
@@ -148,7 +149,7 @@ BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
 DTSTART:20260830T140000Z
 DTEND:20260830T210000Z
-DTSTAMP:20260825T060137Z
+DTSTAMP:20260827T164703Z
 UID:e6cdb0ca-437a-597f-b62a-55f5e780f7e2
 DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
  at Evergreen Brick Works is a welcoming community space that takes the int
@@ -167,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:Kidical Mass TO
 DTSTART:20260829T124500Z
 DTEND:20260829T141500Z
-DTSTAMP:20260825T060135Z
+DTSTAMP:20260827T164703Z
 UID:ff37ba61-66e4-5d3b-90ca-87f21890fdf2
 DESCRIPTION:Cycle Toronto is proud to be powering the return of KidicalMas
  sTO on the last Saturday of every month until October.\n\nKidical Mass is 
