@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Municipal Election All Candidates Event/ Mayoral Debate
 DTSTART;TZID=America/Toronto:20261008T180000
 DTEND;TZID=America/Toronto:20261008T210000
-DTSTAMP:20260827T164705Z
+DTSTAMP:20260829T114644Z
 UID:0263ff7d-0b17-563e-b9c7-143b8f883623
 DESCRIPTION:Get ready to experience local democracy in action!\n\nBurlingt
  onGreen is teaming up with our friends at (https://safestreetshalton.ca/) 
@@ -76,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:Give Thanks by Caring for Nature
 DTSTART;TZID=America/Toronto:20261010T100000
 DTEND;TZID=America/Toronto:20261010T120000
-DTSTAMP:20260827T164704Z
+DTSTAMP:20260829T114644Z
 UID:204a4c1f-ed25-5334-8de6-7c6b9a1cf930
 DESCRIPTION:Celebrate Thanksgiving by spending time outdoors and giving ba
  ck to the environment. BurlingtonGreen invites you to a Thanksgiving Beach
@@ -109,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:Annual Tree Photo Contest
 DTSTART;TZID=America/Toronto:20260921T000000
 DTEND;TZID=America/Toronto:20260922T000000
-DTSTAMP:20260827T164705Z
+DTSTAMP:20260829T114646Z
 UID:3dd1b1a6-5c19-5a9a-be1d-26fc88a1ad00
 DESCRIPTION:BG’s annual Tree Photo Contest returns!\n\nGet ready to snap
   a photo of one of your favorite trees in Burlington\, send it to us\, and
@@ -125,35 +125,36 @@ BEGIN:VEVENT
 SUMMARY:Back to School Beach Clean Up-August 29
 DTSTART;TZID=America/Toronto:20260829T093000
 DTEND;TZID=America/Toronto:20260829T113000
-DTSTAMP:20260827T164706Z
+DTSTAMP:20260829T114645Z
 UID:474dd88d-fd8d-504f-9cb1-6b2bbaf3c130
-DESCRIPTION:Start the new school year by making a positive impact on our l
- ocal environment! BurlingtonGreen invites you to our Back to School Beach 
- Clean-Up\, where community members of all ages can come together to help p
- rotect Burlington Beach while learning about the importance of keeping our
-  shoreline healthy and litter-free.\nJoin us for a morning of environmenta
- l action as we search for and remove microplastics and nurdles—tiny plas
- tic pieces that can harm wildlife and enter our waterways.\n\nHosted by: B
- urlingtonGreen\nWhen: Saturday\, August 29th\, 2026 from 9:30 a.m. – 11:
- 30 a.m.\nWhere: Burlington Beach – meet at BG’s Eco-Hub ( (https://g.c
- o/kgs/3ANJBcH) 1094 Lakeshore Road)\n\nNote: Please register in advance\, 
- using the form below.\n\nWhether you’re a student\, family\, educator\, 
- or community member\, this is a great opportunity to wrap up the summer by
-  giving back to nature\, connecting with others\, and helping create a cle
- aner\, healthier shoreline for everyone.\n\nWhy join?\n\nHelp keep Burling
- ton Beach clean and beautiful\nMake a positive environmental impact before
-  heading back to school\nLearn about plastic pollution and shoreline stewa
- rdship\nConnect with fellow community members who care about the environme
- nt\nEarn volunteer hours\nEnjoy a fun and meaningful outdoor community eve
- nt\n\nThis FREE event is open to everyone who wants to make a difference. 
- Whether you’re returning to school\, supporting your family\, or simply 
- looking for a rewarding way to spend your Saturday morning\, we’d love t
- o see you there.\n\nActivities take place outdoors\, rain or shine. If you
-  have accessibility needs\, please let BurlingtonGreen know in advance so 
- we can support your participation.\n\nLet’s head back to school by takin
- g action for a cleaner\, healthier Burlington Beach. We look forward to se
- eing you there!\n\nUse the form below to sign up.\nURL: https://www.burlin
- gtongreen.org/events/back-to-school-beach-clean-up-august-29/
+DESCRIPTION:SORRY\, THIS EVENT IS NOW FULL\n\nStart the new school year by
+  making a positive impact on our local environment! BurlingtonGreen invite
+ s you to our Back to School Beach Clean-Up\, where community members of al
+ l ages can come together to help protect Burlington Beach while learning a
+ bout the importance of keeping our shoreline healthy and litter-free.\nJoi
+ n us for a morning of environmental action as we search for and remove mic
+ roplastics and nurdles—tiny plastic pieces that can harm wildlife and en
+ ter our waterways.\n\nHosted by: BurlingtonGreen\nWhen: Saturday\, August 
+ 29th\, 2026 from 9:30 a.m. – 11:30 a.m.\nWhere: Burlington Beach – mee
+ t at BG’s Eco-Hub ( (https://g.co/kgs/3ANJBcH) 1094 Lakeshore Road)\n\nN
+ ote: Please register in advance\, using the form below.\n\nWhether you’r
+ e a student\, family\, educator\, or community member\, this is a great op
+ portunity to wrap up the summer by giving back to nature\, connecting with
+  others\, and helping create a cleaner\, healthier shoreline for everyone.
+ \n\nWhy join?\n\nHelp keep Burlington Beach clean and beautiful\nMake a po
+ sitive environmental impact before heading back to school\nLearn about pla
+ stic pollution and shoreline stewardship\nConnect with fellow community me
+ mbers who care about the environment\nEarn volunteer hours\nEnjoy a fun an
+ d meaningful outdoor community event\n\nThis FREE event is open to everyon
+ e who wants to make a difference. Whether you’re returning to school\, s
+ upporting your family\, or simply looking for a rewarding way to spend you
+ r Saturday morning\, we’d love to see you there.\n\nActivities take plac
+ e outdoors\, rain or shine. If you have accessibility needs\, please let B
+ urlingtonGreen know in advance so we can support your participation.\n\nLe
+ t’s head back to school by taking action for a cleaner\, healthier Burli
+ ngton Beach. We look forward to seeing you there!\n\n			 				 			 		\n\nUn
+ published form\nURL: https://www.burlingtongreen.org/events/back-to-school
+ -beach-clean-up-august-29/
 URL:https://www.burlingtongreen.org/events/back-to-school-beach-clean-up-a
  ugust-29/
 END:VEVENT
@@ -161,7 +162,7 @@ BEGIN:VEVENT
 SUMMARY:Back to School Beach Clean Up -August 15
 DTSTART;TZID=America/Toronto:20260815T093000
 DTEND;TZID=America/Toronto:20260815T113000
-DTSTAMP:20260827T164703Z
+DTSTAMP:20260829T114646Z
 UID:4920ac0b-9bda-5f04-956a-49734fcba764
 DESCRIPTION:Start the new school year by making a positive impact on our l
  ocal environment! BurlingtonGreen invites you to our Back to School Beach 
@@ -197,7 +198,7 @@ BEGIN:VEVENT
 SUMMARY:Ask An Arborist Webinar
 DTSTART;TZID=America/Toronto:20260923T190000
 DTEND;TZID=America/Toronto:20260923T210000
-DTSTAMP:20260827T164704Z
+DTSTAMP:20260829T114646Z
 UID:540e275a-c9f6-5265-b947-5ff3f973fd61
 DESCRIPTION:WEDNESDAY\, SEPTEMBER 23rd @ 7 PM ONLINE WEBINAR!\n\nThe alway
  s popular Kyle McLoughlin\, Master Arborist and Supervisor of Forest Plann
@@ -224,7 +225,7 @@ BEGIN:VEVENT
 SUMMARY:Green Up Community Tree Planting Event
 DTSTART;TZID=America/Toronto:20260926T093000
 DTEND;TZID=America/Toronto:20260926T113000
-DTSTAMP:20260827T164702Z
+DTSTAMP:20260829T114645Z
 UID:6eb4f6d1-ace3-5a16-b7ee-a43cde3c391c
 DESCRIPTION:Let’s Grow Burlington’s Tree Canopy Together!\n\nBurlingto
  nGreen and City of Burlington Forestry staff are organizing a community tr
@@ -252,7 +253,7 @@ BEGIN:VEVENT
 SUMMARY:Join us at the beach this summer!
 DTSTART;TZID=America/Toronto:20260701T000000
 DTEND;TZID=America/Toronto:20260907T000000
-DTSTAMP:20260827T164705Z
+DTSTAMP:20260829T114646Z
 UID:79abb066-8970-55db-adf2-8f2db26ab1e5
 DESCRIPTION:Our team is leading eco-activities and sharing resources at ou
  r (https://maps.google.com/?cid=5383717800969327865&g_mp=CiVnb29nbGUubWFwc
@@ -277,7 +278,7 @@ BEGIN:VEVENT
 SUMMARY:Volunteer Celebration & AGM
 DTSTART;TZID=America/Toronto:20260611T000000
 DTEND;TZID=America/Toronto:20260612T000000
-DTSTAMP:20260827T164704Z
+DTSTAMP:20260829T114645Z
 UID:7f4f47a9-5344-571c-9f96-ac299ab74487
 DESCRIPTION:All community members are invited to our brief Annual General 
  Meeting\, followed by an informative opportunity to discover and celebrate
@@ -303,7 +304,7 @@ BEGIN:VEVENT
 SUMMARY:Native Plant Sale!
 DTSTART;TZID=America/Toronto:20260305T000000
 DTEND;TZID=America/Toronto:20260525T000000
-DTSTAMP:20260827T164703Z
+DTSTAMP:20260829T114647Z
 UID:e28ae05f-54b4-517a-a983-4486de242ea9
 DESCRIPTION:Our 2026 Native Plant Sale is NOW CLOSED. ( while supplies las
  t)\n\nORDER PICK UP\n\nAll purchases are for pick up only ( no shipping av

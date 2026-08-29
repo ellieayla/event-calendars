@@ -5,22 +5,42 @@ METHOD:PUBLISH
 NAME:Cycle TO
 X-WR-CALNAME:Cycle TO
 BEGIN:VEVENT
-SUMMARY:Rec Hub DIY
-DTSTART:20260826T200000Z
-DTEND:20260826T230000Z
-DTSTAMP:20260827T164703Z
-UID:58985861-6abc-5d3a-9a46-4954e69892a6
-DESCRIPTION:This event has already taken place.\nURL: https://www.cycleto.
- ca/rec_hub_diy_20260826
-LOCATION:Rec Hub at Evergreen Brick Works\n550 Bayview Avenue\nToronto ON 
- M4W 3X8\nCA
-URL:https://www.cycleto.ca/rec_hub_diy_20260826
+SUMMARY:Autumn Canvassing Orientation
+DTSTART:20260902T160000Z
+DTEND:20260902T170000Z
+DTSTAMP:20260829T114648Z
+UID:154ab84b-69cb-5411-a39b-c04b07ffa848
+DESCRIPTION:Now more than ever\, we need help defending our right to safer
+  streets! We’re hosting a virtual volunteer orientation session on Wedne
+ sday\, September 2nd.\n\nWe will cover various topics including\, but not 
+ limited to\, update to our appeal\, our municipal election strategy\, and 
+ how to sign up for shifts.\n\n(https://us06web.zoom.us/meeting/register/Hj
+ m_LjYxS9-3PBe887Fdfg) Register for our workshop here\nURL: https://www.cyc
+ leto.ca/canvassing_orientation_20260830_20260902
+LOCATION:Zoom
+URL:https://www.cycleto.ca/canvassing_orientation_20260830_20260902
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Autumn Canvassing Orientation
+DTSTART:20260831T160000Z
+DTEND:20260831T170000Z
+DTSTAMP:20260829T114646Z
+UID:24002c5f-f140-5057-bd8d-0a32eb5d1f00
+DESCRIPTION:Now more than ever\, we need help defending our right to safer
+  streets! We’re hosting a virtual volunteer orientation session on Monda
+ y\, August 31st.\n\nWe will cover various topics including\, but not limit
+ ed to\, update to our appeal\, our municipal election strategy\, and how t
+ o sign up for shifts.\n\n(https://us06web.zoom.us/meeting/register/dbXL0dG
+ nR5WZtk7HhpZzOg) Register for our workshop here\nURL: https://www.cycleto.
+ ca/canvassing_orientation_20260830
+LOCATION:
+URL:https://www.cycleto.ca/canvassing_orientation_20260830
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Parts Bin Bazaar
 DTSTART:20260912T170000Z
 DTEND:20260912T200000Z
-DTSTAMP:20260827T164703Z
+DTSTAMP:20260829T114647Z
 UID:89bcdcb1-2535-55e3-a5ba-9fe1f8e44db1
 DESCRIPTION:Think of it as autumn cleaning. We've all got that extra stem\
  , wheelset\, or handlebar laying around our parts bins. Bring a blanket\, 
@@ -36,44 +56,18 @@ BEGIN:VEVENT
 SUMMARY:Bike Repair 101
 DTSTART:20260828T200000Z
 DTEND:20260828T220000Z
-DTSTAMP:20260827T164702Z
+DTSTAMP:20260829T114647Z
 UID:8abf1eba-d7ab-5e25-8a19-22bede5fca2a
-DESCRIPTION:Join our Basic Bike Maintenance Workshop at the Cycle Toronto 
- Rec Hub to learn hands-on skills including bike fit\, safety checks\, and 
- drive train care. This session provides access to all recommended tools an
- d staff guidance to help you keep your bike safe and road-ready. You'll le
- ave knowing how to perform routine maintenance yourself and clearly unders
- tand the basics of fixing your bike.\n\nDoors: 4 PM\n\nSession: 4:00-6:00 
- PM\nURL: https://www.cycleto.ca/bike_repair_101_20260828
+DESCRIPTION:This event has already taken place.\nURL: https://www.cycleto.
+ ca/bike_repair_101_20260828
 LOCATION:Evergreen Brickworks\n550 Bayview ave\n10\nToronto ON M4W 3X8\nCA
 URL:https://www.cycleto.ca/bike_repair_101_20260828
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bike Engagement Station - Stanley Greene Park
-DTSTART:20260828T130000Z
-DTEND:20260828T180000Z
-DTSTAMP:20260827T164702Z
-UID:9388036b-7829-5105-af11-45d1b41257fe
-DESCRIPTION:We are hosting a Bike Engagement Station at Stanley Greene Par
- k on Friday\, August 28th. We'll be there with some educational materials 
- and will demonstrate how to perform safety checks for those who may not ha
- ve access to a bike shop but want to get riding. We'll be able to help wit
- h things like inflating your tires\, lubricating your chain\, demonstratin
- g how to do an (https://www.cycleto.ca/abccheck) ABC safety check\, and an
- ything else our teams can safely accomplish in a few minutes.\n\nSee the d
- etails below:\n\n* Date: Friday\, August 28\, 2026\n* Time: 4:00 pm - 7:00
-  pm\n* Location: 55 Stanley Greene Blvd\, Toronto\, ON M3K 0A8\n\nSee you 
- there!\nURL: https://www.cycleto.ca/engagement_station_stanley_greene_2026
- 0828
-LOCATION:Stanley Greene Park\n55 Stanley Greene Blvd.\nToronto ON M3K 0A8\
- nCA
-URL:https://www.cycleto.ca/engagement_station_stanley_greene_20260828
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coffee Outside Group Ride: East Don Trail
 DTSTART:20260920T120000Z
 DTEND:20260920T140000Z
-DTSTAMP:20260827T164703Z
+DTSTAMP:20260829T114645Z
 UID:b1a4d846-1168-59ce-b541-410af1dff571
 DESCRIPTION:Join us for Coffee Outside\, a leisurely group ride along the 
  East Don River trail system. We'll roll at a chill pace\, take in the gree
@@ -89,7 +83,7 @@ BEGIN:VEVENT
 SUMMARY:The Big Toronto Bike Ride presented by McLeish Orlando
 DTSTART:20260919T170000Z
 DTEND:20260920T000000Z
-DTSTAMP:20260827T164702Z
+DTSTAMP:20260829T114645Z
 UID:b77bf480-9e2f-5fb3-a834-9c8a6dd8ea4c
 DESCRIPTION:Our biggest fundraising event of the year is here! Presented b
  y (https://www.mcleishorlando.com/) McLeish Orlando.\n\nBTBR 2026||V3__PHN
@@ -114,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
 DTSTART:20260829T140000Z
 DTEND:20260829T210000Z
-DTSTAMP:20260827T164703Z
+DTSTAMP:20260829T114646Z
 UID:c8d986ab-fca2-5136-ad4a-d39a4271b0d0
 DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
  at Evergreen Brick Works is a welcoming community space that takes the int
@@ -133,7 +127,7 @@ BEGIN:VEVENT
 SUMMARY:Bike Repair 101
 DTSTART:20260909T200000Z
 DTEND:20260909T220000Z
-DTSTAMP:20260827T164703Z
+DTSTAMP:20260829T114646Z
 UID:d174eaa4-63d9-5760-b5eb-3b6bd93a1c46
 DESCRIPTION:Join our Basic Bike Maintenance Workshop at the Cycle Toronto 
  Rec Hub to learn hands-on skills including bike fit\, safety checks\, and 
@@ -149,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
 DTSTART:20260830T140000Z
 DTEND:20260830T210000Z
-DTSTAMP:20260827T164703Z
+DTSTAMP:20260829T114647Z
 UID:e6cdb0ca-437a-597f-b62a-55f5e780f7e2
 DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
  at Evergreen Brick Works is a welcoming community space that takes the int
@@ -168,7 +162,7 @@ BEGIN:VEVENT
 SUMMARY:Kidical Mass TO
 DTSTART:20260829T124500Z
 DTEND:20260829T141500Z
-DTSTAMP:20260827T164703Z
+DTSTAMP:20260829T114648Z
 UID:ff37ba61-66e4-5d3b-90ca-87f21890fdf2
 DESCRIPTION:Cycle Toronto is proud to be powering the return of KidicalMas
  sTO on the last Saturday of every month until October.\n\nKidical Mass is 

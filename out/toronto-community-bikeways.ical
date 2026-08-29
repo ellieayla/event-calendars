@@ -215,27 +215,17 @@ LOCATION:The Well\, 486 Front Street West\, Toronto\, ON\, M5V 0V2\, Canad
 URL:https://www.communitybikewaysto.ca/events/closing-the-loop
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2025 Spring Bike Tune-up *NEW DATE!*
-DTSTART:20250531T133000Z
-DTEND:20250531T170000Z
-DTSTAMP:20250517T174806Z
-UID:7c11329e-b2d8-586d-b0f7-74b3388233ff
-DESCRIPTION:Join us for a free bike tune-up\, now on May 31st! The origina
- l date was postponed due to rain.\n\n#block-703e80d106c785bf9960 { --strok
- e-style: none\;--stroke-thickness: 6px\; } #block-703e80d106c785bf9960 .sq
- s-html-content { --tweak-text-block-padding: 6% 6% 6% 6%\; --tweak-text-bl
- ock-padding: initial\; } #block-703e80d106c785bf9960 { mix-blend-mode: var
- (--tweak-text-block-blend )\; border-radius: var(--tweak-text-block-radius
- )\; } #block-703e80d106c785bf9960 { --tweak-text-block-radius: 0px 0px 0px
-  0px\; } #block-703e80d106c785bf9960 { } @media screen and (max-width: 767
- px) { #block-703e80d106c785bf9960 { } } @media screen and (max-width: 767p
- x) { #block-703e80d106c785bf9960 .sqs-html-content { } } @media screen and
-  (max-width: 767px) { }\nURL: https://www.communitybikewaysto.ca/events/w1
- qnw328gdyg0b25v5hvp5i25v57t8
-LOCATION:All Saints Kingsway parking lot (corner of Bloor St. W. and Princ
- e Edward Dr. N.)\, All Saints\, Toronto\, ON\, M8X 1B5\, Canada
-URL:https://www.communitybikewaysto.ca/events/w1qnw328gdyg0b25v5hvp5i25v57
- t8
+SUMMARY:Community Bikeways at Stoneway Market
+DTSTART:20260813T160000Z
+DTEND:20260813T190000Z
+DTSTAMP:20260829T004300Z
+UID:65c3c176-606a-5039-b0eb-e916425d8cc2
+DESCRIPTION:\nURL: https://www.communitybikewaysto.ca/events/community-bik
+ eways-at-stoneway-market
+LOCATION:Stonegate Community Health Centre\, 10 Neighbourhood Lane\, Toron
+ to\, Ontario\, M8Y 0A4\, Canada
+URL:https://www.communitybikewaysto.ca/events/community-bikeways-at-stonew
+ ay-market
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EcoFair 2026
