@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Ghost Bike Ride For Jean Louis
 DTSTART;TZID=America/Toronto:20251101T140000
 DTEND;TZID=America/Toronto:20251101T153000
-DTSTAMP:20260829T114644Z
+DTSTAMP:20260831T114903Z
 UID:2aeb2798-b16e-5847-8cef-2243fb7287ee
 DESCRIPTION:On Friday\,  17 October 2025\, Jean Louis\, a 66-year-old male
  \, was cycling on Appleby Line and Harvester Road in Burlington. At approx
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:Critical Mask Halloween Bike Ride 
 DTSTART;TZID=America/Toronto:20251031T180000
 DTEND;TZID=America/Toronto:20251031T200000
-DTSTAMP:20260829T114644Z
+DTSTAMP:20260831T114903Z
 UID:5765bffd-5e02-53a4-a58d-e468cf451089
 DESCRIPTION:a monthly group bicycle ride that takes place in many cities w
  orldwide\, occurring on the last Friday of each month. It serves as both a
@@ -94,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:DAS 17
 DTSTART;TZID=America/Toronto:20260831T180000
 DTEND;TZID=America/Toronto:20260831T200000
-DTSTAMP:20260829T114644Z
+DTSTAMP:20260831T114903Z
 UID:5f06e69d-58ec-58ac-9d98-50db1b5a2b0f
 DESCRIPTION:Please join us for DAS17. \n\nIt's been now 17 years since Abo
  riginal cyclist and bike messenger Darcy Allan Sheppard was killed by the 
@@ -106,15 +106,43 @@ DESCRIPTION:Please join us for DAS17. \n\nIt's been now 17 years since Abo
  ra store located at 151 Bloor Street West. We will also remember fallen me
  ssengers who have passed and who burnt the candle brightly to restore just
  ice to this tragic event.\n\nWe will never forget.\n\nYou never ride alone
- .\n\nhttps://vimeo.com/42810630\nCreated by: Nicholas Kovats\nURL: https:/
- /www.facebook.com/events/1104804925439275/
+ .\n\nhttps://vimeo.com/42810630\n\nFrom Allan Sheppard:\n\n"Friends:\n\nI 
+ want to thank all of you for gathering to remember my son Darcy Allan\, wh
+ o died—arguably was killed—seventeen years ago near the spot where you
+  have gathered today.\n\nI also want to thank Nick for calling you togethe
+ r in remembrance and for inviting me to join you in spirit.\n\nI’m sorry
+  I can’t be there in person. I’m almost eighty-nine\, and I must face 
+ the reality that long-distance travel is no longer practical or wise for m
+ e. I think I’m still in decent shape\, for my age\, but I am learning to
+  recognize and accept limitations.\n\nI am deeply moved to know that\, aft
+ er seventeen years\, you and others in Toronto’s messenger and cycling c
+ ommunities still remember my son. I am grateful that you still care enough
+  to protest the injustice that Ontario’s political\, legal\, and media e
+ stablishments did to him and his memory.\n\nI am touched to know that you 
+ have come together without my being there to motivate you. Thank you.\n\nO
+ ur efforts to advocate for a true reckoning of what happened here seventee
+ n years ago are not in vain. I recently received an inquiry from a writer 
+ who is considering including my son’s case in a book he is writing. Noth
+ ing may come of it. But it is reassuring to know that the details of the c
+ ase are out there in the public domain\, and they remain compelling. We ca
+ n still hope.\n\nThe documentary that Yap Films considered two years ago d
+ id not proceed. Potential broadcasters wanted Mr. Bryant to participate. H
+ e refused. That obstacle remains\, but I don’t think it is a dead end. N
+ ot yet.\n\nI want to invite you to join me in remembering the late Wayne S
+ cott. Wayne’s unwavering commitment to advocating for my son has inspire
+ d me and\, I know\, many of you.\n\nI don’t know if TOBMA\, the Toronto 
+ Bike Messenger Association\, is still active\, but I want to leave you wit
+ h their motto\, which appears on Darcy Allan’s gravestone:\n\n“You nev
+ er ride alone.”\n\nStay safe. And strong.\n\nIn solidarity\,\n\nallan"\n
+ Created by: Nicholas Kovats\nURL: https://www.facebook.com/events/11048049
+ 25439275/
 URL:https://www.facebook.com/events/1104804925439275/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ride of Silence 2026
 DTSTART;TZID=America/Toronto:20260520T184500
 DTEND;TZID=America/Toronto:20260520T204500
-DTSTAMP:20260829T114644Z
+DTSTAMP:20260831T114903Z
 UID:cc7c3c64-a683-5134-afbb-633312ce27b3
 DESCRIPTION:The Ride of Silence is a world wide event where people ride at
   7 PM local time on the 3rd Wednesday of May to remember fellow cyclists w

@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Autumn Canvassing Orientation
 DTSTART:20260902T160000Z
 DTEND:20260902T170000Z
-DTSTAMP:20260829T114648Z
+DTSTAMP:20260831T114904Z
 UID:154ab84b-69cb-5411-a39b-c04b07ffa848
 DESCRIPTION:Now more than ever\, we need help defending our right to safer
   streets! We’re hosting a virtual volunteer orientation session on Wedne
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:Autumn Canvassing Orientation
 DTSTART:20260831T160000Z
 DTEND:20260831T170000Z
-DTSTAMP:20260829T114646Z
+DTSTAMP:20260831T114904Z
 UID:24002c5f-f140-5057-bd8d-0a32eb5d1f00
 DESCRIPTION:Now more than ever\, we need help defending our right to safer
   streets! We’re hosting a virtual volunteer orientation session on Monda
@@ -37,37 +37,73 @@ LOCATION:
 URL:https://www.cycleto.ca/canvassing_orientation_20260830
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bike Repair 101
+DTSTART:20260920T190000Z
+DTEND:20260920T210000Z
+DTSTAMP:20260831T114905Z
+UID:39da0fb7-224d-53e1-9037-3075be00ae5a
+DESCRIPTION:Join our Basic Bike Maintenance Workshop at the Cycle Toronto 
+ Rec Hub to learn hands-on skills including bike fit\, safety checks\, and 
+ drive train care. This session provides access to all recommended tools an
+ d staff guidance to help you keep your bike safe and road-ready. You'll le
+ ave knowing how to perform routine maintenance yourself and clearly unders
+ tand the basics of fixing your bike.\n\nDoors: 4 PM\n\nSession: 4:00-6:00 
+ PM\nURL: https://www.cycleto.ca/bike_repair_101_20260920
+LOCATION:Evergreen Brickworks\n550 Bayview ave\n10\nToronto ON M4W 3X8\nCA
+URL:https://www.cycleto.ca/bike_repair_101_20260920
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:On Bikes at the Cinema
+DTSTART:20260926T000000Z
+DTEND:20260926T020000Z
+DTSTAMP:20260831T114904Z
+UID:81bc30fd-1267-59c5-a67b-074c94352fba
+DESCRIPTION:Join Cycle Toronto for an evening of bikes\, community\, and m
+ ovies at the Evergreen Brick Works.\n\nWe're screening [TBD] a Popcorn Cla
+ ssic (or at least that's what we're calling it). Bring your bike\, bring a
+  blanket\, and settle in for a night of great company and questionable fil
+ m takes.\nURL: https://www.cycleto.ca/on_bikes_at_the_cinema
+LOCATION:Evergreen Brickworks\n550 Bayview Ave\nBuilding 10\nToronto ON M4
+ W 3X8\nCA
+URL:https://www.cycleto.ca/on_bikes_at_the_cinema
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Parts Bin Bazaar
 DTSTART:20260912T170000Z
 DTEND:20260912T200000Z
-DTSTAMP:20260829T114647Z
+DTSTAMP:20260831T114903Z
 UID:89bcdcb1-2535-55e3-a5ba-9fe1f8e44db1
-DESCRIPTION:Think of it as autumn cleaning. We've all got that extra stem\
- , wheelset\, or handlebar laying around our parts bins. Bring a blanket\, 
- a box of your extra parts and tools and meet some new friends! No charge f
- or entry\, space is limited. Snacks and refreshments will be provided\n\nD
- oors: 1 PM\nSession: 1:00-4:00 PM\nURL: https://www.cycleto.ca/the_parts_b
- in_bazaar
+DESCRIPTION:Think of it as autumn cleaning. We've all got that extra stem
+ \, wheelset\, or handlebar laying around our parts bins. Bring a blanket\,
+  a box of your extra parts and tools and meet some new friends! No charge 
+ for entry\, space is limited. Snacks and refreshments will be provided\n\n
+ Doors: 1 PM\nSession: 1:00-4:00 PM\nURL: https://www.cycleto.ca/the_parts_
+ bin_bazaar
 LOCATION:Evergreen Brickworks\n550 Bayview ave\nBuilding 10\nToronto ON M4
  W 3X8\nCA
 URL:https://www.cycleto.ca/the_parts_bin_bazaar
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bike Repair 101
-DTSTART:20260828T200000Z
-DTEND:20260828T220000Z
-DTSTAMP:20260829T114647Z
-UID:8abf1eba-d7ab-5e25-8a19-22bede5fca2a
-DESCRIPTION:This event has already taken place.\nURL: https://www.cycleto.
- ca/bike_repair_101_20260828
+SUMMARY:Advanced Bike Mechanics
+DTSTART:20260927T190000Z
+DTEND:20260927T210000Z
+DTSTAMP:20260831T114904Z
+UID:a0347f78-1895-58e6-af6a-fef383a1891e
+DESCRIPTION:Join our Advanced Maintenance Workshop at the Cycle Toronto Re
+ c Hub to learn hands-on skills including bike fit\, safety checks\, and dr
+ ive train care. This session provides access to all recommended tools and 
+ staff guidance to help you keep your bike safe and road-ready. You'll leav
+ e knowing how to perform advanced maintenance yourself and clearly underst
+ and fixing your bike.\n\nDoors: 3 PM\n\nSession: 3:00-5:00 PM\nURL: https:
+ //www.cycleto.ca/bike_repair_101_20260927
 LOCATION:Evergreen Brickworks\n550 Bayview ave\n10\nToronto ON M4W 3X8\nCA
-URL:https://www.cycleto.ca/bike_repair_101_20260828
+URL:https://www.cycleto.ca/bike_repair_101_20260927
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coffee Outside Group Ride: East Don Trail
 DTSTART:20260920T120000Z
 DTEND:20260920T140000Z
-DTSTAMP:20260829T114645Z
+DTSTAMP:20260831T114903Z
 UID:b1a4d846-1168-59ce-b541-410af1dff571
 DESCRIPTION:Join us for Coffee Outside\, a leisurely group ride along the 
  East Don River trail system. We'll roll at a chill pace\, take in the gree
@@ -83,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:The Big Toronto Bike Ride presented by McLeish Orlando
 DTSTART:20260919T170000Z
 DTEND:20260920T000000Z
-DTSTAMP:20260829T114645Z
+DTSTAMP:20260831T114903Z
 UID:b77bf480-9e2f-5fb3-a834-9c8a6dd8ea4c
 DESCRIPTION:Our biggest fundraising event of the year is here! Presented b
  y (https://www.mcleishorlando.com/) McLeish Orlando.\n\nBTBR 2026||V3__PHN
@@ -105,29 +141,10 @@ LOCATION:Evergreen Brick Works
 URL:https://www.cycleto.ca/2026btbr
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rec Hub DIY
-DTSTART:20260829T140000Z
-DTEND:20260829T210000Z
-DTSTAMP:20260829T114646Z
-UID:c8d986ab-fca2-5136-ad4a-d39a4271b0d0
-DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
- at Evergreen Brick Works is a welcoming community space that takes the int
- imidation out of bike maintenance and repair.\n\nIF YOU'RE A TRAINED CYCLE
-  TORONTO REC HUB VOLUNTEER\, SIGN UP FOR SUPPORT SHIFTS.\n\nOur friendly s
- taff and volunteers will help guide you through the basics to keep you rol
- ling. Even expert home mechanics are also welcome to use our facilities.\n
- \nDIY service is first come\, first serve.\n\nFind out more: (https://www.
- cycleto.ca/rec_hub) cycleto.ca/rec_hub\nURL: https://www.cycleto.ca/rec_hu
- b_diy_20260829
-LOCATION:Rec Hub at Evergreen Brick Works\n550 Bayview Avenue\nToronto ON 
- M4W 3X8\nCA
-URL:https://www.cycleto.ca/rec_hub_diy_20260829
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bike Repair 101
 DTSTART:20260909T200000Z
 DTEND:20260909T220000Z
-DTSTAMP:20260829T114646Z
+DTSTAMP:20260831T114904Z
 UID:d174eaa4-63d9-5760-b5eb-3b6bd93a1c46
 DESCRIPTION:Join our Basic Bike Maintenance Workshop at the Cycle Toronto 
  Rec Hub to learn hands-on skills including bike fit\, safety checks\, and 
@@ -143,44 +160,12 @@ BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
 DTSTART:20260830T140000Z
 DTEND:20260830T210000Z
-DTSTAMP:20260829T114647Z
+DTSTAMP:20260831T114902Z
 UID:e6cdb0ca-437a-597f-b62a-55f5e780f7e2
-DESCRIPTION:(https://www.cycleto.ca/rec_hub)\n\nThe Cycle Toronto Rec Hub 
- at Evergreen Brick Works is a welcoming community space that takes the int
- imidation out of bike maintenance and repair.\n\nIF YOU'RE A TRAINED CYCLE
-  TORONTO REC HUB VOLUNTEER\, SIGN UP FOR SUPPORT SHIFTS.\n\nOur friendly s
- taff and volunteers will help guide you through the basics to keep you rol
- ling. Even expert home mechanics are also welcome to use our facilities.\n
- \nDIY service is first come\, first serve.\n\nFind out more: (https://www.
- cycleto.ca/rec_hub) cycleto.ca/rec_hub\nURL: https://www.cycleto.ca/rec_hu
- b_diy_20260830
+DESCRIPTION:This event has already taken place.\nURL: https://www.cycleto.
+ ca/rec_hub_diy_20260830
 LOCATION:Rec Hub at Evergreen Brick Works\n550 Bayview Avenue\nToronto ON 
  M4W 3X8\nCA
 URL:https://www.cycleto.ca/rec_hub_diy_20260830
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kidical Mass TO
-DTSTART:20260829T124500Z
-DTEND:20260829T141500Z
-DTSTAMP:20260829T114648Z
-UID:ff37ba61-66e4-5d3b-90ca-87f21890fdf2
-DESCRIPTION:Cycle Toronto is proud to be powering the return of KidicalMas
- sTO on the last Saturday of every month until October.\n\nKidical Mass is 
- an international movement for child- and cycling-friendly cities. Kidical 
- Mass rides are an all-ages\, all-abilities celebration of cycling that hig
- hlights the need for healthier cities. Kids and their grown-ups ride their
-  bikes together.\n\nWhen: Meet at 8:45 AM\, depart at 9 AM\nWhere: Biidaas
- ige Park - Old Fire Hall 30 (39 Commissioners Street)\nWhat: ~6 km family-
- friendly ride along multi-use paths\, quiet streets\, and dedicated cyclin
- g infrastructure\, supported by Cycle Toronto ride guides\n\nOur August Ki
- dical Mass TO Ride will start at the Old Fire Hall in Biidaasige Park. We'
- ll make our way up to Corktown Common and hop onto the newly improved Lowe
- r Don Trail. We'll end off at the Cycle Toronto Rec Hub at Evergreen Brick
-  Works - just in time for snacks\, refreshments and the Farmer's Market!\n
- \nWe hope to see you there.\nURL: https://www.cycleto.ca/kidical_mass_2026
- 0829
-LOCATION:Old Fire Hall 30 - Biidaasige Park\n39 Commissioners St\nToronto 
- ON M5A 1A6\nCA
-URL:https://www.cycleto.ca/kidical_mass_20260829
 END:VEVENT
 END:VCALENDAR
