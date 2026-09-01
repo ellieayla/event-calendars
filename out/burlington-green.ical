@@ -60,15 +60,25 @@ BEGIN:VEVENT
 SUMMARY:Municipal Election All Candidates Event/ Mayoral Debate
 DTSTART;TZID=America/Toronto:20261008T180000
 DTEND;TZID=America/Toronto:20261008T210000
-DTSTAMP:20260831T114905Z
+DTSTAMP:20260901T102518Z
 UID:0263ff7d-0b17-563e-b9c7-143b8f883623
 DESCRIPTION:Get ready to experience local democracy in action!\n\nBurlingt
  onGreen is teaming up with our friends at (https://safestreetshalton.ca/) 
  Safe Streets Halton to host an engaging and informative All-Candidates Mee
- t & Greet & Mayoral Candidates Debate on October 8th.\n\nSave the date\, a
- nd stay tuned for details.\n\nInquiries: election@burlingtongreen.org\nURL
- : https://www.burlingtongreen.org/events/all-candidates-event-mayoral-deba
- te/
+ t & Greet & Mayoral Candidates Debate on October 8th. The dual-component e
+ vent will also be recorded for post event viewing on BurlingtonGreen’s Y
+ outube Channel.\n\n6:00 pm-6:55 pm: All-Candidates Meet and Greet – visi
+ t ward and Mayoral candidate information tables to meet the many 2026 Burl
+ ington election candidates\n\n7:00 pm-8:30 pm: Mayoral Candidates Debate (
+ Moderator: Amy Schnurr\, Executive Director\, BurlingtonGreen) – questio
+ ns for the candidates will come from audience members (who have registered
+  to attend)\, and will cover a variety of topics.\n\n8:30 pm – 9:00 pm: 
+ Closing comments & another opportunity to meet election candidates\n\n*Ple
+ ase note that venue space is limited and advance registration is REQUIRED 
+ (below).\n\nInquiries: election@burlingtongreen.org\n\n			 				 			 		 Mor
+ e Election information and resources (https://www.burlingtongreen.org/news
+ /municipal-election-2026/) here.\nURL: https://www.burlingtongreen.org/eve
+ nts/all-candidates-event-mayoral-debate/
 URL:https://www.burlingtongreen.org/events/all-candidates-event-mayoral-de
  bate/
 END:VEVENT
@@ -76,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:Give Thanks by Caring for Nature
 DTSTART;TZID=America/Toronto:20261010T100000
 DTEND;TZID=America/Toronto:20261010T120000
-DTSTAMP:20260831T114902Z
+DTSTAMP:20260901T102517Z
 UID:204a4c1f-ed25-5334-8de6-7c6b9a1cf930
 DESCRIPTION:Celebrate Thanksgiving by spending time outdoors and giving ba
  ck to the environment. BurlingtonGreen invites you to a Thanksgiving Beach
@@ -100,16 +110,15 @@ DESCRIPTION:Celebrate Thanksgiving by spending time outdoors and giving ba
  . Activities take place outdoors\, rain or shine. Please share any accessi
  bility needs with BurlingtonGreen in advance so we can support your partic
  ipation.\n\nGive thanks. Take action. Protect our shoreline. We look forwa
- rd to seeing you at the beach!\n\nRegistration for this event is coming so
- on!\n\n(None) DONATE\nURL: https://www.burlingtongreen.org/events/thanksgi
- ving-clean-up-2026/
+ rd to seeing you at the beach!\n\n(None) DONATE\nURL: https://www.burlingt
+ ongreen.org/events/thanksgiving-clean-up-2026/
 URL:https://www.burlingtongreen.org/events/thanksgiving-clean-up-2026/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Annual Tree Photo Contest
 DTSTART;TZID=America/Toronto:20260921T000000
 DTEND;TZID=America/Toronto:20260922T000000
-DTSTAMP:20260831T114904Z
+DTSTAMP:20260901T102517Z
 UID:3dd1b1a6-5c19-5a9a-be1d-26fc88a1ad00
 DESCRIPTION:BG’s annual Tree Photo Contest returns!\n\nGet ready to snap
   a photo of one of your favorite trees in Burlington\, send it to us\, and
@@ -125,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:Back to School Beach Clean Up-August 29
 DTSTART;TZID=America/Toronto:20260829T093000
 DTEND;TZID=America/Toronto:20260829T113000
-DTSTAMP:20260831T114905Z
+DTSTAMP:20260901T102518Z
 UID:474dd88d-fd8d-504f-9cb1-6b2bbaf3c130
 DESCRIPTION:SORRY\, THIS EVENT IS NOW FULL\n\nStart the new school year by
   making a positive impact on our local environment! BurlingtonGreen invite
@@ -162,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:Back to School Beach Clean Up -August 15
 DTSTART;TZID=America/Toronto:20260815T093000
 DTEND;TZID=America/Toronto:20260815T113000
-DTSTAMP:20260831T114906Z
+DTSTAMP:20260901T102518Z
 UID:4920ac0b-9bda-5f04-956a-49734fcba764
 DESCRIPTION:Start the new school year by making a positive impact on our l
  ocal environment! BurlingtonGreen invites you to our Back to School Beach 
@@ -198,7 +207,7 @@ BEGIN:VEVENT
 SUMMARY:Ask An Arborist Webinar
 DTSTART;TZID=America/Toronto:20260923T190000
 DTEND;TZID=America/Toronto:20260923T210000
-DTSTAMP:20260831T114903Z
+DTSTAMP:20260901T102518Z
 UID:540e275a-c9f6-5265-b947-5ff3f973fd61
 DESCRIPTION:WEDNESDAY\, SEPTEMBER 23rd @ 7 PM ONLINE WEBINAR!\n\nThe alway
  s popular Kyle McLoughlin\, Master Arborist and Supervisor of Forest Plann
@@ -225,7 +234,7 @@ BEGIN:VEVENT
 SUMMARY:Green Up Community Tree Planting Event
 DTSTART;TZID=America/Toronto:20260926T093000
 DTEND;TZID=America/Toronto:20260926T113000
-DTSTAMP:20260831T114904Z
+DTSTAMP:20260901T102517Z
 UID:6eb4f6d1-ace3-5a16-b7ee-a43cde3c391c
 DESCRIPTION:Let’s Grow Burlington’s Tree Canopy Together!\n\nBurlingto
  nGreen and City of Burlington Forestry staff are organizing a community tr
@@ -253,7 +262,7 @@ BEGIN:VEVENT
 SUMMARY:Join us at the beach this summer!
 DTSTART;TZID=America/Toronto:20260701T000000
 DTEND;TZID=America/Toronto:20260907T000000
-DTSTAMP:20260831T114904Z
+DTSTAMP:20260901T102517Z
 UID:79abb066-8970-55db-adf2-8f2db26ab1e5
 DESCRIPTION:Our team is leading eco-activities and sharing resources at ou
  r (https://maps.google.com/?cid=5383717800969327865&g_mp=CiVnb29nbGUubWFwc
@@ -278,7 +287,7 @@ BEGIN:VEVENT
 SUMMARY:Volunteer Celebration & AGM
 DTSTART;TZID=America/Toronto:20260611T000000
 DTEND;TZID=America/Toronto:20260612T000000
-DTSTAMP:20260831T114905Z
+DTSTAMP:20260901T102517Z
 UID:7f4f47a9-5344-571c-9f96-ac299ab74487
 DESCRIPTION:All community members are invited to our brief Annual General 
  Meeting\, followed by an informative opportunity to discover and celebrate
@@ -304,7 +313,7 @@ BEGIN:VEVENT
 SUMMARY:Native Plant Sale!
 DTSTART;TZID=America/Toronto:20260305T000000
 DTEND;TZID=America/Toronto:20260525T000000
-DTSTAMP:20260831T114906Z
+DTSTAMP:20260901T102516Z
 UID:e28ae05f-54b4-517a-a983-4486de242ea9
 DESCRIPTION:Our 2026 Native Plant Sale is NOW CLOSED. ( while supplies las
  t)\n\nORDER PICK UP\n\nAll purchases are for pick up only ( no shipping av

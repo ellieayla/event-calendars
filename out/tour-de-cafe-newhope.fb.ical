@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de Cafe to Vintage Coffee Roasters
 DTSTART;TZID=America/Toronto:20260718T080000
 DTEND;TZID=America/Toronto:20260718T103000
-DTSTAMP:20260831T114903Z
+DTSTAMP:20260901T102516Z
 UID:5ca62848-3dec-57e4-8d71-e15f6c3474ce
 DESCRIPTION:This Saturday morning the Tour de Cafe ride will be visiting V
  intage Coffee Roasters. Meet at 8am behind the shop at New Hope Bikes. \nC
@@ -74,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:The Cannon -Aug 29
 DTSTART;TZID=America/Toronto:20260829T080000
 DTEND;TZID=America/Toronto:20260829T100000
-DTSTAMP:20260831T114903Z
+DTSTAMP:20260901T102516Z
 UID:84b4137b-8e26-5b50-935b-8261facee3c1
 DESCRIPTION:Join us for a ride and then a coffee at The Cannon coffeehouse
   ☕️ \nCreated by: Krista Kleinwort\nEvent is in the past.\nURL: https:
@@ -87,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de Cafe - Ride to Dundurn Market
 DTSTART;TZID=America/Toronto:20260815T080000
 DTEND;TZID=America/Toronto:20260815T100000
-DTSTAMP:20260831T114903Z
+DTSTAMP:20260901T102516Z
 UID:9456fe74-8362-5a4e-bd25-5c39d86b9701
 DESCRIPTION:Our Tour de Cafe ride this week takes us to Dundurn Market. Me
  et behind the shop  at 8am - hope to see you there! \nCreated by: Alex Len

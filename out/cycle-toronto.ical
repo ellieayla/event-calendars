@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Autumn Canvassing Orientation
 DTSTART:20260902T160000Z
 DTEND:20260902T170000Z
-DTSTAMP:20260831T114904Z
+DTSTAMP:20260901T102521Z
 UID:154ab84b-69cb-5411-a39b-c04b07ffa848
 DESCRIPTION:Now more than ever\, we need help defending our right to safer
   streets! We’re hosting a virtual volunteer orientation session on Wedne
@@ -21,26 +21,10 @@ LOCATION:Zoom
 URL:https://www.cycleto.ca/canvassing_orientation_20260830_20260902
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Autumn Canvassing Orientation
-DTSTART:20260831T160000Z
-DTEND:20260831T170000Z
-DTSTAMP:20260831T114904Z
-UID:24002c5f-f140-5057-bd8d-0a32eb5d1f00
-DESCRIPTION:Now more than ever\, we need help defending our right to safer
-  streets! We’re hosting a virtual volunteer orientation session on Monda
- y\, August 31st.\n\nWe will cover various topics including\, but not limit
- ed to\, update to our appeal\, our municipal election strategy\, and how t
- o sign up for shifts.\n\n(https://us06web.zoom.us/meeting/register/dbXL0dG
- nR5WZtk7HhpZzOg) Register for our workshop here\nURL: https://www.cycleto.
- ca/canvassing_orientation_20260830
-LOCATION:
-URL:https://www.cycleto.ca/canvassing_orientation_20260830
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bike Repair 101
 DTSTART:20260920T190000Z
 DTEND:20260920T210000Z
-DTSTAMP:20260831T114905Z
+DTSTAMP:20260901T102521Z
 UID:39da0fb7-224d-53e1-9037-3075be00ae5a
 DESCRIPTION:Join our Basic Bike Maintenance Workshop at the Cycle Toronto 
  Rec Hub to learn hands-on skills including bike fit\, safety checks\, and 
@@ -56,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:On Bikes at the Cinema
 DTSTART:20260926T000000Z
 DTEND:20260926T020000Z
-DTSTAMP:20260831T114904Z
+DTSTAMP:20260901T102521Z
 UID:81bc30fd-1267-59c5-a67b-074c94352fba
 DESCRIPTION:Join Cycle Toronto for an evening of bikes\, community\, and m
  ovies at the Evergreen Brick Works.\n\nWe're screening [TBD] a Popcorn Cla
@@ -71,7 +55,7 @@ BEGIN:VEVENT
 SUMMARY:The Parts Bin Bazaar
 DTSTART:20260912T170000Z
 DTEND:20260912T200000Z
-DTSTAMP:20260831T114903Z
+DTSTAMP:20260901T102520Z
 UID:89bcdcb1-2535-55e3-a5ba-9fe1f8e44db1
 DESCRIPTION:Think of it as autumn cleaning. We've all got that extra stem
  \, wheelset\, or handlebar laying around our parts bins. Bring a blanket\,
@@ -87,7 +71,7 @@ BEGIN:VEVENT
 SUMMARY:Advanced Bike Mechanics
 DTSTART:20260927T190000Z
 DTEND:20260927T210000Z
-DTSTAMP:20260831T114904Z
+DTSTAMP:20260901T102521Z
 UID:a0347f78-1895-58e6-af6a-fef383a1891e
 DESCRIPTION:Join our Advanced Maintenance Workshop at the Cycle Toronto Re
  c Hub to learn hands-on skills including bike fit\, safety checks\, and dr
@@ -103,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:Coffee Outside Group Ride: East Don Trail
 DTSTART:20260920T120000Z
 DTEND:20260920T140000Z
-DTSTAMP:20260831T114903Z
+DTSTAMP:20260901T102521Z
 UID:b1a4d846-1168-59ce-b541-410af1dff571
 DESCRIPTION:Join us for Coffee Outside\, a leisurely group ride along the 
  East Don River trail system. We'll roll at a chill pace\, take in the gree
@@ -119,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:The Big Toronto Bike Ride presented by McLeish Orlando
 DTSTART:20260919T170000Z
 DTEND:20260920T000000Z
-DTSTAMP:20260831T114903Z
+DTSTAMP:20260901T102520Z
 UID:b77bf480-9e2f-5fb3-a834-9c8a6dd8ea4c
 DESCRIPTION:Our biggest fundraising event of the year is here! Presented b
  y (https://www.mcleishorlando.com/) McLeish Orlando.\n\nBTBR 2026||V3__PHN
@@ -142,9 +126,25 @@ URL:https://www.cycleto.ca/2026btbr
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bike Repair 101
+DTSTART:20261007T190000Z
+DTEND:20261007T210000Z
+DTSTAMP:20260901T102522Z
+UID:b7df2a22-ce4a-527f-bc42-3cec315055ac
+DESCRIPTION:Join our Basic Bike Maintenance Workshop at the Cycle Toronto 
+ Rec Hub to learn hands-on skills including bike fit\, safety checks\, and 
+ drive train care. This session provides access to all recommended tools an
+ d staff guidance to help you keep your bike safe and road-ready. You'll le
+ ave knowing how to perform routine maintenance yourself and clearly unders
+ tand the basics of fixing your bike.\n\nDoors: 4 PM\n\nSession: 4:00-6:00 
+ PM\nURL: https://www.cycleto.ca/bike_repair_101_20261007
+LOCATION:Evergreen Brickworks\n550 Bayview ave\n10\nToronto ON M4W 3X8\nCA
+URL:https://www.cycleto.ca/bike_repair_101_20261007
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bike Repair 101
 DTSTART:20260909T200000Z
 DTEND:20260909T220000Z
-DTSTAMP:20260831T114904Z
+DTSTAMP:20260901T102520Z
 UID:d174eaa4-63d9-5760-b5eb-3b6bd93a1c46
 DESCRIPTION:Join our Basic Bike Maintenance Workshop at the Cycle Toronto 
  Rec Hub to learn hands-on skills including bike fit\, safety checks\, and 
@@ -155,17 +155,5 @@ DESCRIPTION:Join our Basic Bike Maintenance Workshop at the Cycle Toronto
  PM\nURL: https://www.cycleto.ca/bike_repair_101_20260909
 LOCATION:Evergreen Brickworks\n550 Bayview ave\n10\nToronto ON M4W 3X8\nCA
 URL:https://www.cycleto.ca/bike_repair_101_20260909
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rec Hub DIY
-DTSTART:20260830T140000Z
-DTEND:20260830T210000Z
-DTSTAMP:20260831T114902Z
-UID:e6cdb0ca-437a-597f-b62a-55f5e780f7e2
-DESCRIPTION:This event has already taken place.\nURL: https://www.cycleto.
- ca/rec_hub_diy_20260830
-LOCATION:Rec Hub at Evergreen Brick Works\n550 Bayview Avenue\nToronto ON 
- M4W 3X8\nCA
-URL:https://www.cycleto.ca/rec_hub_diy_20260830
 END:VEVENT
 END:VCALENDAR
