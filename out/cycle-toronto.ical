@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Bike Repair 101
 DTSTART:20260920T190000Z
 DTEND:20260920T210000Z
-DTSTAMP:20260903T100359Z
+DTSTAMP:20260905T091909Z
 UID:39da0fb7-224d-53e1-9037-3075be00ae5a
 DESCRIPTION:Join our Basic Bike Maintenance Workshop at the Cycle Toronto 
  Rec Hub to learn hands-on skills including bike fit\, safety checks\, and 
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:On Bikes at the Cinema
 DTSTART:20260926T000000Z
 DTEND:20260926T020000Z
-DTSTAMP:20260903T100400Z
+DTSTAMP:20260905T091908Z
 UID:81bc30fd-1267-59c5-a67b-074c94352fba
 DESCRIPTION:Join Cycle Toronto for an evening of bikes\, community\, and m
  ovies at the Evergreen Brick Works.\n\nWe're screening [TBD] a Popcorn Cla
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:The Parts Bin Bazaar
 DTSTART:20260912T170000Z
 DTEND:20260912T200000Z
-DTSTAMP:20260903T100357Z
+DTSTAMP:20260905T091909Z
 UID:89bcdcb1-2535-55e3-a5ba-9fe1f8e44db1
 DESCRIPTION:Think of it as autumn cleaning. We've all got that extra stem
  \, wheelset\, or handlebar laying around our parts bins. Bring a blanket\,
@@ -55,7 +55,7 @@ BEGIN:VEVENT
 SUMMARY:Advanced Bike Mechanics
 DTSTART:20260927T190000Z
 DTEND:20260927T210000Z
-DTSTAMP:20260903T100356Z
+DTSTAMP:20260905T091909Z
 UID:a0347f78-1895-58e6-af6a-fef383a1891e
 DESCRIPTION:Join our Advanced Maintenance Workshop at the Cycle Toronto Re
  c Hub to learn hands-on skills including bike fit\, safety checks\, and dr
@@ -71,7 +71,7 @@ BEGIN:VEVENT
 SUMMARY:Coffee Outside Group Ride: East Don Trail
 DTSTART:20260920T120000Z
 DTEND:20260920T140000Z
-DTSTAMP:20260903T100358Z
+DTSTAMP:20260905T091909Z
 UID:b1a4d846-1168-59ce-b541-410af1dff571
 DESCRIPTION:Join us for Coffee Outside\, a leisurely group ride along the 
  East Don River trail system. We'll roll at a chill pace\, take in the gree
@@ -87,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:The Big Toronto Bike Ride presented by McLeish Orlando
 DTSTART:20260919T170000Z
 DTEND:20260920T000000Z
-DTSTAMP:20260903T100357Z
+DTSTAMP:20260905T091907Z
 UID:b77bf480-9e2f-5fb3-a834-9c8a6dd8ea4c
 DESCRIPTION:Our biggest fundraising event of the year is here! Presented b
  y (https://www.mcleishorlando.com/) McLeish Orlando.\n\nBTBR 2026||V3__PHN
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:Bike Repair 101
 DTSTART:20261007T190000Z
 DTEND:20261007T210000Z
-DTSTAMP:20260903T100358Z
+DTSTAMP:20260905T091909Z
 UID:b7df2a22-ce4a-527f-bc42-3cec315055ac
 DESCRIPTION:Join our Basic Bike Maintenance Workshop at the Cycle Toronto 
  Rec Hub to learn hands-on skills including bike fit\, safety checks\, and 
@@ -128,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:Bike Repair 101
 DTSTART:20260909T200000Z
 DTEND:20260909T220000Z
-DTSTAMP:20260903T100358Z
+DTSTAMP:20260905T091909Z
 UID:d174eaa4-63d9-5760-b5eb-3b6bd93a1c46
 DESCRIPTION:Join our Basic Bike Maintenance Workshop at the Cycle Toronto 
  Rec Hub to learn hands-on skills including bike fit\, safety checks\, and 
