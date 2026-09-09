@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Open Streets on King
 DTSTART;TZID=America/Toronto:20260927T100000
 DTEND;TZID=America/Toronto:20260927T160000
-DTSTAMP:20260907T104153Z
+DTSTAMP:20260909T100459Z
 UID:39d47306-d5e6-5fb6-8fbd-3c32d5e07f72
 DESCRIPTION:We can't wait for the last Open Streets of 2026! We had a blas
  t at this same event this past June and are looking forward to running it 
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:Alley Cat Group Ride
 DTSTART;TZID=America/Toronto:20260917T180000
 DTEND;TZID=America/Toronto:20260917T200000
-DTSTAMP:20260907T104153Z
+DTSTAMP:20260909T100500Z
 UID:3ef9d626-425d-5a73-8f13-b79e48818e57
 DESCRIPTION:Our Annual Alley Ride is a classic! Come explore some of the i
  nfamous alleyways we have here in Hamilton on this group slow roll.\n\n
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:Books and Bikes
 DTSTART;TZID=America/Toronto:20260910T123000
 DTEND;TZID=America/Toronto:20260910T133000
-DTSTAMP:20260907T104153Z
+DTSTAMP:20260909T100459Z
 UID:44d6230c-0a63-5f53-a74f-ce4b5266f059
 DESCRIPTION:We're teaming up with the Office of Community Engagement to le
  ad a ride from McMaster to the Hamilton Public Library - Westdale Branch\,
@@ -121,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:Mural Ride
 DTSTART;TZID=America/Toronto:20260808T100000
 DTEND;TZID=America/Toronto:20260808T120000
-DTSTAMP:20260907T104154Z
+DTSTAMP:20260909T100459Z
 UID:90e2091d-efe1-5bcd-ad66-92db91dbb3f9
 DESCRIPTION:Our Annual Mural Ride is SO back and this time with a sweet su
  rprise from one of our sponsors\, Cogeco! ☀️🍦🚲\n\nJoin us on Sat
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:Eco-Ride Series with Environment Hamilton
 DTSTART;TZID=America/Toronto:20260820T183000
 DTEND;TZID=America/Toronto:20260820T203000
-DTSTAMP:20260907T104153Z
+DTSTAMP:20260909T100500Z
 UID:a38e4242-6899-57f1-8bb1-6afbdaffe7e3
 DESCRIPTION:When you ride a bike\, do you notice your environment more? Ar
  e you curious about the ecological story of Hamilton? We're launching a sp
@@ -179,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:Valley Park Seasonal Hub Launch
 DTSTART;TZID=America/Toronto:20260715T183000
 DTEND;TZID=America/Toronto:20260715T193000
-DTSTAMP:20260907T104153Z
+DTSTAMP:20260909T100500Z
 UID:ab36ac79-08aa-56e2-b2cd-005b08c5c01f
 DESCRIPTION:🚨PSA for tonight's event!🚨\nDue to smoke/air quality thi
  s afternoon\, our Valley Park Launch Event is moving inside the rec centre
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:MacMoves Waterfront Ride
 DTSTART;TZID=America/Toronto:20260923T120000
 DTEND;TZID=America/Toronto:20260923T133000
-DTSTAMP:20260907T104153Z
+DTSTAMP:20260909T100459Z
 UID:b7a05d63-7f46-5a40-b99d-8362eac18b75
 DESCRIPTION:Are you a McMaster student looking to explore Hamilton by bike
  ?! Come join us for a group ride departing from campus along the beautiful
