@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de Cafe to Vintage Coffee Roasters
 DTSTART;TZID=America/Toronto:20260718T080000
 DTEND;TZID=America/Toronto:20260718T103000
-DTSTAMP:20260909T100459Z
+DTSTAMP:20260911T095918Z
 UID:5ca62848-3dec-57e4-8d71-e15f6c3474ce
 DESCRIPTION:This Saturday morning the Tour de Cafe ride will be visiting V
  intage Coffee Roasters. Meet at 8am behind the shop at New Hope Bikes. \nC
@@ -71,10 +71,24 @@ LOCATION:New Hope Community Bikes\, 1249 Main Street East\, Hamilton Ontar
 URL:https://www.facebook.com/events/1705319373840351/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tour de Cafe - SYNONYM
+DTSTART;TZID=America/Toronto:20260912T080000
+DTEND;TZID=America/Toronto:20260912T100000
+DTSTAMP:20260911T095917Z
+UID:5ef17288-faca-5025-95aa-c67ac66bb46a
+DESCRIPTION:This Supercrawl weekend come ride with us to SYNONYM on James 
+ Street North! Meet behind New Hope Bikes at 8am for a 10-15 km social ride
+ . \nCreated by: Alex Lenarduzzi\nURL: https://www.facebook.com/events/2374
+ 940159915677/
+LOCATION:New Hope Community Bikes\, 1249 Main Street East\, Hamilton Ontar
+ io
+URL:https://www.facebook.com/events/2374940159915677/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Cannon -Aug 29
 DTSTART;TZID=America/Toronto:20260829T080000
 DTEND;TZID=America/Toronto:20260829T100000
-DTSTAMP:20260909T100459Z
+DTSTAMP:20260911T095917Z
 UID:84b4137b-8e26-5b50-935b-8261facee3c1
 DESCRIPTION:Join us for a ride and then a coffee at The Cannon coffeehouse
   ☕️ \nCreated by: Krista Kleinwort\nEvent is in the past.\nURL: https:
@@ -87,7 +101,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de Cafe - Ride to Dundurn Market
 DTSTART;TZID=America/Toronto:20260815T080000
 DTEND;TZID=America/Toronto:20260815T100000
-DTSTAMP:20260909T100459Z
+DTSTAMP:20260911T095917Z
 UID:9456fe74-8362-5a4e-bd25-5c39d86b9701
 DESCRIPTION:Our Tour de Cafe ride this week takes us to Dundurn Market. Me
  et behind the shop  at 8am - hope to see you there! \nCreated by: Alex Len

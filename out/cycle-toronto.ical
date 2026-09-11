@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Bike Repair 101
 DTSTART:20260920T190000Z
 DTEND:20260920T210000Z
-DTSTAMP:20260909T100505Z
+DTSTAMP:20260911T095919Z
 UID:39da0fb7-224d-53e1-9037-3075be00ae5a
 DESCRIPTION:Join our Basic Bike Maintenance Workshop at the Cycle Toronto 
  Rec Hub to learn hands-on skills including bike fit\, safety checks\, and 
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:On Bikes at the Cinema
 DTSTART:20260926T000000Z
 DTEND:20260926T020000Z
-DTSTAMP:20260909T100503Z
+DTSTAMP:20260911T095920Z
 UID:81bc30fd-1267-59c5-a67b-074c94352fba
 DESCRIPTION:Join Cycle Toronto for an evening of bikes\, community\, and m
  ovies at the Evergreen Brick Works.\n\nWe're screening [TBD] a Popcorn Cla
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:The Parts Bin Bazaar
 DTSTART:20260912T170000Z
 DTEND:20260912T200000Z
-DTSTAMP:20260909T100503Z
+DTSTAMP:20260911T095920Z
 UID:89bcdcb1-2535-55e3-a5ba-9fe1f8e44db1
 DESCRIPTION:Think of it as autumn cleaning. We've all got that extra stem
  \, wheelset\, or handlebar laying around our parts bins. Bring a blanket\,
@@ -52,10 +52,30 @@ LOCATION:Evergreen Brickworks\n550 Bayview ave\nBuilding 10\nToronto ON M4
 URL:https://www.cycleto.ca/the_parts_bin_bazaar
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kidical Mass TO
+DTSTART:20260926T124500Z
+DTEND:20260926T150000Z
+DTSTAMP:20260911T095918Z
+UID:9043e442-d64f-59df-a0a4-0089e4fdeafe
+DESCRIPTION:Kidical Mass TO returns! Back-to-school marks the perfect oppo
+ rtunity to get on our bikes. We hope that this iteration of Kidical Mass T
+ O will empower you to bike to school this season!\n\nKidical Mass is an in
+ ternational movement for child- and cycling-friendly cities. These rides a
+ re an all-ages\, all-abilities celebration of cycling that highlights the 
+ need for healthier\, safer streets.\n\nWhen: Meet at 8:45 AM\, depart at 9
+  AM\nWhere: Start and End at Lithuania Park (155 Oakmount Rd\, Toronto\, O
+ N M6P 2M3)\nWhat: ~4.5 km family-friendly ride along multi-use paths\, qui
+ et streets\, and dedicated cycling infrastructure\, supported by Cycle Tor
+ onto ride guides\nRoute: https://ridewithgps.com/routes/52801976\nURL: htt
+ ps://www.cycleto.ca/kidical_mass_20260926
+LOCATION:Lithuania Park\n155 Oakmount Rd\nToronto ON M6P 2M3\nCA
+URL:https://www.cycleto.ca/kidical_mass_20260926
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Advanced Bike Mechanics
 DTSTART:20260927T190000Z
 DTEND:20260927T210000Z
-DTSTAMP:20260909T100504Z
+DTSTAMP:20260911T095920Z
 UID:a0347f78-1895-58e6-af6a-fef383a1891e
 DESCRIPTION:Join our Advanced Maintenance Workshop at the Cycle Toronto Re
  c Hub to learn hands-on skills including bike fit\, safety checks\, and dr
@@ -71,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:Coffee Outside Group Ride: East Don Trail
 DTSTART:20260920T120000Z
 DTEND:20260920T140000Z
-DTSTAMP:20260909T100505Z
+DTSTAMP:20260911T095922Z
 UID:b1a4d846-1168-59ce-b541-410af1dff571
 DESCRIPTION:Join us for Coffee Outside\, a leisurely group ride along the 
  East Don River trail system. We'll roll at a chill pace\, take in the gree
@@ -87,7 +107,7 @@ BEGIN:VEVENT
 SUMMARY:The Big Toronto Bike Ride presented by McLeish Orlando
 DTSTART:20260919T170000Z
 DTEND:20260920T000000Z
-DTSTAMP:20260909T100505Z
+DTSTAMP:20260911T095919Z
 UID:b77bf480-9e2f-5fb3-a834-9c8a6dd8ea4c
 DESCRIPTION:Our biggest fundraising event of the year is here! Presented b
  y (https://www.mcleishorlando.com/) McLeish Orlando.\n\nBTBR 2026||V3__PHN
@@ -112,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:Bike Repair 101
 DTSTART:20261007T190000Z
 DTEND:20261007T210000Z
-DTSTAMP:20260909T100505Z
+DTSTAMP:20260911T095921Z
 UID:b7df2a22-ce4a-527f-bc42-3cec315055ac
 DESCRIPTION:Join our Basic Bike Maintenance Workshop at the Cycle Toronto 
  Rec Hub to learn hands-on skills including bike fit\, safety checks\, and 
@@ -125,42 +145,20 @@ LOCATION:Evergreen Brickworks\n550 Bayview ave\n10\nToronto ON M4W 3X8\nCA
 URL:https://www.cycleto.ca/bike_repair_101_20261007
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bike Repair 101 *CANCELLED*
-DTSTART:20260909T200000Z
-DTEND:20260909T220000Z
-DTSTAMP:20260909T100504Z
-UID:d174eaa4-63d9-5760-b5eb-3b6bd93a1c46
-DESCRIPTION:CANCELLED: unfortunately due to the flood and on-going clean u
- p efforts this event is cancelled. We are hoping to open up new sessions o
- f this workshop soon.\n\nJoin our Basic Bike Maintenance Workshop at the C
- ycle Toronto Rec Hub to learn hands-on skills including bike fit\, safety 
- checks\, and drive train care. This session provides access to all recomme
- nded tools and staff guidance to help you keep your bike safe and road-rea
- dy. You'll leave knowing how to perform routine maintenance yourself and c
- learly understand the basics of fixing your bike.\n\nDoors: 4 PM\n\nSessio
- n: 4:00-6:00 PM\nURL: https://www.cycleto.ca/bike_repair_101_20260909
-LOCATION:Evergreen Brickworks\n550 Bayview ave\n10\nToronto ON M4W 3X8\nCA
-URL:https://www.cycleto.ca/bike_repair_101_20260909
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cyclists Aren’t Secondary
 DTSTART:20260912T140000Z
 DTEND:20260912T170000Z
-DTSTAMP:20260909T100504Z
+DTSTAMP:20260911T095919Z
 UID:fe29e5b9-1675-5c2c-9391-b0653b3be37b
-DESCRIPTION:As the province continues to move forward with its plan to rem
- ove 19 km of protected bike lanes\, including sections in Etobicoke to be 
- done "immediately"\, cycling advocates are inviting Premier Ford and Minis
- ter Sarkaria on a bike ride along the side streets and so-called "secondar
- y roads" that would ostensibly replace the Bloor St W protected bike lanes
- .\n\nWith the Taste of the Kingsway already closing Bloor to vehicles this
-  weekend\, we invite the premier\, elected officials\, candidates\, and th
- e general public to join us on a winding bike ride ~8 km through the side 
- streets from Kipling Ave to Jane St.\n\nDate: Saturday\, September 12\nTim
- e: 10 am meet\; 10:20 am ride\; 11 am arrival\nStart: Tom Riley Park (Bloo
- r and Islington)\nEnd: Neil McLellan Park (Bloor and Runnymede)\nWhat: ~8 
- km bike ride avoiding the Bloor bike lanes and other arterial roads\nURL: 
- https://www.cycleto.ca/cyclists_arent_secondary
+DESCRIPTION:If the Bloor bike lanes are removed\, where will we go? Join u
+ s on a ride through Etobicoke's side streets and ravine trails to find out
+ . All are welcome\, including elected officials and candidates on every si
+ de. Maybe Premier Ford will join us to try these secondary routes for hims
+ elf.\n\nDate: Saturday\, September 12\nTime: 10 am meet\; 10:20 am ride\; 
+ 11 am arrival\nStart: Tom Riley Park (Bloor and Islington)\nEnd: Neil McLe
+ llan Park (Bloor and Runnymede)\nWhat: ~8 km bike ride avoiding the Bloor 
+ bike lanes and other arterial roads\nURL: https://www.cycleto.ca/cyclists_
+ arent_secondary
 LOCATION:Tom Riley Park\n3220 Bloor St W\nToronto ON M8X 1Z4\nCA
 URL:https://www.cycleto.ca/cyclists_arent_secondary
 END:VEVENT
