@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Bike Repair 101
 DTSTART:20260920T190000Z
 DTEND:20260920T210000Z
-DTSTAMP:20260915T102433Z
+DTSTAMP:20260917T102422Z
 UID:39da0fb7-224d-53e1-9037-3075be00ae5a
 DESCRIPTION:Join our Basic Bike Maintenance Workshop at the Cycle Toronto 
  Rec Hub to learn hands-on skills including bike fit\, safety checks\, and 
@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:On Bikes at the Cinema
 DTSTART:20260926T000000Z
 DTEND:20260926T020000Z
-DTSTAMP:20260915T102434Z
+DTSTAMP:20260917T102421Z
 UID:81bc30fd-1267-59c5-a67b-074c94352fba
 DESCRIPTION:Join Cycle Toronto for an evening of bikes\, community\, and m
  ovies at the Evergreen Brick Works.\n\nWe're screening [TBD] a Popcorn Cla
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:Kidical Mass TO
 DTSTART:20260926T124500Z
 DTEND:20260926T150000Z
-DTSTAMP:20260915T102433Z
+DTSTAMP:20260917T102421Z
 UID:9043e442-d64f-59df-a0a4-0089e4fdeafe
 DESCRIPTION:Kidical Mass TO returns! Back-to-school marks the perfect oppo
  rtunity to get on our bikes. We hope that this iteration of Kidical Mass T
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Advanced Bike Mechanics
 DTSTART:20260927T190000Z
 DTEND:20260927T210000Z
-DTSTAMP:20260915T102434Z
+DTSTAMP:20260917T102422Z
 UID:a0347f78-1895-58e6-af6a-fef383a1891e
 DESCRIPTION:Join our Advanced Maintenance Workshop at the Cycle Toronto Re
  c Hub to learn hands-on skills including bike fit\, safety checks\, and dr
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:Coffee Outside Group Ride: East Don Trail
 DTSTART:20260920T120000Z
 DTEND:20260920T140000Z
-DTSTAMP:20260915T102432Z
+DTSTAMP:20260917T102421Z
 UID:b1a4d846-1168-59ce-b541-410af1dff571
 DESCRIPTION:Join us for Coffee Outside\, a leisurely group ride along the 
  East Don River trail system. We'll roll at a chill pace\, take in the gree
@@ -91,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:The Big Toronto Bike Ride presented by McLeish Orlando
 DTSTART:20260919T170000Z
 DTEND:20260920T000000Z
-DTSTAMP:20260915T102432Z
+DTSTAMP:20260917T102420Z
 UID:b77bf480-9e2f-5fb3-a834-9c8a6dd8ea4c
 DESCRIPTION:Our biggest fundraising event of the year is here! Presented b
  y (https://www.mcleishorlando.com/) McLeish Orlando.\n\nBTBR 2026||V3__PHN
@@ -101,14 +101,16 @@ DESCRIPTION:Our biggest fundraising event of the year is here! Presented b
  2FuYWRhaGVscHMub3JnL2VuL2NoYXJpdGllcy9jeWNsZS10b3JvbnRvL3AycC9iaWd0b3JvbnR
  vYmlrZXJpZGUyMDI2LyI+PC9zY3JpcHQ+\n\nStill not sure? See our (https://www.
  cycleto.ca/the_big_toronto_bike_ride_2026_faq) Frequently Asked Questions.
- \n\n2026 Route (subject to change):\n\nAlex Amaro Cycling Kindness Award\n
- \n(https://www.cycleto.ca/alex_amaro_award) Nominations are open for the A
- lex Amaro Cycling Kindness Award. The award is designed to recognize an in
- dividual or not-for-profit group/organization who exemplifies a positive a
- pproach to making cycling friendlier\, more accessible\, inclusive\, envir
- onmentally healthier and sustainable for everyone. This year’s recipient
-  will be announced at the ride.\n\n(https://www.cycleto.ca/alex_amaro_awar
- d)\nURL: https://www.cycleto.ca/2026btbr
+ \n\n2026 Route Update (subject to change):\n\n28 km ride\n1 pm sign-in\; 2
+  pm depart\nEvergreen Brick Works - South Parking Lot (550 Bayview Ave)\n
+ \n14 km ride\n3:15 pm sign-in\; 4 pm depart\nWalter Saunders Memorial Park
+  (440 Hopewell Ave)\n\nAlex Amaro Cycling Kindness Award\n\nThe recipient 
+ of the 2026 (https://www.cycleto.ca/alex_amaro_award) Alex Amaro Cycling K
+ indness Award will be announced at the ride. The award is designed to reco
+ gnize an individual or not-for-profit group/organization who exemplifies a
+  positive approach to making cycling friendlier\, more accessible\, inclus
+ ive\, environmentally healthier and sustainable for everyone.\n\n(https://
+ www.cycleto.ca/alex_amaro_award)\nURL: https://www.cycleto.ca/2026btbr
 LOCATION:Evergreen Brick Works
 URL:https://www.cycleto.ca/2026btbr
 END:VEVENT
@@ -116,7 +118,7 @@ BEGIN:VEVENT
 SUMMARY:Bike Repair 101
 DTSTART:20261007T190000Z
 DTEND:20261007T210000Z
-DTSTAMP:20260915T102433Z
+DTSTAMP:20260917T102421Z
 UID:b7df2a22-ce4a-527f-bc42-3cec315055ac
 DESCRIPTION:Join our Basic Bike Maintenance Workshop at the Cycle Toronto 
  Rec Hub to learn hands-on skills including bike fit\, safety checks\, and 

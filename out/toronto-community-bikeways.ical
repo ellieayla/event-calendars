@@ -34,6 +34,18 @@ URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
  rj-hes9w-d6lmx-4ewd5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Stonegate CHC Good Food Market
+DTSTART:20260924T160000Z
+DTEND:20260924T183000Z
+DTSTAMP:20260916T192045Z
+UID:1463d4fc-6657-5027-abee-4d836caf4714
+DESCRIPTION:\nURL: https://www.communitybikewaysto.ca/events/stonegate-chc
+ -good-food-market
+LOCATION:10 Neighbourhood Lane\, Toronto\, Ontario\, M8Y 0A4\, Canada
+URL:https://www.communitybikewaysto.ca/events/stonegate-chc-good-food-mark
+ et
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ride the Loop
 DTSTART:20260419T130000Z
 DTEND:20260419T203000Z
