@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de Cafe - SYNONYM
 DTSTART;TZID=America/Toronto:20260912T080000
 DTEND;TZID=America/Toronto:20260912T100000
-DTSTAMP:20260921T110448Z
+DTSTAMP:20260923T101544Z
 UID:5ef17288-faca-5025-95aa-c67ac66bb46a
 DESCRIPTION:This Supercrawl weekend come ride with us to SYNONYM on James 
  Street North! Meet behind New Hope Bikes at 8am for a 10-15 km social ride
@@ -74,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:The Cannon -Aug 29
 DTSTART;TZID=America/Toronto:20260829T080000
 DTEND;TZID=America/Toronto:20260829T100000
-DTSTAMP:20260921T110448Z
+DTSTAMP:20260923T101544Z
 UID:84b4137b-8e26-5b50-935b-8261facee3c1
 DESCRIPTION:Join us for a ride and then a coffee at The Cannon coffeehouse
   ☕️ \nCreated by: Krista Kleinwort\nEvent is in the past.\nURL: https:
@@ -87,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:Tour de Cafe - Ride to Dundurn Market
 DTSTART;TZID=America/Toronto:20260815T080000
 DTEND;TZID=America/Toronto:20260815T100000
-DTSTAMP:20260921T110448Z
+DTSTAMP:20260923T101544Z
 UID:9456fe74-8362-5a4e-bd25-5c39d86b9701
 DESCRIPTION:Our Tour de Cafe ride this week takes us to Dundurn Market. Me
  et behind the shop  at 8am - hope to see you there! \nCreated by: Alex Len
