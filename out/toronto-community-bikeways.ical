@@ -5,35 +5,6 @@ METHOD:PUBLISH
 NAME:Toronto Community Bikeways
 X-WR-CALNAME:Toronto Community Bikeways
 BEGIN:VEVENT
-SUMMARY:Koffee On The Kingsway (Biweekly) 
-DTSTART:20250606T113000Z
-DTEND:20250606T131500Z
-DTSTAMP:20250607T225956Z
-UID:1310cdc6-6926-531d-a303-06d914d15d86
-DESCRIPTION:Join us at Café Rouge on December 20th!\n\nKoffee on the King
- sway is an informal get-together at a coffee shop or diner in The Kingsway
-  area of Bloor West. Email us for specific details about the date (every s
- econd Friday) and location of the event\, which usually runs between 7:30 
- and 9:15am. We rotate between local coffee shops\, including Hot Oven Bake
- ry\, Rouge Café\, Toast on Bloor\, Creme de la Creme\, Coffee Tree Roaste
- ry (Bloor W Village)\, and Café de Flore.\n\n(mailto:Community.Bikeways.T
- oronto@gmail.com) Community.Bikeways.Toronto@gmail.com\n\n#block-c5bbec503
- 35033804510 { --stroke-style: none\;--stroke-thickness: 6px\; } #block-c5b
- bec50335033804510 .sqs-html-content { --tweak-text-block-padding: 6% 6% 6%
-  6%\; --tweak-text-block-padding: initial\; } #block-c5bbec50335033804510 
- { mix-blend-mode: var(--tweak-text-block-blend )\; border-radius: var(--tw
- eak-text-block-radius)\; } #block-c5bbec50335033804510 { --tweak-text-bloc
- k-radius: 0px 0px 0px 0px\; } #block-c5bbec50335033804510 { } @media scree
- n and (max-width: 767px) { #block-c5bbec50335033804510 { } } @media screen
-  and (max-width: 767px) { #block-c5bbec50335033804510 .sqs-html-content { 
- } } @media screen and (max-width: 767px) { }\nURL: https://www.communitybi
- kewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5rj-hes9w-d6lmx-4ewd5
-LOCATION:Café Rouge\, 2898 Bloor Street West\, Toronto\, ON\, M8X 1B5\, C
- anada
-URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
- rj-hes9w-d6lmx-4ewd5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stonegate CHC Good Food Market
 DTSTART:20260924T160000Z
 DTEND:20260924T183000Z

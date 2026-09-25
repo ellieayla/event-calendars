@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:On Bikes at the Cinema
 DTSTART:20260926T000000Z
 DTEND:20260926T020000Z
-DTSTAMP:20260923T101546Z
+DTSTAMP:20260925T103157Z
 UID:81bc30fd-1267-59c5-a67b-074c94352fba
 DESCRIPTION:Join Cycle Toronto for an evening of bikes\, community\, and m
  ovies at the Evergreen Brick Works.\n\nWe're screening [TBD] a Popcorn Cla
@@ -23,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:Kidical Mass TO
 DTSTART:20260926T124500Z
 DTEND:20260926T150000Z
-DTSTAMP:20260923T101546Z
+DTSTAMP:20260925T103155Z
 UID:9043e442-d64f-59df-a0a4-0089e4fdeafe
 DESCRIPTION:Kidical Mass TO returns! Back-to-school marks the perfect oppo
  rtunity to get on our bikes. We hope that this iteration of Kidical Mass T
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:Advanced Bike Mechanics
 DTSTART:20260927T190000Z
 DTEND:20260927T210000Z
-DTSTAMP:20260923T101547Z
+DTSTAMP:20260925T103157Z
 UID:a0347f78-1895-58e6-af6a-fef383a1891e
 DESCRIPTION:Join our Advanced Maintenance Workshop at the Cycle Toronto Re
  c Hub to learn hands-on skills including bike fit\, safety checks\, and dr
@@ -59,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Bike Repair 101
 DTSTART:20261007T190000Z
 DTEND:20261007T210000Z
-DTSTAMP:20260923T101547Z
+DTSTAMP:20260925T103158Z
 UID:b7df2a22-ce4a-527f-bc42-3cec315055ac
 DESCRIPTION:Join our Basic Bike Maintenance Workshop at the Cycle Toronto 
  Rec Hub to learn hands-on skills including bike fit\, safety checks\, and 
