@@ -60,25 +60,25 @@ BEGIN:VEVENT
 SUMMARY:Municipal Election All Candidates Event/ Mayoral Debate
 DTSTART;TZID=America/Toronto:20261008T180000
 DTEND;TZID=America/Toronto:20261008T210000
-DTSTAMP:20260925T103156Z
+DTSTAMP:20260927T104311Z
 UID:0263ff7d-0b17-563e-b9c7-143b8f883623
-DESCRIPTION:Get ready to experience local democracy in action!\n\nBurlingt
- onGreen is teaming up with our friends at (https://safestreetshalton.ca/) 
- Safe Streets Halton to host an engaging and informative All-Candidates Mee
- t & Greet & Mayoral Candidates Debate on October 8th. The dual-component e
- vent will also be recorded for post event viewing on BurlingtonGreen’s Y
- outube Channel.\n\n6:00 pm-6:55 pm: All-Candidates Meet and Greet – visi
- t ward and Mayoral candidate information tables to meet the many 2026 Burl
- ington election candidates\n\n7:00 pm-8:30 pm: Mayoral Candidates Debate (
- Moderator: Amy Schnurr\, Executive Director\, BurlingtonGreen) – questio
- ns for the candidates will come from audience members (who have registered
-  to attend)\, and will cover a variety of topics.\n\n8:30 pm – 9:00 pm: 
- Closing comments & another opportunity to meet election candidates\n\n*Ple
- ase note that venue space is limited and advance registration is REQUIRED 
- (below).\n\nInquiries: election@burlingtongreen.org\n\n			 				 			 		 Mor
- e Election information and resources (https://www.burlingtongreen.org/news
- /municipal-election-2026/) here.\nURL: https://www.burlingtongreen.org/eve
- nts/all-candidates-event-mayoral-debate/
+DESCRIPTION:*WE ARE VERY SORRY\, BUT THIS EVENT IS NOW FULL*\n\nBurlington
+ Green is teaming up with our friends at (https://safestreetshalton.ca/) Sa
+ fe Streets Halton to host an engaging and informative All-Candidates Meet 
+ & Greet & Mayoral Candidates Debate on October 8th. The dual-component eve
+ nt will also be recorded for post event viewing on BurlingtonGreen’s You
+ tube Channel.\n\n6:00 pm-6:55 pm: All-Candidates Meet and Greet – visit 
+ ward and Mayoral candidate information tables to meet the many 2026 Burlin
+ gton election candidates\n\n7:00 pm-8:30 pm: Mayoral Candidates Debate (Mo
+ derator: Amy Schnurr\, Executive Director\, BurlingtonGreen) – questions
+  for the candidates will come from audience members (who have registered t
+ o attend)\, and will cover a variety of topics.\n\n8:30 pm – 9:00 pm: Cl
+ osing comments & another opportunity to meet election candidates\n\n*Pleas
+ e note that venue space is limited and advance registration is REQUIRED 
+ – NOW FULL\n\nInquiries: election@burlingtongreen.org\n\n			 				 			 		
+  More Election information and resources (https://www.burlingtongreen.org/
+ news/municipal-election-2026/) here.\nURL: https://www.burlingtongreen.org
+ /events/all-candidates-event-mayoral-debate/
 URL:https://www.burlingtongreen.org/events/all-candidates-event-mayoral-de
  bate/
 END:VEVENT
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:Give Thanks by Caring for Nature
 DTSTART;TZID=America/Toronto:20261010T100000
 DTEND;TZID=America/Toronto:20261010T120000
-DTSTAMP:20260925T103156Z
+DTSTAMP:20260927T104314Z
 UID:204a4c1f-ed25-5334-8de6-7c6b9a1cf930
 DESCRIPTION:Celebrate Thanksgiving by spending time outdoors and giving ba
  ck to the environment. BurlingtonGreen invites you to a Thanksgiving Beach
@@ -128,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:Annual Tree Photo Contest
 DTSTART;TZID=America/Toronto:20260921T000000
 DTEND;TZID=America/Toronto:20260922T000000
-DTSTAMP:20260925T103157Z
+DTSTAMP:20260927T104311Z
 UID:3dd1b1a6-5c19-5a9a-be1d-26fc88a1ad00
 DESCRIPTION:BG’S ANNUAL TREE PHOTO CONTEST IS BACK!\n\nBurlington commun
  ity members are invited to showcase their favorite Burlington tree by part
@@ -152,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:Clothing & Toy Swap
 DTSTART;TZID=America/Toronto:20261107T113000
 DTEND;TZID=America/Toronto:20261107T143000
-DTSTAMP:20260925T103156Z
+DTSTAMP:20260927T104311Z
 UID:3f63f267-4ccb-5daf-bb32-9e3e9c5b4a49
 DESCRIPTION:Join (https://burlingtongreen.us19.list-manage.com/track/click
  ?u=f8e7a55365f9e592c7bfd2253&id=c8cada7cd9&e=371d722fa1) Reconnect Burling
@@ -200,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:Back to School Beach Clean Up-August 29
 DTSTART;TZID=America/Toronto:20260829T093000
 DTEND;TZID=America/Toronto:20260829T113000
-DTSTAMP:20260925T103157Z
+DTSTAMP:20260927T104311Z
 UID:474dd88d-fd8d-504f-9cb1-6b2bbaf3c130
 DESCRIPTION:SORRY\, THIS EVENT IS NOW FULL\n\nStart the new school year by
   making a positive impact on our local environment! BurlingtonGreen invite
@@ -237,7 +237,7 @@ BEGIN:VEVENT
 SUMMARY:Back to School Beach Clean Up -August 15
 DTSTART;TZID=America/Toronto:20260815T093000
 DTEND;TZID=America/Toronto:20260815T113000
-DTSTAMP:20260925T103158Z
+DTSTAMP:20260927T104313Z
 UID:4920ac0b-9bda-5f04-956a-49734fcba764
 DESCRIPTION:Start the new school year by making a positive impact on our l
  ocal environment! BurlingtonGreen invites you to our Back to School Beach 
@@ -270,68 +270,61 @@ DESCRIPTION:Start the new school year by making a positive impact on our l
 URL:https://www.burlingtongreen.org/events/back-to-school-beach-clean-up/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ask An Arborist Webinar
-DTSTART;TZID=America/Toronto:20260923T190000
-DTEND;TZID=America/Toronto:20260923T210000
-DTSTAMP:20260925T103158Z
-UID:540e275a-c9f6-5265-b947-5ff3f973fd61
-DESCRIPTION:WEDNESDAY\, SEPTEMBER 23rd @ 7 PM ONLINE WEBINAR!\n\nThe alway
- s popular Kyle McLoughlin\, Master Arborist and Supervisor of Forest Plann
- ing and Health at the City of Burlington\, joins us as our local subject m
- atter expert.\n\nKyle will share another fascinating presentation with tim
- e to follow to address tree-related questions.\n\nWe invite you to send us
-  your tree-related questions when you register or email them to us before 
- September 23rd.\n\n*Please note: If you have specific questions about Burl
- ington’s tree-bylaw\, city tree planting/removing/trimming\, please visi
- t the (https://www.burlington.ca/en/services-for-you/Forestry-Operations.a
- sp) City of Burlington website.\n\nBONUS! All Burlington resident attendee
- s will be entered into a draw for a chance to win a FREE tree!\n\n(https:/
- /www.burlingtongreen.org/wp-content/uploads/2023/07/arborist_event_custom.
- jpg)\n\nLearn about more fall eco-opportunities (https://www.burlingtongre
- en.org/news/fall-events-opportunities/) here.\n\nREGISTER BELOW.\n\nClick 
- (https://www.burlingtongreen.org/news/fall-events-opportunities/) here to 
- learn about more of our fall events and opportunities!\n\nCheck out past A
- sk an Arborist webinars (https://www.youtube.com/playlist?list=PL7K4mljSU5
- jRphqs79ihS00END99O_XbN) here.\nURL: https://www.burlingtongreen.org/event
- s/ask-an-arborist-2026/
-URL:https://www.burlingtongreen.org/events/ask-an-arborist-2026/
+SUMMARY:Join us at the beach!
+DTSTART;TZID=America/Toronto:20260701T000000
+DTEND;TZID=America/Toronto:20261012T000000
+DTSTAMP:20260927T104312Z
+UID:79abb066-8970-55db-adf2-8f2db26ab1e5
+DESCRIPTION:Our team is leading eco-activities and sharing resources at ou
+ r (https://maps.google.com/?cid=5383717800969327865&g_mp=CiVnb29nbGUubWFwc
+ y5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAMYASAF&hl=en-CA&source=embed) Eco Hub
+  (1094 Lakeshore Rd) at BeachWay Park.\n\nPop by for a variety of eco-awar
+ eness\, advocacy\, and action opportunities\, such as nurdle hunts\, butto
+ n making\, microplastic beach clean ups\, seed ball making\, our popular E
+ co-Trivia game\, and more!\n\nYou can also visit our (https://www.burlingt
+ ongreen.org/bgs-pollinator-garden/) pollinator garden to learn about the i
+ mportance of pollinators like bees and butterflies\, and how they support 
+ healthy ecosystems.\n\nFollow us on (https://www.facebook.com/burlingtongr
+ een) Facebook\, (https://www.instagram.com/burlingtongreenenv/) Instagram
+ \, (https://www.linkedin.com/company/burlingtongreen-environmental-associa
+ tion/) LinkedIn or (https://bsky.app/profile/burlingtongreen.bsky.social) 
+ Bluesky for updates on our week and weekend programming\, 10 am – 4 pm (
+ weather permitting).\nURL: https://www.burlingtongreen.org/events/join-us-
+ at-the-beach-this-summer/
+URL:https://www.burlingtongreen.org/events/join-us-at-the-beach-this-summe
+ r/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Green Up Community Tree Planting Event
-DTSTART;TZID=America/Toronto:20260926T093000
-DTEND;TZID=America/Toronto:20260926T113000
-DTSTAMP:20260925T103158Z
-UID:6eb4f6d1-ace3-5a16-b7ee-a43cde3c391c
-DESCRIPTION:Let’s Grow Burlington’s Tree Canopy Together!\n\nSATURDAY
- \, SEPTEMBER 26th @ LONGMOOR PARK\nAdvance Registration Required\n\nBurlin
- gtonGreen and City of Burlington Forestry staff are organizing a community
-  tree planting to take place from 9:30 am to noon on Saturday\, September 
- 26\, 2026\, at Longmoor Park.\n\nTogether we will plant 500 native trees a
- nd shrubs PLUS some lucky participants will each win a beautiful tree to p
- lant at their Burlington homes!\n\nSpace is limited for this popular event
- .\n\nSign up below.\n\n(https://treecanada.ca/)\n\nThis project was made p
- ossible in large part thanks to a Tree Canada (https://treecanada.ca/grant
- s-awards/community-tree-grants/) Community Tree Grant.\n\n2026 COMMUNITY C
- LEAN UP GREEN UP SUPPORTERS\n\nLEAD SUPPORTERS\n\n(https://www.burlington.
- ca/en/index.asp)\n\n(https://otf.ca/)\n\nCOMMUNITY PARTNER\n\n(https://por
- tal.clubrunner.ca/144/)\n\nTREE SPONSOR\n\n(https://burlingtoncentre.ca/su
- stainability/)\n\nLEAF SPONSORS\n\n(https://rsales.ca/)\n\n(https://bunzlc
- anada.ca/)\n\n(https://www.optimistclubofburlington.com/)\n\n(https://www.
- optimistclubofburlington.com/) Junior Optimists of Burlington\n\nSEED SPON
- SOR\n\n(https://djb.com/) DJB Chartered Professional Accountants\n\nHelp B
- urlingtonGreen (a Registered Canadian Charity)\, continue to provide impac
- tful\, community-based environmental programs.\nDonations of all amounts a
- re greatly appreciated.\n\n(https://www.burlingtongreen.org/donate/) DONAT
- E TODAY!\n\n_\nURL: https://www.burlingtongreen.org/events/green-up-commun
- ity-tree-planting-event/
-URL:https://www.burlingtongreen.org/events/green-up-community-tree-plantin
- g-event/
+SUMMARY:Volunteer Celebration & AGM
+DTSTART;TZID=America/Toronto:20260611T000000
+DTEND;TZID=America/Toronto:20260612T000000
+DTSTAMP:20260927T104312Z
+UID:7f4f47a9-5344-571c-9f96-ac299ab74487
+DESCRIPTION:All community members are invited to our brief Annual General 
+ Meeting\, followed by an informative opportunity to discover and celebrate
+  the valued impact of volunteering with BurlingtonGreen\, including volunt
+ eer recognitions.\n\nJoin us for this special opportunity to mark our trem
+ endous shared community impact over the past year\, and celebrate the wond
+ erful community members who volunteer with BurlingtonGreen.\n\nThere will 
+ be opportunities to connect informally and learn about rewarding volunteer
+  opportunities for individuals\, families and groups with BurlingtonGreen.
+ \n\n6:30 pm – 7:00 pm: Annual General Meeting\n7:00 pm – 8:00 pm: Disc
+ over and Celebrate Volunteer Impact\nLocation: Centennial Hall\, Central L
+ ibrary\, 2331 New Street ( (https://www.google.com/maps?cid=70695379237929
+ 28824) map)\n\nComplimentary seed packets and refreshments will be availab
+ le.\n\nPlease RSVP by completing the form below.\n\nLet us know you’ll b
+ e there!\n\nUnpublished form\n\nWe invite you to check out our rewarding (
+ https://www.burlingtongreen.org/volunteer/) volunteer opportunities and jo
+ in us in recognizing (https://www.burlingtongreen.org/our-supporters/) our
+  valued supporters.\nURL: https://www.burlingtongreen.org/events/volunteer
+ -celebration-agm-2026/
+URL:https://www.burlingtongreen.org/events/volunteer-celebration-agm-2026/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BG Fun for Kids at RBG!
 DTSTART;TZID=America/Toronto:20261003T000000
 DTEND;TZID=America/Toronto:20261004T000000
-DTSTAMP:20260925T103157Z
+DTSTAMP:20260927T104312Z
 UID:b2574fbd-d0e6-52a9-bd65-ff4733f6e08f
 DESCRIPTION:Take a nature walk\, make a seedball and join other eco-fun wi
  th BG at Royal Botanical Gardens on October 3rd and 4th\, 9:30 am to 5:00 
@@ -358,28 +351,23 @@ DESCRIPTION:Take a nature walk\, make a seedball and join other eco-fun wi
 URL:https://www.burlingtongreen.org/events/bg-fun-for-kids-at-rbg/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tree Loving Care & Planting Workshop
-DTSTART;TZID=America/Toronto:20260924T090000
-DTEND;TZID=America/Toronto:20260924T110000
-DTSTAMP:20260925T103156Z
-UID:b9913a0f-faf5-579f-bcb3-02ed05e9926c
-DESCRIPTION:THURSDAY\, SEPTEMBER 24th @ MOHAWK PARK\nLimited Space\, Advan
- ce Registration Required\n\nOpen to local residents\, students\, groups\, 
- business employees\, while space remains\, this popular tree-ific event is
-  fun\, rewarding\, and educational too!\n\nHosted by BurlingtonGreen and C
- ity of Burlington Forestry Staff\, this year’s TLC (Tree Loving Care) wo
- rkshop will bring community members together to carry out some hands-on st
- ewardship activities at (https://maps.app.goo.gl/uehnB2CFTZ9y188j6) Mohawk
-  Park in Burlington. The limited capacity event will take place rain or sh
- ine on THURSDAY\, September 24th from 9 am to approximately noon.\n\nSpace
-  is limited for this opportunity. Advance registration is required – bel
- ow.\n\nTogether we will plant some native trees\, remove invasive plants a
- nd shrubs from the existing forest at the park\, and tackle some some weed
- ing and adding mulch. We will also create and scatter some native seed bal
- ls too!\n\nThis project is supported by the (https://otf.ca/) Ontario Tril
- lium Foundation.\n\n			 				 			 		\n\nREGISTER FOR THIS EVENT BY COMPLETI
- NG AND SUBMITTING THE FOLLOWING FORM:\nURL: https://www.burlingtongreen.or
- g/events/tree-loving-care-workshop/
-URL:https://www.burlingtongreen.org/events/tree-loving-care-workshop/
+SUMMARY:Native Plant Sale!
+DTSTART;TZID=America/Toronto:20260305T000000
+DTEND;TZID=America/Toronto:20260525T000000
+DTSTAMP:20260927T104312Z
+UID:e28ae05f-54b4-517a-a983-4486de242ea9
+DESCRIPTION:Our 2026 Native Plant Sale is NOW CLOSED. ( while supplies las
+ t)\n\nORDER PICK UP\n\nAll purchases are for pick up only ( no shipping av
+ ailable). Pickup is Sunday\, May 24\, 2025 between 10 am and 3:30 pm at th
+ e (https://maps.app.goo.gl/Uv9qrYZPVQnAFafC6) BurlingtonGreen Eco Hub by t
+ he beach ( 1094 Lakeshore Road\, Burlington\, Ontario. L7S 1A7)\n\nIf you 
+ cannot pick up your order on Sunday\,\, you can contact BurlingtonGreen at
+  bg@burlingtongreen.org or 905-975-5563 to arrange pick up of your order o
+ n Monday\, May 25\, 2026 at the BurlingtonGreen Eco Hub by the beach. Any 
+ plant material not claimed after Monday\, May 25\, 2026\, cannot be held a
+ nd will be donated.\n\n(https://www.burlingtongreen.org/shop/) Place Your 
+ Order Today!\nURL: https://www.burlingtongreen.org/events/native-plant-sal
+ e/
+URL:https://www.burlingtongreen.org/events/native-plant-sale/
 END:VEVENT
 END:VCALENDAR

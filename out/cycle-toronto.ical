@@ -5,45 +5,10 @@ METHOD:PUBLISH
 NAME:Cycle TO
 X-WR-CALNAME:Cycle TO
 BEGIN:VEVENT
-SUMMARY:On Bikes at the Cinema
-DTSTART:20260926T000000Z
-DTEND:20260926T020000Z
-DTSTAMP:20260925T103157Z
-UID:81bc30fd-1267-59c5-a67b-074c94352fba
-DESCRIPTION:Join Cycle Toronto for an evening of bikes\, community\, and m
- ovies at the Evergreen Brick Works.\n\nWe're screening [TBD] a Popcorn Cla
- ssic (or at least that's what we're calling it). Bring your bike\, bring a
-  blanket\, and settle in for a night of great company and questionable fil
- m takes.\nURL: https://www.cycleto.ca/on_bikes_at_the_cinema
-LOCATION:Evergreen Brickworks\n550 Bayview Ave\nBuilding 10\nToronto ON M4
- W 3X8\nCA
-URL:https://www.cycleto.ca/on_bikes_at_the_cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kidical Mass TO
-DTSTART:20260926T124500Z
-DTEND:20260926T150000Z
-DTSTAMP:20260925T103155Z
-UID:9043e442-d64f-59df-a0a4-0089e4fdeafe
-DESCRIPTION:Kidical Mass TO returns! Back-to-school marks the perfect oppo
- rtunity to get on our bikes. We hope that this iteration of Kidical Mass T
- O will empower you to bike to school this season!\n\nKidical Mass is an in
- ternational movement for child- and cycling-friendly cities. These rides a
- re an all-ages\, all-abilities celebration of cycling that highlights the 
- need for healthier\, safer streets.\n\nWhen: Meet at 8:45 AM\, depart at 9
-  AM\nWhere: Start and End at Lithuania Park (155 Oakmount Rd\, Toronto\, O
- N M6P 2M3)\nWhat: ~4.5 km family-friendly ride along multi-use paths\, qui
- et streets\, and dedicated cycling infrastructure\, supported by Cycle Tor
- onto ride guides\nRoute: https://ridewithgps.com/routes/52801976\nURL: htt
- ps://www.cycleto.ca/kidical_mass_20260926
-LOCATION:Lithuania Park\n155 Oakmount Rd\nToronto ON M6P 2M3\nCA
-URL:https://www.cycleto.ca/kidical_mass_20260926
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Advanced Bike Mechanics
 DTSTART:20260927T190000Z
 DTEND:20260927T210000Z
-DTSTAMP:20260925T103157Z
+DTSTAMP:20260927T104312Z
 UID:a0347f78-1895-58e6-af6a-fef383a1891e
 DESCRIPTION:Join our Advanced Maintenance Workshop at the Cycle Toronto Re
  c Hub to learn hands-on skills including bike fit\, safety checks\, and dr
@@ -59,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY:Bike Repair 101
 DTSTART:20261007T190000Z
 DTEND:20261007T210000Z
-DTSTAMP:20260925T103158Z
+DTSTAMP:20260927T104312Z
 UID:b7df2a22-ce4a-527f-bc42-3cec315055ac
 DESCRIPTION:Join our Basic Bike Maintenance Workshop at the Cycle Toronto 
  Rec Hub to learn hands-on skills including bike fit\, safety checks\, and 
