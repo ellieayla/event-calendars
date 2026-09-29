@@ -587,30 +587,6 @@ URL:https://www.communitybikewaysto.ca/events/klfvxl1v98me51qgoi5jv82v14pa
  l0
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chalk My Walk
-DTSTART:20250607T180000Z
-DTEND:20250607T210000Z
-DTSTAMP:20250607T230625Z
-UID:e5ba0d71-4fed-53f5-a5da-b27ed42fe0e2
-DESCRIPTION:Join us at our table at the Chalk My Walk event on June 7th fr
- om 2-5pm!\n\nMore details here:\n\nhttps://www.facebook.com/mountdennisbia
- /photos/this-years-chalk-my-walk-is-just-around-the-corner-were-really-exc
- ited-that-two-/1206727674583132/?_rdr\n\n#block-018c47ad0e208ad47b83 { --s
- troke-style: none\;--stroke-thickness: 6px\; } #block-018c47ad0e208ad47b83
-  .sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%\; --tweak-tex
- t-block-padding: initial\; } #block-018c47ad0e208ad47b83 { mix-blend-mode:
-  var(--tweak-text-block-blend )\; border-radius: var(--tweak-text-block-ra
- dius)\; } #block-018c47ad0e208ad47b83 { --tweak-text-block-radius: 0px 0px
-  0px 0px\; } #block-018c47ad0e208ad47b83 { } @media screen and (max-width:
-  767px) { #block-018c47ad0e208ad47b83 { } } @media screen and (max-width: 
- 767px) { #block-018c47ad0e208ad47b83 .sqs-html-content { } } @media screen
-  and (max-width: 767px) { }\nURL: https://www.communitybikewaysto.ca/event
- s/chalk-my-walk
-LOCATION:Mount Dennis\, Eglinton Ave West and Weston Road\, Toronto\, ON\,
-  M6M 4P4\, Canada
-URL:https://www.communitybikewaysto.ca/events/chalk-my-walk
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Parents against speeding TO
 DTSTART:20251004T140000Z
 DTEND:20251004T170000Z

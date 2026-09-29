@@ -5,26 +5,10 @@ METHOD:PUBLISH
 NAME:Cycle TO
 X-WR-CALNAME:Cycle TO
 BEGIN:VEVENT
-SUMMARY:Advanced Bike Mechanics
-DTSTART:20260927T190000Z
-DTEND:20260927T210000Z
-DTSTAMP:20260927T104312Z
-UID:a0347f78-1895-58e6-af6a-fef383a1891e
-DESCRIPTION:Join our Advanced Maintenance Workshop at the Cycle Toronto Re
- c Hub to learn hands-on skills including bike fit\, safety checks\, and dr
- ive train care. This session provides access to all recommended tools and 
- staff guidance to help you keep your bike safe and road-ready. You'll leav
- e knowing how to perform advanced maintenance yourself and clearly underst
- and fixing your bike.\n\nDoors: 3 PM\n\nSession: 3:00-5:00 PM\nURL: https:
- //www.cycleto.ca/bike_repair_101_20260927
-LOCATION:Evergreen Brickworks\n550 Bayview ave\n10\nToronto ON M4W 3X8\nCA
-URL:https://www.cycleto.ca/bike_repair_101_20260927
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bike Repair 101
 DTSTART:20261007T190000Z
 DTEND:20261007T210000Z
-DTSTAMP:20260927T104312Z
+DTSTAMP:20260929T113301Z
 UID:b7df2a22-ce4a-527f-bc42-3cec315055ac
 DESCRIPTION:Join our Basic Bike Maintenance Workshop at the Cycle Toronto 
  Rec Hub to learn hands-on skills including bike fit\, safety checks\, and 
