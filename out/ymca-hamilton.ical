@@ -57,24 +57,10 @@ TZOFFSETTO:-0500
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Yoga - Downtown - Thursday 7:45 PM
-DTSTART;TZID=America/Toronto:20261001T194500
-DTEND;TZID=America/Toronto:20261001T204500
-DTSTAMP:20261001T114718Z
-UID:022c4461-823d-57e3-a6c5-3c8e5cea5c62
-DESCRIPTION:Yoga\n\nURL: https://ymcahbb.my.site.com/#/app/program/list/DI
- V-001/?instanceCode=INST-395640\nFacility: Hamilton Downtown Family YMCA\n
- Category: Yoga
-LOCATION:Hamilton Downtown Family YMCA\, 79 James Street South\, Hamilton
- \, ON\, CA\, L8P 2Z1
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-395640
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ViPR Pro - Downtown - Wednesday - 8:15 AM
 DTSTART;TZID=America/Toronto:20261007T081500
 DTEND;TZID=America/Toronto:20261007T090000
-DTSTAMP:20261001T114720Z
+DTSTAMP:20261003T103514Z
 UID:0921ea17-7ee8-50b6-a462-8416db700552
 DESCRIPTION:ViPR Pro\n\nURL: https://ymcahbb.my.site.com/#/app/program/lis
  t/DIV-001/?instanceCode=INST-405564\nFacility: Hamilton Downtown Family YM
@@ -88,7 +74,7 @@ BEGIN:VEVENT
 SUMMARY:Strength & Conditioning - Saturday 11:45 AM
 DTSTART;TZID=America/Toronto:20261003T114500
 DTEND;TZID=America/Toronto:20261003T124500
-DTSTAMP:20261001T114719Z
+DTSTAMP:20261003T103512Z
 UID:0c3a13c2-c5c4-578d-bbff-8ac85d1e7c19
 DESCRIPTION:Strength & Conditioning\n\nURL: https://ymcahbb.my.site.com/#/
  app/program/list/DIV-001/?instanceCode=INST-395657\nFacility: Hamilton Dow
@@ -99,24 +85,24 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-395657
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ViPR Pro - Downtown - Friday 6:30 PM
-DTSTART;TZID=America/Toronto:20261002T183000
-DTEND;TZID=America/Toronto:20261002T191500
-DTSTAMP:20261001T114718Z
-UID:278d9a94-90bf-539f-8421-23e05521dd2d
-DESCRIPTION:ViPR Pro\n\nURL: https://ymcahbb.my.site.com/#/app/program/lis
- t/DIV-001/?instanceCode=INST-395649\nFacility: Hamilton Downtown Family YM
- CA\nCategory: ViPR Pro
+SUMMARY:Yoga - Downtown - Thursday 7:45 PM
+DTSTART;TZID=America/Toronto:20261008T194500
+DTEND;TZID=America/Toronto:20261008T204500
+DTSTAMP:20261003T103514Z
+UID:1af1a37e-faf4-5d26-9db4-9095af7d85a6
+DESCRIPTION:Yoga\n\nURL: https://ymcahbb.my.site.com/#/app/program/list/DI
+ V-001/?instanceCode=INST-395708\nFacility: Hamilton Downtown Family YMCA\n
+ Category: Yoga
 LOCATION:Hamilton Downtown Family YMCA\, 79 James Street South\, Hamilton
  \, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-395649
+ NST-395708
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga - Downtown - Wednesday - 6:00 PM
 DTSTART;TZID=America/Toronto:20261007T180000
 DTEND;TZID=America/Toronto:20261007T190000
-DTSTAMP:20261001T114720Z
+DTSTAMP:20261003T103514Z
 UID:2898f4fc-0d73-5522-afd5-13bfce29bdf7
 DESCRIPTION:Yoga\n\nURL: https://ymcahbb.my.site.com/#/app/program/list/DI
  V-001/?instanceCode=INST-405570\nFacility: Hamilton Downtown Family YMCA\n
@@ -130,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:Express Core - Downtown - Wednesday 12:15 PM
 DTSTART;TZID=America/Toronto:20261007T121500
 DTEND;TZID=America/Toronto:20261007T124500
-DTSTAMP:20261001T114720Z
+DTSTAMP:20261003T103514Z
 UID:305410af-9c63-5841-b9db-6cb25a9b65cb
 DESCRIPTION:Express Core\n\nURL: https://ymcahbb.my.site.com/#/app/program
  /list/DIV-001/?instanceCode=INST-395695\nFacility: Hamilton Downtown Famil
@@ -141,10 +127,52 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-395695
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Express Circuit - Downtown - Thursday 12:15 PM
+DTSTART;TZID=America/Toronto:20261008T121500
+DTEND;TZID=America/Toronto:20261008T130000
+DTSTAMP:20261003T103514Z
+UID:48ec6e9f-b2ab-5b1c-a35a-40642f055287
+DESCRIPTION:Express Circuit\n\nURL: https://ymcahbb.my.site.com/#/app/prog
+ ram/list/DIV-001/?instanceCode=INST-395704\nFacility: Hamilton Downtown Fa
+ mily YMCA\nCategory: Express Circuit
+LOCATION:Hamilton Downtown Family YMCA\, 79 James Street South\, Hamilton
+ \, ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-395704
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CycleFit - Downtown - Friday 12:15 PM
+DTSTART;TZID=America/Toronto:20261009T121500
+DTEND;TZID=America/Toronto:20261009T130000
+DTSTAMP:20261003T103514Z
+UID:4ae69359-1fd2-5c95-ba43-75d4ac215fee
+DESCRIPTION:CycleFit\n\nURL: https://ymcahbb.my.site.com/#/app/program/lis
+ t/DIV-001/?instanceCode=INST-395715\nFacility: Hamilton Downtown Family YM
+ CA\nCategory: CycleFit
+LOCATION:Hamilton Downtown Family YMCA\, 79 James Street South\, Hamilton
+ \, ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-395715
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pilates - Downtown - Thursday 5:30 PM
+DTSTART;TZID=America/Toronto:20261008T173000
+DTEND;TZID=America/Toronto:20261008T181500
+DTSTAMP:20261003T103514Z
+UID:51ddb962-3abe-5d2e-b6d8-67f0c8d6cdf1
+DESCRIPTION:Pilates\n\nURL: https://ymcahbb.my.site.com/#/app/program/list
+ /DIV-001/?instanceCode=INST-395706\nFacility: Hamilton Downtown Family YMC
+ A\nCategory: Pilates
+LOCATION:Hamilton Downtown Family YMCA\, 79 James Street South\, Hamilton
+ \, ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-395706
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Downtown - Private Lesson - Tuesday 6:00 PM
 DTSTART;TZID=America/Toronto:20260915T180000
 DTEND;TZID=America/Toronto:20260915T183000
-DTSTAMP:20261001T114720Z
+DTSTAMP:20261003T103513Z
 UID:5b6cef6a-448f-519f-9f83-8dc1ee5646a5
 DESCRIPTION:Aquatics - Private Lesson - Adult\n\nURL: https://ymcahbb.my.s
  ite.com/#/app/program/list/DIV-001/?instanceCode=INST-401439\nFacility: Ha
@@ -158,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:Downtown - Private Lesson - Tuesday 6:00 PM
 DTSTART;TZID=America/Toronto:20260915T180000
 DTEND;TZID=America/Toronto:20260915T183000
-DTSTAMP:20261001T114720Z
+DTSTAMP:20261003T103514Z
 UID:5b6cef6a-448f-519f-9f83-8dc1ee5646a5
 DESCRIPTION:Aquatics - Private Lesson - Adult\n\nURL: https://ymcahbb.my.s
  ite.com/#/app/program/list/DIV-001/?instanceCode=INST-401439\nFacility: Ha
@@ -172,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:Downtown - Private Lesson - Tuesday 6:00 PM
 DTSTART;TZID=America/Toronto:20260915T180000
 DTEND;TZID=America/Toronto:20260915T183000
-DTSTAMP:20261001T114721Z
+DTSTAMP:20261003T103515Z
 UID:5b6cef6a-448f-519f-9f83-8dc1ee5646a5
 DESCRIPTION:Aquatics - Private Lesson - Adult\n\nURL: https://ymcahbb.my.s
  ite.com/#/app/program/list/DIV-001/?instanceCode=INST-401439\nFacility: Ha
@@ -186,7 +214,7 @@ BEGIN:VEVENT
 SUMMARY:Downtown - Private Lesson - Tuesday 6:00 PM
 DTSTART;TZID=America/Toronto:20260915T180000
 DTEND;TZID=America/Toronto:20260915T183000
-DTSTAMP:20261001T114721Z
+DTSTAMP:20261003T103516Z
 UID:5b6cef6a-448f-519f-9f83-8dc1ee5646a5
 DESCRIPTION:Aquatics - Private Lesson - Adult\n\nURL: https://ymcahbb.my.s
  ite.com/#/app/program/list/DIV-001/?instanceCode=INST-401439\nFacility: Ha
@@ -197,24 +225,24 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-401439
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:GentleFit - Downtown - Thursday 10:00 AM
-DTSTART;TZID=America/Toronto:20261001T100000
-DTEND;TZID=America/Toronto:20261001T104500
-DTSTAMP:20261001T114718Z
-UID:7a832cbc-079d-5ffe-b3b4-ea853347a2c8
-DESCRIPTION:GentleFit\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
- st/DIV-001/?instanceCode=INST-395635\nFacility: Hamilton Downtown Family Y
- MCA\nCategory: GentleFit
+SUMMARY:Yoga - Downtown - Friday 1:15 PM
+DTSTART;TZID=America/Toronto:20261009T131500
+DTEND;TZID=America/Toronto:20261009T141500
+DTSTAMP:20261003T103514Z
+UID:5bc31c87-ec36-5c6b-a49d-bfbb76c8b836
+DESCRIPTION:Yoga\n\nURL: https://ymcahbb.my.site.com/#/app/program/list/DI
+ V-001/?instanceCode=INST-395716\nFacility: Hamilton Downtown Family YMCA\n
+ Category: Yoga
 LOCATION:Hamilton Downtown Family YMCA\, 79 James Street South\, Hamilton
  \, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-395635
+ NST-395716
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GentleFit - Downtown - Tuesday 10:00 AM
 DTSTART;TZID=America/Toronto:20261006T100000
 DTEND;TZID=America/Toronto:20261006T104500
-DTSTAMP:20261001T114720Z
+DTSTAMP:20261003T103513Z
 UID:7e9e7bfe-4d3c-5f78-9c37-ad12948fee3d
 DESCRIPTION:GentleFit\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
  st/DIV-001/?instanceCode=INST-395683\nFacility: Hamilton Downtown Family Y
@@ -228,7 +256,7 @@ BEGIN:VEVENT
 SUMMARY:Pilates - Downtown - Monday 6:15 PM
 DTSTART;TZID=America/Toronto:20261005T181500
 DTEND;TZID=America/Toronto:20261005T190000
-DTSTAMP:20261001T114720Z
+DTSTAMP:20261003T103514Z
 UID:814ece32-09f2-5ecf-94e6-ce7158191e16
 DESCRIPTION:Pilates\n\nURL: https://ymcahbb.my.site.com/#/app/program/list
  /DIV-001/?instanceCode=INST-395677\nFacility: Hamilton Downtown Family YMC
@@ -239,24 +267,10 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-395677
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yoga - Downtown - Friday 1:15 PM
-DTSTART;TZID=America/Toronto:20261002T131500
-DTEND;TZID=America/Toronto:20261002T141500
-DTSTAMP:20261001T114718Z
-UID:8d653be0-7b0c-5258-bf4f-8828eeebb6ac
-DESCRIPTION:Yoga\n\nURL: https://ymcahbb.my.site.com/#/app/program/list/DI
- V-001/?instanceCode=INST-395648\nFacility: Hamilton Downtown Family YMCA\n
- Category: Yoga
-LOCATION:Hamilton Downtown Family YMCA\, 79 James Street South\, Hamilton
- \, ON\, CA\, L8P 2Z1
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-395648
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Zumba - Downtown - Wednesday 7:15 PM
 DTSTART;TZID=America/Toronto:20261007T191500
 DTEND;TZID=America/Toronto:20261007T201500
-DTSTAMP:20261001T114720Z
+DTSTAMP:20261003T103514Z
 UID:927e27b6-ef7b-5cd4-bef6-c7d968158a3c
 DESCRIPTION:Zumba\n\nURL: https://ymcahbb.my.site.com/#/app/program/list/D
  IV-001/?instanceCode=INST-395696\nFacility: Hamilton Downtown Family YMCA
@@ -270,7 +284,7 @@ BEGIN:VEVENT
 SUMMARY:Strength & Conditioning - Downtown - Tuesday 6:45 PM
 DTSTART;TZID=America/Toronto:20261006T184500
 DTEND;TZID=America/Toronto:20261006T193000
-DTSTAMP:20261001T114720Z
+DTSTAMP:20261003T103513Z
 UID:9b6379eb-1f60-5469-bac8-c9ba2c2c369c
 DESCRIPTION:Strength & Conditioning\n\nURL: https://ymcahbb.my.site.com/#/
  app/program/list/DIV-001/?instanceCode=INST-395685\nFacility: Hamilton Dow
@@ -284,7 +298,7 @@ BEGIN:VEVENT
 SUMMARY:CycleFit - Downtown - Monday 5:15 PM
 DTSTART;TZID=America/Toronto:20261005T171500
 DTEND;TZID=America/Toronto:20261005T180000
-DTSTAMP:20261001T114720Z
+DTSTAMP:20261003T103514Z
 UID:a0da6d40-2f9a-58c8-be56-13c93e74941b
 DESCRIPTION:CycleFit\n\nURL: https://ymcahbb.my.site.com/#/app/program/lis
  t/DIV-001/?instanceCode=INST-395676\nFacility: Hamilton Downtown Family YM
@@ -295,24 +309,38 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-395676
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pilates - Downtown - Thursday 5:30 PM
-DTSTART;TZID=America/Toronto:20261001T173000
-DTEND;TZID=America/Toronto:20261001T181500
-DTSTAMP:20261001T114718Z
-UID:a53a178e-466b-506b-b8e6-f48732d449ca
-DESCRIPTION:Pilates\n\nURL: https://ymcahbb.my.site.com/#/app/program/list
- /DIV-001/?instanceCode=INST-395638\nFacility: Hamilton Downtown Family YMC
- A\nCategory: Pilates
+SUMMARY:ViPR Pro - Downtown - Friday 6:30 PM
+DTSTART;TZID=America/Toronto:20261009T183000
+DTEND;TZID=America/Toronto:20261009T191500
+DTSTAMP:20261003T103514Z
+UID:a15db107-c316-5242-b09a-191e61d71822
+DESCRIPTION:ViPR Pro\n\nURL: https://ymcahbb.my.site.com/#/app/program/lis
+ t/DIV-001/?instanceCode=INST-395717\nFacility: Hamilton Downtown Family YM
+ CA\nCategory: ViPR Pro
 LOCATION:Hamilton Downtown Family YMCA\, 79 James Street South\, Hamilton
  \, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-395638
+ NST-395717
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GentleFit - Downtown - Thursday 10:00 AM
+DTSTART;TZID=America/Toronto:20261008T100000
+DTEND;TZID=America/Toronto:20261008T104500
+DTSTAMP:20261003T103514Z
+UID:a7a280c4-1c37-5527-8a1e-f72bda6706b1
+DESCRIPTION:GentleFit\n\nURL: https://ymcahbb.my.site.com/#/app/program/li
+ st/DIV-001/?instanceCode=INST-395703\nFacility: Hamilton Downtown Family Y
+ MCA\nCategory: GentleFit
+LOCATION:Hamilton Downtown Family YMCA\, 79 James Street South\, Hamilton
+ \, ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-395703
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zumba - Downtown - Monday 7:15 PM
 DTSTART;TZID=America/Toronto:20261005T191500
 DTEND;TZID=America/Toronto:20261005T201500
-DTSTAMP:20261001T114720Z
+DTSTAMP:20261003T103514Z
 UID:a915a63c-1991-585c-b08e-9ab2b566e191
 DESCRIPTION:Zumba\n\nURL: https://ymcahbb.my.site.com/#/app/program/list/D
  IV-001/?instanceCode=INST-395678\nFacility: Hamilton Downtown Family YMCA
@@ -326,7 +354,7 @@ BEGIN:VEVENT
 SUMMARY:Zumba - Downtown - Saturday 10:30 AM
 DTSTART;TZID=America/Toronto:20261003T103000
 DTEND;TZID=America/Toronto:20261003T113000
-DTSTAMP:20261001T114719Z
+DTSTAMP:20261003T103512Z
 UID:ae7cfcf7-8e0b-5cef-9d5d-e665d24fc0c8
 DESCRIPTION:Zumba\n\nURL: https://ymcahbb.my.site.com/#/app/program/list/D
  IV-001/?instanceCode=INST-395656\nFacility: Hamilton Downtown Family YMCA
@@ -337,10 +365,24 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-395656
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Strength & Conditioning - Downtown - Thursday 6:45 PM
+DTSTART;TZID=America/Toronto:20261008T184500
+DTEND;TZID=America/Toronto:20261008T193000
+DTSTAMP:20261003T103514Z
+UID:afb4a398-e302-55ea-b487-408265d35cc9
+DESCRIPTION:Strength & Conditioning\n\nURL: https://ymcahbb.my.site.com/#/
+ app/program/list/DIV-001/?instanceCode=INST-395707\nFacility: Hamilton Dow
+ ntown Family YMCA\nCategory: Strength & Conditioning
+LOCATION:Hamilton Downtown Family YMCA\, 79 James Street South\, Hamilton
+ \, ON\, CA\, L8P 2Z1
+URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
+ NST-395707
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Stretch & Mobility - Downtown - Tuesday 7:45 PM
 DTSTART;TZID=America/Toronto:20261006T194500
 DTEND;TZID=America/Toronto:20261006T203000
-DTSTAMP:20261001T114720Z
+DTSTAMP:20261003T103513Z
 UID:b08a583d-0d94-5957-ada1-3bb7fdf5c923
 DESCRIPTION:Stretch & Mobility\n\nURL: https://ymcahbb.my.site.com/#/app/p
  rogram/list/DIV-001/?instanceCode=INST-395686\nFacility: Hamilton Downtown
@@ -354,7 +396,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga - Downtown - Monday 9:15 AM
 DTSTART;TZID=America/Toronto:20261005T091500
 DTEND;TZID=America/Toronto:20261005T101500
-DTSTAMP:20261001T114720Z
+DTSTAMP:20261003T103514Z
 UID:c6163c73-bf97-5f0a-bd54-3b7379e93e50
 DESCRIPTION:Queenax\n\nURL: https://ymcahbb.my.site.com/#/app/program/list
  /DIV-001/?instanceCode=INST-395675\nFacility: Hamilton Downtown Family YMC
@@ -368,7 +410,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga - Downtown - Sunday 9:15 AM
 DTSTART;TZID=America/Toronto:20261004T091500
 DTEND;TZID=America/Toronto:20261004T101500
-DTSTAMP:20261001T114719Z
+DTSTAMP:20261003T103512Z
 UID:c717b6d4-e38b-5bd7-ae4b-1b97c50b9154
 DESCRIPTION:Yoga\n\nURL: https://ymcahbb.my.site.com/#/app/program/list/DI
  V-001/?instanceCode=INST-395664\nFacility: Hamilton Downtown Family YMCA\n
@@ -379,24 +421,10 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-395664
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CycleFit - Downtown - Friday 12:15 PM
-DTSTART;TZID=America/Toronto:20261002T121500
-DTEND;TZID=America/Toronto:20261002T130000
-DTSTAMP:20261001T114718Z
-UID:d45c3f19-5300-57ec-bf3c-7c9b4223cf69
-DESCRIPTION:CycleFit\n\nURL: https://ymcahbb.my.site.com/#/app/program/lis
- t/DIV-001/?instanceCode=INST-395647\nFacility: Hamilton Downtown Family YM
- CA\nCategory: CycleFit
-LOCATION:Hamilton Downtown Family YMCA\, 79 James Street South\, Hamilton
- \, ON\, CA\, L8P 2Z1
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-395647
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pilates - Downtown - Wednesday 9:15 AM
 DTSTART;TZID=America/Toronto:20261007T091500
 DTEND;TZID=America/Toronto:20261007T101500
-DTSTAMP:20261001T114720Z
+DTSTAMP:20261003T103514Z
 UID:da735315-9da0-57a2-a295-3c5c6b7f611b
 DESCRIPTION:Pilates\n\nURL: https://ymcahbb.my.site.com/#/app/program/list
  /DIV-001/?instanceCode=INST-395694\nFacility: Hamilton Downtown Family YMC
@@ -407,24 +435,10 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
  NST-395694
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Express Circuit - Downtown - Thursday 12:15 PM
-DTSTART;TZID=America/Toronto:20261001T121500
-DTEND;TZID=America/Toronto:20261001T130000
-DTSTAMP:20261001T114718Z
-UID:e6da6686-b91b-5938-8d20-71acb612e4d4
-DESCRIPTION:Express Circuit\n\nURL: https://ymcahbb.my.site.com/#/app/prog
- ram/list/DIV-001/?instanceCode=INST-395636\nFacility: Hamilton Downtown Fa
- mily YMCA\nCategory: Express Circuit
-LOCATION:Hamilton Downtown Family YMCA\, 79 James Street South\, Hamilton
- \, ON\, CA\, L8P 2Z1
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-395636
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Zumba - Downtown - Sunday 10:30 AM
 DTSTART;TZID=America/Toronto:20261004T103000
 DTEND;TZID=America/Toronto:20261004T113000
-DTSTAMP:20261001T114719Z
+DTSTAMP:20261003T103512Z
 UID:e93335fd-23cb-56ac-843c-161df63dab55
 DESCRIPTION:Zumba\n\nURL: https://ymcahbb.my.site.com/#/app/program/list/D
  IV-001/?instanceCode=INST-395665\nFacility: Hamilton Downtown Family YMCA
@@ -436,30 +450,16 @@ URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Strength & Mobility - Downtown - Thursday 1:15 PM
-DTSTART;TZID=America/Toronto:20261001T131500
-DTEND;TZID=America/Toronto:20261001T141500
-DTSTAMP:20261001T114718Z
-UID:f03d37c7-8106-5a79-9db0-0c6028203e75
+DTSTART;TZID=America/Toronto:20261008T131500
+DTEND;TZID=America/Toronto:20261008T141500
+DTSTAMP:20261003T103514Z
+UID:f1aec60b-97cb-5cd9-8f23-7dcd1eecb2ff
 DESCRIPTION:Strength & Mobility\n\nURL: https://ymcahbb.my.site.com/#/app/
- program/list/DIV-001/?instanceCode=INST-395637\nFacility: Hamilton Downtow
+ program/list/DIV-001/?instanceCode=INST-395705\nFacility: Hamilton Downtow
  n Family YMCA\nCategory: Strength & Mobility
 LOCATION:Hamilton Downtown Family YMCA\, 79 James Street South\, Hamilton
  \, ON\, CA\, L8P 2Z1
 URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-395637
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Strength & Conditioning - Downtown - Thursday 6:45 PM
-DTSTART;TZID=America/Toronto:20261001T184500
-DTEND;TZID=America/Toronto:20261001T193000
-DTSTAMP:20261001T114718Z
-UID:f28e662d-a510-5ed2-acab-c45b9b9350e1
-DESCRIPTION:Strength & Conditioning\n\nURL: https://ymcahbb.my.site.com/#/
- app/program/list/DIV-001/?instanceCode=INST-395639\nFacility: Hamilton Dow
- ntown Family YMCA\nCategory: Strength & Conditioning
-LOCATION:Hamilton Downtown Family YMCA\, 79 James Street South\, Hamilton
- \, ON\, CA\, L8P 2Z1
-URL:https://ymcahbb.my.site.com/#/app/program/list/DIV-001/?instanceCode=I
- NST-395639
+ NST-395705
 END:VEVENT
 END:VCALENDAR
