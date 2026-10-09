@@ -5,26 +5,10 @@ METHOD:PUBLISH
 NAME:Cycle TO
 X-WR-CALNAME:Cycle TO
 BEGIN:VEVENT
-SUMMARY:Bike Repair 101
-DTSTART:20261007T190000Z
-DTEND:20261007T210000Z
-DTSTAMP:20261007T115854Z
-UID:b7df2a22-ce4a-527f-bc42-3cec315055ac
-DESCRIPTION:Join our Basic Bike Maintenance Workshop at the Cycle Toronto 
- Rec Hub to learn hands-on skills including bike fit\, safety checks\, and 
- drive train care. This session provides access to all recommended tools an
- d staff guidance to help you keep your bike safe and road-ready. You'll le
- ave knowing how to perform routine maintenance yourself and clearly unders
- tand the basics of fixing your bike.\n\nDoors: 4 PM\n\nSession: 4:00-6:00 
- PM\nURL: https://www.cycleto.ca/bike_repair_101_20261007
-LOCATION:Evergreen Brickworks\n550 Bayview ave\n10\nToronto ON M4W 3X8\nCA
-URL:https://www.cycleto.ca/bike_repair_101_20261007
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Volunteer Training
 DTSTART:20261013T220000Z
 DTEND:20261014T010000Z
-DTSTAMP:20261007T115855Z
+DTSTAMP:20261009T120447Z
 UID:ea3152fa-28a0-5a56-9a91-2281ed973218
 DESCRIPTION:Learn about our Autumn postering and canvassing opportunities!
  \n\n* Date: Thursday\, October 8th\n* Time: 12:00 pm - 1:00 pm\n* Where: V
