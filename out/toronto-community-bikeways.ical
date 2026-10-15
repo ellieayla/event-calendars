@@ -104,6 +104,40 @@ URL:https://www.communitybikewaysto.ca/events/tgpmbdarwxw3n968dy9msxl178l5
  rj-hes9w-d6lmx-bgrkn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:7th annual Cycling Good Cheer
+DTSTART:20261206T173000Z
+DTEND:20261206T203000Z
+DTSTAMP:20261013T155724Z
+UID:4b14ea28-c41f-59aa-8d61-99d63078deab
+DESCRIPTION:7th annual Cycling Good Cheer ride\n\nGather 12:30-1pm at (htt
+ ps://www.google.com/maps/place/Raccoon+Park/@43.7051281\,-79.3974781\,17z/
+ data=!3m1!4b1!4m6!3m5!1s0x882b33003e3e9873:0xfbe2f15f3bbcb8d4!8m2!3d43.705
+ 1281!4d-79.3949032!16s%2Fg%2F11w83w8fbn?entry=ttu&g_ep=EgoyMDI2MTAwNy4wIKX
+ MDSoASAFQAw%3D%3D) Raccoon Park (near Eglinton and Yonge)\n\nCycle down Yo
+ nge Street to the harbourfront\n\nAll welcome!\n\n#block-cc3f60a33b0bbe1ac
+ c79 { --stroke-style: none\;--stroke-thickness: 2px\; --tweak-text-block-s
+ troke-color: hsla(var(--black-hsl)\, 1) \; } #block-cc3f60a33b0bbe1acc79 .
+ sqs-html-content { --tweak-text-block-padding: 6% 6% 6% 6%\; --tweak-text-
+ block-padding: initial\; } #block-cc3f60a33b0bbe1acc79 { mix-blend-mode: v
+ ar(--tweak-text-block-blend )\; border-radius: var(--tweak-text-block-radi
+ us)\; } #block-cc3f60a33b0bbe1acc79 { --tweak-text-block-radius: 0px 0px 0
+ px 0px\; } #block-cc3f60a33b0bbe1acc79 { --tweak-text-block-blend : normal
+ \; } #block-cc3f60a33b0bbe1acc79 { --blur-value: blur(15px)\;} @media scre
+ en and (max-width: 767px) { #block-cc3f60a33b0bbe1acc79 { } } @media scree
+ n and (max-width: 767px) { #block-cc3f60a33b0bbe1acc79 .sqs-html-content {
+  } } @media screen and (max-width: 767px) { } #block-cc3f60a33b0bbe1acc79 
+ { --opacity: 100%\; --translate-x: 0px\; --translate-y: 0px\; --rotation: 
+ 0deg\; --scale-x: 100%\; --scale-y: 100%\; --skew-x: 0deg\; --skew-y: 0deg
+ \; --origin-x: 50%\; --origin-y: 50%\; --block-transform: none\; opacity: 
+ var(--opacity\, 1)\; transform: var(--block-transform)\; transform-origin:
+  var(--origin-x) var(--origin-y)\; }\nURL: https://www.communitybikewaysto
+ .ca/events/7th-annual-cycling-good-cheer
+LOCATION:Raccoon Park\, 86 Soudan Avenue\, Toronto\, Ontario\, M4S 1V8\, C
+ anada
+URL:https://www.communitybikewaysto.ca/events/7th-annual-cycling-good-chee
+ r
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Community Bikeways Bike Tune Up and Taco Run
 DTSTART:20260503T150000Z
 DTEND:20260503T170000Z

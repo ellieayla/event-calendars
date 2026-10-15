@@ -4,18 +4,4 @@ PRODID:-//event-calendars//verselogic.net//
 METHOD:PUBLISH
 NAME:Cycle TO
 X-WR-CALNAME:Cycle TO
-BEGIN:VEVENT
-SUMMARY:Volunteer Training
-DTSTART:20261013T220000Z
-DTEND:20261014T010000Z
-DTSTAMP:20261013T125547Z
-UID:ea3152fa-28a0-5a56-9a91-2281ed973218
-DESCRIPTION:Learn about our Autumn postering and canvassing opportunities!
- \n\n* Date: Thursday\, October 8th\n* Time: 12:00 pm - 1:00 pm\n* Where: V
- irtual on Zoom\; (https://us06web.zoom.us/meeting/register/GmtY8AV6SwiVxd0
- a2E0KOw) Zoom Registration Link\nURL: https://www.cycleto.ca/volunteer_tra
- ining20261008
-LOCATION:
-URL:https://www.cycleto.ca/volunteer_training20261008
-END:VEVENT
 END:VCALENDAR
