@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Municipal Election All Candidates Event/ Mayoral Debate
 DTSTART;TZID=America/Toronto:20261008T180000
 DTEND;TZID=America/Toronto:20261008T210000
-DTSTAMP:20261019T111329Z
+DTSTAMP:20261021T103325Z
 UID:0263ff7d-0b17-563e-b9c7-143b8f883623
 DESCRIPTION:*OCT 7 update: THIS EVENT IS NOW FULL.\n\nWe will livestream s
  tarting at 7pm on our YouTube Channel. Visit our social media platforms on
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Give Thanks by Caring for Nature
 DTSTART;TZID=America/Toronto:20261010T100000
 DTEND;TZID=America/Toronto:20261010T120000
-DTSTAMP:20261019T111330Z
+DTSTAMP:20261021T103325Z
 UID:204a4c1f-ed25-5334-8de6-7c6b9a1cf930
 DESCRIPTION:Celebrate Thanksgiving by spending time outdoors and giving ba
  ck to the environment. BurlingtonGreen invites you to a Thanksgiving Beach
@@ -127,7 +127,7 @@ BEGIN:VEVENT
 SUMMARY:Annual Tree Photo Contest
 DTSTART;TZID=America/Toronto:20260921T000000
 DTEND;TZID=America/Toronto:20260922T000000
-DTSTAMP:20261019T111329Z
+DTSTAMP:20261021T103326Z
 UID:3dd1b1a6-5c19-5a9a-be1d-26fc88a1ad00
 DESCRIPTION:BG’S ANNUAL TREE PHOTO CONTEST IS BACK!\n\nBurlington commun
  ity members are invited to showcase their favorite Burlington tree by part
@@ -151,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:Clothing & Toy Swap
 DTSTART;TZID=America/Toronto:20261107T113000
 DTEND;TZID=America/Toronto:20261107T143000
-DTSTAMP:20261019T111329Z
+DTSTAMP:20261021T103325Z
 UID:3f63f267-4ccb-5daf-bb32-9e3e9c5b4a49
 DESCRIPTION:Join (https://burlingtongreen.us19.list-manage.com/track/click
  ?u=f8e7a55365f9e592c7bfd2253&id=c8cada7cd9&e=371d722fa1) Reconnect Burling
@@ -199,7 +199,7 @@ BEGIN:VEVENT
 SUMMARY:Back to School Beach Clean Up-August 29
 DTSTART;TZID=America/Toronto:20260829T093000
 DTEND;TZID=America/Toronto:20260829T113000
-DTSTAMP:20261019T111330Z
+DTSTAMP:20261021T103325Z
 UID:474dd88d-fd8d-504f-9cb1-6b2bbaf3c130
 DESCRIPTION:SORRY\, THIS EVENT IS NOW FULL\n\nStart the new school year by
   making a positive impact on our local environment! BurlingtonGreen invite
@@ -236,7 +236,7 @@ BEGIN:VEVENT
 SUMMARY:Back to School Beach Clean Up -August 15
 DTSTART;TZID=America/Toronto:20260815T093000
 DTEND;TZID=America/Toronto:20260815T113000
-DTSTAMP:20261019T111329Z
+DTSTAMP:20261021T103325Z
 UID:4920ac0b-9bda-5f04-956a-49734fcba764
 DESCRIPTION:Start the new school year by making a positive impact on our l
  ocal environment! BurlingtonGreen invites you to our Back to School Beach 
@@ -272,7 +272,7 @@ BEGIN:VEVENT
 SUMMARY:Join us at the beach!
 DTSTART;TZID=America/Toronto:20260701T000000
 DTEND;TZID=America/Toronto:20261012T000000
-DTSTAMP:20261019T111330Z
+DTSTAMP:20261021T103326Z
 UID:79abb066-8970-55db-adf2-8f2db26ab1e5
 DESCRIPTION:Our team is leading eco-activities and sharing resources at ou
  r (https://maps.google.com/?cid=5383717800969327865&g_mp=CiVnb29nbGUubWFwc
@@ -297,7 +297,7 @@ BEGIN:VEVENT
 SUMMARY:Guided Hike -Sherwood Forest Hike
 DTSTART;TZID=America/Toronto:20261024T103000
 DTEND;TZID=America/Toronto:20261024T120000
-DTSTAMP:20261019T111329Z
+DTSTAMP:20261021T103325Z
 UID:a69a1a02-fe67-5f14-9482-f49123e8ce6e
 DESCRIPTION:Join BG & our friends at The Reconnection Project on Sat.\, Oc
  t 24\, from 10:30 a.m. to 12 p.m. for an easy\, accessible guided hike at 
@@ -317,7 +317,7 @@ BEGIN:VEVENT
 SUMMARY:BG Fun for Kids at RBG!
 DTSTART;TZID=America/Toronto:20261003T000000
 DTEND;TZID=America/Toronto:20261004T000000
-DTSTAMP:20261019T111330Z
+DTSTAMP:20261021T103326Z
 UID:b2574fbd-d0e6-52a9-bd65-ff4733f6e08f
 DESCRIPTION:Take a nature walk\, make a seedball and join other eco-fun wi
  th BG at Royal Botanical Gardens on October 3rd and 4th\, 9:30 am to 5:00 
@@ -347,7 +347,7 @@ BEGIN:VEVENT
 SUMMARY:Zero Waste Drop-Off & Indoor Activation
 DTSTART;TZID=America/Toronto:20261017T100000
 DTEND;TZID=America/Toronto:20261017T160000
-DTSTAMP:20261019T111329Z
+DTSTAMP:20261021T103326Z
 UID:bba834b1-aa63-5a28-a1ad-c432c38ad154
 DESCRIPTION:Held in partnership with the (https://burlingtoncentre.ca/sust
  ainability/) Burlington Centre and (https://techgenius.ca/) Tech Genius Bu

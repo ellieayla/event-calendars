@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Bike Lanes = Mobility Lanes
 DTSTART:20261031T140000Z
 DTEND:20261031T170000Z
-DTSTAMP:20261019T111330Z
+DTSTAMP:20261021T103328Z
 UID:10dd16d9-70f4-57fb-981b-935b8a70dc1e
 DESCRIPTION:Bike lanes aren't just for bikes\; they’re mobility lanes. S
  afe\, connected infrastructure means access and independence for people of
@@ -18,18 +18,5 @@ DESCRIPTION:Bike lanes aren't just for bikes\; they’re mobility lanes. S
  on: Christie Pits\nURL: https://www.cycleto.ca/mobility_lanes
 LOCATION:Christie Pits\n750 Bloor St W\nToronto ON M6G 3K4\nCA
 URL:https://www.cycleto.ca/mobility_lanes
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lawn Sign Pick-up Event at Tom Riley Park
-DTSTART:20261023T170000Z
-DTEND:20261023T200000Z
-DTSTAMP:20261019T111329Z
-UID:867503cb-57a2-52e4-8520-84159d1f3fb6
-DESCRIPTION:Signed up to pick-up a lawn sign and haven't done it yet? Live
-  in Etobicoke-Lakeshore/happen to stop by?\n\nWe will be bringing lawn-sig
- ns to Tom Riley Park for pick-up from Noon - 4PM.\nURL: https://www.cyclet
- o.ca/cycleto_ca_lawn_sign_pick_up_etobicoke
-LOCATION:Tom Riley Park\n3216 Bloor Street West\nToronto ON M8X 1Z4\nCA
-URL:https://www.cycleto.ca/cycleto_ca_lawn_sign_pick_up_etobicoke
 END:VEVENT
 END:VCALENDAR
