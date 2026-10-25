@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Bike Lanes = Mobility Lanes
 DTSTART:20261031T140000Z
 DTEND:20261031T170000Z
-DTSTAMP:20261023T102849Z
+DTSTAMP:20261025T100656Z
 UID:10dd16d9-70f4-57fb-981b-935b8a70dc1e
 DESCRIPTION:Bike lanes aren't just for bikes\; they’re mobility lanes. S
  afe\, connected infrastructure means access and independence for people of
@@ -18,5 +18,33 @@ DESCRIPTION:Bike lanes aren't just for bikes\; they’re mobility lanes. S
  on: Christie Pits\nURL: https://www.cycleto.ca/mobility_lanes
 LOCATION:Christie Pits\n750 Bloor St W\nToronto ON M6G 3K4\nCA
 URL:https://www.cycleto.ca/mobility_lanes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Election Day Bike Bus
+DTSTART:20261026T120000Z
+DTEND:20261027T000000Z
+DTSTAMP:20261025T100655Z
+UID:3db8cc78-d2e0-5c04-9734-9f8472e36c79
+DESCRIPTION:The protected bike lanes along Bloor Street West between Islin
+ gton and Royal York are gone.\n\nCycle Toronto will be leading a complimen
+ tary bike bus shuttle on Election Day Monday\, October 26 through this new
+  gap in our cycling network. All ages and abilities welcome. Together the 
+ bike bus will safely ride and take the lane\, following all HTA regulation
+ s. (Note: the protected bike lanes will remain intact east of Royal York a
+ nd west of Green Lane until further notice.)\n\nThis destruction of life-s
+ aving infrastructure is just the first step of the Ford government's $48M 
+ scheme that won't solve traffic congestion and will put people's lives at 
+ risk. While we continue the fight defend the rest of the 18 km targeted fo
+ r removals in 2027\, we want to ensure folks in Etobicoke-Lakeshore can sa
+ fely bike to the polls on Monday.\n\nLook for the Cycle Toronto flag and c
+ argo bike!\n\nSee schedule below:\n\nDepartures Westbound Eastbound Royal 
+ York & Bloor\n\nGreen Lane & Bloor\n\nnorth-east corner\n\nsouth-east corn
+ er\n\n8:00 AM 8:15 AM 8:30 AM 8:45 AM 9:00 AM 9:15 AM 9:30 AM 9:45 AM 10:0
+ 0 AM 10:15 AM 10:30 AM 10:45 AM 11:00 AM 11:15 AM 11:30 AM 11:45 AM Break 
+ 4:00 PM 4:15 PM 4:30 PM 4:45 PM 5:00 PM 5:15 PM 5:30 PM 5:45 PM 6:00 PM 6:
+ 15 PM 6:30 PM 6:45 PM 7:00 PM 7:15 PM 7:30 PM 7:45 PM\nURL: https://www.cy
+ cleto.ca/election_day_bike_bus
+LOCATION:Bloor Street West
+URL:https://www.cycleto.ca/election_day_bike_bus
 END:VEVENT
 END:VCALENDAR
