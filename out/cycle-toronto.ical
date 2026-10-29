@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Bike Lanes = Mobility Lanes
 DTSTART:20261031T140000Z
 DTEND:20261031T170000Z
-DTSTAMP:20261027T105616Z
+DTSTAMP:20261029T114324Z
 UID:10dd16d9-70f4-57fb-981b-935b8a70dc1e
 DESCRIPTION:Bike lanes aren't just for bikes\; they’re mobility lanes. S
  afe\, connected infrastructure means access and independence for people of
@@ -22,27 +22,17 @@ DESCRIPTION:Bike lanes aren't just for bikes\; they’re mobility lanes. S
  station) here.\n\n* Route: Bloor > St. George > Hoskin > Queen's Park (sub
  ject to change)\n\nIf you plan to meet us for the speeches at Queen's Park
  \, our designated meeting spot is highlighted by the red box below. For th
- ose taking wheel-trans\, please travel northbound on Queen’s Park Cresce
- nt East and turn left onto the south drive. Please consult the wheel-trans
-  app ahead to time to plan your trip.\n\nCycle Toronto is proud to be powe
- ring the return of KidicalMassTO on the last Saturday of every month until
-  October.\n\nKidical Mass is an international movement for child- and cycl
- ing-friendly cities. Kidical Mass rides are an all-ages\, all-abilities ce
- lebration of cycling that highlights the need for healthier cities. Kids a
- nd their grown-ups ride their bikes together.\nURL: https://www.cycleto.ca
- /mobility_lanes
+ ose taking wheel-trans: the closest drop-off point is Queen’s Park\, 111
+  Wellesley St W\, South Main Entrance (to enter: travel northbound on Quee
+ n’s Park Crescent East and turn left onto the south drive). Please consu
+ lt the wheel-trans app ahead to time to plan your trip.\n\nCycle Toronto i
+ s proud to be powering the return of KidicalMassTO on the last Saturday of
+  every month until October.\n\nKidical Mass is an international movement f
+ or child- and cycling-friendly cities. Kidical Mass rides are an all-ages
+ \, all-abilities celebration of cycling that highlights the need for healt
+ hier cities. Kids and their grown-ups ride their bikes together.\nURL: htt
+ ps://www.cycleto.ca/mobility_lanes
 LOCATION:Christie Pits\n750 Bloor St W\nToronto ON M6G 3K4\nCA
 URL:https://www.cycleto.ca/mobility_lanes
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Election Day Bike Bus
-DTSTART:20261026T120000Z
-DTEND:20261027T000000Z
-DTSTAMP:20261027T105615Z
-UID:3db8cc78-d2e0-5c04-9734-9f8472e36c79
-DESCRIPTION:This event has already taken place.\nURL: https://www.cycleto.
- ca/election_day_bike_bus
-LOCATION:Bloor Street West
-URL:https://www.cycleto.ca/election_day_bike_bus
 END:VEVENT
 END:VCALENDAR
