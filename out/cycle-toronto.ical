@@ -8,7 +8,7 @@ BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
 DTSTART:20261210T170000Z
 DTEND:20261210T180000Z
-DTSTAMP:20261125T054227Z
+DTSTAMP:20261127T054229Z
 UID:00c70ecf-80a9-5d2e-a3c8-5331c590cf75
 DESCRIPTION:The Cycle Toronto Rec Hub at 401 Richmond is a welcoming commu
  nity space that takes the intimidation out of bike maintenance and repair.
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
 DTSTART:20261203T170000Z
 DTEND:20261203T180000Z
-DTSTAMP:20261125T054226Z
+DTSTAMP:20261127T054227Z
 UID:2552009e-fc09-5b67-9640-3e4d7ba51dbe
 DESCRIPTION:The Cycle Toronto Rec Hub at 401 Richmond is a welcoming commu
  nity space that takes the intimidation out of bike maintenance and repair.
@@ -44,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
 DTSTART:20261201T170000Z
 DTEND:20261201T180000Z
-DTSTAMP:20261125T054225Z
+DTSTAMP:20261127T054227Z
 UID:350415f2-6de2-5d17-a082-890cb7f82f12
 DESCRIPTION:The Cycle Toronto Rec Hub at 401 Richmond is a welcoming commu
  nity space that takes the intimidation out of bike maintenance and repair.
@@ -62,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
 DTSTART:20261217T170000Z
 DTEND:20261217T180000Z
-DTSTAMP:20261125T054226Z
+DTSTAMP:20261127T054229Z
 UID:43fa237a-a499-5b19-ac50-95dd6c412da8
 DESCRIPTION:The Cycle Toronto Rec Hub at 401 Richmond is a welcoming commu
  nity space that takes the intimidation out of bike maintenance and repair.
@@ -77,10 +77,71 @@ LOCATION:Rec Hub at 401 Richmond\n550 Bayview Avenue\nToronto ON M4W 3X8\n
 URL:https://www.cycleto.ca/rec_hub_diy_20261217
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The MGT Million Celebration and Bike Ride
+DTSTART:20261205T190000Z
+DTEND:20261205T213000Z
+DTSTAMP:20261127T054227Z
+UID:b4a73890-444d-528a-933b-6ba2f1523ef5
+DESCRIPTION:Bundle up\, grab your bike helmet or walking shoes\, and join 
+ us at the water’s edge in anticipation of the millionth rider to roll on
+  the Martin Goodman Trail (MGT) since the bike counter was installed at Lo
+ wer Simcoe in May.\n\nThe (https://www.instagram.com/bicyclemayorto/) Bicy
+ cle Mayor of Toronto and (https://www.instagram.com/bikesauceto/) Bike Sau
+ ce will be leading a 6 km slow roll on the MGT\, ending at Sherbourne Comm
+ on. View the (https://ridewithgps.com/routes/57773954) 6km route.\n\nThe (
+ https://www.waterfrontbia.com/) WaterfrontBIA will be providing hot bevera
+ ges and refreshments.\n\n* 1:45 pm - registration begins for folks borrowi
+ ng Bike Share bikes* (on a first come first serve basis)\n* 2:00 pm gather
+  at the (https://maps.app.goo.gl/RCCDh48bxrUkE9Au9) Bike Share station loc
+ ated between Rees St and Simcoe (near the wavedeck on the waterfront)\n* 2
+ :15 pm - Welcome remarks and overview of the route and safe group riding t
+ ips\n* 3:00 pm - Arrive at Sherbourne Common overlooking Lake Ontario for 
+ hot beverages\, light refreshments\, arts and crafts\, bike checks\, and l
+ ively social gathering.\n* 4:30 pm - event ends\n\n(https://bikesharetoron
+ to.com/) Bike Share Toronto* will be providing bikes (on a first come firs
+ t serve basis).\n\n(https://www.cycleto.ca/) Cycle Toronto will be providi
+ ng bike checks and lights.\n\nThe (https://www.instagram.com/to_cycling_pe
+ d/) City of Toronto’s Cycling & Pedestrian Projects Unit will bring bike
+  maps and a wealth of information about biking in Toronto year round.\n\n(
+ https://www.instagram.com/femmesandfriendsbike/) Femmes and Friends will h
+ ave arts and crafts for people to express their love for Toronto's bike la
+ nes.\n\nBike Share bikes are available on a first come\, first serve basis
+ . *Participants must register and sign their waiver.\n\nImportant Informat
+ ion:\n\nNote: if you’re bringing your own bike\, all participants must h
+ ave working lights and a bell. We encourage all participants to wear a hel
+ met\; however\, they are mandatory (and the law) for people 16 years and u
+ nder\, and for those riding e-bikes.\n\nDress for the weather. Bring water
+  and good vibes.\n\nThis event is designed to welcome anyone identifying a
+ s a human\, regardless of modal preferences\, sexual orientation\, gender
+ \, income\, race or religion. Children are welcome and must be accompanied
+  by a parent or guardian. By your participation in this event\, you agree 
+ to be respectful of others and will contribute to building a comfortable a
+ nd inclusive environment where everyone feels welcome.\n\nThe organizers r
+ eserve the right to remove any participant who is deemed to be disrespectf
+ ul\, disruptive\, or deemed to pose a threat to themselves or others.\n\nD
+ isclaimer:\n\nWhile the safety of participants will be prioritized\, every
+  rider is responsible for their own actions\, decisions\, and well-being. 
+ Riders are expected to follow the rules of the road\, ride defensively\, s
+ tay alert to any hazards\, bike safely at all times\, and listen to direct
+ ion provided by the ride leaders. Bicycling\, as with any activity conduct
+ ed over public pavements and facilities comes with risk.\n\nBy participati
+ ng in this ride hosted by the Bicycle Mayor of Toronto and Bike Sauce\, yo
+ u acknowledge and agree that you will be riding at your own risk. The Bicy
+ cle Mayor\, along with its ride leaders and organizers\, do not assume res
+ ponsibility for any injury\, loss\, damage\, or incident that may occur be
+ fore\, during\, or after the ride\, and does not assume a duty of care for
+  participants. You further agree and warrant that if\, at any time\, you b
+ elieve conditions to be unsafe\, you will immediately discontinue further 
+ participation\, and will let the organizers know prior to departing.\nURL:
+  https://www.cycleto.ca/the_mgt_million_celebration_and_bike_ride
+LOCATION:Simcoe WaveDeck\n243 X Queens Quay West\nToronto ON M5J 2G8\nCA
+URL:https://www.cycleto.ca/the_mgt_million_celebration_and_bike_ride
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
 DTSTART:20261208T170000Z
 DTEND:20261208T180000Z
-DTSTAMP:20261125T054226Z
+DTSTAMP:20261127T054229Z
 UID:c48616df-3a47-5c54-b04a-b63a97624597
 DESCRIPTION:The Cycle Toronto Rec Hub at 401 Richmond is a welcoming commu
  nity space that takes the intimidation out of bike maintenance and repair.
@@ -98,7 +159,7 @@ BEGIN:VEVENT
 SUMMARY:Rec Hub DIY
 DTSTART:20261215T170000Z
 DTEND:20261215T180000Z
-DTSTAMP:20261125T054226Z
+DTSTAMP:20261127T054228Z
 UID:f16c1d79-859b-51a0-a28f-cedb942477ce
 DESCRIPTION:The Cycle Toronto Rec Hub at 401 Richmond is a welcoming commu
  nity space that takes the intimidation out of bike maintenance and repair.

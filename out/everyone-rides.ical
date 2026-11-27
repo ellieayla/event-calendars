@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Open Streets on King
 DTSTART;TZID=America/Toronto:20260927T100000
 DTEND;TZID=America/Toronto:20260927T160000
-DTSTAMP:20261125T054225Z
+DTSTAMP:20261127T054228Z
 UID:39d47306-d5e6-5fb6-8fbd-3c32d5e07f72
 DESCRIPTION:We can't wait for the last Open Streets of 2026! We had a blas
  t at this same event this past June and are looking forward to running it 
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY:Alley Cat Group Ride
 DTSTART;TZID=America/Toronto:20260917T180000
 DTEND;TZID=America/Toronto:20260917T200000
-DTSTAMP:20261125T054225Z
+DTSTAMP:20261127T054227Z
 UID:3ef9d626-425d-5a73-8f13-b79e48818e57
 DESCRIPTION:Our Annual Alley Ride is a classic! Come explore some of the i
  nfamous alleyways we have here in Hamilton on this group slow roll.\n\n
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:MacMoves Waterfront Ride
 DTSTART;TZID=America/Toronto:20260923T120000
 DTEND;TZID=America/Toronto:20260923T133000
-DTSTAMP:20261125T054225Z
+DTSTAMP:20261127T054227Z
 UID:b7a05d63-7f46-5a40-b99d-8362eac18b75
 DESCRIPTION:Are you a McMaster student looking to explore Hamilton by bike
  ?! Come join us for a group ride departing from campus along the beautiful
@@ -113,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:Holiday Lights Ride 2026
 DTSTART;TZID=America/Toronto:20261216T180000
 DTEND;TZID=America/Toronto:20261216T193000
-DTSTAMP:20261125T054224Z
+DTSTAMP:20261127T054227Z
 UID:c03b8718-9195-5464-a748-0ed04000d126
 DESCRIPTION:It's gonna be chilly\, but we don't mind ☃️ Bundle up and 
  join us for our last ride of the year!\n\nLet's celebrate the end of 2026 
